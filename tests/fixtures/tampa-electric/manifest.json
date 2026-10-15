@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "workspace": "workspace.json",
+  "assets": "assets.geojson",
+  "connectivity": "connectivity.json",
+  "series": "series.json",
+  "observations": "observations.csv",
+  "events": "events.json",
+  "isSynthetic": true,
+  "description": "Tidebound-generated illustrative network; no utility inventory, customer information, or Google content."
+}

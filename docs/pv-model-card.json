@@ -1,0 +1,169 @@
+{
+  "architecture": "resnet34-unet",
+  "version": "2026-10-13T02:25:54.161091Z",
+  "status": "experimental",
+  "seed": 42,
+  "training": [
+    {
+      "image": ".analysis-data/models/reference-data/11ska535860.tif",
+      "city": "Fresno",
+      "split": "train",
+      "source": "https://doi.org/10.6084/m9.figshare.3385828",
+      "imageMd5": "a662902d528ae1e4cd28fdc0e698802c",
+      "labelSource": "https://doi.org/10.6084/m9.figshare.3385780.v4",
+      "rights": "CC0 public reference dataset"
+    },
+    {
+      "image": ".analysis-data/models/reference-data/621651901.tif",
+      "city": "Oxnard",
+      "split": "validation",
+      "source": "https://doi.org/10.6084/m9.figshare.3385807",
+      "imageMd5": "f6a97d05e38f5d364f85a1a502c9fb35",
+      "labelSource": "https://doi.org/10.6084/m9.figshare.3385780.v4",
+      "rights": "CC0 public reference dataset"
+    },
+    {
+      "image": ".analysis-data/models/reference-data/10sfh435060.tif",
+      "city": "Stockton",
+      "split": "test",
+      "source": "https://doi.org/10.6084/m9.figshare.3385804",
+      "imageMd5": "b5e4ace49d3e59d52f22e94ea94a83f0",
+      "labelSource": "https://doi.org/10.6084/m9.figshare.3385780.v4",
+      "rights": "CC0 public reference dataset"
+    }
+  ],
+  "samples": {
+    "train": 191,
+    "validation": 133,
+    "test": 109
+  },
+  "validation": {
+    "pixelPrecision": 0.849122351578569,
+    "pixelRecall": 0.3860046478694239,
+    "dice": 0.5307392267606952,
+    "iou": 0.3612287460656594,
+    "medianPositivePatchAreaRelativeError": 0.5725999316706526,
+    "areaMetricInterpretation": "Total segmented module area per positive crop; not a verified per-system nameplate error"
+  },
+  "test": {
+    "pixelPrecision": 0.28101758532008064,
+    "pixelRecall": 0.5132664720071093,
+    "dice": 0.3631872080488681,
+    "iou": 0.22188683387300367,
+    "medianPositivePatchAreaRelativeError": 0.8397790055248618,
+    "areaMetricInterpretation": "Total segmented module area per positive crop; not a verified per-system nameplate error"
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "loss": 1.7136509492993355,
+      "validation": {
+        "pixelPrecision": 0.5433997021388806,
+        "pixelRecall": 0.3320503277111059,
+        "dice": 0.4122132458074195,
+        "iou": 0.25961499220154266
+      }
+    },
+    {
+      "epoch": 2,
+      "loss": 1.5481369644403458,
+      "validation": {
+        "pixelPrecision": 0.7000792916611603,
+        "pixelRecall": 0.38472012926886834,
+        "dice": 0.49656109763670664,
+        "iou": 0.33028352323207133
+      }
+    },
+    {
+      "epoch": 3,
+      "loss": 1.4830696855982144,
+      "validation": {
+        "pixelPrecision": 0.19146219571175238,
+        "pixelRecall": 0.1347655186187113,
+        "dice": 0.15818706362166382,
+        "iou": 0.08588660688458201
+      }
+    },
+    {
+      "epoch": 4,
+      "loss": 1.4500938405593236,
+      "validation": {
+        "pixelPrecision": 0.7649449576741345,
+        "pixelRecall": 0.2784954338314058,
+        "dice": 0.4083293680767452,
+        "iou": 0.25654137224568296
+      }
+    },
+    {
+      "epoch": 5,
+      "loss": 1.4213434308767319,
+      "validation": {
+        "pixelPrecision": 0.7444565927545701,
+        "pixelRecall": 0.2534246264456508,
+        "dice": 0.37812843912432487,
+        "iou": 0.23314326993943166
+      }
+    },
+    {
+      "epoch": 6,
+      "loss": 1.3975657696525257,
+      "validation": {
+        "pixelPrecision": 0.7437376234045936,
+        "pixelRecall": 0.1167731803409648,
+        "dice": 0.20185361356570522,
+        "iou": 0.11225649651693752
+      }
+    },
+    {
+      "epoch": 7,
+      "loss": 1.3755686680475872,
+      "validation": {
+        "pixelPrecision": 0.7216471747994803,
+        "pixelRecall": 0.14619909584415114,
+        "dice": 0.24314021513493111,
+        "iou": 0.13839477528572655
+      }
+    },
+    {
+      "epoch": 8,
+      "loss": 1.3580245524644852,
+      "validation": {
+        "pixelPrecision": 0.849122351578569,
+        "pixelRecall": 0.3860046478694239,
+        "dice": 0.5307392267606952,
+        "iou": 0.3612287460656594
+      }
+    },
+    {
+      "epoch": 9,
+      "loss": 1.3381743083397548,
+      "validation": {
+        "pixelPrecision": 0.8823451670989377,
+        "pixelRecall": 0.12121452822309774,
+        "dice": 0.21314736663573872,
+        "iou": 0.11928648320283013
+      }
+    },
+    {
+      "epoch": 10,
+      "loss": 1.321487990518411,
+      "validation": {
+        "pixelPrecision": 0.8279396537034852,
+        "pixelRecall": 0.28670636721799597,
+        "dice": 0.42592099363134633,
+        "iou": 0.2705842539720617
+      }
+    }
+  ],
+  "regionalValidation": {
+    "Tampa": "Not independently validated",
+    "Los Angeles": "Not independently validated"
+  },
+  "limits": [
+    "California reference imagery does not establish Tampa or Los Angeles performance",
+    "Pixel score is not calibrated confidence",
+    "DC sizing uses editable efficiency and tilt assumptions",
+    "Nameplate capacity errors are not validated without verified DC records"
+  ],
+  "checkpointSha256": "459a6c4b4647ed0e494dd6af55179a73abb5eaa69a15a331e883b8d11d14863c"
+}

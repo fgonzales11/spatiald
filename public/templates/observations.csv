@@ -1,0 +1,4 @@
+asset_id,quantity,unit,observed_at,value,phase,quality
+f1-tx0,Temperature,C,2026-09-19T12:00:00Z,35,,good
+f1-tx0,Temperature,C,2026-09-19T12:15:00Z,36,,good
+f1-tx0,Temperature,C,2026-09-19T12:30:00Z,,,missing

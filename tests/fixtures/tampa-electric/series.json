@@ -1,0 +1,296 @@
+[
+  {
+    "id": "f1-tx0:load",
+    "assetId": "f1-tx0",
+    "terminalId": "f1-tx0:t2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Active power",
+    "unit": "kW",
+    "phase": "ABC",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f1-tx0:voltage",
+    "assetId": "f1-tx0",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Voltage",
+    "unit": "V",
+    "phase": "A",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f1-tx1:load",
+    "assetId": "f1-tx1",
+    "terminalId": "f1-tx1:t2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Active power",
+    "unit": "kW",
+    "phase": "ABC",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f1-tx1:voltage",
+    "assetId": "f1-tx1",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Voltage",
+    "unit": "V",
+    "phase": "A",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f1-tx2:load",
+    "assetId": "f1-tx2",
+    "terminalId": "f1-tx2:t2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Active power",
+    "unit": "kW",
+    "phase": "ABC",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f1-tx2:voltage",
+    "assetId": "f1-tx2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Voltage",
+    "unit": "V",
+    "phase": "A",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f1-tx3:load",
+    "assetId": "f1-tx3",
+    "terminalId": "f1-tx3:t2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Active power",
+    "unit": "kW",
+    "phase": "ABC",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f1-tx4:load",
+    "assetId": "f1-tx4",
+    "terminalId": "f1-tx4:t2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Active power",
+    "unit": "kW",
+    "phase": "ABC",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f1-tx5:load",
+    "assetId": "f1-tx5",
+    "terminalId": "f1-tx5:t2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Active power",
+    "unit": "kW",
+    "phase": "ABC",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f1-tx6:load",
+    "assetId": "f1-tx6",
+    "terminalId": "f1-tx6:t2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Active power",
+    "unit": "kW",
+    "phase": "ABC",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f1-tx7:load",
+    "assetId": "f1-tx7",
+    "terminalId": "f1-tx7:t2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Active power",
+    "unit": "kW",
+    "phase": "ABC",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f1-tx8:load",
+    "assetId": "f1-tx8",
+    "terminalId": "f1-tx8:t2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Active power",
+    "unit": "kW",
+    "phase": "ABC",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f1-tx9:load",
+    "assetId": "f1-tx9",
+    "terminalId": "f1-tx9:t2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Active power",
+    "unit": "kW",
+    "phase": "ABC",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f1-tx10:load",
+    "assetId": "f1-tx10",
+    "terminalId": "f1-tx10:t2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Active power",
+    "unit": "kW",
+    "phase": "ABC",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f1-tx11:load",
+    "assetId": "f1-tx11",
+    "terminalId": "f1-tx11:t2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Active power",
+    "unit": "kW",
+    "phase": "ABC",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f2-tx0:load",
+    "assetId": "f2-tx0",
+    "terminalId": "f2-tx0:t2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Active power",
+    "unit": "kW",
+    "phase": "ABC",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f2-tx0:voltage",
+    "assetId": "f2-tx0",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Voltage",
+    "unit": "V",
+    "phase": "A",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f2-tx1:load",
+    "assetId": "f2-tx1",
+    "terminalId": "f2-tx1:t2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Active power",
+    "unit": "kW",
+    "phase": "ABC",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f2-tx1:voltage",
+    "assetId": "f2-tx1",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Voltage",
+    "unit": "V",
+    "phase": "A",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f2-tx2:load",
+    "assetId": "f2-tx2",
+    "terminalId": "f2-tx2:t2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Active power",
+    "unit": "kW",
+    "phase": "ABC",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f2-tx2:voltage",
+    "assetId": "f2-tx2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Voltage",
+    "unit": "V",
+    "phase": "A",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f2-tx3:load",
+    "assetId": "f2-tx3",
+    "terminalId": "f2-tx3:t2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Active power",
+    "unit": "kW",
+    "phase": "ABC",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f2-tx4:load",
+    "assetId": "f2-tx4",
+    "terminalId": "f2-tx4:t2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Active power",
+    "unit": "kW",
+    "phase": "ABC",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f2-tx5:load",
+    "assetId": "f2-tx5",
+    "terminalId": "f2-tx5:t2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Active power",
+    "unit": "kW",
+    "phase": "ABC",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f2-tx6:load",
+    "assetId": "f2-tx6",
+    "terminalId": "f2-tx6:t2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Active power",
+    "unit": "kW",
+    "phase": "ABC",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f2-tx7:load",
+    "assetId": "f2-tx7",
+    "terminalId": "f2-tx7:t2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Active power",
+    "unit": "kW",
+    "phase": "ABC",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f2-tx8:load",
+    "assetId": "f2-tx8",
+    "terminalId": "f2-tx8:t2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Active power",
+    "unit": "kW",
+    "phase": "ABC",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f2-tx9:load",
+    "assetId": "f2-tx9",
+    "terminalId": "f2-tx9:t2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Active power",
+    "unit": "kW",
+    "phase": "ABC",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f2-tx10:load",
+    "assetId": "f2-tx10",
+    "terminalId": "f2-tx10:t2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Active power",
+    "unit": "kW",
+    "phase": "ABC",
+    "sampleIntervalSeconds": 900
+  },
+  {
+    "id": "f2-tx11:load",
+    "assetId": "f2-tx11",
+    "terminalId": "f2-tx11:t2",
+    "datasetId": "tampa-electric-v1",
+    "quantity": "Active power",
+    "unit": "kW",
+    "phase": "ABC",
+    "sampleIntervalSeconds": 900
+  }
+]

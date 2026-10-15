@@ -1,0 +1,1 @@
+"""Geobound local analytical service."""

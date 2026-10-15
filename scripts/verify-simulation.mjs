@@ -1,0 +1,75 @@
+import { chromium } from '@playwright/test';
+import {writeFile,mkdir} from 'node:fs/promises';
+const output=new URL('../../simulation-browser/',import.meta.url);await mkdir(output,{recursive:true});
+const browser=await chromium.launch({channel:'chrome',headless:true,args:['--enable-webgl','--ignore-gpu-blocklist']});
+const page=await browser.newPage({viewport:{width:1440,height:1000}});
+const errors=[];page.on('pageerror',error=>{errors.push(error.message);console.log('PAGE ERROR',error.message);});
+page.on('console',message=>{if(message.type()==='error')process.stdout.write('BROWSER ERROR '+message.text().slice(0,400)+'\n');});
+await page.addInitScript(()=>{
+ localStorage.setItem('tidebound.preferences.v1',JSON.stringify({defaultMap:'2d'}));
+ const original=Worker.prototype.postMessage;
+ Worker.prototype.postMessage=function(data,transfer){
+   if(data.catalog && data.model){
+     if(window.__oneIteration)data.parameters={MaxIter:1};
+     this.addEventListener('message',event=>{if(event.data.type==='result')window.__solverResult=event.data.result;},{once:false});
+   }
+   return original.call(this,data,transfer);
+ };
+});
+await page.goto('http://127.0.0.1:5187/#simulation');
+await page.waitForFunction(()=>document.querySelectorAll('#simulation-circuit option').length>4000,null,{timeout:30000});
+console.log('Catalog options',await page.locator('#simulation-circuit option').count());
+await page.locator('#simulation-circuit').selectOption('CKT_1001_15510');
+await page.locator('[data-simulation-action="load"]').click();
+try { await page.waitForFunction(()=>!document.querySelector('[data-simulation-action="run"]').disabled,null,{timeout:30000}); } catch(error) { console.log('LOAD ERROR',await page.locator('#simulation-status').innerText());await page.screenshot({path:new URL('load-error.png',output).pathname});await browser.close();throw error; }
+console.log('Load status',await page.locator('#simulation-status').innerText());
+await page.screenshot({path:new URL('loaded.png',output).pathname});
+await page.locator('[data-simulation-action="run"]').click();
+let previous='';const timer=setInterval(async()=>{const text=await page.locator('#simulation-status').innerText().catch(()=>'');if(text!==previous){previous=text;console.log(text.slice(0,500));}},2500);
+try{await page.waitForFunction(()=>['converged','nonconverged','error'].includes(document.querySelector('#simulation-status')?.dataset.state),null,{timeout:180000});}finally{clearInterval(timer);}
+const state=await page.locator('#simulation-status').getAttribute('data-state');
+console.log('Final state',state,await page.locator('#simulation-status').innerText());
+await page.screenshot({path:new URL('solved.png',output).pathname});
+await writeFile(new URL('result.json',output),JSON.stringify({state,message:await page.locator('#simulation-status').innerText(),details:await page.locator('#simulation-detail').innerText(),errors},null,2));
+if(state!=='converged')throw Error('Expected actual WebAssembly convergence');
+const result=await page.evaluate(()=>window.__solverResult);
+if(result.parameters.MaxIter!==100 || result.solved!==true)throw Error('Wrong solver result');
+await page.evaluate(()=>{window.__oneIteration=true;window.__solverResult=null;});
+await page.locator('[data-simulation-action="run"]').click();
+await page.waitForFunction(()=>['nonconverged','error'].includes(document.querySelector('#simulation-status').dataset.state),null,{timeout:30000});
+const failure=await page.evaluate(()=>window.__solverResult);
+console.log('Failure state',await page.locator('#simulation-status').innerText());
+if(!failure || failure.solved!==false || failure.parameters.MaxIter!==1)throw Error('Expected a fresh nonconverged solve');
+await page.screenshot({path:new URL('nonconverged.png',output).pathname});
+await page.locator('#simulation-visible').uncheck();
+await page.locator('#simulation-visible').check();
+await page.locator('#simulation-topology').selectOption('gis');
+await page.locator('#simulation-topology').selectOption('solver');
+await page.locator('#simulation-circuit').selectOption('CKT_1002_15515');
+if(!(await page.locator('[data-simulation-action="run"]').isDisabled()))throw Error('Run must require loading the selected circuit');
+await page.locator('[data-simulation-action="load"]').click();
+await page.waitForFunction(()=>!document.querySelector('[data-simulation-action="run"]').disabled,null,{timeout:30000});
+await page.evaluate(()=>{window.__oneIteration=false;window.__solverResult=null;});
+await page.locator('[data-simulation-action="run"]').click();
+await page.waitForFunction(()=>['converged','nonconverged','error'].includes(document.querySelector('#simulation-status').dataset.state),null,{timeout:180000});
+const controlled=await page.evaluate(()=>window.__solverResult);
+console.log('Volt/VAR controller model',controlled?.solved,controlled?.message);
+if(!controlled || !controlled.solved)throw Error('The SCE model with Volt/VAR controllers failed');
+await page.locator('[data-action="toggle-map-layer-menu"]').click();
+const networkLayer=page.locator('[data-simulation-layer-toggle]');
+if(await networkLayer.count()!==1)throw Error('Expected one simulation layer in Map layers');
+await networkLayer.uncheck();
+if(await page.locator('#simulation-visible').isChecked())throw Error('Layer visibility controls are not synchronized');
+await networkLayer.check();
+await page.locator('[data-action="close-map-layer-menu"]').click();
+await page.locator('[data-simulation-action="run"]').click();
+await page.locator('#simulation-circuit').selectOption('CKT_1001_15510');
+await page.waitForTimeout(1500);
+if((await page.locator('#simulation-status').getAttribute('data-state'))!=='idle')throw Error('Stale solve changed the newly selected circuit');
+await page.locator('#simulation-circuit').selectOption('CKT_1469_18727');
+if(!(await page.locator('[data-simulation-action="load"]').isDisabled()))throw Error('Invalid source should not load');
+await page.setViewportSize({width:390,height:844});
+await page.locator('#simulation-circuit').selectOption('CKT_1001_15510');
+await page.screenshot({path:new URL('mobile.png',output).pathname});
+await writeFile(new URL('result.json',output),JSON.stringify({state,result:{solved:result.solved,iterations:result.iterations,seconds:result.seconds},failure:{solved:failure.solved,message:failure.message,parameters:failure.parameters},checks:['real WASM convergence','real WASM nonconvergence','switch circuits cancels stale results','new circuit requires load','layer visibility','solver/GIS topology','unavailable source disabled','mobile layout','Volt/VAR controllers in WASM','one synchronized Map layers entry'],controlled:{solved:controlled.solved,iterations:controlled.iterations,seconds:controlled.seconds},errors},null,2));
+await browser.close();if(errors.length)process.exitCode=1;

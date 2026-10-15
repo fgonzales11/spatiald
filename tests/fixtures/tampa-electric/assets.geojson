@@ -1,0 +1,5042 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "substation-01",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4642,
+          27.9391
+        ]
+      },
+      "properties": {
+        "id": "substation-01",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "SUBSTATION-01",
+        "utilityType": "electric",
+        "assetType": "substation",
+        "name": "Bayshore Substation",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 20000
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-line0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.4642,
+            27.9391
+          ],
+          [
+            -82.46475,
+            27.9398
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f1-line0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-LINE0",
+        "utilityType": "electric",
+        "assetType": "overhead_line",
+        "name": "Overhead 1.01",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-pole0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46475,
+          27.9398
+        ]
+      },
+      "properties": {
+        "id": "f1-pole0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-POLE0",
+        "utilityType": "electric",
+        "assetType": "pole",
+        "name": "Pole 1.01",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead",
+          "illustrativeHeightM": 11
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-tx0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46475,
+          27.9398
+        ]
+      },
+      "properties": {
+        "id": "f1-tx0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-TX0",
+        "utilityType": "electric",
+        "assetType": "transformer",
+        "name": "DT-1001",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 100,
+          "mounting": "pole-mounted",
+          "secondaryVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m0-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46502,
+          27.93994
+        ]
+      },
+      "properties": {
+        "id": "f1-m0-0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M0-0",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10001",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m0-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46448,
+          27.93994
+        ]
+      },
+      "properties": {
+        "id": "f1-m0-1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M0-1",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10002",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m0-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46502,
+          27.93966
+        ]
+      },
+      "properties": {
+        "id": "f1-m0-2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M0-2",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10003",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m0-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46448,
+          27.93966
+        ]
+      },
+      "properties": {
+        "id": "f1-m0-3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M0-3",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10004",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-line1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.46475,
+            27.9398
+          ],
+          [
+            -82.465045,
+            27.94041
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f1-line1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-LINE1",
+        "utilityType": "electric",
+        "assetType": "overhead_line",
+        "name": "Overhead 1.02",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-pole1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.465045,
+          27.94041
+        ]
+      },
+      "properties": {
+        "id": "f1-pole1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-POLE1",
+        "utilityType": "electric",
+        "assetType": "pole",
+        "name": "Pole 1.02",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead",
+          "illustrativeHeightM": 11
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-tx1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.465045,
+          27.94041
+        ]
+      },
+      "properties": {
+        "id": "f1-tx1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-TX1",
+        "utilityType": "electric",
+        "assetType": "transformer",
+        "name": "DT-1002",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 50,
+          "mounting": "pole-mounted",
+          "secondaryVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m1-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.465315,
+          27.94055
+        ]
+      },
+      "properties": {
+        "id": "f1-m1-0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M1-0",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10005",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m1-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.464775,
+          27.94055
+        ]
+      },
+      "properties": {
+        "id": "f1-m1-1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M1-1",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10006",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m1-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.465315,
+          27.94027
+        ]
+      },
+      "properties": {
+        "id": "f1-m1-2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M1-2",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10007",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m1-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.464775,
+          27.94027
+        ]
+      },
+      "properties": {
+        "id": "f1-m1-3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M1-3",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10008",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-line2",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.465045,
+            27.94041
+          ],
+          [
+            -82.465434,
+            27.94102
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f1-line2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-LINE2",
+        "utilityType": "electric",
+        "assetType": "overhead_line",
+        "name": "Overhead 1.03",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-pole2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.465434,
+          27.94102
+        ]
+      },
+      "properties": {
+        "id": "f1-pole2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-POLE2",
+        "utilityType": "electric",
+        "assetType": "pole",
+        "name": "Pole 1.03",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead",
+          "illustrativeHeightM": 11
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-tx2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.465434,
+          27.94102
+        ]
+      },
+      "properties": {
+        "id": "f1-tx2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-TX2",
+        "utilityType": "electric",
+        "assetType": "transformer",
+        "name": "DT-1003",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 50,
+          "mounting": "pole-mounted",
+          "secondaryVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m2-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.465704,
+          27.94116
+        ]
+      },
+      "properties": {
+        "id": "f1-m2-0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M2-0",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10009",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m2-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.465164,
+          27.94116
+        ]
+      },
+      "properties": {
+        "id": "f1-m2-1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M2-1",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10010",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m2-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.465704,
+          27.94088
+        ]
+      },
+      "properties": {
+        "id": "f1-m2-2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M2-2",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10011",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m2-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.465164,
+          27.94088
+        ]
+      },
+      "properties": {
+        "id": "f1-m2-3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M2-3",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10012",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-line3",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.465434,
+            27.94102
+          ],
+          [
+            -82.465942,
+            27.94163
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f1-line3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-LINE3",
+        "utilityType": "electric",
+        "assetType": "underground_cable",
+        "name": "Cable 1.04",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "underground"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-tx3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.465942,
+          27.94163
+        ]
+      },
+      "properties": {
+        "id": "f1-tx3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-TX3",
+        "utilityType": "electric",
+        "assetType": "transformer",
+        "name": "DT-1004",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 100,
+          "mounting": "padmount",
+          "secondaryVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m3-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.466212,
+          27.94177
+        ]
+      },
+      "properties": {
+        "id": "f1-m3-0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M3-0",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10013",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m3-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.465672,
+          27.94177
+        ]
+      },
+      "properties": {
+        "id": "f1-m3-1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M3-1",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10014",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m3-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.466212,
+          27.94149
+        ]
+      },
+      "properties": {
+        "id": "f1-m3-2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M3-2",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10015",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m3-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.465672,
+          27.94149
+        ]
+      },
+      "properties": {
+        "id": "f1-m3-3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M3-3",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10016",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-line4",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.465942,
+            27.94163
+          ],
+          [
+            -82.466501,
+            27.94224
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f1-line4",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-LINE4",
+        "utilityType": "electric",
+        "assetType": "overhead_line",
+        "name": "Overhead 1.05",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-pole4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.466501,
+          27.94224
+        ]
+      },
+      "properties": {
+        "id": "f1-pole4",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-POLE4",
+        "utilityType": "electric",
+        "assetType": "pole",
+        "name": "Pole 1.05",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead",
+          "illustrativeHeightM": 11
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-tx4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.466501,
+          27.94224
+        ]
+      },
+      "properties": {
+        "id": "f1-tx4",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-TX4",
+        "utilityType": "electric",
+        "assetType": "transformer",
+        "name": "DT-1005",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 50,
+          "mounting": "pole-mounted",
+          "secondaryVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-switch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.466501,
+          27.94224
+        ]
+      },
+      "properties": {
+        "id": "f1-switch",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-SWITCH",
+        "utilityType": "electric",
+        "assetType": "switch",
+        "name": "Sectionalizer SW-01",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "switchPosition": "closed"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m4-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.466771,
+          27.94238
+        ]
+      },
+      "properties": {
+        "id": "f1-m4-0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M4-0",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10017",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m4-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.466231,
+          27.94238
+        ]
+      },
+      "properties": {
+        "id": "f1-m4-1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M4-1",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10018",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m4-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.466771,
+          27.9421
+        ]
+      },
+      "properties": {
+        "id": "f1-m4-2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M4-2",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10019",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m4-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.466231,
+          27.9421
+        ]
+      },
+      "properties": {
+        "id": "f1-m4-3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M4-3",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10020",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-line5",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.466681,
+            27.94238
+          ],
+          [
+            -82.467006,
+            27.94285
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f1-line5",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-LINE5",
+        "utilityType": "electric",
+        "assetType": "overhead_line",
+        "name": "Overhead 1.06",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-pole5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.467006,
+          27.94285
+        ]
+      },
+      "properties": {
+        "id": "f1-pole5",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-POLE5",
+        "utilityType": "electric",
+        "assetType": "pole",
+        "name": "Pole 1.06",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead",
+          "illustrativeHeightM": 11
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-tx5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.467006,
+          27.94285
+        ]
+      },
+      "properties": {
+        "id": "f1-tx5",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-TX5",
+        "utilityType": "electric",
+        "assetType": "transformer",
+        "name": "DT-1006",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 50,
+          "mounting": "pole-mounted",
+          "secondaryVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m5-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.467276,
+          27.94299
+        ]
+      },
+      "properties": {
+        "id": "f1-m5-0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M5-0",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10021",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m5-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.466736,
+          27.94299
+        ]
+      },
+      "properties": {
+        "id": "f1-m5-1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M5-1",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10022",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m5-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.467276,
+          27.94271
+        ]
+      },
+      "properties": {
+        "id": "f1-m5-2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M5-2",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10023",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m5-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.466736,
+          27.94271
+        ]
+      },
+      "properties": {
+        "id": "f1-m5-3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M5-3",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10024",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-line6",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.467006,
+            27.94285
+          ],
+          [
+            -82.467394,
+            27.94346
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f1-line6",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-LINE6",
+        "utilityType": "electric",
+        "assetType": "overhead_line",
+        "name": "Overhead 1.07",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-pole6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.467394,
+          27.94346
+        ]
+      },
+      "properties": {
+        "id": "f1-pole6",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-POLE6",
+        "utilityType": "electric",
+        "assetType": "pole",
+        "name": "Pole 1.07",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead",
+          "illustrativeHeightM": 11
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-tx6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.467394,
+          27.94346
+        ]
+      },
+      "properties": {
+        "id": "f1-tx6",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-TX6",
+        "utilityType": "electric",
+        "assetType": "transformer",
+        "name": "DT-1007",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 100,
+          "mounting": "pole-mounted",
+          "secondaryVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m6-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.467664,
+          27.9436
+        ]
+      },
+      "properties": {
+        "id": "f1-m6-0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M6-0",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10025",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m6-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.467124,
+          27.9436
+        ]
+      },
+      "properties": {
+        "id": "f1-m6-1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M6-1",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10026",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m6-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.467664,
+          27.94332
+        ]
+      },
+      "properties": {
+        "id": "f1-m6-2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M6-2",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10027",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m6-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.467124,
+          27.94332
+        ]
+      },
+      "properties": {
+        "id": "f1-m6-3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M6-3",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10028",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-line7",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.467394,
+            27.94346
+          ],
+          [
+            -82.467687,
+            27.94407
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f1-line7",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-LINE7",
+        "utilityType": "electric",
+        "assetType": "underground_cable",
+        "name": "Cable 1.08",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "underground"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-tx7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.467687,
+          27.94407
+        ]
+      },
+      "properties": {
+        "id": "f1-tx7",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-TX7",
+        "utilityType": "electric",
+        "assetType": "transformer",
+        "name": "DT-1008",
+        "status": "attention",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 50,
+          "mounting": "padmount",
+          "secondaryVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m7-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.467957,
+          27.94421
+        ]
+      },
+      "properties": {
+        "id": "f1-m7-0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M7-0",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10029",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m7-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.467417,
+          27.94421
+        ]
+      },
+      "properties": {
+        "id": "f1-m7-1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M7-1",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10030",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m7-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.467957,
+          27.94393
+        ]
+      },
+      "properties": {
+        "id": "f1-m7-2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M7-2",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10031",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m7-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.467417,
+          27.94393
+        ]
+      },
+      "properties": {
+        "id": "f1-m7-3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M7-3",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10032",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-line8",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.467687,
+            27.94407
+          ],
+          [
+            -82.467983,
+            27.94468
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f1-line8",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-LINE8",
+        "utilityType": "electric",
+        "assetType": "overhead_line",
+        "name": "Overhead 1.09",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-pole8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.467983,
+          27.94468
+        ]
+      },
+      "properties": {
+        "id": "f1-pole8",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-POLE8",
+        "utilityType": "electric",
+        "assetType": "pole",
+        "name": "Pole 1.09",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead",
+          "illustrativeHeightM": 11
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-tx8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.467983,
+          27.94468
+        ]
+      },
+      "properties": {
+        "id": "f1-tx8",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-TX8",
+        "utilityType": "electric",
+        "assetType": "transformer",
+        "name": "DT-1009",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 50,
+          "mounting": "pole-mounted",
+          "secondaryVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m8-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.468253,
+          27.94482
+        ]
+      },
+      "properties": {
+        "id": "f1-m8-0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M8-0",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10033",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m8-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.467713,
+          27.94482
+        ]
+      },
+      "properties": {
+        "id": "f1-m8-1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M8-1",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10034",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m8-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.468253,
+          27.94454
+        ]
+      },
+      "properties": {
+        "id": "f1-m8-2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M8-2",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10035",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m8-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.467713,
+          27.94454
+        ]
+      },
+      "properties": {
+        "id": "f1-m8-3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M8-3",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10036",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-line9",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.467983,
+            27.94468
+          ],
+          [
+            -82.468375,
+            27.94529
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f1-line9",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-LINE9",
+        "utilityType": "electric",
+        "assetType": "overhead_line",
+        "name": "Overhead 1.10",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-pole9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.468375,
+          27.94529
+        ]
+      },
+      "properties": {
+        "id": "f1-pole9",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-POLE9",
+        "utilityType": "electric",
+        "assetType": "pole",
+        "name": "Pole 1.10",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead",
+          "illustrativeHeightM": 11
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-tx9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.468375,
+          27.94529
+        ]
+      },
+      "properties": {
+        "id": "f1-tx9",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-TX9",
+        "utilityType": "electric",
+        "assetType": "transformer",
+        "name": "DT-1010",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 100,
+          "mounting": "pole-mounted",
+          "secondaryVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m9-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.468645,
+          27.94543
+        ]
+      },
+      "properties": {
+        "id": "f1-m9-0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M9-0",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10037",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m9-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.468105,
+          27.94543
+        ]
+      },
+      "properties": {
+        "id": "f1-m9-1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M9-1",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10038",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m9-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.468645,
+          27.94515
+        ]
+      },
+      "properties": {
+        "id": "f1-m9-2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M9-2",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10039",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m9-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.468105,
+          27.94515
+        ]
+      },
+      "properties": {
+        "id": "f1-m9-3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M9-3",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10040",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-line10",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.468375,
+            27.94529
+          ],
+          [
+            -82.468884,
+            27.9459
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f1-line10",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-LINE10",
+        "utilityType": "electric",
+        "assetType": "overhead_line",
+        "name": "Overhead 1.11",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-pole10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.468884,
+          27.9459
+        ]
+      },
+      "properties": {
+        "id": "f1-pole10",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-POLE10",
+        "utilityType": "electric",
+        "assetType": "pole",
+        "name": "Pole 1.11",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead",
+          "illustrativeHeightM": 11
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-tx10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.468884,
+          27.9459
+        ]
+      },
+      "properties": {
+        "id": "f1-tx10",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-TX10",
+        "utilityType": "electric",
+        "assetType": "transformer",
+        "name": "DT-1011",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 50,
+          "mounting": "pole-mounted",
+          "secondaryVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m10-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.469154,
+          27.94604
+        ]
+      },
+      "properties": {
+        "id": "f1-m10-0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M10-0",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10041",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m10-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.468614,
+          27.94604
+        ]
+      },
+      "properties": {
+        "id": "f1-m10-1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M10-1",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10042",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m10-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.469154,
+          27.94576
+        ]
+      },
+      "properties": {
+        "id": "f1-m10-2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M10-2",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10043",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m10-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.468614,
+          27.94576
+        ]
+      },
+      "properties": {
+        "id": "f1-m10-3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M10-3",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10044",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-line11",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.468884,
+            27.9459
+          ],
+          [
+            -82.469443,
+            27.94651
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f1-line11",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-LINE11",
+        "utilityType": "electric",
+        "assetType": "underground_cable",
+        "name": "Cable 1.12",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "underground"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-tx11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.469443,
+          27.94651
+        ]
+      },
+      "properties": {
+        "id": "f1-tx11",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-TX11",
+        "utilityType": "electric",
+        "assetType": "transformer",
+        "name": "DT-1012",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 50,
+          "mounting": "padmount",
+          "secondaryVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m11-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.469713,
+          27.94665
+        ]
+      },
+      "properties": {
+        "id": "f1-m11-0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M11-0",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10045",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m11-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.469173,
+          27.94665
+        ]
+      },
+      "properties": {
+        "id": "f1-m11-1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M11-1",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10046",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m11-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.469713,
+          27.94637
+        ]
+      },
+      "properties": {
+        "id": "f1-m11-2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M11-2",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10047",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1-m11-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.469173,
+          27.94637
+        ]
+      },
+      "properties": {
+        "id": "f1-m11-3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F1-M11-3",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-10048",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-line0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.4642,
+            27.9391
+          ],
+          [
+            -82.46365,
+            27.9384
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f2-line0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-LINE0",
+        "utilityType": "electric",
+        "assetType": "overhead_line",
+        "name": "Overhead 2.01",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-pole0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46365,
+          27.9384
+        ]
+      },
+      "properties": {
+        "id": "f2-pole0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-POLE0",
+        "utilityType": "electric",
+        "assetType": "pole",
+        "name": "Pole 2.01",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead",
+          "illustrativeHeightM": 11
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-tx0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46365,
+          27.9384
+        ]
+      },
+      "properties": {
+        "id": "f2-tx0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-TX0",
+        "utilityType": "electric",
+        "assetType": "transformer",
+        "name": "DT-2001",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 100,
+          "mounting": "pole-mounted",
+          "secondaryVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m0-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46392,
+          27.93854
+        ]
+      },
+      "properties": {
+        "id": "f2-m0-0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M0-0",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20001",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m0-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46338,
+          27.93854
+        ]
+      },
+      "properties": {
+        "id": "f2-m0-1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M0-1",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20002",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m0-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46392,
+          27.93826
+        ]
+      },
+      "properties": {
+        "id": "f2-m0-2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M0-2",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20003",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m0-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46338,
+          27.93826
+        ]
+      },
+      "properties": {
+        "id": "f2-m0-3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M0-3",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20004",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-line1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.46365,
+            27.9384
+          ],
+          [
+            -82.463105,
+            27.93779
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f2-line1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-LINE1",
+        "utilityType": "electric",
+        "assetType": "overhead_line",
+        "name": "Overhead 2.02",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-pole1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.463105,
+          27.93779
+        ]
+      },
+      "properties": {
+        "id": "f2-pole1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-POLE1",
+        "utilityType": "electric",
+        "assetType": "pole",
+        "name": "Pole 2.02",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead",
+          "illustrativeHeightM": 11
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-tx1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.463105,
+          27.93779
+        ]
+      },
+      "properties": {
+        "id": "f2-tx1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-TX1",
+        "utilityType": "electric",
+        "assetType": "transformer",
+        "name": "DT-2002",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 50,
+          "mounting": "pole-mounted",
+          "secondaryVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m1-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.463375,
+          27.93793
+        ]
+      },
+      "properties": {
+        "id": "f2-m1-0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M1-0",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20005",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m1-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.462835,
+          27.93793
+        ]
+      },
+      "properties": {
+        "id": "f2-m1-1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M1-1",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20006",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m1-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.463375,
+          27.93765
+        ]
+      },
+      "properties": {
+        "id": "f2-m1-2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M1-2",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20007",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m1-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.462835,
+          27.93765
+        ]
+      },
+      "properties": {
+        "id": "f2-m1-3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M1-3",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20008",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-line2",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.463105,
+            27.93779
+          ],
+          [
+            -82.462654,
+            27.93718
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f2-line2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-LINE2",
+        "utilityType": "electric",
+        "assetType": "overhead_line",
+        "name": "Overhead 2.03",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-pole2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.462654,
+          27.93718
+        ]
+      },
+      "properties": {
+        "id": "f2-pole2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-POLE2",
+        "utilityType": "electric",
+        "assetType": "pole",
+        "name": "Pole 2.03",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead",
+          "illustrativeHeightM": 11
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-tx2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.462654,
+          27.93718
+        ]
+      },
+      "properties": {
+        "id": "f2-tx2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-TX2",
+        "utilityType": "electric",
+        "assetType": "transformer",
+        "name": "DT-2003",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 50,
+          "mounting": "pole-mounted",
+          "secondaryVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m2-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.462924,
+          27.93732
+        ]
+      },
+      "properties": {
+        "id": "f2-m2-0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M2-0",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20009",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m2-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.462384,
+          27.93732
+        ]
+      },
+      "properties": {
+        "id": "f2-m2-1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M2-1",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20010",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m2-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.462924,
+          27.93704
+        ]
+      },
+      "properties": {
+        "id": "f2-m2-2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M2-2",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20011",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m2-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.462384,
+          27.93704
+        ]
+      },
+      "properties": {
+        "id": "f2-m2-3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M2-3",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20012",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-line3",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.462654,
+            27.93718
+          ],
+          [
+            -82.462322,
+            27.93657
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f2-line3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-LINE3",
+        "utilityType": "electric",
+        "assetType": "underground_cable",
+        "name": "Cable 2.04",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "underground"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-tx3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.462322,
+          27.93657
+        ]
+      },
+      "properties": {
+        "id": "f2-tx3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-TX3",
+        "utilityType": "electric",
+        "assetType": "transformer",
+        "name": "DT-2004",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 100,
+          "mounting": "padmount",
+          "secondaryVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m3-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.462592,
+          27.93671
+        ]
+      },
+      "properties": {
+        "id": "f2-m3-0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M3-0",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20013",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m3-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.462052,
+          27.93671
+        ]
+      },
+      "properties": {
+        "id": "f2-m3-1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M3-1",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20014",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m3-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.462592,
+          27.93643
+        ]
+      },
+      "properties": {
+        "id": "f2-m3-2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M3-2",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20015",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m3-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.462052,
+          27.93643
+        ]
+      },
+      "properties": {
+        "id": "f2-m3-3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M3-3",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20016",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-line4",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.462322,
+            27.93657
+          ],
+          [
+            -82.462041,
+            27.93596
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f2-line4",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-LINE4",
+        "utilityType": "electric",
+        "assetType": "overhead_line",
+        "name": "Overhead 2.05",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-pole4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.462041,
+          27.93596
+        ]
+      },
+      "properties": {
+        "id": "f2-pole4",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-POLE4",
+        "utilityType": "electric",
+        "assetType": "pole",
+        "name": "Pole 2.05",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead",
+          "illustrativeHeightM": 11
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-tx4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.462041,
+          27.93596
+        ]
+      },
+      "properties": {
+        "id": "f2-tx4",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-TX4",
+        "utilityType": "electric",
+        "assetType": "transformer",
+        "name": "DT-2005",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 50,
+          "mounting": "pole-mounted",
+          "secondaryVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-switch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.462041,
+          27.93596
+        ]
+      },
+      "properties": {
+        "id": "f2-switch",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-SWITCH",
+        "utilityType": "electric",
+        "assetType": "switch",
+        "name": "Sectionalizer SW-02",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "switchPosition": "closed"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m4-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.462311,
+          27.9361
+        ]
+      },
+      "properties": {
+        "id": "f2-m4-0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M4-0",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20017",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m4-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.461771,
+          27.9361
+        ]
+      },
+      "properties": {
+        "id": "f2-m4-1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M4-1",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20018",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m4-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.462311,
+          27.93582
+        ]
+      },
+      "properties": {
+        "id": "f2-m4-2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M4-2",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20019",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m4-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.461771,
+          27.93582
+        ]
+      },
+      "properties": {
+        "id": "f2-m4-3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M4-3",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20020",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-line5",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.461861,
+            27.935820000000003
+          ],
+          [
+            -82.461706,
+            27.93535
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f2-line5",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-LINE5",
+        "utilityType": "electric",
+        "assetType": "overhead_line",
+        "name": "Overhead 2.06",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-pole5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.461706,
+          27.93535
+        ]
+      },
+      "properties": {
+        "id": "f2-pole5",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-POLE5",
+        "utilityType": "electric",
+        "assetType": "pole",
+        "name": "Pole 2.06",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead",
+          "illustrativeHeightM": 11
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-tx5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.461706,
+          27.93535
+        ]
+      },
+      "properties": {
+        "id": "f2-tx5",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-TX5",
+        "utilityType": "electric",
+        "assetType": "transformer",
+        "name": "DT-2006",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 50,
+          "mounting": "pole-mounted",
+          "secondaryVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m5-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.461976,
+          27.93549
+        ]
+      },
+      "properties": {
+        "id": "f2-m5-0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M5-0",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20021",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m5-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.461436,
+          27.93549
+        ]
+      },
+      "properties": {
+        "id": "f2-m5-1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M5-1",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20022",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m5-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.461976,
+          27.93521
+        ]
+      },
+      "properties": {
+        "id": "f2-m5-2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M5-2",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20023",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m5-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.461436,
+          27.93521
+        ]
+      },
+      "properties": {
+        "id": "f2-m5-3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M5-3",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20024",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-line6",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.461706,
+            27.93535
+          ],
+          [
+            -82.461254,
+            27.93474
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f2-line6",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-LINE6",
+        "utilityType": "electric",
+        "assetType": "overhead_line",
+        "name": "Overhead 2.07",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-pole6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.461254,
+          27.93474
+        ]
+      },
+      "properties": {
+        "id": "f2-pole6",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-POLE6",
+        "utilityType": "electric",
+        "assetType": "pole",
+        "name": "Pole 2.07",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead",
+          "illustrativeHeightM": 11
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-tx6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.461254,
+          27.93474
+        ]
+      },
+      "properties": {
+        "id": "f2-tx6",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-TX6",
+        "utilityType": "electric",
+        "assetType": "transformer",
+        "name": "DT-2007",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 100,
+          "mounting": "pole-mounted",
+          "secondaryVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m6-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.461524,
+          27.93488
+        ]
+      },
+      "properties": {
+        "id": "f2-m6-0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M6-0",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20025",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m6-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.460984,
+          27.93488
+        ]
+      },
+      "properties": {
+        "id": "f2-m6-1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M6-1",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20026",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m6-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.461524,
+          27.9346
+        ]
+      },
+      "properties": {
+        "id": "f2-m6-2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M6-2",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20027",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m6-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.460984,
+          27.9346
+        ]
+      },
+      "properties": {
+        "id": "f2-m6-3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M6-3",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20028",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-line7",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.461254,
+            27.93474
+          ],
+          [
+            -82.460707,
+            27.93413
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f2-line7",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-LINE7",
+        "utilityType": "electric",
+        "assetType": "underground_cable",
+        "name": "Cable 2.08",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "underground"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-tx7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.460707,
+          27.93413
+        ]
+      },
+      "properties": {
+        "id": "f2-tx7",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-TX7",
+        "utilityType": "electric",
+        "assetType": "transformer",
+        "name": "DT-2008",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 50,
+          "mounting": "padmount",
+          "secondaryVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m7-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.460977,
+          27.93427
+        ]
+      },
+      "properties": {
+        "id": "f2-m7-0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M7-0",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20029",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m7-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.460437,
+          27.93427
+        ]
+      },
+      "properties": {
+        "id": "f2-m7-1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M7-1",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20030",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m7-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.460977,
+          27.93399
+        ]
+      },
+      "properties": {
+        "id": "f2-m7-2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M7-2",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20031",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m7-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.460437,
+          27.93399
+        ]
+      },
+      "properties": {
+        "id": "f2-m7-3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M7-3",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20032",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-line8",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.460707,
+            27.93413
+          ],
+          [
+            -82.460163,
+            27.93352
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f2-line8",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-LINE8",
+        "utilityType": "electric",
+        "assetType": "overhead_line",
+        "name": "Overhead 2.09",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-pole8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.460163,
+          27.93352
+        ]
+      },
+      "properties": {
+        "id": "f2-pole8",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-POLE8",
+        "utilityType": "electric",
+        "assetType": "pole",
+        "name": "Pole 2.09",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead",
+          "illustrativeHeightM": 11
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-tx8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.460163,
+          27.93352
+        ]
+      },
+      "properties": {
+        "id": "f2-tx8",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-TX8",
+        "utilityType": "electric",
+        "assetType": "transformer",
+        "name": "DT-2009",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 50,
+          "mounting": "pole-mounted",
+          "secondaryVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m8-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.460433,
+          27.93366
+        ]
+      },
+      "properties": {
+        "id": "f2-m8-0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M8-0",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20033",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m8-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.459893,
+          27.93366
+        ]
+      },
+      "properties": {
+        "id": "f2-m8-1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M8-1",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20034",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m8-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.460433,
+          27.93338
+        ]
+      },
+      "properties": {
+        "id": "f2-m8-2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M8-2",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20035",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m8-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.459893,
+          27.93338
+        ]
+      },
+      "properties": {
+        "id": "f2-m8-3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M8-3",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20036",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-line9",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.460163,
+            27.93352
+          ],
+          [
+            -82.459715,
+            27.93291
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f2-line9",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-LINE9",
+        "utilityType": "electric",
+        "assetType": "overhead_line",
+        "name": "Overhead 2.10",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-pole9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.459715,
+          27.93291
+        ]
+      },
+      "properties": {
+        "id": "f2-pole9",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-POLE9",
+        "utilityType": "electric",
+        "assetType": "pole",
+        "name": "Pole 2.10",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead",
+          "illustrativeHeightM": 11
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-tx9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.459715,
+          27.93291
+        ]
+      },
+      "properties": {
+        "id": "f2-tx9",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-TX9",
+        "utilityType": "electric",
+        "assetType": "transformer",
+        "name": "DT-2010",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 100,
+          "mounting": "pole-mounted",
+          "secondaryVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m9-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.459985,
+          27.93305
+        ]
+      },
+      "properties": {
+        "id": "f2-m9-0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M9-0",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20037",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m9-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.459445,
+          27.93305
+        ]
+      },
+      "properties": {
+        "id": "f2-m9-1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M9-1",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20038",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m9-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.459985,
+          27.93277
+        ]
+      },
+      "properties": {
+        "id": "f2-m9-2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M9-2",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20039",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m9-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.459445,
+          27.93277
+        ]
+      },
+      "properties": {
+        "id": "f2-m9-3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M9-3",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20040",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-line10",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.459715,
+            27.93291
+          ],
+          [
+            -82.459384,
+            27.9323
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f2-line10",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-LINE10",
+        "utilityType": "electric",
+        "assetType": "overhead_line",
+        "name": "Overhead 2.11",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-pole10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.459384,
+          27.9323
+        ]
+      },
+      "properties": {
+        "id": "f2-pole10",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-POLE10",
+        "utilityType": "electric",
+        "assetType": "pole",
+        "name": "Pole 2.11",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "overhead",
+          "illustrativeHeightM": 11
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-tx10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.459384,
+          27.9323
+        ]
+      },
+      "properties": {
+        "id": "f2-tx10",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-TX10",
+        "utilityType": "electric",
+        "assetType": "transformer",
+        "name": "DT-2011",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 50,
+          "mounting": "pole-mounted",
+          "secondaryVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m10-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.459654,
+          27.93244
+        ]
+      },
+      "properties": {
+        "id": "f2-m10-0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M10-0",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20041",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m10-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.459114,
+          27.93244
+        ]
+      },
+      "properties": {
+        "id": "f2-m10-1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M10-1",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20042",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m10-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.459654,
+          27.93216
+        ]
+      },
+      "properties": {
+        "id": "f2-m10-2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M10-2",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20043",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m10-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.459114,
+          27.93216
+        ]
+      },
+      "properties": {
+        "id": "f2-m10-3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M10-3",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20044",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-line11",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.459384,
+            27.9323
+          ],
+          [
+            -82.459103,
+            27.93169
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f2-line11",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-LINE11",
+        "utilityType": "electric",
+        "assetType": "underground_cable",
+        "name": "Cable 2.12",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "mounting": "underground"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-tx11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.459103,
+          27.93169
+        ]
+      },
+      "properties": {
+        "id": "f2-tx11",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-TX11",
+        "utilityType": "electric",
+        "assetType": "transformer",
+        "name": "DT-2012",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "B",
+            "C",
+            "N"
+          ],
+          "nominalVoltageV": 12470,
+          "ratingKva": 50,
+          "mounting": "padmount",
+          "secondaryVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m11-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.459373,
+          27.93183
+        ]
+      },
+      "properties": {
+        "id": "f2-m11-0",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M11-0",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20045",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m11-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.458833,
+          27.93183
+        ]
+      },
+      "properties": {
+        "id": "f2-m11-1",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M11-1",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20046",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m11-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.459373,
+          27.93155
+        ]
+      },
+      "properties": {
+        "id": "f2-m11-2",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M11-2",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20047",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "A",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2-m11-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.458833,
+          27.93155
+        ]
+      },
+      "properties": {
+        "id": "f2-m11-3",
+        "workspaceId": "tampa-electric",
+        "datasetId": "tampa-electric-v1",
+        "externalId": "F2-M11-3",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "name": "M-20048",
+        "status": "normal",
+        "attributes": {
+          "phases": [
+            "B",
+            "N"
+          ],
+          "nominalVoltageV": 240
+        }
+      }
+    }
+  ]
+}

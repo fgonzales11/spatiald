@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.459,
+          27.94
+        ]
+      },
+      "properties": {
+        "id": "user-meter-001",
+        "name": "Imported meter 001",
+        "utilityType": "electric",
+        "assetType": "meter",
+        "attributes": {
+          "nominalVoltageV": 240
+        }
+      }
+    }
+  ]
+}

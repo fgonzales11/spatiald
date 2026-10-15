@@ -1,0 +1,3676 @@
+{
+  "networks": [
+    {
+      "id": "feeder-1",
+      "workspaceId": "tampa-electric",
+      "utilityType": "electric",
+      "name": "Bayshore · F-01",
+      "kind": "feeder"
+    },
+    {
+      "id": "feeder-2",
+      "workspaceId": "tampa-electric",
+      "utilityType": "electric",
+      "name": "Davis · F-02",
+      "kind": "feeder"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "ss-bus",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4642,
+          27.9391
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f1-n0",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46475,
+          27.9398
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f1-lv0",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46463999999999,
+          27.93984
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 240
+      }
+    },
+    {
+      "id": "f1-n1",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.465045,
+          27.94041
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f1-lv1",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.464935,
+          27.94045
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 240
+      }
+    },
+    {
+      "id": "f1-n2",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.465434,
+          27.94102
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f1-lv2",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.465324,
+          27.94106
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 240
+      }
+    },
+    {
+      "id": "f1-n3",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.465942,
+          27.94163
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f1-lv3",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46583199999999,
+          27.94167
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 240
+      }
+    },
+    {
+      "id": "f1-n4",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.466501,
+          27.94224
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f1-lv4",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46639099999999,
+          27.94228
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 240
+      }
+    },
+    {
+      "id": "f1-sw-node",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.466681,
+          27.94238
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f1-n5",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.467006,
+          27.94285
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f1-lv5",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46689599999999,
+          27.94289
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 240
+      }
+    },
+    {
+      "id": "f1-n6",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.467394,
+          27.94346
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f1-lv6",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46728399999999,
+          27.9435
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 240
+      }
+    },
+    {
+      "id": "f1-n7",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.467687,
+          27.94407
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f1-lv7",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46757699999999,
+          27.94411
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 240
+      }
+    },
+    {
+      "id": "f1-n8",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.467983,
+          27.94468
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f1-lv8",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.467873,
+          27.94472
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 240
+      }
+    },
+    {
+      "id": "f1-n9",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.468375,
+          27.94529
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f1-lv9",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46826499999999,
+          27.94533
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 240
+      }
+    },
+    {
+      "id": "f1-n10",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.468884,
+          27.9459
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f1-lv10",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.468774,
+          27.94594
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 240
+      }
+    },
+    {
+      "id": "f1-n11",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.469443,
+          27.94651
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f1-lv11",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46933299999999,
+          27.94655
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 240
+      }
+    },
+    {
+      "id": "f2-n0",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46365,
+          27.9384
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f2-lv0",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46354,
+          27.93844
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 240
+      }
+    },
+    {
+      "id": "f2-n1",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.463105,
+          27.93779
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f2-lv1",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46299499999999,
+          27.937829999999998
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 240
+      }
+    },
+    {
+      "id": "f2-n2",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.462654,
+          27.93718
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f2-lv2",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.462544,
+          27.93722
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 240
+      }
+    },
+    {
+      "id": "f2-n3",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.462322,
+          27.93657
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f2-lv3",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.462212,
+          27.936609999999998
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 240
+      }
+    },
+    {
+      "id": "f2-n4",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.462041,
+          27.93596
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f2-lv4",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46193099999999,
+          27.936
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 240
+      }
+    },
+    {
+      "id": "f2-sw-node",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.461861,
+          27.935820000000003
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f2-n5",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.461706,
+          27.93535
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f2-lv5",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.461596,
+          27.935389999999998
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 240
+      }
+    },
+    {
+      "id": "f2-n6",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.461254,
+          27.93474
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f2-lv6",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46114399999999,
+          27.93478
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 240
+      }
+    },
+    {
+      "id": "f2-n7",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.460707,
+          27.93413
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f2-lv7",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46059699999999,
+          27.934169999999998
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 240
+      }
+    },
+    {
+      "id": "f2-n8",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.460163,
+          27.93352
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f2-lv8",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46005299999999,
+          27.93356
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 240
+      }
+    },
+    {
+      "id": "f2-n9",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.459715,
+          27.93291
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f2-lv9",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.459605,
+          27.932949999999998
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 240
+      }
+    },
+    {
+      "id": "f2-n10",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.459384,
+          27.9323
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f2-lv10",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.459274,
+          27.93234
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 240
+      }
+    },
+    {
+      "id": "f2-n11",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.459103,
+          27.93169
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 12470
+      }
+    },
+    {
+      "id": "f2-lv11",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "utilityType": "electric",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.45899299999999,
+          27.931729999999998
+        ]
+      },
+      "attributes": {
+        "nominalVoltageV": 240
+      }
+    }
+  ],
+  "terminals": [
+    {
+      "id": "substation-01:t1",
+      "assetId": "substation-01",
+      "nodeId": "ss-bus",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-line0:t1",
+      "assetId": "f1-line0",
+      "nodeId": "ss-bus",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-line0:t2",
+      "assetId": "f1-line0",
+      "nodeId": "f1-n0",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-tx0:t1",
+      "assetId": "f1-tx0",
+      "nodeId": "f1-n0",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-tx0:t2",
+      "assetId": "f1-tx0",
+      "nodeId": "f1-lv0",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m0-0:t1",
+      "assetId": "f1-m0-0",
+      "nodeId": "f1-lv0",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m0-1:t1",
+      "assetId": "f1-m0-1",
+      "nodeId": "f1-lv0",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m0-2:t1",
+      "assetId": "f1-m0-2",
+      "nodeId": "f1-lv0",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m0-3:t1",
+      "assetId": "f1-m0-3",
+      "nodeId": "f1-lv0",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-line1:t1",
+      "assetId": "f1-line1",
+      "nodeId": "f1-n0",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-line1:t2",
+      "assetId": "f1-line1",
+      "nodeId": "f1-n1",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-tx1:t1",
+      "assetId": "f1-tx1",
+      "nodeId": "f1-n1",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-tx1:t2",
+      "assetId": "f1-tx1",
+      "nodeId": "f1-lv1",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m1-0:t1",
+      "assetId": "f1-m1-0",
+      "nodeId": "f1-lv1",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m1-1:t1",
+      "assetId": "f1-m1-1",
+      "nodeId": "f1-lv1",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m1-2:t1",
+      "assetId": "f1-m1-2",
+      "nodeId": "f1-lv1",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m1-3:t1",
+      "assetId": "f1-m1-3",
+      "nodeId": "f1-lv1",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-line2:t1",
+      "assetId": "f1-line2",
+      "nodeId": "f1-n1",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-line2:t2",
+      "assetId": "f1-line2",
+      "nodeId": "f1-n2",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-tx2:t1",
+      "assetId": "f1-tx2",
+      "nodeId": "f1-n2",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-tx2:t2",
+      "assetId": "f1-tx2",
+      "nodeId": "f1-lv2",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m2-0:t1",
+      "assetId": "f1-m2-0",
+      "nodeId": "f1-lv2",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m2-1:t1",
+      "assetId": "f1-m2-1",
+      "nodeId": "f1-lv2",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m2-2:t1",
+      "assetId": "f1-m2-2",
+      "nodeId": "f1-lv2",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m2-3:t1",
+      "assetId": "f1-m2-3",
+      "nodeId": "f1-lv2",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-line3:t1",
+      "assetId": "f1-line3",
+      "nodeId": "f1-n2",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-line3:t2",
+      "assetId": "f1-line3",
+      "nodeId": "f1-n3",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-tx3:t1",
+      "assetId": "f1-tx3",
+      "nodeId": "f1-n3",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-tx3:t2",
+      "assetId": "f1-tx3",
+      "nodeId": "f1-lv3",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m3-0:t1",
+      "assetId": "f1-m3-0",
+      "nodeId": "f1-lv3",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m3-1:t1",
+      "assetId": "f1-m3-1",
+      "nodeId": "f1-lv3",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m3-2:t1",
+      "assetId": "f1-m3-2",
+      "nodeId": "f1-lv3",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m3-3:t1",
+      "assetId": "f1-m3-3",
+      "nodeId": "f1-lv3",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-line4:t1",
+      "assetId": "f1-line4",
+      "nodeId": "f1-n3",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-line4:t2",
+      "assetId": "f1-line4",
+      "nodeId": "f1-n4",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-tx4:t1",
+      "assetId": "f1-tx4",
+      "nodeId": "f1-n4",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-tx4:t2",
+      "assetId": "f1-tx4",
+      "nodeId": "f1-lv4",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-switch:t1",
+      "assetId": "f1-switch",
+      "nodeId": "f1-n4",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-switch:t2",
+      "assetId": "f1-switch",
+      "nodeId": "f1-sw-node",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m4-0:t1",
+      "assetId": "f1-m4-0",
+      "nodeId": "f1-lv4",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m4-1:t1",
+      "assetId": "f1-m4-1",
+      "nodeId": "f1-lv4",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m4-2:t1",
+      "assetId": "f1-m4-2",
+      "nodeId": "f1-lv4",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m4-3:t1",
+      "assetId": "f1-m4-3",
+      "nodeId": "f1-lv4",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-line5:t1",
+      "assetId": "f1-line5",
+      "nodeId": "f1-sw-node",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-line5:t2",
+      "assetId": "f1-line5",
+      "nodeId": "f1-n5",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-tx5:t1",
+      "assetId": "f1-tx5",
+      "nodeId": "f1-n5",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-tx5:t2",
+      "assetId": "f1-tx5",
+      "nodeId": "f1-lv5",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m5-0:t1",
+      "assetId": "f1-m5-0",
+      "nodeId": "f1-lv5",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m5-1:t1",
+      "assetId": "f1-m5-1",
+      "nodeId": "f1-lv5",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m5-2:t1",
+      "assetId": "f1-m5-2",
+      "nodeId": "f1-lv5",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m5-3:t1",
+      "assetId": "f1-m5-3",
+      "nodeId": "f1-lv5",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-line6:t1",
+      "assetId": "f1-line6",
+      "nodeId": "f1-n5",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-line6:t2",
+      "assetId": "f1-line6",
+      "nodeId": "f1-n6",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-tx6:t1",
+      "assetId": "f1-tx6",
+      "nodeId": "f1-n6",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-tx6:t2",
+      "assetId": "f1-tx6",
+      "nodeId": "f1-lv6",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m6-0:t1",
+      "assetId": "f1-m6-0",
+      "nodeId": "f1-lv6",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m6-1:t1",
+      "assetId": "f1-m6-1",
+      "nodeId": "f1-lv6",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m6-2:t1",
+      "assetId": "f1-m6-2",
+      "nodeId": "f1-lv6",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m6-3:t1",
+      "assetId": "f1-m6-3",
+      "nodeId": "f1-lv6",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-line7:t1",
+      "assetId": "f1-line7",
+      "nodeId": "f1-n6",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-line7:t2",
+      "assetId": "f1-line7",
+      "nodeId": "f1-n7",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-tx7:t1",
+      "assetId": "f1-tx7",
+      "nodeId": "f1-n7",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-tx7:t2",
+      "assetId": "f1-tx7",
+      "nodeId": "f1-lv7",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m7-0:t1",
+      "assetId": "f1-m7-0",
+      "nodeId": "f1-lv7",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m7-1:t1",
+      "assetId": "f1-m7-1",
+      "nodeId": "f1-lv7",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m7-2:t1",
+      "assetId": "f1-m7-2",
+      "nodeId": "f1-lv7",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m7-3:t1",
+      "assetId": "f1-m7-3",
+      "nodeId": "f1-lv7",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-line8:t1",
+      "assetId": "f1-line8",
+      "nodeId": "f1-n7",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-line8:t2",
+      "assetId": "f1-line8",
+      "nodeId": "f1-n8",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-tx8:t1",
+      "assetId": "f1-tx8",
+      "nodeId": "f1-n8",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-tx8:t2",
+      "assetId": "f1-tx8",
+      "nodeId": "f1-lv8",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m8-0:t1",
+      "assetId": "f1-m8-0",
+      "nodeId": "f1-lv8",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m8-1:t1",
+      "assetId": "f1-m8-1",
+      "nodeId": "f1-lv8",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m8-2:t1",
+      "assetId": "f1-m8-2",
+      "nodeId": "f1-lv8",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m8-3:t1",
+      "assetId": "f1-m8-3",
+      "nodeId": "f1-lv8",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-line9:t1",
+      "assetId": "f1-line9",
+      "nodeId": "f1-n8",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-line9:t2",
+      "assetId": "f1-line9",
+      "nodeId": "f1-n9",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-tx9:t1",
+      "assetId": "f1-tx9",
+      "nodeId": "f1-n9",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-tx9:t2",
+      "assetId": "f1-tx9",
+      "nodeId": "f1-lv9",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m9-0:t1",
+      "assetId": "f1-m9-0",
+      "nodeId": "f1-lv9",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m9-1:t1",
+      "assetId": "f1-m9-1",
+      "nodeId": "f1-lv9",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m9-2:t1",
+      "assetId": "f1-m9-2",
+      "nodeId": "f1-lv9",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m9-3:t1",
+      "assetId": "f1-m9-3",
+      "nodeId": "f1-lv9",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-line10:t1",
+      "assetId": "f1-line10",
+      "nodeId": "f1-n9",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-line10:t2",
+      "assetId": "f1-line10",
+      "nodeId": "f1-n10",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-tx10:t1",
+      "assetId": "f1-tx10",
+      "nodeId": "f1-n10",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-tx10:t2",
+      "assetId": "f1-tx10",
+      "nodeId": "f1-lv10",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m10-0:t1",
+      "assetId": "f1-m10-0",
+      "nodeId": "f1-lv10",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m10-1:t1",
+      "assetId": "f1-m10-1",
+      "nodeId": "f1-lv10",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m10-2:t1",
+      "assetId": "f1-m10-2",
+      "nodeId": "f1-lv10",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m10-3:t1",
+      "assetId": "f1-m10-3",
+      "nodeId": "f1-lv10",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-line11:t1",
+      "assetId": "f1-line11",
+      "nodeId": "f1-n10",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-line11:t2",
+      "assetId": "f1-line11",
+      "nodeId": "f1-n11",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-tx11:t1",
+      "assetId": "f1-tx11",
+      "nodeId": "f1-n11",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-tx11:t2",
+      "assetId": "f1-tx11",
+      "nodeId": "f1-lv11",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m11-0:t1",
+      "assetId": "f1-m11-0",
+      "nodeId": "f1-lv11",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m11-1:t1",
+      "assetId": "f1-m11-1",
+      "nodeId": "f1-lv11",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m11-2:t1",
+      "assetId": "f1-m11-2",
+      "nodeId": "f1-lv11",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f1-m11-3:t1",
+      "assetId": "f1-m11-3",
+      "nodeId": "f1-lv11",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-line0:t1",
+      "assetId": "f2-line0",
+      "nodeId": "ss-bus",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-line0:t2",
+      "assetId": "f2-line0",
+      "nodeId": "f2-n0",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-tx0:t1",
+      "assetId": "f2-tx0",
+      "nodeId": "f2-n0",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-tx0:t2",
+      "assetId": "f2-tx0",
+      "nodeId": "f2-lv0",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m0-0:t1",
+      "assetId": "f2-m0-0",
+      "nodeId": "f2-lv0",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m0-1:t1",
+      "assetId": "f2-m0-1",
+      "nodeId": "f2-lv0",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m0-2:t1",
+      "assetId": "f2-m0-2",
+      "nodeId": "f2-lv0",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m0-3:t1",
+      "assetId": "f2-m0-3",
+      "nodeId": "f2-lv0",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-line1:t1",
+      "assetId": "f2-line1",
+      "nodeId": "f2-n0",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-line1:t2",
+      "assetId": "f2-line1",
+      "nodeId": "f2-n1",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-tx1:t1",
+      "assetId": "f2-tx1",
+      "nodeId": "f2-n1",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-tx1:t2",
+      "assetId": "f2-tx1",
+      "nodeId": "f2-lv1",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m1-0:t1",
+      "assetId": "f2-m1-0",
+      "nodeId": "f2-lv1",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m1-1:t1",
+      "assetId": "f2-m1-1",
+      "nodeId": "f2-lv1",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m1-2:t1",
+      "assetId": "f2-m1-2",
+      "nodeId": "f2-lv1",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m1-3:t1",
+      "assetId": "f2-m1-3",
+      "nodeId": "f2-lv1",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-line2:t1",
+      "assetId": "f2-line2",
+      "nodeId": "f2-n1",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-line2:t2",
+      "assetId": "f2-line2",
+      "nodeId": "f2-n2",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-tx2:t1",
+      "assetId": "f2-tx2",
+      "nodeId": "f2-n2",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-tx2:t2",
+      "assetId": "f2-tx2",
+      "nodeId": "f2-lv2",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m2-0:t1",
+      "assetId": "f2-m2-0",
+      "nodeId": "f2-lv2",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m2-1:t1",
+      "assetId": "f2-m2-1",
+      "nodeId": "f2-lv2",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m2-2:t1",
+      "assetId": "f2-m2-2",
+      "nodeId": "f2-lv2",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m2-3:t1",
+      "assetId": "f2-m2-3",
+      "nodeId": "f2-lv2",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-line3:t1",
+      "assetId": "f2-line3",
+      "nodeId": "f2-n2",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-line3:t2",
+      "assetId": "f2-line3",
+      "nodeId": "f2-n3",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-tx3:t1",
+      "assetId": "f2-tx3",
+      "nodeId": "f2-n3",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-tx3:t2",
+      "assetId": "f2-tx3",
+      "nodeId": "f2-lv3",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m3-0:t1",
+      "assetId": "f2-m3-0",
+      "nodeId": "f2-lv3",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m3-1:t1",
+      "assetId": "f2-m3-1",
+      "nodeId": "f2-lv3",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m3-2:t1",
+      "assetId": "f2-m3-2",
+      "nodeId": "f2-lv3",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m3-3:t1",
+      "assetId": "f2-m3-3",
+      "nodeId": "f2-lv3",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-line4:t1",
+      "assetId": "f2-line4",
+      "nodeId": "f2-n3",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-line4:t2",
+      "assetId": "f2-line4",
+      "nodeId": "f2-n4",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-tx4:t1",
+      "assetId": "f2-tx4",
+      "nodeId": "f2-n4",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-tx4:t2",
+      "assetId": "f2-tx4",
+      "nodeId": "f2-lv4",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-switch:t1",
+      "assetId": "f2-switch",
+      "nodeId": "f2-n4",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-switch:t2",
+      "assetId": "f2-switch",
+      "nodeId": "f2-sw-node",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m4-0:t1",
+      "assetId": "f2-m4-0",
+      "nodeId": "f2-lv4",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m4-1:t1",
+      "assetId": "f2-m4-1",
+      "nodeId": "f2-lv4",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m4-2:t1",
+      "assetId": "f2-m4-2",
+      "nodeId": "f2-lv4",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m4-3:t1",
+      "assetId": "f2-m4-3",
+      "nodeId": "f2-lv4",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-line5:t1",
+      "assetId": "f2-line5",
+      "nodeId": "f2-sw-node",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-line5:t2",
+      "assetId": "f2-line5",
+      "nodeId": "f2-n5",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-tx5:t1",
+      "assetId": "f2-tx5",
+      "nodeId": "f2-n5",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-tx5:t2",
+      "assetId": "f2-tx5",
+      "nodeId": "f2-lv5",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m5-0:t1",
+      "assetId": "f2-m5-0",
+      "nodeId": "f2-lv5",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m5-1:t1",
+      "assetId": "f2-m5-1",
+      "nodeId": "f2-lv5",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m5-2:t1",
+      "assetId": "f2-m5-2",
+      "nodeId": "f2-lv5",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m5-3:t1",
+      "assetId": "f2-m5-3",
+      "nodeId": "f2-lv5",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-line6:t1",
+      "assetId": "f2-line6",
+      "nodeId": "f2-n5",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-line6:t2",
+      "assetId": "f2-line6",
+      "nodeId": "f2-n6",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-tx6:t1",
+      "assetId": "f2-tx6",
+      "nodeId": "f2-n6",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-tx6:t2",
+      "assetId": "f2-tx6",
+      "nodeId": "f2-lv6",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m6-0:t1",
+      "assetId": "f2-m6-0",
+      "nodeId": "f2-lv6",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m6-1:t1",
+      "assetId": "f2-m6-1",
+      "nodeId": "f2-lv6",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m6-2:t1",
+      "assetId": "f2-m6-2",
+      "nodeId": "f2-lv6",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m6-3:t1",
+      "assetId": "f2-m6-3",
+      "nodeId": "f2-lv6",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-line7:t1",
+      "assetId": "f2-line7",
+      "nodeId": "f2-n6",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-line7:t2",
+      "assetId": "f2-line7",
+      "nodeId": "f2-n7",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-tx7:t1",
+      "assetId": "f2-tx7",
+      "nodeId": "f2-n7",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-tx7:t2",
+      "assetId": "f2-tx7",
+      "nodeId": "f2-lv7",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m7-0:t1",
+      "assetId": "f2-m7-0",
+      "nodeId": "f2-lv7",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m7-1:t1",
+      "assetId": "f2-m7-1",
+      "nodeId": "f2-lv7",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m7-2:t1",
+      "assetId": "f2-m7-2",
+      "nodeId": "f2-lv7",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m7-3:t1",
+      "assetId": "f2-m7-3",
+      "nodeId": "f2-lv7",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-line8:t1",
+      "assetId": "f2-line8",
+      "nodeId": "f2-n7",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-line8:t2",
+      "assetId": "f2-line8",
+      "nodeId": "f2-n8",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-tx8:t1",
+      "assetId": "f2-tx8",
+      "nodeId": "f2-n8",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-tx8:t2",
+      "assetId": "f2-tx8",
+      "nodeId": "f2-lv8",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m8-0:t1",
+      "assetId": "f2-m8-0",
+      "nodeId": "f2-lv8",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m8-1:t1",
+      "assetId": "f2-m8-1",
+      "nodeId": "f2-lv8",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m8-2:t1",
+      "assetId": "f2-m8-2",
+      "nodeId": "f2-lv8",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m8-3:t1",
+      "assetId": "f2-m8-3",
+      "nodeId": "f2-lv8",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-line9:t1",
+      "assetId": "f2-line9",
+      "nodeId": "f2-n8",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-line9:t2",
+      "assetId": "f2-line9",
+      "nodeId": "f2-n9",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-tx9:t1",
+      "assetId": "f2-tx9",
+      "nodeId": "f2-n9",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-tx9:t2",
+      "assetId": "f2-tx9",
+      "nodeId": "f2-lv9",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m9-0:t1",
+      "assetId": "f2-m9-0",
+      "nodeId": "f2-lv9",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m9-1:t1",
+      "assetId": "f2-m9-1",
+      "nodeId": "f2-lv9",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m9-2:t1",
+      "assetId": "f2-m9-2",
+      "nodeId": "f2-lv9",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m9-3:t1",
+      "assetId": "f2-m9-3",
+      "nodeId": "f2-lv9",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-line10:t1",
+      "assetId": "f2-line10",
+      "nodeId": "f2-n9",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-line10:t2",
+      "assetId": "f2-line10",
+      "nodeId": "f2-n10",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-tx10:t1",
+      "assetId": "f2-tx10",
+      "nodeId": "f2-n10",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-tx10:t2",
+      "assetId": "f2-tx10",
+      "nodeId": "f2-lv10",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m10-0:t1",
+      "assetId": "f2-m10-0",
+      "nodeId": "f2-lv10",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m10-1:t1",
+      "assetId": "f2-m10-1",
+      "nodeId": "f2-lv10",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m10-2:t1",
+      "assetId": "f2-m10-2",
+      "nodeId": "f2-lv10",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m10-3:t1",
+      "assetId": "f2-m10-3",
+      "nodeId": "f2-lv10",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-line11:t1",
+      "assetId": "f2-line11",
+      "nodeId": "f2-n10",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-line11:t2",
+      "assetId": "f2-line11",
+      "nodeId": "f2-n11",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-tx11:t1",
+      "assetId": "f2-tx11",
+      "nodeId": "f2-n11",
+      "label": "Input",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-tx11:t2",
+      "assetId": "f2-tx11",
+      "nodeId": "f2-lv11",
+      "label": "Output",
+      "phases": [
+        "A",
+        "B",
+        "C",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m11-0:t1",
+      "assetId": "f2-m11-0",
+      "nodeId": "f2-lv11",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m11-1:t1",
+      "assetId": "f2-m11-1",
+      "nodeId": "f2-lv11",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m11-2:t1",
+      "assetId": "f2-m11-2",
+      "nodeId": "f2-lv11",
+      "label": "Connection",
+      "phases": [
+        "A",
+        "N"
+      ]
+    },
+    {
+      "id": "f2-m11-3:t1",
+      "assetId": "f2-m11-3",
+      "nodeId": "f2-lv11",
+      "label": "Connection",
+      "phases": [
+        "B",
+        "N"
+      ]
+    }
+  ],
+  "networkMemberships": [
+    {
+      "networkId": "feeder-1",
+      "assetId": "substation-01"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-line0"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-pole0"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-tx0"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m0-0"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m0-1"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m0-2"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m0-3"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-line1"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-pole1"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-tx1"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m1-0"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m1-1"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m1-2"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m1-3"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-line2"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-pole2"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-tx2"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m2-0"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m2-1"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m2-2"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m2-3"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-line3"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-tx3"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m3-0"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m3-1"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m3-2"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m3-3"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-line4"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-pole4"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-tx4"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-switch"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m4-0"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m4-1"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m4-2"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m4-3"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-line5"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-pole5"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-tx5"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m5-0"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m5-1"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m5-2"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m5-3"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-line6"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-pole6"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-tx6"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m6-0"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m6-1"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m6-2"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m6-3"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-line7"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-tx7"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m7-0"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m7-1"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m7-2"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m7-3"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-line8"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-pole8"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-tx8"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m8-0"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m8-1"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m8-2"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m8-3"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-line9"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-pole9"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-tx9"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m9-0"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m9-1"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m9-2"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m9-3"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-line10"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-pole10"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-tx10"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m10-0"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m10-1"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m10-2"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m10-3"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-line11"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-tx11"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m11-0"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m11-1"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m11-2"
+    },
+    {
+      "networkId": "feeder-1",
+      "assetId": "f1-m11-3"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "substation-01"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-line0"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-pole0"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-tx0"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m0-0"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m0-1"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m0-2"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m0-3"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-line1"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-pole1"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-tx1"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m1-0"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m1-1"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m1-2"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m1-3"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-line2"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-pole2"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-tx2"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m2-0"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m2-1"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m2-2"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m2-3"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-line3"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-tx3"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m3-0"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m3-1"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m3-2"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m3-3"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-line4"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-pole4"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-tx4"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-switch"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m4-0"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m4-1"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m4-2"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m4-3"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-line5"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-pole5"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-tx5"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m5-0"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m5-1"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m5-2"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m5-3"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-line6"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-pole6"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-tx6"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m6-0"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m6-1"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m6-2"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m6-3"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-line7"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-tx7"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m7-0"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m7-1"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m7-2"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m7-3"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-line8"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-pole8"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-tx8"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m8-0"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m8-1"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m8-2"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m8-3"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-line9"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-pole9"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-tx9"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m9-0"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m9-1"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m9-2"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m9-3"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-line10"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-pole10"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-tx10"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m10-0"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m10-1"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m10-2"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m10-3"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-line11"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-tx11"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m11-0"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m11-1"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m11-2"
+    },
+    {
+      "networkId": "feeder-2",
+      "assetId": "f2-m11-3"
+    }
+  ]
+}

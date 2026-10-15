@@ -1,0 +1,609 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://tidebound.local/schema/twin-v1",
+  "type": "object",
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "workspace": {
+      "$ref": "#/$defs/workspace"
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/source"
+      }
+    },
+    "datasets": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/dataset"
+      }
+    },
+    "networks": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/network"
+      }
+    },
+    "assets": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/asset"
+      }
+    },
+    "networkMemberships": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/membership"
+      }
+    },
+    "nodes": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/node"
+      }
+    },
+    "terminals": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/terminal"
+      }
+    },
+    "series": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/series"
+      }
+    },
+    "observations": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/observation"
+      }
+    },
+    "events": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/event"
+      }
+    },
+    "eventAssets": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/eventAsset"
+      }
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "workspace",
+    "sources",
+    "datasets",
+    "networks",
+    "assets",
+    "networkMemberships",
+    "nodes",
+    "terminals",
+    "series",
+    "observations",
+    "events",
+    "eventAssets"
+  ],
+  "additionalProperties": false,
+  "$defs": {
+    "geometry": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "enum": [
+            "Point",
+            "MultiPoint",
+            "LineString",
+            "MultiLineString",
+            "Polygon",
+            "MultiPolygon"
+          ]
+        },
+        "coordinates": {
+          "type": "array"
+        }
+      },
+      "required": ["type", "coordinates"],
+      "additionalProperties": true
+    },
+    "workspace": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "timezone": {
+          "type": "string"
+        },
+        "serviceArea": {
+          "$ref": "#/$defs/geometry"
+        }
+      },
+      "required": ["id", "name", "timezone", "serviceArea"],
+      "additionalProperties": false
+    },
+    "source": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "name": {
+          "type": "string"
+        },
+        "custodian": {
+          "type": "string"
+        },
+        "categories": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "enum": [
+              "Foundational Geospatial Data",
+              "3D & Elevation Data",
+              "Real-Time Sensor Data",
+              "Time-Series & Historical Data",
+              "Infrastructure & Operational Data",
+              "Environmental & Climate Data",
+              "Regulatory & Compliance Data",
+              "Demographic & Socio-Economic Data",
+              "Predictive & Simulation Data"
+            ]
+          }
+        },
+        "location": {
+          "type": ["string", "null"]
+        },
+        "format": {
+          "type": "string"
+        },
+        "attribution": {
+          "type": "string"
+        },
+        "licenseUrl": {
+          "type": "string"
+        },
+        "authentication": {
+          "enum": ["none", "browser_key", "endpoint_credentials"]
+        },
+        "configurationState": {
+          "enum": [
+            "bundled",
+            "configured",
+            "requires_configuration",
+            "catalog_only"
+          ]
+        },
+        "adapterStatus": {
+          "enum": ["implemented", "catalog_only", "unimplemented"]
+        },
+        "description": {
+          "type": "string"
+        },
+        "futureAdapter": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "custodian",
+        "categories",
+        "location",
+        "format",
+        "attribution",
+        "licenseUrl",
+        "authentication",
+        "configurationState",
+        "adapterStatus"
+      ],
+      "additionalProperties": false
+    },
+    "dataset": {
+      "type": "object",
+      "properties": {
+        "isRemote": { "type": "boolean" },
+        "sourceUpdatedAt": {
+          "type": "string",
+          "format": "date-time",
+          "pattern": "Z$"
+        },
+        "queryBounds": {
+          "type": "array",
+          "minItems": 4,
+          "maxItems": 4,
+          "items": { "type": "number" }
+        },
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "workspaceId": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "sourceId": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "name": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        },
+        "acquiredAt": {
+          "type": "string",
+          "format": "date-time",
+          "pattern": "Z$"
+        },
+        "isSynthetic": {
+          "type": "boolean"
+        },
+        "bounds": {
+          "type": "array",
+          "minItems": 4,
+          "maxItems": 4,
+          "items": {
+            "type": "number"
+          }
+        },
+        "crs": {
+          "const": "EPSG:4326"
+        },
+        "schemaVersion": {
+          "const": 1
+        }
+      },
+      "required": [
+        "id",
+        "workspaceId",
+        "sourceId",
+        "name",
+        "version",
+        "acquiredAt",
+        "isSynthetic",
+        "bounds",
+        "crs",
+        "schemaVersion"
+      ],
+      "additionalProperties": false
+    },
+    "network": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "workspaceId": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "utilityType": {
+          "enum": ["electric", "water", "gas"]
+        },
+        "name": {
+          "type": "string"
+        },
+        "kind": {
+          "type": "string"
+        }
+      },
+      "required": ["id", "workspaceId", "utilityType", "name", "kind"],
+      "additionalProperties": false
+    },
+    "asset": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "workspaceId": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "datasetId": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "externalId": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "utilityType": {
+          "enum": ["electric", "water", "gas"]
+        },
+        "assetType": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "geometry": {
+          "$ref": "#/$defs/geometry"
+        },
+        "status": {
+          "enum": ["normal", "attention", "out_of_service", "unknown"]
+        },
+        "attributes": {
+          "type": "object"
+        }
+      },
+      "required": [
+        "id",
+        "workspaceId",
+        "datasetId",
+        "externalId",
+        "utilityType",
+        "assetType",
+        "name",
+        "geometry",
+        "status",
+        "attributes"
+      ],
+      "additionalProperties": false
+    },
+    "membership": {
+      "type": "object",
+      "properties": {
+        "networkId": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "assetId": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        }
+      },
+      "required": ["networkId", "assetId"],
+      "additionalProperties": false
+    },
+    "node": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "workspaceId": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "datasetId": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "utilityType": {
+          "enum": ["electric", "water", "gas"]
+        },
+        "geometry": {
+          "$ref": "#/$defs/geometry"
+        },
+        "attributes": {
+          "type": "object"
+        }
+      },
+      "required": [
+        "id",
+        "workspaceId",
+        "datasetId",
+        "utilityType",
+        "geometry",
+        "attributes"
+      ],
+      "additionalProperties": false
+    },
+    "terminal": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "assetId": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "nodeId": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "label": {
+          "type": "string"
+        },
+        "phases": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "enum": ["A", "B", "C", "N"]
+          }
+        }
+      },
+      "required": ["id", "assetId", "label"],
+      "additionalProperties": false
+    },
+    "series": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "assetId": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "terminalId": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "datasetId": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "quantity": {
+          "type": "string",
+          "minLength": 1
+        },
+        "unit": {
+          "type": "string",
+          "minLength": 1
+        },
+        "phase": {
+          "enum": ["A", "B", "C", "N", "ABC"]
+        },
+        "sampleIntervalSeconds": {
+          "type": "number",
+          "exclusiveMinimum": 0
+        }
+      },
+      "required": ["id", "assetId", "datasetId", "quantity", "unit"],
+      "additionalProperties": false
+    },
+    "observation": {
+      "type": "object",
+      "properties": {
+        "seriesId": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "observedAt": {
+          "type": "string",
+          "format": "date-time",
+          "pattern": "Z$"
+        },
+        "value": {
+          "type": ["number", "null"]
+        },
+        "quality": {
+          "enum": ["good", "suspect", "missing", "synthetic", "unknown"]
+        },
+        "datasetId": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        }
+      },
+      "required": ["seriesId", "observedAt", "value", "quality", "datasetId"],
+      "additionalProperties": false
+    },
+    "event": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "workspaceId": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "datasetId": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "type": {
+          "type": "string"
+        },
+        "severity": {
+          "enum": ["info", "warning", "critical"]
+        },
+        "status": {
+          "enum": ["open", "resolved"]
+        },
+        "startedAt": {
+          "type": "string",
+          "format": "date-time",
+          "pattern": "Z$"
+        },
+        "endedAt": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date-time",
+              "pattern": "Z$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "description": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "workspaceId",
+        "datasetId",
+        "type",
+        "severity",
+        "status",
+        "startedAt",
+        "endedAt",
+        "description"
+      ],
+      "additionalProperties": false
+    },
+    "eventAsset": {
+      "type": "object",
+      "properties": {
+        "eventId": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "assetId": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        }
+      },
+      "required": ["eventId", "assetId"],
+      "additionalProperties": false
+    }
+  }
+}

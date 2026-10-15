@@ -1,0 +1,42 @@
+name: geobound
+
+services:
+  analysis:
+    build:
+      context: .
+      dockerfile: analysis_service/Dockerfile
+    environment:
+      ANALYSIS_DATA_DIR: /data
+      CENSUS_API_KEY: ${CENSUS_API_KEY:-}
+    volumes:
+      - analysis-data:/data
+      - ./.analysis-data/models:/data/models:ro
+    init: true
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:5181/api/analysis/health')"]
+      interval: 30s
+      timeout: 5s
+      start_period: 30s
+  geobound:
+    image: geobound:local
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "127.0.0.1:${GEOBOUND_PORT:-5178}:5178"
+    init: true
+    environment:
+      ANALYSIS_URL: http://analysis:5181
+      GOOGLE_API_KEY: ${GOOGLE_API_KEY:-}
+      VITE_GOOGLE_MAPS_API_KEY: ${VITE_GOOGLE_MAPS_API_KEY:-}
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "node", "--input-type=module", "-e", "const response = await fetch('http://127.0.0.1:5178/'); process.exit(response.ok ? 0 : 1);"]
+      interval: 30s
+      timeout: 5s
+      start_period: 10s
+      retries: 3
+
+volumes:
+  analysis-data:

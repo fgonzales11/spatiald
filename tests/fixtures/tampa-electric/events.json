@@ -1,0 +1,51 @@
+{
+  "events": [
+    {
+      "id": "evt-01",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "type": "Data gap",
+      "severity": "warning",
+      "status": "resolved",
+      "startedAt": "2026-09-19T16:00:00Z",
+      "endedAt": "2026-09-19T17:00:00Z",
+      "description": "Illustrative missing readings. The gap is retained in the historical chart."
+    },
+    {
+      "id": "evt-02",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "type": "Asset review",
+      "severity": "warning",
+      "status": "open",
+      "startedAt": "2026-09-19T21:15:00Z",
+      "endedAt": null,
+      "description": "Synthetic review flag for DT-1008. This is an illustrative asset state, not a field alert."
+    },
+    {
+      "id": "evt-03",
+      "workspaceId": "tampa-electric",
+      "datasetId": "tampa-electric-v1",
+      "type": "Inspection",
+      "severity": "info",
+      "status": "resolved",
+      "startedAt": "2026-09-19T13:00:00Z",
+      "endedAt": "2026-09-19T13:30:00Z",
+      "description": "Illustrative sectionalizer inspection completed."
+    }
+  ],
+  "eventAssets": [
+    {
+      "eventId": "evt-01",
+      "assetId": "f1-tx7"
+    },
+    {
+      "eventId": "evt-02",
+      "assetId": "f1-tx7"
+    },
+    {
+      "eventId": "evt-03",
+      "assetId": "f2-switch"
+    }
+  ]
+}
