@@ -1,0 +1,315 @@
+{
+  "schemaVersion": 1,
+  "workspace": {
+    "id": "public-utility-infrastructure",
+    "name": "United States · Public infrastructure",
+    "timezone": "America/New_York",
+    "serviceArea": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -82.908,
+            27.648
+          ],
+          [
+            -82.008,
+            27.648
+          ],
+          [
+            -82.008,
+            28.248
+          ],
+          [
+            -82.908,
+            28.248
+          ],
+          [
+            -82.908,
+            27.648
+          ]
+        ]
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "public-substations",
+      "name": "U.S. electric substations",
+      "categories": [
+        "Foundational Geospatial Data",
+        "Infrastructure & Operational Data"
+      ],
+      "location": "https://services6.arcgis.com/OO2s4OoyCZkYJ6oE/arcgis/rest/services/Substations/FeatureServer",
+      "format": "ArcGIS FeatureServer / WGS84 JSON",
+      "custodian": "ORNL, LANL, INL, NGA / HSIP; ArcGIS publisher ja22_sk9655",
+      "description": "Published substation and tap locations. Loaded by map area with source attributes; connectivity and telemetry are not supplied.",
+      "configurationState": "configured",
+      "adapterStatus": "implemented",
+      "authentication": "none",
+      "attribution": "ORNL, LANL, INL, NGA / HSIP",
+      "licenseUrl": "https://www.arcgis.com/home/item.html?id=ef04dc8231c9491e804a008e5faa7d3a"
+    },
+    {
+      "id": "public-transmission",
+      "name": "U.S. electric power transmission lines",
+      "categories": [
+        "Foundational Geospatial Data",
+        "Infrastructure & Operational Data"
+      ],
+      "location": "https://services2.arcgis.com/FiaPA4ga0iQKduv3/arcgis/rest/services/US_Electric_Power_Transmission_Lines/FeatureServer",
+      "format": "ArcGIS FeatureServer / WGS84 JSON",
+      "custodian": "U.S. Government / Esri Federal User Community",
+      "description": "Archived public transmission-line geography. The publisher marks this layer as no longer maintained. Published endpoints and voltages do not establish explicit topology or current energization.",
+      "configurationState": "configured",
+      "adapterStatus": "implemented",
+      "authentication": "none",
+      "attribution": "U.S. Government / Esri Federal User Community",
+      "licenseUrl": "https://www.arcgis.com/home/item.html?id=d4090758322c4d32a4cd002ffaa0aa12"
+    },
+    {
+      "id": "public-gas-pipelines",
+      "name": "U.S. natural gas interstate / intrastate pipelines",
+      "categories": [
+        "Foundational Geospatial Data",
+        "Infrastructure & Operational Data"
+      ],
+      "location": "https://openenergyhub.ornl.gov/api/explore/v2.1/catalog/datasets/naturalgas_interintrastate_pipelines_us_eia/records?limit=100",
+      "format": "OpenDataSoft records / GeoJSON export",
+      "custodian": "U.S. Energy Information Administration; ORNL Open Energy Hub",
+      "description": "Published natural gas pipeline geometry, operators, and pipeline types. Uses supported 100-record pages or area-filtered GeoJSON exports rather than the unsupported limit=20000 request.",
+      "configurationState": "configured",
+      "adapterStatus": "implemented",
+      "authentication": "none",
+      "attribution": "U.S. EIA via ORNL Open Energy Hub",
+      "licenseUrl": "https://content.esri.com/arcgisonline/docs/tou_summary.pdf"
+    },
+    {
+      "id": "osm-tampa-bay",
+      "name": "South Tampa local OpenStreetMap exports",
+      "categories": [
+        "Foundational Geospatial Data",
+        "Infrastructure & Operational Data"
+      ],
+      "location": "public/data/osm/tampa-bay/ (from data/map1.osm–map4.osm)",
+      "format": "OSM XML → GeoJSON context layers",
+      "custodian": "OpenStreetMap contributors",
+      "description": "Six selectable local overlays: roads, buildings, water, land cover, places, and mapped utility features. Limited South Tampa coverage. Source tags do not supply engineering topology or operating state.",
+      "configurationState": "bundled",
+      "adapterStatus": "implemented",
+      "authentication": "none",
+      "attribution": "© OpenStreetMap contributors · ODbL 1.0",
+      "licenseUrl": "https://www.openstreetmap.org/copyright"
+    },
+    {
+      "id": "google-3d",
+      "name": "Google Photorealistic 3D Tiles",
+      "categories": [
+        "3D & Elevation Data"
+      ],
+      "location": "https://tile.googleapis.com/v1/3dtiles/root.json",
+      "format": "OGC 3D Tiles",
+      "custodian": "Google Maps",
+      "description": "Photorealistic geographic context. Requires a referrer-restricted Map Tiles API key.",
+      "configurationState": "requires_configuration",
+      "adapterStatus": "implemented",
+      "authentication": "browser_key",
+      "attribution": "Google Maps",
+      "licenseUrl": "https://developers.google.com/maps/documentation/tile/policies"
+    },
+    {
+      "id": "openfreemap",
+      "name": "OpenFreeMap",
+      "categories": [
+        "Foundational Geospatial Data"
+      ],
+      "location": "https://tiles.openfreemap.org/styles/liberty",
+      "format": "MapLibre vector style",
+      "custodian": "OpenFreeMap · OpenMapTiles · OpenStreetMap",
+      "description": "2D basemap used when 3D is unconfigured or unavailable.",
+      "configurationState": "configured",
+      "adapterStatus": "implemented",
+      "authentication": "none",
+      "attribution": "OpenFreeMap · OpenMapTiles · OpenStreetMap",
+      "licenseUrl": "https://openfreemap.org/"
+    },
+    {
+      "id": "usgs-3dep",
+      "name": "USGS 3DEP elevation",
+      "categories": [
+        "3D & Elevation Data"
+      ],
+      "location": "https://elevation.nationalmap.gov/arcgis/rest/services/3DEPElevation/ImageServer",
+      "format": "ArcGIS REST / WMS / WCS",
+      "custodian": "US Geological Survey",
+      "description": "Elevation and terrain context. An elevation adapter is a future milestone.",
+      "configurationState": "catalog_only",
+      "adapterStatus": "catalog_only",
+      "authentication": "none",
+      "attribution": "US Geological Survey",
+      "licenseUrl": ""
+    },
+    {
+      "id": "nws",
+      "name": "National Weather Service",
+      "categories": [
+        "Real-Time Sensor Data",
+        "Environmental & Climate Data"
+      ],
+      "location": "https://api.weather.gov",
+      "format": "GeoJSON / JSON-LD",
+      "custodian": "NOAA · National Weather Service",
+      "description": "Weather observations, forecasts, and alerts. Catalog only in this version.",
+      "configurationState": "catalog_only",
+      "adapterStatus": "catalog_only",
+      "authentication": "none",
+      "attribution": "NOAA · National Weather Service",
+      "licenseUrl": "https://www.weather.gov/documentation/services-web-api"
+    },
+    {
+      "id": "fema-nfhl",
+      "name": "FEMA flood hazards",
+      "categories": [
+        "Environmental & Climate Data",
+        "Regulatory & Compliance Data"
+      ],
+      "location": "https://hazards.fema.gov/arcgis/rest/services/public/NFHL/MapServer",
+      "format": "ArcGIS REST / WMS",
+      "custodian": "FEMA",
+      "description": "National Flood Hazard Layer. A hazard overlay adapter is a future milestone.",
+      "configurationState": "catalog_only",
+      "adapterStatus": "catalog_only",
+      "authentication": "none",
+      "attribution": "FEMA",
+      "licenseUrl": ""
+    },
+    {
+      "id": "census-tiger",
+      "name": "Census TIGERweb",
+      "categories": [
+        "Foundational Geospatial Data",
+        "Demographic & Socio-Economic Data"
+      ],
+      "location": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb",
+      "format": "ArcGIS REST",
+      "custodian": "US Census Bureau",
+      "description": "Administrative and statistical boundaries. Catalog only in this version.",
+      "configurationState": "catalog_only",
+      "adapterStatus": "catalog_only",
+      "authentication": "none",
+      "attribution": "US Census Bureau",
+      "licenseUrl": "https://www.census.gov/data/developers/data-sets/TIGERweb-map-service.html"
+    },
+    {
+      "id": "utility-gis",
+      "name": "Utility GIS",
+      "categories": [
+        "Foundational Geospatial Data",
+        "Infrastructure & Operational Data"
+      ],
+      "location": null,
+      "format": "GeoJSON / ArcGIS REST / WFS",
+      "custodian": "Your utility",
+      "description": "Authoritative asset inventory and explicit network connectivity.",
+      "configurationState": "requires_configuration",
+      "adapterStatus": "unimplemented",
+      "authentication": "endpoint_credentials",
+      "attribution": "Your utility",
+      "licenseUrl": ""
+    },
+    {
+      "id": "utility-ami",
+      "name": "AMI / meter data",
+      "categories": [
+        "Real-Time Sensor Data",
+        "Time-Series & Historical Data"
+      ],
+      "location": null,
+      "format": "CSV / vendor API",
+      "custodian": "Your utility",
+      "description": "Meter interval readings. Observation CSV imports are available; live integration is not configured.",
+      "configurationState": "requires_configuration",
+      "adapterStatus": "unimplemented",
+      "authentication": "endpoint_credentials",
+      "attribution": "Your utility",
+      "licenseUrl": ""
+    },
+    {
+      "id": "utility-scada",
+      "name": "SCADA / operational telemetry",
+      "categories": [
+        "Real-Time Sensor Data",
+        "Infrastructure & Operational Data"
+      ],
+      "location": null,
+      "format": "Historian export / vendor API",
+      "custodian": "Your utility",
+      "description": "Read-only telemetry is a future adapter. No equipment control is implemented.",
+      "configurationState": "requires_configuration",
+      "adapterStatus": "unimplemented",
+      "authentication": "endpoint_credentials",
+      "attribution": "Your utility",
+      "licenseUrl": ""
+    },
+    {
+      "id": "utility-oms",
+      "name": "Outage management",
+      "categories": [
+        "Time-Series & Historical Data",
+        "Infrastructure & Operational Data"
+      ],
+      "location": null,
+      "format": "CSV / vendor API",
+      "custodian": "Your utility",
+      "description": "Outage events and asset associations. Live OMS integration is a future adapter.",
+      "configurationState": "requires_configuration",
+      "adapterStatus": "unimplemented",
+      "authentication": "endpoint_credentials",
+      "attribution": "Your utility",
+      "licenseUrl": ""
+    },
+    {
+      "id": "enterprise",
+      "name": "Enterprise asset management",
+      "categories": [
+        "Infrastructure & Operational Data",
+        "Regulatory & Compliance Data"
+      ],
+      "location": null,
+      "format": "ERP / CRM API",
+      "custodian": "Your utility",
+      "description": "Asset records, maintenance, and regulatory metadata.",
+      "configurationState": "requires_configuration",
+      "adapterStatus": "unimplemented",
+      "authentication": "endpoint_credentials",
+      "attribution": "Your utility",
+      "licenseUrl": ""
+    },
+    {
+      "id": "simulation",
+      "name": "Predictive and simulation results",
+      "categories": [
+        "Predictive & Simulation Data"
+      ],
+      "location": null,
+      "format": "Twin JSON / future solver adapter",
+      "custodian": "Your utility",
+      "description": "Future engineering-study and predictive result datasets.",
+      "configurationState": "requires_configuration",
+      "adapterStatus": "unimplemented",
+      "authentication": "none",
+      "attribution": "Your utility",
+      "licenseUrl": ""
+    }
+  ],
+  "datasets": [],
+  "networks": [],
+  "assets": [],
+  "networkMemberships": [],
+  "nodes": [],
+  "terminals": [],
+  "series": [],
+  "observations": [],
+  "events": [],
+  "eventAssets": []
+}

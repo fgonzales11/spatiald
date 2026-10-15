@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "id": "osm-tampa-bay",
+  "name": "South Tampa · local OSM exports",
+  "bounds": [
+    -82.5314,
+    27.8737,
+    -82.4747,
+    27.938
+  ],
+  "files": [
+    {
+      "file": "map1.osm",
+      "sha256": "dbc91e07747d7d0b78de8b3a0ef4b2e254e68e8821fae645457a779b3956c91f",
+      "bounds": [
+        -82.53,
+        27.8737,
+        -82.4895,
+        27.8922
+      ],
+      "records": {
+        "node": 44834,
+        "way": 8305,
+        "relation": 45
+      }
+    },
+    {
+      "file": "map2.osm",
+      "sha256": "8bf71a62a87a73543bf70f927bfb0761b0922212002bb45fbeb3242087f12410",
+      "bounds": [
+        -82.53,
+        27.8928,
+        -82.4867,
+        27.9092
+      ],
+      "records": {
+        "node": 40051,
+        "way": 7246,
+        "relation": 74
+      }
+    },
+    {
+      "file": "map3.osm",
+      "sha256": "1ac3d6c4752536a1844693912fee44a717c5e01b723fe805ce36971bd712620f",
+      "bounds": [
+        -82.5314,
+        27.9098,
+        -82.4847,
+        27.9268
+      ],
+      "records": {
+        "node": 47480,
+        "way": 7975,
+        "relation": 55
+      }
+    },
+    {
+      "file": "map4.osm",
+      "sha256": "590c41cce8ec6faac502c80df3bb076082807427d5b7864e78ba772b02ea0971",
+      "bounds": [
+        -82.5314,
+        27.9247,
+        -82.4747,
+        27.938
+      ],
+      "records": {
+        "node": 52093,
+        "way": 7681,
+        "relation": 127
+      }
+    }
+  ],
+  "attribution": "© OpenStreetMap contributors",
+  "license": "ODbL-1.0",
+  "licenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "copyrightUrl": "https://www.openstreetmap.org/copyright",
+  "duplicatesRemoved": 14140,
+  "omissions": {
+    "missing relation member": 3
+  },
+  "omissionExamples": [
+    {
+      "id": "relation/7563366",
+      "reason": "missing relation member"
+    },
+    {
+      "id": "relation/16938622",
+      "reason": "missing relation member"
+    },
+    {
+      "id": "relation/16938829",
+      "reason": "missing relation member"
+    }
+  ],
+  "layers": [
+    {
+      "id": "roads",
+      "name": "Roads & paths",
+      "color": "#91b5c6",
+      "defaultVisible": true,
+      "count": 5225,
+      "file": "roads.geojson"
+    },
+    {
+      "id": "buildings",
+      "name": "Buildings",
+      "color": "#c5a879",
+      "defaultVisible": false,
+      "count": 22572,
+      "file": "buildings.geojson"
+    },
+    {
+      "id": "water",
+      "name": "Water & waterways",
+      "color": "#53b7e2",
+      "defaultVisible": true,
+      "count": 113,
+      "file": "water.geojson"
+    },
+    {
+      "id": "landcover",
+      "name": "Land cover & parks",
+      "color": "#6aab87",
+      "defaultVisible": false,
+      "count": 1660,
+      "file": "landcover.geojson"
+    },
+    {
+      "id": "places",
+      "name": "Places & amenities",
+      "color": "#be9ced",
+      "defaultVisible": false,
+      "count": 2055,
+      "file": "places.geojson"
+    },
+    {
+      "id": "utilities",
+      "name": "OSM utility features",
+      "color": "#ffb66e",
+      "defaultVisible": true,
+      "count": 577,
+      "file": "utilities.geojson"
+    }
+  ],
+  "featureCount": 32202
+}
