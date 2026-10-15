@@ -1,0 +1,1068 @@
+{
+  "state": {
+    "code": "GA",
+    "name": "Georgia",
+    "slug": "georgia"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/georgia",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:34.022Z",
+  "renderedHtmlSha256": "e3d3d45ed7f9657924b36d23e14d5350d66b868f8b1a4fc18c768d18eac79b03",
+  "heading": "Solar installations in Georgia",
+  "documentTitle": "Solar in Georgia — 680 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "680",
+  "stateCapacityDisplay": null,
+  "underReported": true,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Georgia",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Barrow County",
+        "277",
+        "0.89%",
+        "2.6 MW",
+        "—"
+      ],
+      "countyName": "Barrow County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/barrow-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Decatur County",
+        "10",
+        "0.08%",
+        "133.7 MW",
+        "—"
+      ],
+      "countyName": "Decatur County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/decatur-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jeff Davis Countylimited",
+        "9",
+        "0.14%",
+        "257.8 MW",
+        "—"
+      ],
+      "countyName": "Jeff Davis County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/jeff-davis-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Walton Countylimited",
+        "9",
+        "0.03%",
+        "55.7 MW",
+        "—"
+      ],
+      "countyName": "Walton County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/walton-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Burke Countylimited",
+        "8",
+        "0.07%",
+        "72.7 MW",
+        "—"
+      ],
+      "countyName": "Burke County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/burke-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Stewart Countylimited",
+        "8",
+        "0.38%",
+        "5.6 MW",
+        "—"
+      ],
+      "countyName": "Stewart County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/stewart-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lowndes Countylimited",
+        "7",
+        "0.01%",
+        "76.6 MW",
+        "—"
+      ],
+      "countyName": "Lowndes County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/lowndes-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Polk Countylimited",
+        "7",
+        "0.04%",
+        "13.3 MW",
+        "—"
+      ],
+      "countyName": "Polk County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/polk-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Richmond Countylimited",
+        "7",
+        "0.01%",
+        "151.6 MW",
+        "—"
+      ],
+      "countyName": "Richmond County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/richmond-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Early Countylimited",
+        "6",
+        "0.12%",
+        "32.8 MW",
+        "—"
+      ],
+      "countyName": "Early County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/early-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Fulton Countylimited",
+        "6",
+        "0.00%",
+        "6.6 MW",
+        "—"
+      ],
+      "countyName": "Fulton County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/fulton-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Taylor Countylimited",
+        "6",
+        "0.15%",
+        "72.2 MW",
+        "—"
+      ],
+      "countyName": "Taylor County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/taylor-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Terrell Countylimited",
+        "6",
+        "0.14%",
+        "47.7 MW",
+        "—"
+      ],
+      "countyName": "Terrell County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/terrell-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bulloch Countylimited",
+        "5",
+        "0.01%",
+        "17.2 MW",
+        "—"
+      ],
+      "countyName": "Bulloch County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/bulloch-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Mitchell Countylimited",
+        "5",
+        "0.06%",
+        "99.0 MW",
+        "—"
+      ],
+      "countyName": "Mitchell County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/mitchell-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Upson Countylimited",
+        "5",
+        "0.04%",
+        "6.4 MW",
+        "—"
+      ],
+      "countyName": "Upson County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/upson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Effingham Countylimited",
+        "4",
+        "0.02%",
+        "41.0 MW",
+        "—"
+      ],
+      "countyName": "Effingham County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/effingham-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lee Countylimited",
+        "4",
+        "0.03%",
+        "175.8 MW",
+        "—"
+      ],
+      "countyName": "Lee County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/lee-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Putnam Countylimited",
+        "4",
+        "0.03%",
+        "10.4 MW",
+        "—"
+      ],
+      "countyName": "Putnam County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/putnam-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wilkinson Countylimited",
+        "4",
+        "0.09%",
+        "9.6 MW",
+        "—"
+      ],
+      "countyName": "Wilkinson County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/wilkinson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bleckley Countylimited",
+        "3",
+        "0.06%",
+        "8.6 MW",
+        "—"
+      ],
+      "countyName": "Bleckley County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/bleckley-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "DeKalb Countylimited",
+        "3",
+        "0.00%",
+        "3.4 MW",
+        "—"
+      ],
+      "countyName": "DeKalb County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/dekalb-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Emanuel Countylimited",
+        "3",
+        "0.03%",
+        "5.6 MW",
+        "—"
+      ],
+      "countyName": "Emanuel County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/emanuel-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Franklin Countylimited",
+        "3",
+        "0.03%",
+        "4.7 MW",
+        "—"
+      ],
+      "countyName": "Franklin County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/franklin-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Harris Countylimited",
+        "3",
+        "0.02%",
+        "7.7 MW",
+        "—"
+      ],
+      "countyName": "Harris County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/harris-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Madison Countylimited",
+        "3",
+        "0.02%",
+        "6.1 MW",
+        "—"
+      ],
+      "countyName": "Madison County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/madison-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Meriwether Countylimited",
+        "3",
+        "0.03%",
+        "9.2 MW",
+        "—"
+      ],
+      "countyName": "Meriwether County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/meriwether-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sumter Countylimited",
+        "3",
+        "0.02%",
+        "82.8 MW",
+        "—"
+      ],
+      "countyName": "Sumter County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/sumter-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Troup Countylimited",
+        "3",
+        "0.01%",
+        "3.0 MW",
+        "—"
+      ],
+      "countyName": "Troup County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/troup-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Baldwin Countylimited",
+        "2",
+        "0.01%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Baldwin County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/baldwin-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bibb Countylimited",
+        "2",
+        "0.00%",
+        "871 kW",
+        "—"
+      ],
+      "countyName": "Bibb County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/bibb-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Brooks Countylimited",
+        "2",
+        "0.03%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Brooks County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/brooks-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Calhoun Countylimited",
+        "2",
+        "0.10%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Calhoun County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/calhoun-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clay Countylimited",
+        "2",
+        "0.10%",
+        "3.4 MW",
+        "—"
+      ],
+      "countyName": "Clay County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/clay-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Colquitt Countylimited",
+        "2",
+        "0.01%",
+        "32.0 MW",
+        "—"
+      ],
+      "countyName": "Colquitt County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/colquitt-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Glynn Countylimited",
+        "2",
+        "0.01%",
+        "25.4 MW",
+        "—"
+      ],
+      "countyName": "Glynn County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/glynn-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Gordon Countylimited",
+        "2",
+        "0.01%",
+        "7.0 MW",
+        "—"
+      ],
+      "countyName": "Gordon County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/gordon-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jones Countylimited",
+        "2",
+        "0.02%",
+        "4.4 MW",
+        "—"
+      ],
+      "countyName": "Jones County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/jones-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Murray Countylimited",
+        "2",
+        "0.01%",
+        "4.9 MW",
+        "—"
+      ],
+      "countyName": "Murray County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/murray-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Seminole Countylimited",
+        "2",
+        "0.04%",
+        "2.8 MW",
+        "—"
+      ],
+      "countyName": "Seminole County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/seminole-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Tattnall Countylimited",
+        "2",
+        "0.02%",
+        "4.7 MW",
+        "—"
+      ],
+      "countyName": "Tattnall County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/tattnall-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Telfair Countylimited",
+        "2",
+        "0.04%",
+        "4.0 MW",
+        "—"
+      ],
+      "countyName": "Telfair County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/telfair-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Toombs Countylimited",
+        "2",
+        "0.02%",
+        "553 kW",
+        "—"
+      ],
+      "countyName": "Toombs County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/toombs-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Twiggs Countylimited",
+        "2",
+        "0.05%",
+        "33.4 MW",
+        "—"
+      ],
+      "countyName": "Twiggs County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/twiggs-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Ware Countylimited",
+        "2",
+        "0.01%",
+        "6.5 MW",
+        "—"
+      ],
+      "countyName": "Ware County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/ware-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Warren Countylimited",
+        "2",
+        "0.08%",
+        "81.3 MW",
+        "—"
+      ],
+      "countyName": "Warren County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/warren-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Washington Countylimited",
+        "2",
+        "0.02%",
+        "9.7 MW",
+        "—"
+      ],
+      "countyName": "Washington County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/washington-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wayne Countylimited",
+        "2",
+        "0.02%",
+        "3.5 MW",
+        "—"
+      ],
+      "countyName": "Wayne County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/wayne-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Whitfield Countylimited",
+        "2",
+        "0.01%",
+        "8.5 MW",
+        "—"
+      ],
+      "countyName": "Whitfield County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/whitfield-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Appling Countylimited",
+        "1",
+        "0.01%",
+        "37.0 MW",
+        "—"
+      ],
+      "countyName": "Appling County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/appling-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bartow Countylimited",
+        "1",
+        "0.00%",
+        "3.5 MW",
+        "—"
+      ],
+      "countyName": "Bartow County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/bartow-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bryan Countylimited",
+        "1",
+        "0.01%",
+        "1.9 MW",
+        "—"
+      ],
+      "countyName": "Bryan County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/bryan-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Camden Countylimited",
+        "1",
+        "0.00%",
+        "41.5 MW",
+        "—"
+      ],
+      "countyName": "Camden County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/camden-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Candler Countylimited",
+        "1",
+        "0.02%",
+        "76.5 MW",
+        "—"
+      ],
+      "countyName": "Candler County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/candler-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Chatham Countylimited",
+        "1",
+        "0.00%",
+        "3.0 MW",
+        "—"
+      ],
+      "countyName": "Chatham County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/chatham-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Chattooga Countylimited",
+        "1",
+        "0.01%",
+        "3.5 MW",
+        "—"
+      ],
+      "countyName": "Chattooga County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/chattooga-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cobb Countylimited",
+        "1",
+        "0.00%",
+        "1.8 MW",
+        "—"
+      ],
+      "countyName": "Cobb County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/cobb-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Coffee Countylimited",
+        "1",
+        "0.01%",
+        "80.0 MW",
+        "—"
+      ],
+      "countyName": "Coffee County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/coffee-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Columbia Countylimited",
+        "1",
+        "0.00%",
+        "2.6 MW",
+        "—"
+      ],
+      "countyName": "Columbia County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/columbia-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Dougherty Countylimited",
+        "1",
+        "0.00%",
+        "43.2 MW",
+        "—"
+      ],
+      "countyName": "Dougherty County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/dougherty-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Douglas Countylimited",
+        "1",
+        "0.00%",
+        "3.9 MW",
+        "—"
+      ],
+      "countyName": "Douglas County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/douglas-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Echols Countylimited",
+        "1",
+        "0.07%",
+        "3.0 MW",
+        "—"
+      ],
+      "countyName": "Echols County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/echols-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Elbert Countylimited",
+        "1",
+        "0.01%",
+        "40.0 MW",
+        "—"
+      ],
+      "countyName": "Elbert County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/elbert-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Grady Countylimited",
+        "1",
+        "0.01%",
+        "2.6 MW",
+        "—"
+      ],
+      "countyName": "Grady County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/grady-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Greene Countylimited",
+        "1",
+        "0.01%",
+        "4.0 MW",
+        "—"
+      ],
+      "countyName": "Greene County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/greene-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Houston Countylimited",
+        "1",
+        "0.00%",
+        "98.0 MW",
+        "—"
+      ],
+      "countyName": "Houston County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/houston-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jackson Countylimited",
+        "1",
+        "0.00%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Jackson County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/jackson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jefferson Countylimited",
+        "1",
+        "0.01%",
+        "1.2 MW",
+        "—"
+      ],
+      "countyName": "Jefferson County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/jefferson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jenkins Countylimited",
+        "1",
+        "0.02%",
+        "28.2 MW",
+        "—"
+      ],
+      "countyName": "Jenkins County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/jenkins-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lanier Countylimited",
+        "1",
+        "0.02%",
+        "2.0 MW",
+        "—"
+      ],
+      "countyName": "Lanier County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/lanier-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Laurens Countylimited",
+        "1",
+        "0.01%",
+        "4.4 MW",
+        "—"
+      ],
+      "countyName": "Laurens County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/laurens-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Liberty Countylimited",
+        "1",
+        "0.00%",
+        "43.5 MW",
+        "—"
+      ],
+      "countyName": "Liberty County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/liberty-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Montgomery Countylimited",
+        "1",
+        "0.03%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Montgomery County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/montgomery-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Muscogee Countylimited",
+        "1",
+        "0.00%",
+        "2.1 MW",
+        "—"
+      ],
+      "countyName": "Muscogee County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/muscogee-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Oglethorpe Countylimited",
+        "1",
+        "0.02%",
+        "53.1 MW",
+        "—"
+      ],
+      "countyName": "Oglethorpe County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/oglethorpe-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Peach Countylimited",
+        "1",
+        "0.01%",
+        "15.1 MW",
+        "—"
+      ],
+      "countyName": "Peach County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/peach-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pierce Countylimited",
+        "1",
+        "0.01%",
+        "2.6 MW",
+        "—"
+      ],
+      "countyName": "Pierce County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/pierce-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Thomas Countylimited",
+        "1",
+        "0.01%",
+        "1.9 MW",
+        "—"
+      ],
+      "countyName": "Thomas County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/thomas-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Tift Countylimited",
+        "1",
+        "0.01%",
+        "2.7 MW",
+        "—"
+      ],
+      "countyName": "Tift County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/tift-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Treutlen Countylimited",
+        "1",
+        "0.04%",
+        "8 kW",
+        "—"
+      ],
+      "countyName": "Treutlen County",
+      "countyUrl": "https://panelcensus.com/solar/georgia/treutlen-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0551304",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0551304",
+  "listingPageNumber": 15,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "May 23, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:55.000Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9005, -82.5255",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9004594&mlon=-82.5255187#map=17/27.9004594/-82.5255187",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0551304",
+  "siteName": "4717 W Fair Oaks Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9004594,
+  "longitude": -82.5255187,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

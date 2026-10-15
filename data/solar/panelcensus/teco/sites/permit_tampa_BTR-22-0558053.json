@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0558053",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0558053",
+  "listingPageNumber": 7,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "8.9 kW",
+    "Sep 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:52:28.998Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8860, -82.5125",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8859974&mlon=-82.5124945#map=17/27.8859974/-82.5124945",
+  "parties": [
+    {
+      "name": "City OF Tampa",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0558053",
+  "siteName": "4104 W Tyson Ave (ACA)",
+  "sizeDisplay": "8.9 kW",
+  "latitude": 27.8859974,
+  "longitude": -82.5124945,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 8.9,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

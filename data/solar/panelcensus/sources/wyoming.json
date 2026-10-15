@@ -1,0 +1,80 @@
+{
+  "state": {
+    "code": "WY",
+    "name": "Wyoming",
+    "slug": "wyoming"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/wyoming",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:47.315Z",
+  "renderedHtmlSha256": "61c49bbfea1c7ce931226a0bf5f7a93ecb45b5cae92f92c1c9a3085fcc540be0",
+  "heading": "Solar installations in Wyoming",
+  "documentTitle": "Solar in Wyoming — 9 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "9",
+  "stateCapacityDisplay": null,
+  "underReported": true,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Wyoming",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Sweetwater Countylimited",
+        "2",
+        "0.01%",
+        "98.6 MW",
+        "—"
+      ],
+      "countyName": "Sweetwater County",
+      "countyUrl": "https://panelcensus.com/solar/wyoming/sweetwater-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Albany Countylimited",
+        "1",
+        "0.01%",
+        "7 kW",
+        "—"
+      ],
+      "countyName": "Albany County",
+      "countyUrl": "https://panelcensus.com/solar/wyoming/albany-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Laramie Countylimited",
+        "1",
+        "0.00%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Laramie County",
+      "countyUrl": "https://panelcensus.com/solar/wyoming/laramie-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lincoln Countylimited",
+        "1",
+        "0.01%",
+        "34 kW",
+        "—"
+      ],
+      "countyName": "Lincoln County",
+      "countyUrl": "https://panelcensus.com/solar/wyoming/lincoln-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

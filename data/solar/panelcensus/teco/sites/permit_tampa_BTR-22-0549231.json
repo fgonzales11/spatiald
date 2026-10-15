@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0549231",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0549231",
+  "listingPageNumber": 17,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Apr 13, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:00:21.412Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0392, -82.4543",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0391759&mlon=-82.4542558#map=17/28.0391759/-82.4542558",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0549231",
+  "siteName": "701 Orchid Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0391759,
+  "longitude": -82.4542558,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

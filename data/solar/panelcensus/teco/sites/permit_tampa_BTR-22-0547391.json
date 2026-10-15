@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0547391",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0547391",
+  "listingPageNumber": 19,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 10, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:10.536Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1501, -82.3655",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1501447&mlon=-82.3654963#map=17/28.1501447/-82.3654963",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0547391",
+  "siteName": "8506 Parrots Landing Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1501447,
+  "longitude": -82.3654963,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

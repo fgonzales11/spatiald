@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555152",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555152",
+  "listingPageNumber": 11,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jul 29, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:55:25.612Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0502, -82.4796",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.050234&mlon=-82.4796295#map=17/28.050234/-82.4796295",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555152",
+  "siteName": "11301 N Armenia Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.050234,
+  "longitude": -82.4796295,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,184 @@
+{
+  "state": {
+    "code": "AL",
+    "name": "Alabama",
+    "slug": "alabama"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/alabama",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:30.977Z",
+  "renderedHtmlSha256": "7611207f6a83f02e52d6f6841b2fddfd0b3c8c1f418a04e768016a6b3ff5b09c",
+  "heading": "Solar installations in Alabama",
+  "documentTitle": "Solar in Alabama — 40 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "40",
+  "stateCapacityDisplay": null,
+  "underReported": true,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Alabama",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Calhoun Countylimited",
+        "5",
+        "0.01%",
+        "12.6 MW",
+        "—"
+      ],
+      "countyName": "Calhoun County",
+      "countyUrl": "https://panelcensus.com/solar/alabama/calhoun-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Covington Countylimited",
+        "4",
+        "0.02%",
+        "81.8 MW",
+        "—"
+      ],
+      "countyName": "Covington County",
+      "countyUrl": "https://panelcensus.com/solar/alabama/covington-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Madison Countylimited",
+        "3",
+        "0.00%",
+        "52.4 MW",
+        "—"
+      ],
+      "countyName": "Madison County",
+      "countyUrl": "https://panelcensus.com/solar/alabama/madison-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Limestone Countylimited",
+        "2",
+        "0.01%",
+        "20.0 MW",
+        "—"
+      ],
+      "countyName": "Limestone County",
+      "countyUrl": "https://panelcensus.com/solar/alabama/limestone-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Chambers Countylimited",
+        "1",
+        "0.01%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Chambers County",
+      "countyUrl": "https://panelcensus.com/solar/alabama/chambers-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Colbert Countylimited",
+        "1",
+        "0.00%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Colbert County",
+      "countyUrl": "https://panelcensus.com/solar/alabama/colbert-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Dale Countylimited",
+        "1",
+        "0.00%",
+        "12.7 MW",
+        "—"
+      ],
+      "countyName": "Dale County",
+      "countyUrl": "https://panelcensus.com/solar/alabama/dale-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jefferson Countylimited",
+        "1",
+        "0.00%",
+        "6 kW",
+        "—"
+      ],
+      "countyName": "Jefferson County",
+      "countyUrl": "https://panelcensus.com/solar/alabama/jefferson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lauderdale Countylimited",
+        "1",
+        "0.00%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Lauderdale County",
+      "countyUrl": "https://panelcensus.com/solar/alabama/lauderdale-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Mobile Countylimited",
+        "1",
+        "0.00%",
+        "114 kW",
+        "—"
+      ],
+      "countyName": "Mobile County",
+      "countyUrl": "https://panelcensus.com/solar/alabama/mobile-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Montgomery Countylimited",
+        "1",
+        "0.00%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Montgomery County",
+      "countyUrl": "https://panelcensus.com/solar/alabama/montgomery-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Russell Countylimited",
+        "1",
+        "0.00%",
+        "41.5 MW",
+        "—"
+      ],
+      "countyName": "Russell County",
+      "countyUrl": "https://panelcensus.com/solar/alabama/russell-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

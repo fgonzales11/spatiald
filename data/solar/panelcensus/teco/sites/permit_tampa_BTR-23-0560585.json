@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560585",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560585",
+  "listingPageNumber": 4,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 16, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:35:06.654Z",
+  "siteName": "3416 W Palmira Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9224, -82.4990",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9224465&mlon=-82.4990385#map=17/27.9224465/-82.4990385",
+  "recordId": "permit_tampa_BTR-23-0560585",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.9224465,
+  "longitude": -82.4990385,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

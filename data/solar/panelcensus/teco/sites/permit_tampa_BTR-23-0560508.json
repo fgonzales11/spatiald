@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560508",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560508",
+  "listingPageNumber": 4,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 14, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:35:29.546Z",
+  "siteName": "19120 Mandarin Grove Pl (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.1503, -82.3732",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.150263&mlon=-82.3732107#map=17/28.150263/-82.3732107",
+  "recordId": "permit_tampa_BTR-23-0560508",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.150263,
+  "longitude": -82.3732107,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0551728",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0551728",
+  "listingPageNumber": 15,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 1, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:40.254Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0296, -82.4117",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0295808&mlon=-82.4116604#map=17/28.0295808/-82.4116604",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0551728",
+  "siteName": "8720 N Tangerine Pl (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0295808,
+  "longitude": -82.4116604,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

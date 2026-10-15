@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0551674",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0551674",
+  "listingPageNumber": 15,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "10.7 kW",
+    "May 31, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:45.703Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9420, -82.4997",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9420094&mlon=-82.4996761#map=17/27.9420094/-82.4996761",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0551674",
+  "siteName": "3418 Gables Ct (ACA)",
+  "sizeDisplay": "10.7 kW",
+  "latitude": 27.9420094,
+  "longitude": -82.4996761,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 10.7,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

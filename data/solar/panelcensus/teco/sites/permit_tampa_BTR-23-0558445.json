@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0558445",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0558445",
+  "listingPageNumber": 6,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Oct 11, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:51:55.233Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1592, -82.2924",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.15924&mlon=-82.2923534#map=17/28.15924/-82.2923534",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0558445",
+  "siteName": "10810 Highland Ranch Ct (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.15924,
+  "longitude": -82.2923534,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

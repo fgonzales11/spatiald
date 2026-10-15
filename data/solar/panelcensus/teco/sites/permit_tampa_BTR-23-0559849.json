@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559849",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559849",
+  "listingPageNumber": 5,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Oct 31, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:36:32.115Z",
+  "siteName": "2011 E Giddens Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9951, -82.4365",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9950855&mlon=-82.436541#map=17/27.9950855/-82.436541",
+  "recordId": "permit_tampa_BTR-23-0559849",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.9950855,
+  "longitude": -82.436541,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

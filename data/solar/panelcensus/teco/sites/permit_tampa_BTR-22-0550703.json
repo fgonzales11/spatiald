@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0550703",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0550703",
+  "listingPageNumber": 23,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "—",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:37.610Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9903, -82.4439",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9902951&mlon=-82.4439228#map=17/27.9902951/-82.4439228",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0550703",
+  "siteName": "1402 E New Orleans Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9902951,
+  "longitude": -82.4439228,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

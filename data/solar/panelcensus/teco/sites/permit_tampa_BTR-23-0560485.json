@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560485",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560485",
+  "listingPageNumber": 4,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "9 kW",
+    "Nov 14, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:35:35.707Z",
+  "siteName": "2327 E 111th Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "9 kW",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0494, -82.4331",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0494014&mlon=-82.4331125#map=17/28.0494014/-82.4331125",
+  "recordId": "permit_tampa_BTR-23-0560485",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 9,
+  "latitude": 28.0494014,
+  "longitude": -82.4331125,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0557192",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557192",
+  "listingPageNumber": 8,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Sep 2, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:53:19.644Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1291, -82.3495",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1290734&mlon=-82.3494946#map=17/28.1290734/-82.3494946",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0557192",
+  "siteName": "9055 Quail Creek Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1290734,
+  "longitude": -82.3494946,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

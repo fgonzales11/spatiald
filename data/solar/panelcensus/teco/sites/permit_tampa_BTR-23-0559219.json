@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559219",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559219",
+  "listingPageNumber": 6,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Oct 17, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:51:08.882Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1544, -82.3103",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1544353&mlon=-82.3102941#map=17/28.1544353/-82.3102941",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0559219",
+  "siteName": "10452 Lucaya Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1544353,
+  "longitude": -82.3102941,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

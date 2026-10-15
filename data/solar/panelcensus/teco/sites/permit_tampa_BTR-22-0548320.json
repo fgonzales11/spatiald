@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0548320",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0548320",
+  "listingPageNumber": 18,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 28, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:01:13.646Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1495, -82.3632",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1494546&mlon=-82.3632411#map=17/28.1494546/-82.3632411",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0548320",
+  "siteName": "19203 Dove Creek Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1494546,
+  "longitude": -82.3632411,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,40 @@
+{
+  "siteId": "permit_tampa_BTR-23-0562038",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0562038",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "17.2 kW",
+    "Dec 19, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:27.104Z",
+  "siteName": "911 E Knollwood St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "17.2 kW",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0079, -82.4511",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0079027&mlon=-82.4510777#map=17/28.0079027/-82.4510777",
+  "recordId": "permit_tampa_BTR-23-0562038",
+  "parties": [
+    {
+      "role": "Owner",
+      "name": "Njp LLC"
+    },
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 17.2,
+  "latitude": 28.0079027,
+  "longitude": -82.4510777,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

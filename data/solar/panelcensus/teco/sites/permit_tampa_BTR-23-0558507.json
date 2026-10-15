@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0558507",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0558507",
+  "listingPageNumber": 7,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Oct 5, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:52:10.842Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0426, -82.4775",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0425711&mlon=-82.4775251#map=17/28.0425711/-82.4775251",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0558507",
+  "siteName": "Reissue: 10203 N Valle Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0425711,
+  "longitude": -82.4775251,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

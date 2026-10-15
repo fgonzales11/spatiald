@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0557305",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557305",
+  "listingPageNumber": 8,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "14.4 kW",
+    "Sep 7, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:53:13.871Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9755, -82.4912",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9755261&mlon=-82.4912094#map=17/27.9755261/-82.4912094",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0557305",
+  "siteName": "3009 W Collins St (ACA)",
+  "sizeDisplay": "14.4 kW",
+  "latitude": 27.9755261,
+  "longitude": -82.4912094,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 14.4,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

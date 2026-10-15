@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0548557",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0548557",
+  "listingPageNumber": 18,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 31, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:01:06.297Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9537, -82.5102",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9536941&mlon=-82.5102116#map=17/27.9536941/-82.5102116",
+  "parties": [
+    {
+      "name": "Dept OF Transportation",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0548557",
+  "siteName": "4021 W Nassau St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9536941,
+  "longitude": -82.5102116,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

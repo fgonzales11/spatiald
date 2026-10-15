@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556619",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556619",
+  "listingPageNumber": 9,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "8.5 kW",
+    "Aug 23, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:06.786Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9829, -82.4687",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.982863&mlon=-82.4687073#map=17/27.982863/-82.4687073",
+  "parties": [
+    {
+      "name": "Swami Krupa Real Estate LLC",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556619",
+  "siteName": "4108 N Munro St (ACA)",
+  "sizeDisplay": "8.5 kW",
+  "latitude": 27.982863,
+  "longitude": -82.4687073,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 8.5,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

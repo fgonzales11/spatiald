@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0550218",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0550218",
+  "listingPageNumber": 16,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "May 3, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:59:52.437Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9987, -82.4386",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9987407&mlon=-82.4385832#map=17/27.9987407/-82.4385832",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0550218",
+  "siteName": "1911 E Powhatan Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9987407,
+  "longitude": -82.4385832,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

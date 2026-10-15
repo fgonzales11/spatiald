@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0551980",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0551980",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 6, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:32.915Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9126, -82.5248",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9125636&mlon=-82.5247737#map=17/27.9125636/-82.5247737",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0551980",
+  "siteName": "4715 W Vasconia St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9125636,
+  "longitude": -82.5247737,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0545550",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0545550",
+  "listingPageNumber": 21,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Feb 3, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:26.433Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1634, -82.3177",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1634118&mlon=-82.3176968#map=17/28.1634118/-82.3176968",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0545550",
+  "siteName": "19324 Hawk Valley Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1634118,
+  "longitude": -82.3176968,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

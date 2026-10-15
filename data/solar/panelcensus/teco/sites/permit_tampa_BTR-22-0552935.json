@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0552935",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0552935",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 22, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:29.533Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9986, -82.4933",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9986447&mlon=-82.4933086#map=17/27.9986447/-82.4933086",
+  "parties": [
+    {
+      "name": "Mcn Trailer Park LLC",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0552935",
+  "siteName": "3114 W Powhatan Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9986447,
+  "longitude": -82.4933086,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

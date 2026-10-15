@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0547932",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0547932",
+  "listingPageNumber": 18,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "7.6 kW",
+    "Mar 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:01:22.906Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9696, -82.4698",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9696041&mlon=-82.4697885#map=17/27.9696041/-82.4697885",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0547932",
+  "siteName": "801 W Coral St (ACA)",
+  "sizeDisplay": "7.6 kW",
+  "latitude": 27.9696041,
+  "longitude": -82.4697885,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 7.6,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

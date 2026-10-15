@@ -1,0 +1,32 @@
+{
+  "models_read": 63,
+  "device_rows": 883,
+  "sgen_circuit_rows": 1758,
+  "pv_name_rows": 0,
+  "with_coordinates": 883,
+  "bus_geojson_validated": 883,
+  "unique_nonempty_generator_names": 881,
+  "source_tables": {
+    "InstDGens": 880,
+    "InstGenerators": 3
+  },
+  "selection": "all",
+  "source_directory": "/Users/admin/git/itron_pf_platform/pkls/core_product_client/teco",
+  "extracted_utc": "2026-10-12T01:50:47.781827+00:00",
+  "comparison": {
+    "model_devices": 883,
+    "public_sites_read": 1112,
+    "public_sites_with_coordinates": 1112,
+    "candidate_radius_m": 50,
+    "earth_radius_m": 6371008.8,
+    "comparison_status_counts": {
+      "no public site within 50m": 794,
+      "one spatial candidate within 50m": 78,
+      "multiple spatial candidates within 50m": 11
+    },
+    "scope": "Only the supplied 63 feeder models; public search covers the operator more broadly.",
+    "identity_verification": "Spatial candidates only; numeric model IDs are not linked to public permit IDs.",
+    "capacity_comparison": "Model p_mw is operating power; no installed capacity or technology is available for confirmation."
+  },
+  "csv_sha256": "b0c150434248f7efc975eac6dc091c2c0494298893a786fa668a67d801467bd6"
+}

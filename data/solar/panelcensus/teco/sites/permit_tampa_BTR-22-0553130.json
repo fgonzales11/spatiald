@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0553130",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0553130",
+  "listingPageNumber": 13,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 24, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:27.989Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1097, -82.3926",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1096809&mlon=-82.3925961#map=17/28.1096809/-82.3925961",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0553130",
+  "siteName": "16220 Nottingham Park Way (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1096809,
+  "longitude": -82.3925961,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

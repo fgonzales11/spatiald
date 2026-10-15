@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0553218",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0553218",
+  "listingPageNumber": 13,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "13.5 kW",
+    "Jun 27, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:25.142Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9459, -82.4923",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9459439&mlon=-82.4923473#map=17/27.9459439/-82.4923473",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0553218",
+  "siteName": "3025 W North A St (ACA)",
+  "sizeDisplay": "13.5 kW",
+  "latitude": 27.9459439,
+  "longitude": -82.4923473,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 13.5,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

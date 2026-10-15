@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555447",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555447",
+  "listingPageNumber": 11,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "7.6 kW",
+    "Aug 3, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:55:18.583Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0253, -82.4364",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0252637&mlon=-82.4364286#map=17/28.0252637/-82.4364286",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555447",
+  "siteName": "2011 E Waters Ave (ACA)",
+  "sizeDisplay": "7.6 kW",
+  "latitude": 28.0252637,
+  "longitude": -82.4364286,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 7.6,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

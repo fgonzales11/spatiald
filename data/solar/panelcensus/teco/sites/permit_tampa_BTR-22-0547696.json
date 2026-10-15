@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0547696",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0547696",
+  "listingPageNumber": 18,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 16, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:01:29.415Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0258, -82.4420",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0257666&mlon=-82.4420433#map=17/28.0257666/-82.4420433",
+  "parties": [
+    {
+      "name": "City OF Tampa",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0547696",
+  "siteName": "8423 N Semmes St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0257666,
+  "longitude": -82.4420433,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

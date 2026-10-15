@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0558158",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0558158",
+  "listingPageNumber": 7,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Sep 23, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:52:21.409Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0447, -82.4084",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0446714&mlon=-82.408395#map=17/28.0446714/-82.408395",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0558158",
+  "siteName": "10416 N Connechusett Rd (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0446714,
+  "longitude": -82.408395,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

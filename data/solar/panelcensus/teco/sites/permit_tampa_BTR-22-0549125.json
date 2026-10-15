@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0549125",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0549125",
+  "listingPageNumber": 17,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Apr 12, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:00:23.486Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8847, -82.5104",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8847254&mlon=-82.5104276#map=17/27.8847254/-82.5104276",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0549125",
+  "siteName": "4001 W Leila Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.8847254,
+  "longitude": -82.5104276,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

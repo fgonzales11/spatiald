@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0544071",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0544071",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "9.2 kW",
+    "Jan 3, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:26.148Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9616, -82.4901",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9615694&mlon=-82.4901096#map=17/27.9615694/-82.4901096",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0544071",
+  "siteName": "2948 W Cherry St (ACA)",
+  "sizeDisplay": "9.2 kW",
+  "latitude": 27.9615694,
+  "longitude": -82.4901096,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 9.2,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

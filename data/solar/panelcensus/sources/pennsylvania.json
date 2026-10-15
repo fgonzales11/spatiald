@@ -1,0 +1,899 @@
+{
+  "state": {
+    "code": "PA",
+    "name": "Pennsylvania",
+    "slug": "pennsylvania"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/pennsylvania",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:43.470Z",
+  "renderedHtmlSha256": "7aad109d983a32d520b57753c0b17c3d9dcd795923f5d7abe32a2d789ac8e8dc",
+  "heading": "Solar installations in Pennsylvania",
+  "documentTitle": "Solar in Pennsylvania — 24,310 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "24,310",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Pennsylvania",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Philadelphia County",
+        "7,844",
+        "1.1%",
+        "93.4 MW",
+        "$6.50/W"
+      ],
+      "countyName": "Philadelphia County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/philadelphia-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Allegheny County",
+        "1,599",
+        "0.26%",
+        "59.2 MW",
+        "$5.94/W"
+      ],
+      "countyName": "Allegheny County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/allegheny-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lancaster County",
+        "1,520",
+        "0.70%",
+        "127.8 MW",
+        "$5.50/W"
+      ],
+      "countyName": "Lancaster County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/lancaster-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Berks County",
+        "1,252",
+        "0.73%",
+        "68.7 MW",
+        "$5.80/W"
+      ],
+      "countyName": "Berks County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/berks-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Chester County",
+        "1,082",
+        "0.51%",
+        "36.7 MW",
+        "$6.10/W"
+      ],
+      "countyName": "Chester County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/chester-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Montgomery County",
+        "946",
+        "0.27%",
+        "50.8 MW",
+        "$6.14/W"
+      ],
+      "countyName": "Montgomery County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/montgomery-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bucks County",
+        "869",
+        "0.34%",
+        "34.6 MW",
+        "$6.25/W"
+      ],
+      "countyName": "Bucks County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/bucks-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "York County",
+        "676",
+        "0.36%",
+        "91.7 MW",
+        "$5.93/W"
+      ],
+      "countyName": "York County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/york-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cumberland County",
+        "426",
+        "0.39%",
+        "53.6 MW",
+        "$5.87/W"
+      ],
+      "countyName": "Cumberland County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/cumberland-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Northampton County",
+        "400",
+        "0.31%",
+        "34.5 MW",
+        "$6.14/W"
+      ],
+      "countyName": "Northampton County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/northampton-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lehigh County",
+        "368",
+        "0.24%",
+        "28.0 MW",
+        "$6.15/W"
+      ],
+      "countyName": "Lehigh County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/lehigh-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Dauphin County",
+        "353",
+        "0.28%",
+        "28.3 MW",
+        "$5.82/W"
+      ],
+      "countyName": "Dauphin County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/dauphin-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lebanon County",
+        "341",
+        "0.57%",
+        "24.6 MW",
+        "$5.75/W"
+      ],
+      "countyName": "Lebanon County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/lebanon-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Delaware County",
+        "340",
+        "0.15%",
+        "9.7 MW",
+        "$6.21/W"
+      ],
+      "countyName": "Delaware County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/delaware-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Luzerne County",
+        "241",
+        "0.16%",
+        "8.9 MW",
+        "$6.65/W"
+      ],
+      "countyName": "Luzerne County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/luzerne-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Schuylkill County",
+        "214",
+        "0.32%",
+        "20.9 MW",
+        "$6.04/W"
+      ],
+      "countyName": "Schuylkill County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/schuylkill-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Franklin County",
+        "209",
+        "0.31%",
+        "129.0 MW",
+        "$5.77/W"
+      ],
+      "countyName": "Franklin County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/franklin-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Monroe County",
+        "207",
+        "0.26%",
+        "12.9 MW",
+        "$6.35/W"
+      ],
+      "countyName": "Monroe County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/monroe-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Adams County",
+        "185",
+        "0.43%",
+        "87.5 MW",
+        "$5.58/W"
+      ],
+      "countyName": "Adams County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/adams-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Centre County",
+        "164",
+        "0.25%",
+        "17.1 MW",
+        "$6.50/W"
+      ],
+      "countyName": "Centre County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/centre-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Columbia County",
+        "159",
+        "0.53%",
+        "14.2 MW",
+        "$6.17/W"
+      ],
+      "countyName": "Columbia County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/columbia-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Perry County",
+        "156",
+        "0.78%",
+        "9.6 MW",
+        "$5.82/W"
+      ],
+      "countyName": "Perry County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/perry-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Northumberland County",
+        "134",
+        "0.31%",
+        "56.0 MW",
+        "$5.28/W"
+      ],
+      "countyName": "Northumberland County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/northumberland-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Westmoreland County",
+        "130",
+        "0.08%",
+        "58.4 MW",
+        "$5.21/W"
+      ],
+      "countyName": "Westmoreland County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/westmoreland-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lackawanna County",
+        "127",
+        "0.13%",
+        "6.8 MW",
+        "$6.38/W"
+      ],
+      "countyName": "Lackawanna County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/lackawanna-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lycoming County",
+        "119",
+        "0.23%",
+        "10.4 MW",
+        "$5.51/W"
+      ],
+      "countyName": "Lycoming County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/lycoming-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wayne County",
+        "104",
+        "0.32%",
+        "1.6 MW",
+        "$5.85/W"
+      ],
+      "countyName": "Wayne County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/wayne-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Washington County",
+        "100",
+        "0.10%",
+        "30.7 MW",
+        "$5.50/W"
+      ],
+      "countyName": "Washington County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/washington-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Snyder County",
+        "96",
+        "0.60%",
+        "32.2 MW",
+        "$5.75/W"
+      ],
+      "countyName": "Snyder County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/snyder-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Carbon County",
+        "94",
+        "0.27%",
+        "30.9 MW",
+        "$5.82/W"
+      ],
+      "countyName": "Carbon County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/carbon-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Union County",
+        "92",
+        "0.57%",
+        "6.1 MW",
+        "$5.63/W"
+      ],
+      "countyName": "Union County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/union-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Erie County",
+        "90",
+        "0.07%",
+        "25.9 MW",
+        "$5.85/W"
+      ],
+      "countyName": "Erie County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/erie-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Beaver County",
+        "82",
+        "0.10%",
+        "72.7 MW",
+        "$5.39/W"
+      ],
+      "countyName": "Beaver County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/beaver-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Montour County",
+        "77",
+        "0.95%",
+        "9.6 MW",
+        "$5.37/W"
+      ],
+      "countyName": "Montour County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/montour-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bradford County",
+        "67",
+        "0.23%",
+        "2.7 MW",
+        "$6.67/W"
+      ],
+      "countyName": "Bradford County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/bradford-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Mifflin County",
+        "60",
+        "0.28%",
+        "8.9 MW",
+        "$5.57/W"
+      ],
+      "countyName": "Mifflin County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/mifflin-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Juniata County",
+        "59",
+        "0.56%",
+        "24.1 MW",
+        "$5.50/W"
+      ],
+      "countyName": "Juniata County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/juniata-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Blair County",
+        "58",
+        "0.10%",
+        "1.5 MW",
+        "—"
+      ],
+      "countyName": "Blair County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/blair-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Butler County",
+        "58",
+        "0.07%",
+        "8.7 MW",
+        "$5.05/W"
+      ],
+      "countyName": "Butler County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/butler-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pike County",
+        "54",
+        "0.14%",
+        "1.1 MW",
+        "$6.15/W"
+      ],
+      "countyName": "Pike County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/pike-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cambria County",
+        "53",
+        "0.08%",
+        "3.0 MW",
+        "—"
+      ],
+      "countyName": "Cambria County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/cambria-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Susquehanna County",
+        "46",
+        "0.22%",
+        "1.1 MW",
+        "$6.29/W"
+      ],
+      "countyName": "Susquehanna County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/susquehanna-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Fayette County",
+        "41",
+        "0.07%",
+        "60.8 MW",
+        "—"
+      ],
+      "countyName": "Fayette County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/fayette-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clinton County",
+        "38",
+        "0.20%",
+        "685 kW",
+        "$5.83/W"
+      ],
+      "countyName": "Clinton County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/clinton-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Mercer County",
+        "37",
+        "0.07%",
+        "39.7 MW",
+        "—"
+      ],
+      "countyName": "Mercer County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/mercer-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Somerset County",
+        "33",
+        "0.09%",
+        "22.0 MW",
+        "—"
+      ],
+      "countyName": "Somerset County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/somerset-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bedford County",
+        "28",
+        "0.12%",
+        "1.2 MW",
+        "—"
+      ],
+      "countyName": "Bedford County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/bedford-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wyoming County",
+        "27",
+        "0.21%",
+        "261 kW",
+        "—"
+      ],
+      "countyName": "Wyoming County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/wyoming-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Indiana County",
+        "23",
+        "0.06%",
+        "853 kW",
+        "—"
+      ],
+      "countyName": "Indiana County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/indiana-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Fulton County",
+        "20",
+        "0.28%",
+        "83.5 MW",
+        "—"
+      ],
+      "countyName": "Fulton County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/fulton-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Huntingdon County",
+        "20",
+        "0.10%",
+        "1.5 MW",
+        "—"
+      ],
+      "countyName": "Huntingdon County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/huntingdon-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Tioga County",
+        "19",
+        "0.09%",
+        "2.5 MW",
+        "—"
+      ],
+      "countyName": "Tioga County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/tioga-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Crawford County",
+        "18",
+        "0.04%",
+        "357 kW",
+        "—"
+      ],
+      "countyName": "Crawford County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/crawford-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lawrence County",
+        "15",
+        "0.04%",
+        "2.8 MW",
+        "—"
+      ],
+      "countyName": "Lawrence County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/lawrence-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Greene County",
+        "14",
+        "0.09%",
+        "496 kW",
+        "—"
+      ],
+      "countyName": "Greene County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/greene-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clearfield County",
+        "11",
+        "0.03%",
+        "40.3 MW",
+        "—"
+      ],
+      "countyName": "Clearfield County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/clearfield-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Elk Countylimited",
+        "9",
+        "0.05%",
+        "900 kW",
+        "—"
+      ],
+      "countyName": "Elk County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/elk-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Armstrong Countylimited",
+        "8",
+        "0.03%",
+        "147 kW",
+        "—"
+      ],
+      "countyName": "Armstrong County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/armstrong-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jefferson Countylimited",
+        "8",
+        "0.04%",
+        "105 kW",
+        "—"
+      ],
+      "countyName": "Jefferson County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/jefferson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sullivan Countylimited",
+        "7",
+        "0.13%",
+        "106 kW",
+        "—"
+      ],
+      "countyName": "Sullivan County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/sullivan-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Venango Countylimited",
+        "7",
+        "0.03%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Venango County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/venango-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clarion Countylimited",
+        "6",
+        "0.03%",
+        "65 kW",
+        "—"
+      ],
+      "countyName": "Clarion County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/clarion-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Forest Countylimited",
+        "3",
+        "0.04%",
+        "528 kW",
+        "—"
+      ],
+      "countyName": "Forest County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/forest-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Potter Countylimited",
+        "3",
+        "0.02%",
+        "19 kW",
+        "—"
+      ],
+      "countyName": "Potter County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/potter-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cameron Countylimited",
+        "2",
+        "0.05%",
+        "38 kW",
+        "—"
+      ],
+      "countyName": "Cameron County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/cameron-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "McKean Countylimited",
+        "1",
+        "0.01%",
+        "44 kW",
+        "—"
+      ],
+      "countyName": "McKean County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/mckean-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Warren Countylimited",
+        "1",
+        "0.01%",
+        "32 kW",
+        "—"
+      ],
+      "countyName": "Warren County",
+      "countyUrl": "https://panelcensus.com/solar/pennsylvania/warren-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

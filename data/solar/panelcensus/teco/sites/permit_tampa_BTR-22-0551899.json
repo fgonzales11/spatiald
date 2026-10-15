@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0551899",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0551899",
+  "listingPageNumber": 15,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "13.5 kW",
+    "Jun 3, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:36.099Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9311, -82.5105",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9311225&mlon=-82.5104982#map=17/27.9311225/-82.5104982",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0551899",
+  "siteName": "4024 W Zelar St (ACA)",
+  "sizeDisplay": "13.5 kW",
+  "latitude": 27.9311225,
+  "longitude": -82.5104982,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 13.5,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

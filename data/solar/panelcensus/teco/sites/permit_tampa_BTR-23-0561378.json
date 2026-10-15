@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561378",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561378",
+  "listingPageNumber": 3,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 5, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:45.086Z",
+  "siteName": "3804 N 53rd St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9797, -82.3962",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9797293&mlon=-82.3961781#map=17/27.9797293/-82.3961781",
+  "recordId": "permit_tampa_BTR-23-0561378",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.9797293,
+  "longitude": -82.3961781,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

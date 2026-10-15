@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0550290",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0550290",
+  "listingPageNumber": 16,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "May 4, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:59:51.856Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0189, -82.4523",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.018926&mlon=-82.4523343#map=17/28.018926/-82.4523343",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0550290",
+  "siteName": "801 E Hanlon St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.018926,
+  "longitude": -82.4523343,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0550954",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0550954",
+  "listingPageNumber": 16,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "May 17, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:59:41.390Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9171, -82.5042",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9170551&mlon=-82.5041769#map=17/27.9170551/-82.5041769",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0550954",
+  "siteName": "3709 W Obispo St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9170551,
+  "longitude": -82.5041769,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

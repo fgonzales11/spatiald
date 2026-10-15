@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0558957",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0558957",
+  "listingPageNumber": 6,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Oct 12, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:51:49.387Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1673, -82.3135",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1673386&mlon=-82.313456#map=17/28.1673386/-82.313456",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0558957",
+  "siteName": "19402 Redwood Point Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1673386,
+  "longitude": -82.313456,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

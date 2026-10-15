@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0546045",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0546045",
+  "listingPageNumber": 20,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Feb 14, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:15.856Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9919, -82.4497",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9918519&mlon=-82.449744#map=17/27.9918519/-82.449744",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0546045",
+  "siteName": "1015 E Caracas St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9918519,
+  "longitude": -82.449744,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

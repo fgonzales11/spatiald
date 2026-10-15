@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561955",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561955",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 16, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:30.527Z",
+  "siteName": "2006 E Wood St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0276, -82.4356",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0276409&mlon=-82.4355996#map=17/28.0276409/-82.4355996",
+  "recordId": "permit_tampa_BTR-23-0561955",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.0276409,
+  "longitude": -82.4355996,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

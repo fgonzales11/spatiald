@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0550572",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0550572",
+  "listingPageNumber": 16,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "May 10, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:59:45.050Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1383, -82.3177",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.138266&mlon=-82.3177041#map=17/28.138266/-82.3177041",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0550572",
+  "siteName": "10208 Garden Alcove Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.138266,
+  "longitude": -82.3177041,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

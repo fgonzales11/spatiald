@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0554070",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0554070",
+  "listingPageNumber": 12,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jul 12, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:56:59.996Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9730, -82.4562",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9730491&mlon=-82.456176#map=17/27.9730491/-82.456176",
+  "parties": [
+    {
+      "name": "Avangardchik LLC",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0554070",
+  "siteName": "3206 N Avon Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9730491,
+  "longitude": -82.456176,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

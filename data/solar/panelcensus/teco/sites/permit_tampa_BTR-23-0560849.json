@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560849",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560849",
+  "listingPageNumber": 4,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:34:25.355Z",
+  "siteName": "3218 N 44th St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9730, -82.4093",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9730045&mlon=-82.4093055#map=17/27.9730045/-82.4093055",
+  "recordId": "permit_tampa_BTR-23-0560849",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.9730045,
+  "longitude": -82.4093055,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

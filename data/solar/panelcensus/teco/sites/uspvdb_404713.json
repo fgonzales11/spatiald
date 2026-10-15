@@ -1,0 +1,42 @@
+{
+  "siteId": "uspvdb_404713",
+  "sourceUrl": "https://panelcensus.com/sites/uspvdb_404713",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Apollo Beach, FL\nHillsborough County",
+    "Utility-scale",
+    "52,400 kW",
+    "Jan 1, 2021",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:30.041Z",
+  "capacityBasis": "45,800 kW AC",
+  "locationDescription": "Apollo Beach · Hillsborough County · Florida · Utility-scale",
+  "locationDisplay": "Location: 27.7815, -82.3935",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.781536&mlon=-82.393456#map=17/27.781536/-82.393456",
+  "parties": [
+    {
+      "name": "Tampa Electric Co [100%]",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Plant operator"
+    }
+  ],
+  "recordId": "uspvdb_404713",
+  "siteName": "Big Bend II Solar",
+  "sizeDisplay": "52,400 kW",
+  "latitude": 27.781536,
+  "longitude": -82.393456,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 52400,
+  "tecoRoles": [
+    "Plant operator"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

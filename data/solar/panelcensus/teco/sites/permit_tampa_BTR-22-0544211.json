@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0544211",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0544211",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jan 6, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:21.333Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9675, -82.4323",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9675004&mlon=-82.4323273#map=17/27.9675004/-82.4323273",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0544211",
+  "siteName": "2412 E 17th Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9675004,
+  "longitude": -82.4323273,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

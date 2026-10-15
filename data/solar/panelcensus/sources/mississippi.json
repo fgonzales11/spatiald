@@ -1,0 +1,249 @@
+{
+  "state": {
+    "code": "MS",
+    "name": "Mississippi",
+    "slug": "mississippi"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/mississippi",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:38.794Z",
+  "renderedHtmlSha256": "fb8167d009a2b9684ca78bf6fd85a25a41517a7ac39929f8b9894c615b85f76d",
+  "heading": "Solar installations in Mississippi",
+  "documentTitle": "Solar in Mississippi — 45 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "45",
+  "stateCapacityDisplay": null,
+  "underReported": true,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Mississippi",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Lauderdale Countylimited",
+        "3",
+        "0.01%",
+        "82.4 MW",
+        "—"
+      ],
+      "countyName": "Lauderdale County",
+      "countyUrl": "https://panelcensus.com/solar/mississippi/lauderdale-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Panola Countylimited",
+        "3",
+        "0.02%",
+        "18.1 MW",
+        "—"
+      ],
+      "countyName": "Panola County",
+      "countyUrl": "https://panelcensus.com/solar/mississippi/panola-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sunflower Countylimited",
+        "3",
+        "0.03%",
+        "5 kW",
+        "—"
+      ],
+      "countyName": "Sunflower County",
+      "countyUrl": "https://panelcensus.com/solar/mississippi/sunflower-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lamar Countylimited",
+        "2",
+        "0.01%",
+        "148.1 MW",
+        "—"
+      ],
+      "countyName": "Lamar County",
+      "countyUrl": "https://panelcensus.com/solar/mississippi/lamar-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Chickasaw Countylimited",
+        "1",
+        "0.01%",
+        "3.9 MW",
+        "—"
+      ],
+      "countyName": "Chickasaw County",
+      "countyUrl": "https://panelcensus.com/solar/mississippi/chickasaw-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "DeSoto Countylimited",
+        "1",
+        "0.00%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "DeSoto County",
+      "countyUrl": "https://panelcensus.com/solar/mississippi/desoto-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Forrest Countylimited",
+        "1",
+        "0.00%",
+        "67.5 MW",
+        "—"
+      ],
+      "countyName": "Forrest County",
+      "countyUrl": "https://panelcensus.com/solar/mississippi/forrest-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Harrison Countylimited",
+        "1",
+        "0.00%",
+        "4.2 MW",
+        "—"
+      ],
+      "countyName": "Harrison County",
+      "countyUrl": "https://panelcensus.com/solar/mississippi/harrison-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hinds Countylimited",
+        "1",
+        "0.00%",
+        "14 kW",
+        "—"
+      ],
+      "countyName": "Hinds County",
+      "countyUrl": "https://panelcensus.com/solar/mississippi/hinds-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jasper Countylimited",
+        "1",
+        "0.01%",
+        "78.5 MW",
+        "—"
+      ],
+      "countyName": "Jasper County",
+      "countyUrl": "https://panelcensus.com/solar/mississippi/jasper-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Leake Countylimited",
+        "1",
+        "0.01%",
+        "1.3 MW",
+        "—"
+      ],
+      "countyName": "Leake County",
+      "countyUrl": "https://panelcensus.com/solar/mississippi/leake-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Leflore Countylimited",
+        "1",
+        "0.01%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Leflore County",
+      "countyUrl": "https://panelcensus.com/solar/mississippi/leflore-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Madison Countylimited",
+        "1",
+        "0.00%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Madison County",
+      "countyUrl": "https://panelcensus.com/solar/mississippi/madison-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Marshall Countylimited",
+        "1",
+        "0.01%",
+        "6.7 MW",
+        "—"
+      ],
+      "countyName": "Marshall County",
+      "countyUrl": "https://panelcensus.com/solar/mississippi/marshall-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pearl River Countylimited",
+        "1",
+        "0.00%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Pearl River County",
+      "countyUrl": "https://panelcensus.com/solar/mississippi/pearl-river-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Rankin Countylimited",
+        "1",
+        "0.00%",
+        "1.5 MW",
+        "—"
+      ],
+      "countyName": "Rankin County",
+      "countyUrl": "https://panelcensus.com/solar/mississippi/rankin-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Scott Countylimited",
+        "1",
+        "0.01%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Scott County",
+      "countyUrl": "https://panelcensus.com/solar/mississippi/scott-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

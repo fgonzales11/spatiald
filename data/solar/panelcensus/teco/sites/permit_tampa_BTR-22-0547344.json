@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0547344",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0547344",
+  "listingPageNumber": 19,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "8.8 kW",
+    "Mar 9, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:12.143Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0261, -82.4073",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.026057&mlon=-82.4072559#map=17/28.026057/-82.4072559",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0547344",
+  "siteName": "8411 Barrett Pl (ACA)",
+  "sizeDisplay": "8.8 kW",
+  "latitude": 28.026057,
+  "longitude": -82.4072559,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 8.8,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

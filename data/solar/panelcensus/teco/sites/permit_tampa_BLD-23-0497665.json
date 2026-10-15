@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BLD-23-0497665",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BLD-23-0497665",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Commercial",
+    "981 kW",
+    "Dec 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:25.542Z",
+  "siteName": "Remove Roof-Mounted Solar Panel System",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Commercial",
+  "sizeDisplay": "981 kW",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.1321, -82.3758",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1321496&mlon=-82.3758337#map=17/28.1321496/-82.3758337",
+  "recordId": "permit_tampa_BLD-23-0497665",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 981,
+  "latitude": 28.1321496,
+  "longitude": -82.3758337,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

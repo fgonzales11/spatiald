@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0546597",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0546597",
+  "listingPageNumber": 20,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Feb 24, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:36.593Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9769, -82.3945",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9768636&mlon=-82.394526#map=17/27.9768636/-82.394526",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0546597",
+  "siteName": "3624 N 55th St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9768636,
+  "longitude": -82.394526,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

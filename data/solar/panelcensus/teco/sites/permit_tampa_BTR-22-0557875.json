@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0557875",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557875",
+  "listingPageNumber": 8,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Sep 19, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:52:59.960Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9751, -82.4215",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9751195&mlon=-82.421526#map=17/27.9751195/-82.421526",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0557875",
+  "siteName": "3502 Clay St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9751195,
+  "longitude": -82.421526,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

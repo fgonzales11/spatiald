@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0558025",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0558025",
+  "listingPageNumber": 7,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Sep 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:52:27.431Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1370, -82.3152",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1369644&mlon=-82.3152314#map=17/28.1369644/-82.3152314",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0558025",
+  "siteName": "10229 Timberland Point Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1369644,
+  "longitude": -82.3152314,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

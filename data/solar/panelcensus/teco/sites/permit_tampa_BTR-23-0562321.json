@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0562321",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0562321",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 28, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:21.620Z",
+  "siteName": "10315 Clover Pine Dr (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.1696, -82.3096",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.169551&mlon=-82.3096211#map=17/28.169551/-82.3096211",
+  "recordId": "permit_tampa_BTR-23-0562321",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.169551,
+  "longitude": -82.3096211,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

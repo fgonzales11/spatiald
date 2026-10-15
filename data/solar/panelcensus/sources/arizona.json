@@ -1,0 +1,223 @@
+{
+  "state": {
+    "code": "AZ",
+    "name": "Arizona",
+    "slug": "arizona"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/arizona",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:31.686Z",
+  "renderedHtmlSha256": "d7b49f467a0d9cb8aed0af1f60d8cdca49a3f906a900910aa54c58c9de496531",
+  "heading": "Solar installations in Arizona",
+  "documentTitle": "Solar in Arizona — 375,232 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "375,232",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Arizona",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Maricopa County",
+        "223,954",
+        "12.1%",
+        "2.9 GW",
+        "$4.31/W"
+      ],
+      "countyName": "Maricopa County",
+      "countyUrl": "https://panelcensus.com/solar/arizona/maricopa-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pima County",
+        "65,054",
+        "13.7%",
+        "956.4 MW",
+        "$4.12/W"
+      ],
+      "countyName": "Pima County",
+      "countyUrl": "https://panelcensus.com/solar/arizona/pima-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pinal County",
+        "26,788",
+        "14.9%",
+        "506.7 MW",
+        "$4.40/W"
+      ],
+      "countyName": "Pinal County",
+      "countyUrl": "https://panelcensus.com/solar/arizona/pinal-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Yavapai County",
+        "18,542",
+        "14.9%",
+        "203.9 MW",
+        "$3.18/W"
+      ],
+      "countyName": "Yavapai County",
+      "countyUrl": "https://panelcensus.com/solar/arizona/yavapai-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Yuma County",
+        "15,696",
+        "16.7%",
+        "226.9 MW",
+        "$3.90/W"
+      ],
+      "countyName": "Yuma County",
+      "countyUrl": "https://panelcensus.com/solar/arizona/yuma-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Mohave County",
+        "11,895",
+        "9.9%",
+        "349.6 MW",
+        "$3.57/W"
+      ],
+      "countyName": "Mohave County",
+      "countyUrl": "https://panelcensus.com/solar/arizona/mohave-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cochise County",
+        "3,298",
+        "5.6%",
+        "139.8 MW",
+        "$4.30/W"
+      ],
+      "countyName": "Cochise County",
+      "countyUrl": "https://panelcensus.com/solar/arizona/cochise-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Coconino County",
+        "2,750",
+        "3.9%",
+        "26.8 MW",
+        "$3.39/W"
+      ],
+      "countyName": "Coconino County",
+      "countyUrl": "https://panelcensus.com/solar/arizona/coconino-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Gila County",
+        "2,022",
+        "6.2%",
+        "43.3 MW",
+        "$3.68/W"
+      ],
+      "countyName": "Gila County",
+      "countyUrl": "https://panelcensus.com/solar/arizona/gila-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Santa Cruz County",
+        "1,966",
+        "10.3%",
+        "171.3 MW",
+        "$4.40/W"
+      ],
+      "countyName": "Santa Cruz County",
+      "countyUrl": "https://panelcensus.com/solar/arizona/santa-cruz-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Navajo County",
+        "1,537",
+        "2.7%",
+        "15.5 MW",
+        "$3.90/W"
+      ],
+      "countyName": "Navajo County",
+      "countyUrl": "https://panelcensus.com/solar/arizona/navajo-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "La Paz County",
+        "591",
+        "4.3%",
+        "49.2 MW",
+        "$3.39/W"
+      ],
+      "countyName": "La Paz County",
+      "countyUrl": "https://panelcensus.com/solar/arizona/la-paz-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Graham County",
+        "121",
+        "0.87%",
+        "149.0 MW",
+        "$5.60/W"
+      ],
+      "countyName": "Graham County",
+      "countyUrl": "https://panelcensus.com/solar/arizona/graham-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Apache County",
+        "71",
+        "0.24%",
+        "93.2 MW",
+        "$6.35/W"
+      ],
+      "countyName": "Apache County",
+      "countyUrl": "https://panelcensus.com/solar/arizona/apache-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Greenlee County",
+        "16",
+        "0.36%",
+        "105 kW",
+        "—"
+      ],
+      "countyName": "Greenlee County",
+      "countyUrl": "https://panelcensus.com/solar/arizona/greenlee-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    }
+  ]
+}

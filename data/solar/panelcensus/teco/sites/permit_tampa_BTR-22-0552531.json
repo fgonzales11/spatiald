@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0552531",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0552531",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 14, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:22.757Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0346, -82.4464",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0346338&mlon=-82.4463663#map=17/28.0346338/-82.4463663",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0552531",
+  "siteName": "9408 N 13th St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0346338,
+  "longitude": -82.4463663,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

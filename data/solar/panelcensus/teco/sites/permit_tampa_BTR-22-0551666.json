@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0551666",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0551666",
+  "listingPageNumber": 15,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "May 31, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:43.598Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0237, -82.4181",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0237184&mlon=-82.4180981#map=17/28.0237184/-82.4180981",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0551666",
+  "siteName": "3801 E Bird St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0237184,
+  "longitude": -82.4180981,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

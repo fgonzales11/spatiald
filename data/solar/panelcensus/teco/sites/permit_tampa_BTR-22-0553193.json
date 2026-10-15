@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0553193",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0553193",
+  "listingPageNumber": 13,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 27, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:26.289Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0006, -82.4203",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0006009&mlon=-82.4202883#map=17/28.0006009/-82.4202883",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0553193",
+  "siteName": "5903 N 36th St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0006009,
+  "longitude": -82.4202883,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

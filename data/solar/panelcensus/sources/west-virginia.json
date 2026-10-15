@@ -1,0 +1,106 @@
+{
+  "state": {
+    "code": "WV",
+    "name": "West Virginia",
+    "slug": "west-virginia"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/west-virginia",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:46.605Z",
+  "renderedHtmlSha256": "9c61870c81e41d81069d5cb8a06f7aa5d2784ded302b20b72fb80fafe2a03a71",
+  "heading": "Solar installations in West Virginia",
+  "documentTitle": "Solar in West Virginia — 7 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "7",
+  "stateCapacityDisplay": null,
+  "underReported": true,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in West Virginia",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Hampshire Countylimited",
+        "2",
+        "0.02%",
+        "26.4 MW",
+        "—"
+      ],
+      "countyName": "Hampshire County",
+      "countyUrl": "https://panelcensus.com/solar/west-virginia/hampshire-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Marion Countylimited",
+        "2",
+        "0.01%",
+        "12.8 MW",
+        "—"
+      ],
+      "countyName": "Marion County",
+      "countyUrl": "https://panelcensus.com/solar/west-virginia/marion-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Berkeley Countylimited",
+        "1",
+        "0.00%",
+        "4 kW",
+        "—"
+      ],
+      "countyName": "Berkeley County",
+      "countyUrl": "https://panelcensus.com/solar/west-virginia/berkeley-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jefferson Countylimited",
+        "1",
+        "0.00%",
+        "96.0 MW",
+        "—"
+      ],
+      "countyName": "Jefferson County",
+      "countyUrl": "https://panelcensus.com/solar/west-virginia/jefferson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Mason Countylimited",
+        "1",
+        "0.01%",
+        "4 kW",
+        "—"
+      ],
+      "countyName": "Mason County",
+      "countyUrl": "https://panelcensus.com/solar/west-virginia/mason-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Monongalia Countylimited",
+        "1",
+        "0.00%",
+        "18.9 MW",
+        "—"
+      ],
+      "countyName": "Monongalia County",
+      "countyUrl": "https://panelcensus.com/solar/west-virginia/monongalia-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

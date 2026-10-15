@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561542",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561542",
+  "listingPageNumber": 2,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 8, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:38.922Z",
+  "siteName": "1802 E Mulberry Dr (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0191, -82.4388",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0190932&mlon=-82.4387979#map=17/28.0190932/-82.4387979",
+  "recordId": "permit_tampa_BTR-23-0561542",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.0190932,
+  "longitude": -82.4387979,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

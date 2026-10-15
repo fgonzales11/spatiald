@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561373",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561373",
+  "listingPageNumber": 3,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 5, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:44.521Z",
+  "siteName": "4610 N 38th St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9874, -82.4176",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9873601&mlon=-82.4176392#map=17/27.9873601/-82.4176392",
+  "recordId": "permit_tampa_BTR-23-0561373",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.9873601,
+  "longitude": -82.4176392,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

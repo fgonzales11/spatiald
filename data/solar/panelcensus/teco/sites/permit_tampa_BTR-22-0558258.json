@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0558258",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0558258",
+  "listingPageNumber": 7,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "16.8 kW",
+    "Sep 26, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:52:18.104Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9718, -82.4911",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9717764&mlon=-82.4911317#map=17/27.9717764/-82.4911317",
+  "parties": [
+    {
+      "name": "Holistic Pediatrics Holding CO",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0558258",
+  "siteName": "3002 W Leroy St (ACA)",
+  "sizeDisplay": "16.8 kW",
+  "latitude": 27.9717764,
+  "longitude": -82.4911317,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 16.8,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

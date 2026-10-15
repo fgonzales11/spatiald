@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0552815",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0552815",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "14.4 kW",
+    "Jun 20, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:36.175Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1369, -82.3060",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1368829&mlon=-82.3059865#map=17/28.1368829/-82.3059865",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0552815",
+  "siteName": "17918 Bahama Isle Cir (ACA)",
+  "sizeDisplay": "14.4 kW",
+  "latitude": 28.1368829,
+  "longitude": -82.3059865,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 14.4,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556789",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556789",
+  "listingPageNumber": 9,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Commercial",
+    "—",
+    "Aug 25, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:01.096Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Commercial",
+  "locationDisplay": "Location: 27.9583, -82.5139",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9582916&mlon=-82.5139276#map=17/27.9582916/-82.5139276",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556789",
+  "siteName": "4203 W Union St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9582916,
+  "longitude": -82.5139276,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

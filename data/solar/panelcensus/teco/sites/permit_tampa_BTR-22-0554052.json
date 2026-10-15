@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0554052",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0554052",
+  "listingPageNumber": 12,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jul 12, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:56:57.907Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9600, -82.4791",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9599621&mlon=-82.4790547#map=17/27.9599621/-82.4790547",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0554052",
+  "siteName": "1914 W Walnut St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9599621,
+  "longitude": -82.4790547,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

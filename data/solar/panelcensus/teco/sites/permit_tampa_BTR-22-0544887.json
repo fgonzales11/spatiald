@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0544887",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0544887",
+  "listingPageNumber": 21,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jan 20, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:47.607Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9467, -82.5203",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9466663&mlon=-82.5203033#map=17/27.9466663/-82.5203033",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0544887",
+  "siteName": "4506 W North B St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9466663,
+  "longitude": -82.5203033,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

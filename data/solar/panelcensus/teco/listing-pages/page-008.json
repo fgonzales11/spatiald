@@ -1,0 +1,567 @@
+{
+  "pageNumber": 8,
+  "sourceUrl": "https://panelcensus.com/sites?operator=Tampa+Electric+Co&sort=install_date.desc&page=8",
+  "retrievedAt": "2026-10-12T01:26:06.960Z",
+  "resultLabel": "Showing 351–400+· operated by Tampa Electric Co",
+  "headers": [
+    "Location",
+    "Segment",
+    "Size",
+    "Installed",
+    "Installer / developer",
+    ""
+  ],
+  "rows": [
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 20, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557908"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "9.3 kW",
+        "Sep 20, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557915"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 20, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557974"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 20, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557928"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 20, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557977"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 20, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557864"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 20, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557967"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 19, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557853"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 19, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557859"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 19, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557884"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 19, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557857"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 19, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557875"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "11.4 kW",
+        "Sep 17, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557835"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "9.2 kW",
+        "Sep 16, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557795"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 16, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557807"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "8.6 kW",
+        "Sep 16, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557833"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "7.6 kW",
+        "Sep 16, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557797"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "6.4 kW",
+        "Sep 16, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557812"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 16, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557793"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 16, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557822"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 15, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557733"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 15, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557718"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 15, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557755"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 14, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557684"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 14, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557688"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 9, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556851"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 9, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557492"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 9, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557442"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 9, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557451"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 9, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557445"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "9 kW",
+        "Sep 8, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557392"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "9.3 kW",
+        "Sep 8, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557379"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "21.8 kW",
+        "Sep 8, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557416"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 8, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557391"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 8, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557425"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "10 kW",
+        "Sep 8, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557377"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 8, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557390"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "14.4 kW",
+        "Sep 7, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557305"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 7, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557321"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "11.3 kW",
+        "Sep 7, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557335"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 7, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557340"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 7, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557319"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "9.2 kW",
+        "Sep 7, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557329"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 6, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557255"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 6, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557244"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "11.5 kW",
+        "Sep 6, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557279"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "600 kW",
+        "Sep 6, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557242"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "5.9 kW",
+        "Sep 2, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557163"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "—",
+        "Sep 2, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557192"
+    },
+    {
+      "cells": [
+        "Tampa, FL\nHillsborough County",
+        "Residential",
+        "8.8 kW",
+        "Sep 2, 2022",
+        "—",
+        "View →"
+      ],
+      "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557174"
+    }
+  ],
+  "nextUrl": "https://panelcensus.com/sites?operator=Tampa+Electric+Co&sort=install_date.desc&page=9"
+}

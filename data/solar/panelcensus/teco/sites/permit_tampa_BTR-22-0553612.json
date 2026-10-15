@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0553612",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0553612",
+  "listingPageNumber": 13,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jul 5, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:11.955Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9015, -82.5124",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9015379&mlon=-82.5124026#map=17/27.9015379/-82.5124026",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0553612",
+  "siteName": "4101 W Lawn Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9015379,
+  "longitude": -82.5124026,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

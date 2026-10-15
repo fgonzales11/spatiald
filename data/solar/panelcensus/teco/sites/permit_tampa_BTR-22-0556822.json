@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556822",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556822",
+  "listingPageNumber": 9,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "7.7 kW",
+    "Aug 26, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:53:33.404Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0236, -82.4122",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0236439&mlon=-82.4121703#map=17/28.0236439/-82.4121703",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556822",
+  "siteName": "Re-issued 4202 E Bird St (ACA)",
+  "sizeDisplay": "7.7 kW",
+  "latitude": 28.0236439,
+  "longitude": -82.4121703,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 7.7,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

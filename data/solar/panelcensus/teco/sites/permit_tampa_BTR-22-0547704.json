@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0547704",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0547704",
+  "listingPageNumber": 18,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 16, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:01:28.874Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9979, -82.5122",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.997855&mlon=-82.5121631#map=17/27.997855/-82.5121631",
+  "parties": [
+    {
+      "name": "Goodwill Industries - Suncoast",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0547704",
+  "siteName": "4122 W Comanche Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.997855,
+  "longitude": -82.5121631,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

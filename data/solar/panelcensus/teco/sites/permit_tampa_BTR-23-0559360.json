@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559360",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559360",
+  "listingPageNumber": 5,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Oct 19, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:51:01.564Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9725, -82.4955",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9725328&mlon=-82.495457#map=17/27.9725328/-82.495457",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0559360",
+  "siteName": "3212 W Braddock St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9725328,
+  "longitude": -82.495457,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559032",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559032",
+  "listingPageNumber": 6,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Oct 13, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:51:13.171Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9980, -82.4099",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9980026&mlon=-82.4099005#map=17/27.9980026/-82.4099005",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0559032",
+  "siteName": "4307 Deleuil Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9980026,
+  "longitude": -82.4099005,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

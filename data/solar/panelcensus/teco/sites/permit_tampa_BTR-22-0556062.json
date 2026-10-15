@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556062",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556062",
+  "listingPageNumber": 10,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Aug 12, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:26.363Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0069, -82.4357",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0069385&mlon=-82.4356797#map=17/28.0069385/-82.4356797",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556062",
+  "siteName": "2109 E Diana St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0069385,
+  "longitude": -82.4356797,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

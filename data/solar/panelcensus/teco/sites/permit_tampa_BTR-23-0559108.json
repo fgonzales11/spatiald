@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559108",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559108",
+  "listingPageNumber": 6,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "8.5 kW",
+    "Oct 14, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:51:12.593Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9624, -82.5018",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9624238&mlon=-82.5017834#map=17/27.9624238/-82.5017834",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0559108",
+  "siteName": "3617 W Palmetto St (ACA)",
+  "sizeDisplay": "8.5 kW",
+  "latitude": 27.9624238,
+  "longitude": -82.5017834,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 8.5,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

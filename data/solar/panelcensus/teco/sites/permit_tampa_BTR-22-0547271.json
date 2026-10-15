@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0547271",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0547271",
+  "listingPageNumber": 19,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "12.8 kW",
+    "Mar 8, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:14.274Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1636, -82.3036",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1635597&mlon=-82.3036115#map=17/28.1635597/-82.3036115",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0547271",
+  "siteName": "19203 Verdant Pasture Way (ACA)",
+  "sizeDisplay": "12.8 kW",
+  "latitude": 28.1635597,
+  "longitude": -82.3036115,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 12.8,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

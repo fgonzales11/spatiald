@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0562042",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0562042",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "15.8 kW",
+    "Dec 19, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:28.130Z",
+  "siteName": "6315 Interbay Blvd (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "15.8 kW",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.8773, -82.4992",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8772862&mlon=-82.499228#map=17/27.8772862/-82.499228",
+  "recordId": "permit_tampa_BTR-23-0562042",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 15.8,
+  "latitude": 27.8772862,
+  "longitude": -82.499228,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0546181",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0546181",
+  "listingPageNumber": 20,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Feb 16, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:45.992Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9794, -82.4449",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9794051&mlon=-82.4449215#map=17/27.9794051/-82.4449215",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0546181",
+  "siteName": "1314 E Louise Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9794051,
+  "longitude": -82.4449215,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

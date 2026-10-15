@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0547768",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0547768",
+  "listingPageNumber": 18,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 17, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:01:27.197Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0088, -82.4597",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0087837&mlon=-82.4597021#map=17/28.0087837/-82.4597021",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0547768",
+  "siteName": "109 W Minnehaha St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0087837,
+  "longitude": -82.4597021,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

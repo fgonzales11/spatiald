@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555630",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555630",
+  "listingPageNumber": 11,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Aug 5, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:55:13.175Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9528, -82.4726",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.952778&mlon=-82.472632#map=17/27.952778/-82.472632",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555630",
+  "siteName": "1102 N Willow Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.952778,
+  "longitude": -82.472632,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

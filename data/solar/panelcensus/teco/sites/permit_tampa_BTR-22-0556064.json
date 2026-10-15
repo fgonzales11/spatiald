@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556064",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556064",
+  "listingPageNumber": 10,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Aug 12, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:25.815Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0475, -82.4429",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0474606&mlon=-82.4428874#map=17/28.0474606/-82.4428874",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556064",
+  "siteName": "10906 N 15th St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0474606,
+  "longitude": -82.4428874,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0558284",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0558284",
+  "listingPageNumber": 6,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "13.1 kW",
+    "Oct 10, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:51:59.482Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9493, -82.5122",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9493165&mlon=-82.5122452#map=17/27.9493165/-82.5122452",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0558284",
+  "siteName": "4115 W Carmen St (ACA)",
+  "sizeDisplay": "13.1 kW",
+  "latitude": 27.9493165,
+  "longitude": -82.5122452,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 13.1,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

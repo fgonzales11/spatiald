@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560863",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560863",
+  "listingPageNumber": 3,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "8.6 kW",
+    "Nov 22, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:34:06.688Z",
+  "siteName": "5001 E Seneca Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "8.6 kW",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0456, -82.4016",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0456016&mlon=-82.4015972#map=17/28.0456016/-82.4015972",
+  "recordId": "permit_tampa_BTR-23-0560863",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 8.6,
+  "latitude": 28.0456016,
+  "longitude": -82.4015972,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

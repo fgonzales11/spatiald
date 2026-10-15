@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559226",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559226",
+  "listingPageNumber": 6,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "10.1 kW",
+    "Oct 17, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:51:08.372Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9672, -82.4717",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9672483&mlon=-82.4717055#map=17/27.9672483/-82.4717055",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0559226",
+  "siteName": "2716 N Poplar Ave (ACA)",
+  "sizeDisplay": "10.1 kW",
+  "latitude": 27.9672483,
+  "longitude": -82.4717055,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 10.1,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

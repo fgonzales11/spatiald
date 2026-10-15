@@ -1,0 +1,38 @@
+{
+  "siteId": "nrelcs_fl_lake_hancock_solar_plant",
+  "sourceUrl": "https://panelcensus.com/sites/nrelcs_fl_lake_hancock_solar_plant",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Bartow, FL\nPolk County",
+    "Community solar",
+    "22,750 kW",
+    "Jan 1, 2019",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:33.200Z",
+  "capacityBasis": "17,500 kW AC",
+  "locationDescription": "Bartow · Polk County · Florida · Community solar",
+  "locationDisplay": "Location: 27.9174, -81.8062",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.917399&mlon=-81.8061678#map=17/27.917399/-81.8061678",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "nrelcs_fl_lake_hancock_solar_plant",
+  "siteName": "Lake Hancock Solar plant",
+  "sizeDisplay": "22,750 kW",
+  "latitude": 27.917399,
+  "longitude": -81.8061678,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 22750,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

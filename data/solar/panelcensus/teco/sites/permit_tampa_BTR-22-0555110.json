@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555110",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555110",
+  "listingPageNumber": 11,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "6.5 kW",
+    "Jul 28, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:55:30.354Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1111, -82.3737",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1111223&mlon=-82.3737058#map=17/28.1111223/-82.3737058",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555110",
+  "siteName": "6212 Windship Ct (ACA)",
+  "sizeDisplay": "6.5 kW",
+  "latitude": 28.1111223,
+  "longitude": -82.3737058,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 6.5,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

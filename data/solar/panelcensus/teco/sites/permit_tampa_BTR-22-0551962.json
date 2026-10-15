@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0551962",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0551962",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 6, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:32.389Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9995, -82.4935",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9994648&mlon=-82.4934517#map=17/27.9994648/-82.4934517",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0551962",
+  "siteName": "3119 W Henry Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9994648,
+  "longitude": -82.4934517,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

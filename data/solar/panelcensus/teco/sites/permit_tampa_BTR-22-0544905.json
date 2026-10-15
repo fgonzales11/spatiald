@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0544905",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0544905",
+  "listingPageNumber": 21,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jan 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:45.373Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9565, -82.4873",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9565472&mlon=-82.4873121#map=17/27.9565472/-82.4873121",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0544905",
+  "siteName": "2719 W Green St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9565472,
+  "longitude": -82.4873121,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

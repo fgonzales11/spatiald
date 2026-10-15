@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0547389",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0547389",
+  "listingPageNumber": 19,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 10, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:09.254Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8868, -82.5105",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8867628&mlon=-82.510471#map=17/27.8867628/-82.510471",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0547389",
+  "siteName": "4004 W Rogers Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.8867628,
+  "longitude": -82.510471,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

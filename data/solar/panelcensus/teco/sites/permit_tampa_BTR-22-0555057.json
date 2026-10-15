@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555057",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555057",
+  "listingPageNumber": 11,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jul 28, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:55:31.428Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9630, -82.4207",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9630185&mlon=-82.4207111#map=17/27.9630185/-82.4207111",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555057",
+  "siteName": "3513 E 11th Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9630185,
+  "longitude": -82.4207111,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

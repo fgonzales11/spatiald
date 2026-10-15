@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555570",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555570",
+  "listingPageNumber": 11,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "13.7 kW",
+    "Aug 5, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:40.906Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0479, -82.4438",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0478514&mlon=-82.44381#map=17/28.0478514/-82.44381",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555570",
+  "siteName": "10916 N Aster Ave (ACA)",
+  "sizeDisplay": "13.7 kW",
+  "latitude": 28.0478514,
+  "longitude": -82.44381,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 13.7,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

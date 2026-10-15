@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560840",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560840",
+  "listingPageNumber": 3,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:34:21.283Z",
+  "siteName": "4721 N Grady Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9870, -82.5094",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9870055&mlon=-82.5094123#map=17/27.9870055/-82.5094123",
+  "recordId": "permit_tampa_BTR-23-0560840",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.9870055,
+  "longitude": -82.5094123,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

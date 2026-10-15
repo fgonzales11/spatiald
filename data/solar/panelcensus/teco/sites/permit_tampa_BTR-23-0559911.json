@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559911",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559911",
+  "listingPageNumber": 5,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 1, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:36:27.920Z",
+  "siteName": "3018 W Harbor View Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9022, -82.4920",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9022449&mlon=-82.4919638#map=17/27.9022449/-82.4919638",
+  "recordId": "permit_tampa_BTR-23-0559911",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.9022449,
+  "longitude": -82.4919638,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

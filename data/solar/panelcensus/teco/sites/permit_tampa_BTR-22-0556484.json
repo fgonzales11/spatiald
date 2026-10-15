@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556484",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556484",
+  "listingPageNumber": 9,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Aug 22, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:11.507Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0298, -82.4043",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0298234&mlon=-82.4042985#map=17/28.0298234/-82.4042985",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556484",
+  "siteName": "8710 Busch Oaks St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0298234,
+  "longitude": -82.4042985,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

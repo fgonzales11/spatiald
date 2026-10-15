@@ -1,0 +1,535 @@
+{
+  "state": {
+    "code": "WA",
+    "name": "Washington",
+    "slug": "washington"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/washington",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:46.610Z",
+  "renderedHtmlSha256": "c9bccb2eafdbe5e593059c1cea5acb9425027c9e6350931a65f2d5c80168febb",
+  "heading": "Solar installations in Washington",
+  "documentTitle": "Solar in Washington — 9,288 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "9,288",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Washington",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "King County",
+        "2,056",
+        "0.21%",
+        "19.3 MW",
+        "$3.41/W"
+      ],
+      "countyName": "King County",
+      "countyUrl": "https://panelcensus.com/solar/washington/king-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clark County",
+        "541",
+        "0.27%",
+        "6.2 MW",
+        "$3.58/W"
+      ],
+      "countyName": "Clark County",
+      "countyUrl": "https://panelcensus.com/solar/washington/clark-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Whatcom County",
+        "506",
+        "0.50%",
+        "5.1 MW",
+        "$2.98/W"
+      ],
+      "countyName": "Whatcom County",
+      "countyUrl": "https://panelcensus.com/solar/washington/whatcom-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Snohomish County",
+        "485",
+        "0.15%",
+        "6.5 MW",
+        "$3.30/W"
+      ],
+      "countyName": "Snohomish County",
+      "countyUrl": "https://panelcensus.com/solar/washington/snohomish-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pierce County",
+        "465",
+        "0.13%",
+        "4.3 MW",
+        "$3.64/W"
+      ],
+      "countyName": "Pierce County",
+      "countyUrl": "https://panelcensus.com/solar/washington/pierce-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Benton County",
+        "458",
+        "0.56%",
+        "9.1 MW",
+        "$3.70/W"
+      ],
+      "countyName": "Benton County",
+      "countyUrl": "https://panelcensus.com/solar/washington/benton-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Spokane County",
+        "448",
+        "0.20%",
+        "4.1 MW",
+        "$4.11/W"
+      ],
+      "countyName": "Spokane County",
+      "countyUrl": "https://panelcensus.com/solar/washington/spokane-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Yakima County",
+        "328",
+        "0.36%",
+        "4.8 MW",
+        "$2.82/W"
+      ],
+      "countyName": "Yakima County",
+      "countyUrl": "https://panelcensus.com/solar/washington/yakima-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kittitas County",
+        "275",
+        "1.1%",
+        "45.0 MW",
+        "$2.61/W"
+      ],
+      "countyName": "Kittitas County",
+      "countyUrl": "https://panelcensus.com/solar/washington/kittitas-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Thurston County",
+        "271",
+        "0.22%",
+        "2.8 MW",
+        "$3.55/W"
+      ],
+      "countyName": "Thurston County",
+      "countyUrl": "https://panelcensus.com/solar/washington/thurston-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kitsap County",
+        "237",
+        "0.20%",
+        "2.1 MW",
+        "$3.96/W"
+      ],
+      "countyName": "Kitsap County",
+      "countyUrl": "https://panelcensus.com/solar/washington/kitsap-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Skagit County",
+        "235",
+        "0.42%",
+        "3.0 MW",
+        "$3.01/W"
+      ],
+      "countyName": "Skagit County",
+      "countyUrl": "https://panelcensus.com/solar/washington/skagit-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Franklin County",
+        "187",
+        "0.61%",
+        "1.9 MW",
+        "$3.69/W"
+      ],
+      "countyName": "Franklin County",
+      "countyUrl": "https://panelcensus.com/solar/washington/franklin-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Island County",
+        "134",
+        "0.32%",
+        "1.3 MW",
+        "$3.01/W"
+      ],
+      "countyName": "Island County",
+      "countyUrl": "https://panelcensus.com/solar/washington/island-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Walla Walla County",
+        "120",
+        "0.48%",
+        "1.2 MW",
+        "$3.92/W"
+      ],
+      "countyName": "Walla Walla County",
+      "countyUrl": "https://panelcensus.com/solar/washington/walla-walla-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clallam County",
+        "106",
+        "0.28%",
+        "944 kW",
+        "$4.36/W"
+      ],
+      "countyName": "Clallam County",
+      "countyUrl": "https://panelcensus.com/solar/washington/clallam-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jefferson County",
+        "103",
+        "0.53%",
+        "1.2 MW",
+        "$3.96/W"
+      ],
+      "countyName": "Jefferson County",
+      "countyUrl": "https://panelcensus.com/solar/washington/jefferson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cowlitz County",
+        "99",
+        "0.22%",
+        "926 kW",
+        "$3.77/W"
+      ],
+      "countyName": "Cowlitz County",
+      "countyUrl": "https://panelcensus.com/solar/washington/cowlitz-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lewis County",
+        "78",
+        "0.22%",
+        "695 kW",
+        "$3.74/W"
+      ],
+      "countyName": "Lewis County",
+      "countyUrl": "https://panelcensus.com/solar/washington/lewis-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "San Juan County",
+        "62",
+        "0.44%",
+        "600 kW",
+        "$3.04/W"
+      ],
+      "countyName": "San Juan County",
+      "countyUrl": "https://panelcensus.com/solar/washington/san-juan-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Mason County",
+        "43",
+        "0.13%",
+        "585 kW",
+        "$3.68/W"
+      ],
+      "countyName": "Mason County",
+      "countyUrl": "https://panelcensus.com/solar/washington/mason-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Okanogan County",
+        "41",
+        "0.19%",
+        "321 kW",
+        "$3.90/W"
+      ],
+      "countyName": "Okanogan County",
+      "countyUrl": "https://panelcensus.com/solar/washington/okanogan-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Skamania County",
+        "38",
+        "0.64%",
+        "327 kW",
+        "$3.44/W"
+      ],
+      "countyName": "Skamania County",
+      "countyUrl": "https://panelcensus.com/solar/washington/skamania-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Grays Harbor County",
+        "32",
+        "0.09%",
+        "272 kW",
+        "$3.88/W"
+      ],
+      "countyName": "Grays Harbor County",
+      "countyUrl": "https://panelcensus.com/solar/washington/grays-harbor-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Klickitat County",
+        "29",
+        "0.27%",
+        "234 kW",
+        "—"
+      ],
+      "countyName": "Klickitat County",
+      "countyUrl": "https://panelcensus.com/solar/washington/klickitat-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Stevens County",
+        "29",
+        "0.13%",
+        "320 kW",
+        "—"
+      ],
+      "countyName": "Stevens County",
+      "countyUrl": "https://panelcensus.com/solar/washington/stevens-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Grant County",
+        "25",
+        "0.06%",
+        "304 kW",
+        "—"
+      ],
+      "countyName": "Grant County",
+      "countyUrl": "https://panelcensus.com/solar/washington/grant-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Whitman County",
+        "24",
+        "0.11%",
+        "382 kW",
+        "—"
+      ],
+      "countyName": "Whitman County",
+      "countyUrl": "https://panelcensus.com/solar/washington/whitman-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pacific County",
+        "18",
+        "0.11%",
+        "178 kW",
+        "—"
+      ],
+      "countyName": "Pacific County",
+      "countyUrl": "https://panelcensus.com/solar/washington/pacific-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Ferry County",
+        "17",
+        "0.41%",
+        "251 kW",
+        "—"
+      ],
+      "countyName": "Ferry County",
+      "countyUrl": "https://panelcensus.com/solar/washington/ferry-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lincoln County",
+        "14",
+        "0.24%",
+        "126 kW",
+        "—"
+      ],
+      "countyName": "Lincoln County",
+      "countyUrl": "https://panelcensus.com/solar/washington/lincoln-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Adams County",
+        "11",
+        "0.16%",
+        "55.9 MW",
+        "—"
+      ],
+      "countyName": "Adams County",
+      "countyUrl": "https://panelcensus.com/solar/washington/adams-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wahkiakum Countylimited",
+        "8",
+        "0.36%",
+        "58 kW",
+        "—"
+      ],
+      "countyName": "Wahkiakum County",
+      "countyUrl": "https://panelcensus.com/solar/washington/wahkiakum-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Chelan Countylimited",
+        "7",
+        "0.02%",
+        "37 kW",
+        "—"
+      ],
+      "countyName": "Chelan County",
+      "countyUrl": "https://panelcensus.com/solar/washington/chelan-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Asotin Countylimited",
+        "4",
+        "0.04%",
+        "35 kW",
+        "—"
+      ],
+      "countyName": "Asotin County",
+      "countyUrl": "https://panelcensus.com/solar/washington/asotin-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Columbia Countylimited",
+        "4",
+        "0.18%",
+        "49 kW",
+        "—"
+      ],
+      "countyName": "Columbia County",
+      "countyUrl": "https://panelcensus.com/solar/washington/columbia-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Douglas Countylimited",
+        "4",
+        "0.02%",
+        "36 kW",
+        "—"
+      ],
+      "countyName": "Douglas County",
+      "countyUrl": "https://panelcensus.com/solar/washington/douglas-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pend Oreille Countylimited",
+        "3",
+        "0.04%",
+        "31 kW",
+        "—"
+      ],
+      "countyName": "Pend Oreille County",
+      "countyUrl": "https://panelcensus.com/solar/washington/pend-oreille-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Garfield Countylimited",
+        "1",
+        "0.08%",
+        "11 kW",
+        "—"
+      ],
+      "countyName": "Garfield County",
+      "countyUrl": "https://panelcensus.com/solar/washington/garfield-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

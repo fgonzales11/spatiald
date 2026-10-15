@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0545199",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0545199",
+  "listingPageNumber": 21,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "5.3 kW",
+    "Jan 27, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:40.595Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1505, -82.2904",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1504973&mlon=-82.2903618#map=17/28.1504973/-82.2903618",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0545199",
+  "siteName": "10755 Plantation Bay Dr (ACA)",
+  "sizeDisplay": "5.3 kW",
+  "latitude": 28.1504973,
+  "longitude": -82.2903618,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 5.3,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

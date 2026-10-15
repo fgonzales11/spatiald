@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561677",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561677",
+  "listingPageNumber": 2,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 12, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:36.564Z",
+  "siteName": "5114 E 32nd Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9797, -82.3986",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9796931&mlon=-82.3986255#map=17/27.9796931/-82.3986255",
+  "recordId": "permit_tampa_BTR-23-0561677",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.9796931,
+  "longitude": -82.3986255,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

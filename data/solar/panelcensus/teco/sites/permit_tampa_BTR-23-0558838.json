@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0558838",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0558838",
+  "listingPageNumber": 6,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "11.6 kW",
+    "Oct 10, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:52:00.467Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1587, -82.2946",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1586925&mlon=-82.2945786#map=17/28.1586925/-82.2945786",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0558838",
+  "siteName": "10811 Applewood Range Way (ACA)",
+  "sizeDisplay": "11.6 kW",
+  "latitude": 28.1586925,
+  "longitude": -82.2945786,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 11.6,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

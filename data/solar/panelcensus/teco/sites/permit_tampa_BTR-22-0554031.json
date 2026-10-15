@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0554031",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0554031",
+  "listingPageNumber": 12,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "12.8 kW",
+    "Jul 11, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:00.523Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9935, -82.4891",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9934811&mlon=-82.489089#map=17/27.9934811/-82.489089",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0554031",
+  "siteName": "2921 W Haya St (ACA)",
+  "sizeDisplay": "12.8 kW",
+  "latitude": 27.9934811,
+  "longitude": -82.489089,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 12.8,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

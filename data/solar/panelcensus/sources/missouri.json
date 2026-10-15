@@ -1,0 +1,366 @@
+{
+  "state": {
+    "code": "MO",
+    "name": "Missouri",
+    "slug": "missouri"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/missouri",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:38.976Z",
+  "renderedHtmlSha256": "247808138eabf37cd9122eb2f39f107450bef10c82a20e966babbf426121886f",
+  "heading": "Solar installations in Missouri",
+  "documentTitle": "Solar in Missouri — 4,420 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "4,420",
+  "stateCapacityDisplay": null,
+  "underReported": true,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Missouri",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Jackson County",
+        "2,608",
+        "0.78%",
+        "68.2 MW",
+        "—"
+      ],
+      "countyName": "Jackson County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/jackson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clay County",
+        "1,242",
+        "1.2%",
+        "14.0 MW",
+        "—"
+      ],
+      "countyName": "Clay County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/clay-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Platte County",
+        "515",
+        "1.1%",
+        "10.9 MW",
+        "—"
+      ],
+      "countyName": "Platte County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/platte-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Audrain Countylimited",
+        "2",
+        "0.02%",
+        "41.0 MW",
+        "—"
+      ],
+      "countyName": "Audrain County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/audrain-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Boone Countylimited",
+        "2",
+        "0.00%",
+        "15.0 MW",
+        "—"
+      ],
+      "countyName": "Boone County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/boone-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Montgomery Countylimited",
+        "2",
+        "0.04%",
+        "7.5 MW",
+        "—"
+      ],
+      "countyName": "Montgomery County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/montgomery-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Ozark Countylimited",
+        "2",
+        "0.04%",
+        "12.1 MW",
+        "—"
+      ],
+      "countyName": "Ozark County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/ozark-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Phelps Countylimited",
+        "2",
+        "0.01%",
+        "3.8 MW",
+        "—"
+      ],
+      "countyName": "Phelps County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/phelps-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "St. Louis citylimited",
+        "2",
+        "0.00%",
+        "3.1 MW",
+        "—"
+      ],
+      "countyName": "St. Louis city",
+      "countyUrl": "https://panelcensus.com/solar/missouri/st-louis-city",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bates Countylimited",
+        "1",
+        "0.01%",
+        "3.2 MW",
+        "—"
+      ],
+      "countyName": "Bates County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/bates-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cape Girardeau Countylimited",
+        "1",
+        "0.00%",
+        "6.5 MW",
+        "—"
+      ],
+      "countyName": "Cape Girardeau County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/cape-girardeau-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cedar Countylimited",
+        "1",
+        "0.01%",
+        "3.2 MW",
+        "—"
+      ],
+      "countyName": "Cedar County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/cedar-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Gasconade Countylimited",
+        "1",
+        "0.01%",
+        "4 kW",
+        "—"
+      ],
+      "countyName": "Gasconade County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/gasconade-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Greene Countylimited",
+        "1",
+        "0.00%",
+        "6.5 MW",
+        "—"
+      ],
+      "countyName": "Greene County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/greene-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Grundy Countylimited",
+        "1",
+        "0.02%",
+        "3.3 MW",
+        "—"
+      ],
+      "countyName": "Grundy County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/grundy-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Howell Countylimited",
+        "1",
+        "0.01%",
+        "10.8 MW",
+        "—"
+      ],
+      "countyName": "Howell County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/howell-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jasper Countylimited",
+        "1",
+        "0.00%",
+        "2.3 MW",
+        "—"
+      ],
+      "countyName": "Jasper County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/jasper-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Laclede Countylimited",
+        "1",
+        "0.01%",
+        "3.1 MW",
+        "—"
+      ],
+      "countyName": "Laclede County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/laclede-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lafayette Countylimited",
+        "1",
+        "0.01%",
+        "3.2 MW",
+        "—"
+      ],
+      "countyName": "Lafayette County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/lafayette-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Livingston Countylimited",
+        "1",
+        "0.02%",
+        "3.3 MW",
+        "—"
+      ],
+      "countyName": "Livingston County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/livingston-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Macon Countylimited",
+        "1",
+        "0.01%",
+        "3.2 MW",
+        "—"
+      ],
+      "countyName": "Macon County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/macon-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pulaski Countylimited",
+        "1",
+        "0.01%",
+        "3.2 MW",
+        "—"
+      ],
+      "countyName": "Pulaski County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/pulaski-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "St. Charles Countylimited",
+        "1",
+        "0.00%",
+        "5.7 MW",
+        "—"
+      ],
+      "countyName": "St. Charles County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/st-charles-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "St. Francois Countylimited",
+        "1",
+        "0.00%",
+        "3.1 MW",
+        "—"
+      ],
+      "countyName": "St. Francois County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/st-francois-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Saline Countylimited",
+        "1",
+        "0.01%",
+        "3.2 MW",
+        "—"
+      ],
+      "countyName": "Saline County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/saline-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Warren Countylimited",
+        "1",
+        "0.01%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Warren County",
+      "countyUrl": "https://panelcensus.com/solar/missouri/warren-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

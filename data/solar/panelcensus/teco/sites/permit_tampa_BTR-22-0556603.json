@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556603",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556603",
+  "listingPageNumber": 9,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "6.1 kW",
+    "Aug 23, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:07.316Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1615, -82.3625",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1615403&mlon=-82.3624614#map=17/28.1615403/-82.3624614",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556603",
+  "siteName": "20145 Umbria Hill Dr (ACA)",
+  "sizeDisplay": "6.1 kW",
+  "latitude": 28.1615403,
+  "longitude": -82.3624614,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 6.1,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556819",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556819",
+  "listingPageNumber": 9,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "15.5 kW",
+    "Aug 26, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:53:31.156Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9769, -82.4912",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9768977&mlon=-82.4912313#map=17/27.9768977/-82.4912313",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556819",
+  "siteName": "2910 W Ohio Ave (ACA)",
+  "sizeDisplay": "15.5 kW",
+  "latitude": 27.9768977,
+  "longitude": -82.4912313,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 15.5,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

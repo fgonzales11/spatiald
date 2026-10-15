@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560471",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560471",
+  "listingPageNumber": 4,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 14, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:35:37.707Z",
+  "siteName": "2716 W Eddy Dr (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9854, -82.4878",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9854217&mlon=-82.4877867#map=17/27.9854217/-82.4877867",
+  "recordId": "permit_tampa_BTR-23-0560471",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.9854217,
+  "longitude": -82.4877867,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

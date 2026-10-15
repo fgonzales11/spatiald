@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0552270",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0552270",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 9, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:29.278Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9859, -82.4367",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9859198&mlon=-82.4367197#map=17/27.9859198/-82.4367197",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0552270",
+  "siteName": "REISSUE - 4405 N 20th St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9859198,
+  "longitude": -82.4367197,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

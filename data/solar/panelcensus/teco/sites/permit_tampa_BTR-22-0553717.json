@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0553717",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0553717",
+  "listingPageNumber": 13,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jul 6, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:08.816Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9105, -82.5087",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9105257&mlon=-82.5086736#map=17/27.9105257/-82.5086736",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0553717",
+  "siteName": "3614 W Tampa Cir (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9105257,
+  "longitude": -82.5086736,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

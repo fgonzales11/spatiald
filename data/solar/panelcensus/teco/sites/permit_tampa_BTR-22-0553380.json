@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0553380",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0553380",
+  "listingPageNumber": 13,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 29, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:18.885Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0047, -82.4344",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.004654&mlon=-82.4343783#map=17/28.004654/-82.4343783",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0553380",
+  "siteName": "2215 E Fern St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.004654,
+  "longitude": -82.4343783,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0558286",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0558286",
+  "listingPageNumber": 7,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "14.8 kW",
+    "Sep 29, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:52:15.746Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9205, -82.4523",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9205492&mlon=-82.4522997#map=17/27.9205492/-82.4522997",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0558286",
+  "siteName": "630 Luzon Ave (ACA)",
+  "sizeDisplay": "14.8 kW",
+  "latitude": 27.9205492,
+  "longitude": -82.4522997,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 14.8,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

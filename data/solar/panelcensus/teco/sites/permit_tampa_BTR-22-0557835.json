@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0557835",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557835",
+  "listingPageNumber": 8,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "11.4 kW",
+    "Sep 17, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:53:00.509Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9795, -82.4496",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9795478&mlon=-82.4496418#map=17/27.9795478/-82.4496418",
+  "parties": [
+    {
+      "name": "Gas Kwick INC",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0557835",
+  "siteName": "1011 E 32nd Ave (ACA)",
+  "sizeDisplay": "11.4 kW",
+  "latitude": 27.9795478,
+  "longitude": -82.4496418,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 11.4,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

@@ -1,0 +1,496 @@
+{
+  "state": {
+    "code": "OR",
+    "name": "Oregon",
+    "slug": "oregon"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/oregon",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:43.468Z",
+  "renderedHtmlSha256": "bc35ff8d6c9a74e94f78d90e49e6f33b93e2c91fb878c8b81533f990d1feb860",
+  "heading": "Solar installations in Oregon",
+  "documentTitle": "Solar in Oregon — 17,012 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "17,012",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Oregon",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Multnomah County",
+        "9,825",
+        "2.7%",
+        "71.5 MW",
+        "$4.48/W"
+      ],
+      "countyName": "Multnomah County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/multnomah-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lane County",
+        "1,288",
+        "0.77%",
+        "9.9 MW",
+        "$4.20/W"
+      ],
+      "countyName": "Lane County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/lane-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jackson County",
+        "782",
+        "0.81%",
+        "44.6 MW",
+        "$4.50/W"
+      ],
+      "countyName": "Jackson County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/jackson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Deschutes County",
+        "637",
+        "0.66%",
+        "58.6 MW",
+        "$4.13/W"
+      ],
+      "countyName": "Deschutes County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/deschutes-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Washington County",
+        "602",
+        "0.25%",
+        "13.0 MW",
+        "$4.35/W"
+      ],
+      "countyName": "Washington County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/washington-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Benton County",
+        "454",
+        "1.1%",
+        "4.1 MW",
+        "$3.71/W"
+      ],
+      "countyName": "Benton County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/benton-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Klamath County",
+        "329",
+        "1.00%",
+        "176.6 MW",
+        "$4.30/W"
+      ],
+      "countyName": "Klamath County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/klamath-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Linn County",
+        "312",
+        "0.59%",
+        "11.1 MW",
+        "$4.48/W"
+      ],
+      "countyName": "Linn County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/linn-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Marion County",
+        "311",
+        "0.24%",
+        "106.7 MW",
+        "$4.35/W"
+      ],
+      "countyName": "Marion County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/marion-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clackamas County",
+        "292",
+        "0.17%",
+        "141.2 MW",
+        "$4.35/W"
+      ],
+      "countyName": "Clackamas County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/clackamas-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Josephine County",
+        "220",
+        "0.56%",
+        "2.7 MW",
+        "$4.39/W"
+      ],
+      "countyName": "Josephine County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/josephine-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jefferson County",
+        "213",
+        "2.0%",
+        "34.0 MW",
+        "$8.35/W"
+      ],
+      "countyName": "Jefferson County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/jefferson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Polk County",
+        "174",
+        "0.51%",
+        "7.7 MW",
+        "$3.96/W"
+      ],
+      "countyName": "Polk County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/polk-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Yamhill County",
+        "159",
+        "0.39%",
+        "78.6 MW",
+        "$4.36/W"
+      ],
+      "countyName": "Yamhill County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/yamhill-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Crook County",
+        "148",
+        "1.3%",
+        "200.0 MW",
+        "$5.43/W"
+      ],
+      "countyName": "Crook County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/crook-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Douglas County",
+        "134",
+        "0.27%",
+        "1.1 MW",
+        "$4.67/W"
+      ],
+      "countyName": "Douglas County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/douglas-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hood River County",
+        "115",
+        "1.1%",
+        "3.5 MW",
+        "$3.82/W"
+      ],
+      "countyName": "Hood River County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/hood-river-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lincoln County",
+        "107",
+        "0.33%",
+        "614 kW",
+        "$3.92/W"
+      ],
+      "countyName": "Lincoln County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/lincoln-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wallowa County",
+        "85",
+        "2.0%",
+        "2.2 MW",
+        "$4.84/W"
+      ],
+      "countyName": "Wallowa County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/wallowa-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Columbia County",
+        "84",
+        "0.38%",
+        "623 kW",
+        "$4.85/W"
+      ],
+      "countyName": "Columbia County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/columbia-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Umatilla County",
+        "69",
+        "0.22%",
+        "12.2 MW",
+        "$4.35/W"
+      ],
+      "countyName": "Umatilla County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/umatilla-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wasco County",
+        "68",
+        "0.56%",
+        "697 kW",
+        "$4.05/W"
+      ],
+      "countyName": "Wasco County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/wasco-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Coos County",
+        "59",
+        "0.19%",
+        "405 kW",
+        "$5.39/W"
+      ],
+      "countyName": "Coos County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/coos-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Grant County",
+        "56",
+        "1.4%",
+        "106 kW",
+        "$7.09/W"
+      ],
+      "countyName": "Grant County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/grant-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Union County",
+        "56",
+        "0.47%",
+        "1.3 MW",
+        "$4.65/W"
+      ],
+      "countyName": "Union County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/union-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lake County",
+        "52",
+        "1.2%",
+        "227.4 MW",
+        "$8.21/W"
+      ],
+      "countyName": "Lake County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/lake-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Malheur County",
+        "48",
+        "0.41%",
+        "83.1 MW",
+        "$3.85/W"
+      ],
+      "countyName": "Malheur County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/malheur-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Curry County",
+        "35",
+        "0.27%",
+        "196 kW",
+        "$6.52/W"
+      ],
+      "countyName": "Curry County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/curry-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Tillamook County",
+        "34",
+        "0.18%",
+        "207 kW",
+        "$5.63/W"
+      ],
+      "countyName": "Tillamook County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/tillamook-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Baker County",
+        "30",
+        "0.34%",
+        "33.1 MW",
+        "—"
+      ],
+      "countyName": "Baker County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/baker-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clatsop County",
+        "19",
+        "0.08%",
+        "212 kW",
+        "—"
+      ],
+      "countyName": "Clatsop County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/clatsop-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Harney County",
+        "17",
+        "0.46%",
+        "61.3 MW",
+        "—"
+      ],
+      "countyName": "Harney County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/harney-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wheeler Countylimited",
+        "9",
+        "0.99%",
+        "9 kW",
+        "—"
+      ],
+      "countyName": "Wheeler County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/wheeler-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sherman Countylimited",
+        "8",
+        "0.82%",
+        "13.0 MW",
+        "—"
+      ],
+      "countyName": "Sherman County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/sherman-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Morrow Countylimited",
+        "3",
+        "0.06%",
+        "73.2 MW",
+        "—"
+      ],
+      "countyName": "Morrow County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/morrow-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Gilliam Countylimited",
+        "1",
+        "0.09%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Gilliam County",
+      "countyUrl": "https://panelcensus.com/solar/oregon/gilliam-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

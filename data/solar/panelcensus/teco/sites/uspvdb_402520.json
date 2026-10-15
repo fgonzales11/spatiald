@@ -1,0 +1,42 @@
+{
+  "siteId": "uspvdb_402520",
+  "sourceUrl": "https://panelcensus.com/sites/uspvdb_402520",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Lithia, FL\nHillsborough County",
+    "Utility-scale",
+    "87,200 kW",
+    "Jan 1, 2019",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:32.154Z",
+  "capacityBasis": "74,500 kW AC",
+  "locationDescription": "Lithia · Hillsborough County · Florida · Utility-scale",
+  "locationDisplay": "Location: 27.7543, -82.1649",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.754299&mlon=-82.164894#map=17/27.754299/-82.164894",
+  "parties": [
+    {
+      "name": "Tampa Electric Co [100%]",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Plant operator"
+    }
+  ],
+  "recordId": "uspvdb_402520",
+  "siteName": "Lithia Solar",
+  "sizeDisplay": "87,200 kW",
+  "latitude": 27.754299,
+  "longitude": -82.164894,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 87200,
+  "tecoRoles": [
+    "Plant operator"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

@@ -1,0 +1,42 @@
+{
+  "siteId": "uspvdb_403176",
+  "sourceUrl": "https://panelcensus.com/sites/uspvdb_403176",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Ruskin, FL\nHillsborough County",
+    "Utility-scale",
+    "87,900 kW",
+    "Jan 1, 2020",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:30.565Z",
+  "capacityBasis": "74,500 kW AC",
+  "locationDescription": "Ruskin · Hillsborough County · Florida · Utility-scale",
+  "locationDisplay": "Location: 27.6842, -82.4125",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.684187&mlon=-82.412498#map=17/27.684187/-82.412498",
+  "parties": [
+    {
+      "name": "Tampa Electric Co [100%]",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Plant operator"
+    }
+  ],
+  "recordId": "uspvdb_403176",
+  "siteName": "Little Manatee River Solar",
+  "sizeDisplay": "87,900 kW",
+  "latitude": 27.684187,
+  "longitude": -82.412498,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 87900,
+  "tecoRoles": [
+    "Plant operator"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

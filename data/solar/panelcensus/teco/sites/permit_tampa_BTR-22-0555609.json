@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555609",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555609",
+  "listingPageNumber": 11,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "15.2 kW",
+    "Aug 5, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:40.368Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9330, -82.4852",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9329849&mlon=-82.485159#map=17/27.9329849/-82.485159",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555609",
+  "siteName": "2503 W Jetton Ave (ACA)",
+  "sizeDisplay": "15.2 kW",
+  "latitude": 27.9329849,
+  "longitude": -82.485159,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 15.2,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

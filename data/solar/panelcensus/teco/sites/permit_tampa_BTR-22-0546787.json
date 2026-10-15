@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0546787",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0546787",
+  "listingPageNumber": 19,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Feb 28, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:30.791Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8832, -82.5255",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8832188&mlon=-82.5255293#map=17/27.8832188/-82.5255293",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0546787",
+  "siteName": "4734 W Trilby Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.8832188,
+  "longitude": -82.5255293,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

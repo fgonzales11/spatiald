@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0553920",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0553920",
+  "listingPageNumber": 13,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jul 8, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:05.175Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8859, -82.4984",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8859487&mlon=-82.4983916#map=17/27.8859487/-82.4983916",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0553920",
+  "siteName": "3317 W Tyson Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.8859487,
+  "longitude": -82.4983916,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

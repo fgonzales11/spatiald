@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561094",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561094",
+  "listingPageNumber": 3,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 29, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:33:35.992Z",
+  "siteName": "9801 N Myrtle St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0381, -82.3989",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.038148&mlon=-82.3989231#map=17/28.038148/-82.3989231",
+  "recordId": "permit_tampa_BTR-23-0561094",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.038148,
+  "longitude": -82.3989231,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

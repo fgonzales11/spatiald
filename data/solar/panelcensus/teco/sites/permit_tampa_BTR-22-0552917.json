@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0552917",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0552917",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:33.642Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0154, -82.4510",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0154321&mlon=-82.4510329#map=17/28.0154321/-82.4510329",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0552917",
+  "siteName": "912 E Crenshaw St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0154321,
+  "longitude": -82.4510329,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

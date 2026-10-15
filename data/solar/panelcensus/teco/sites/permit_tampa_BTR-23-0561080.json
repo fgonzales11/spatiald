@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561080",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561080",
+  "listingPageNumber": 3,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 29, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:33:42.144Z",
+  "siteName": "4014 N Boulevard (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9815, -82.4620",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9815163&mlon=-82.4620423#map=17/27.9815163/-82.4620423",
+  "recordId": "permit_tampa_BTR-23-0561080",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.9815163,
+  "longitude": -82.4620423,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

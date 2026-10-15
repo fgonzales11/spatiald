@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556306",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556306",
+  "listingPageNumber": 10,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "10.4 kW",
+    "Aug 17, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:18.537Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9867, -82.4439",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9866544&mlon=-82.443948#map=17/27.9866544/-82.443948",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556306",
+  "siteName": "1404 E Cayuga St (ACA)",
+  "sizeDisplay": "10.4 kW",
+  "latitude": 27.9866544,
+  "longitude": -82.443948,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 10.4,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

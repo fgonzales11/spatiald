@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0548781",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0548781",
+  "listingPageNumber": 17,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Apr 6, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:00:59.474Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0450, -82.3986",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0449898&mlon=-82.3986184#map=17/28.0449898/-82.3986184",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0548781",
+  "siteName": "5124 E Chilkoot Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0449898,
+  "longitude": -82.3986184,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

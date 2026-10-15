@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0554524",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0554524",
+  "listingPageNumber": 12,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jul 19, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:55:48.357Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9032, -82.5017",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9032058&mlon=-82.5016727#map=17/27.9032058/-82.5016727",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0554524",
+  "siteName": "3414 W Wallcraft Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9032058,
+  "longitude": -82.5016727,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

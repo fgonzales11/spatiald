@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560954",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560954",
+  "listingPageNumber": 3,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "6.3 kW",
+    "Nov 23, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:34:02.581Z",
+  "siteName": "4507 S Renellie Dr (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "6.3 kW",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9002, -82.5246",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9001653&mlon=-82.5246206#map=17/27.9001653/-82.5246206",
+  "recordId": "permit_tampa_BTR-23-0560954",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 6.3,
+  "latitude": 27.9001653,
+  "longitude": -82.5246206,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

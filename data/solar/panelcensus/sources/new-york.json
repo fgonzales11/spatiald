@@ -1,0 +1,834 @@
+{
+  "state": {
+    "code": "NY",
+    "name": "New York",
+    "slug": "new-york"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/new-york",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:41.493Z",
+  "renderedHtmlSha256": "cda8322fe098fe21a143ba09dea65e0f10fd865d6c3904295a7b0138b135553b",
+  "heading": "Solar installations in New York",
+  "documentTitle": "Solar in New York — 223,104 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "223,104",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in New York",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Queens County",
+        "37,839",
+        "4.2%",
+        "390.2 MW",
+        "$4.28/W"
+      ],
+      "countyName": "Queens County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/queens-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Suffolk County",
+        "22,917",
+        "4.0%",
+        "715.0 MW",
+        "$4.80/W"
+      ],
+      "countyName": "Suffolk County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/suffolk-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kings County",
+        "20,615",
+        "1.9%",
+        "248.8 MW",
+        "$4.96/W"
+      ],
+      "countyName": "Kings County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/kings-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Richmond County",
+        "19,375",
+        "10.5%",
+        "275.4 MW",
+        "$4.30/W"
+      ],
+      "countyName": "Richmond County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/richmond-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Westchester County",
+        "15,708",
+        "4.0%",
+        "607.6 MW",
+        "$3.76/W"
+      ],
+      "countyName": "Westchester County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/westchester-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Nassau County",
+        "13,623",
+        "2.9%",
+        "173.0 MW",
+        "$4.35/W"
+      ],
+      "countyName": "Nassau County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/nassau-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Orange County",
+        "11,307",
+        "7.6%",
+        "1.1 GW",
+        "$3.90/W"
+      ],
+      "countyName": "Orange County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/orange-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bronx County",
+        "10,215",
+        "1.8%",
+        "189.6 MW",
+        "$4.54/W"
+      ],
+      "countyName": "Bronx County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/bronx-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Dutchess County",
+        "7,711",
+        "6.3%",
+        "388.1 MW",
+        "$3.95/W"
+      ],
+      "countyName": "Dutchess County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/dutchess-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Ulster County",
+        "6,634",
+        "7.7%",
+        "490.2 MW",
+        "$3.90/W"
+      ],
+      "countyName": "Ulster County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/ulster-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Rockland County",
+        "5,926",
+        "5.5%",
+        "84.3 MW",
+        "$3.75/W"
+      ],
+      "countyName": "Rockland County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/rockland-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Albany County",
+        "4,915",
+        "3.3%",
+        "440.6 MW",
+        "$4.26/W"
+      ],
+      "countyName": "Albany County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/albany-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Erie County",
+        "4,520",
+        "1.0%",
+        "661.4 MW",
+        "$3.45/W"
+      ],
+      "countyName": "Erie County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/erie-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Saratoga County",
+        "3,576",
+        "3.2%",
+        "695.9 MW",
+        "$4.09/W"
+      ],
+      "countyName": "Saratoga County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/saratoga-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Rensselaer County",
+        "2,984",
+        "4.0%",
+        "560.3 MW",
+        "$4.26/W"
+      ],
+      "countyName": "Rensselaer County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/rensselaer-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Monroe County",
+        "2,833",
+        "0.84%",
+        "824.4 MW",
+        "$3.35/W"
+      ],
+      "countyName": "Monroe County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/monroe-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Schenectady County",
+        "2,387",
+        "3.4%",
+        "409.2 MW",
+        "$4.42/W"
+      ],
+      "countyName": "Schenectady County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/schenectady-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Onondaga County",
+        "1,983",
+        "0.94%",
+        "932.6 MW",
+        "$3.36/W"
+      ],
+      "countyName": "Onondaga County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/onondaga-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Tompkins County",
+        "1,911",
+        "4.0%",
+        "519.1 MW",
+        "$3.87/W"
+      ],
+      "countyName": "Tompkins County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/tompkins-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Columbia County",
+        "1,817",
+        "5.5%",
+        "376.7 MW",
+        "$4.10/W"
+      ],
+      "countyName": "Columbia County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/columbia-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Putnam County",
+        "1,311",
+        "3.4%",
+        "40.4 MW",
+        "$3.75/W"
+      ],
+      "countyName": "Putnam County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/putnam-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Greene County",
+        "1,243",
+        "4.3%",
+        "216.7 MW",
+        "$4.00/W"
+      ],
+      "countyName": "Greene County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/greene-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Oneida County",
+        "1,234",
+        "1.2%",
+        "730.0 MW",
+        "$3.76/W"
+      ],
+      "countyName": "Oneida County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/oneida-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sullivan County",
+        "1,118",
+        "2.3%",
+        "255.3 MW",
+        "$3.56/W"
+      ],
+      "countyName": "Sullivan County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/sullivan-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "New York County",
+        "1,088",
+        "0.12%",
+        "171.3 MW",
+        "$4.75/W"
+      ],
+      "countyName": "New York County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/new-york-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Niagara County",
+        "1,057",
+        "1.1%",
+        "454.4 MW",
+        "$3.34/W"
+      ],
+      "countyName": "Niagara County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/niagara-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Ontario County",
+        "1,052",
+        "2.0%",
+        "280.3 MW",
+        "$3.23/W"
+      ],
+      "countyName": "Ontario County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/ontario-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Washington County",
+        "1,011",
+        "3.5%",
+        "358.0 MW",
+        "$4.19/W"
+      ],
+      "countyName": "Washington County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/washington-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Montgomery County",
+        "891",
+        "3.9%",
+        "369.0 MW",
+        "$4.42/W"
+      ],
+      "countyName": "Montgomery County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/montgomery-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Warren County",
+        "840",
+        "2.1%",
+        "97.8 MW",
+        "$3.83/W"
+      ],
+      "countyName": "Warren County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/warren-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Broome County",
+        "771",
+        "0.83%",
+        "380.4 MW",
+        "$3.60/W"
+      ],
+      "countyName": "Broome County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/broome-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wayne County",
+        "761",
+        "1.8%",
+        "299.4 MW",
+        "$3.24/W"
+      ],
+      "countyName": "Wayne County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/wayne-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "St. Lawrence County",
+        "705",
+        "1.4%",
+        "650.7 MW",
+        "$3.28/W"
+      ],
+      "countyName": "St. Lawrence County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/st-lawrence-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Oswego County",
+        "680",
+        "1.2%",
+        "358.3 MW",
+        "$3.29/W"
+      ],
+      "countyName": "Oswego County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/oswego-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jefferson County",
+        "668",
+        "1.1%",
+        "684.2 MW",
+        "$3.32/W"
+      ],
+      "countyName": "Jefferson County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/jefferson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Fulton County",
+        "626",
+        "2.2%",
+        "358.2 MW",
+        "$4.26/W"
+      ],
+      "countyName": "Fulton County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/fulton-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Madison County",
+        "610",
+        "2.0%",
+        "325.1 MW",
+        "$3.40/W"
+      ],
+      "countyName": "Madison County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/madison-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Chautauqua County",
+        "583",
+        "0.88%",
+        "512.2 MW",
+        "$3.36/W"
+      ],
+      "countyName": "Chautauqua County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/chautauqua-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Schoharie County",
+        "547",
+        "3.3%",
+        "110.3 MW",
+        "$4.25/W"
+      ],
+      "countyName": "Schoharie County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/schoharie-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Otsego County",
+        "528",
+        "1.8%",
+        "105.0 MW",
+        "$3.68/W"
+      ],
+      "countyName": "Otsego County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/otsego-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cayuga County",
+        "513",
+        "1.4%",
+        "318.4 MW",
+        "$3.37/W"
+      ],
+      "countyName": "Cayuga County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/cayuga-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Livingston County",
+        "469",
+        "1.7%",
+        "359.5 MW",
+        "$3.28/W"
+      ],
+      "countyName": "Livingston County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/livingston-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Essex County",
+        "462",
+        "1.8%",
+        "140.9 MW",
+        "$3.45/W"
+      ],
+      "countyName": "Essex County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/essex-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Tioga County",
+        "454",
+        "2.1%",
+        "446.3 MW",
+        "$3.50/W"
+      ],
+      "countyName": "Tioga County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/tioga-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Genesee County",
+        "402",
+        "1.5%",
+        "344.4 MW",
+        "$3.28/W"
+      ],
+      "countyName": "Genesee County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/genesee-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clinton County",
+        "398",
+        "1.1%",
+        "288.3 MW",
+        "$3.61/W"
+      ],
+      "countyName": "Clinton County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/clinton-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cortland County",
+        "366",
+        "1.8%",
+        "327.4 MW",
+        "$3.41/W"
+      ],
+      "countyName": "Cortland County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/cortland-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cattaraugus County",
+        "361",
+        "0.90%",
+        "353.8 MW",
+        "$3.35/W"
+      ],
+      "countyName": "Cattaraugus County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/cattaraugus-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Steuben County",
+        "326",
+        "0.69%",
+        "325.9 MW",
+        "$3.44/W"
+      ],
+      "countyName": "Steuben County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/steuben-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Chemung County",
+        "325",
+        "0.83%",
+        "174.7 MW",
+        "$3.52/W"
+      ],
+      "countyName": "Chemung County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/chemung-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Delaware County",
+        "323",
+        "1.1%",
+        "36.7 MW",
+        "$4.06/W"
+      ],
+      "countyName": "Delaware County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/delaware-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Orleans County",
+        "313",
+        "1.7%",
+        "263.8 MW",
+        "$3.27/W"
+      ],
+      "countyName": "Orleans County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/orleans-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Franklin County",
+        "293",
+        "1.2%",
+        "227.7 MW",
+        "$3.45/W"
+      ],
+      "countyName": "Franklin County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/franklin-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Herkimer County",
+        "293",
+        "0.90%",
+        "178.6 MW",
+        "$4.00/W"
+      ],
+      "countyName": "Herkimer County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/herkimer-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Yates County",
+        "249",
+        "1.9%",
+        "156.7 MW",
+        "$3.37/W"
+      ],
+      "countyName": "Yates County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/yates-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Allegany County",
+        "244",
+        "1.0%",
+        "414.1 MW",
+        "$3.40/W"
+      ],
+      "countyName": "Allegany County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/allegany-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Schuyler County",
+        "234",
+        "2.4%",
+        "201.1 MW",
+        "$3.27/W"
+      ],
+      "countyName": "Schuyler County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/schuyler-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wyoming County",
+        "230",
+        "1.3%",
+        "109.1 MW",
+        "$3.33/W"
+      ],
+      "countyName": "Wyoming County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/wyoming-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Seneca County",
+        "226",
+        "1.4%",
+        "117.2 MW",
+        "$3.47/W"
+      ],
+      "countyName": "Seneca County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/seneca-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Chenango County",
+        "214",
+        "0.88%",
+        "245.7 MW",
+        "$3.65/W"
+      ],
+      "countyName": "Chenango County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/chenango-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lewis County",
+        "125",
+        "0.80%",
+        "184.9 MW",
+        "$3.19/W"
+      ],
+      "countyName": "Lewis County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/lewis-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hamilton County",
+        "103",
+        "1.3%",
+        "966 kW",
+        "$4.13/W"
+      ],
+      "countyName": "Hamilton County",
+      "countyUrl": "https://panelcensus.com/solar/new-york/hamilton-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    }
+  ]
+}

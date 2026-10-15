@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0553448",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0553448",
+  "listingPageNumber": 13,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 30, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:16.295Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1649, -82.2926",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1648587&mlon=-82.2925723#map=17/28.1648587/-82.2925723",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0553448",
+  "siteName": "19261 Old Spanish Rd (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1648587,
+  "longitude": -82.2925723,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0552140",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0552140",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 8, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:30.836Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9074, -82.5190",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9073972&mlon=-82.5190028#map=17/27.9073972/-82.5190028",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0552140",
+  "siteName": "4417 W Bay Court Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9073972,
+  "longitude": -82.5190028,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

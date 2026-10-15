@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0562467",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0562467",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "11.6 kW",
+    "Feb 1, 2023",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:18.112Z",
+  "siteName": "402 E Forest Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "11.6 kW",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9677, -82.4569",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9676511&mlon=-82.4568822#map=17/27.9676511/-82.4568822",
+  "recordId": "permit_tampa_BTR-23-0562467",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 11.6,
+  "latitude": 27.9676511,
+  "longitude": -82.4568822,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

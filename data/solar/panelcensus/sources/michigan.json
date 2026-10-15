@@ -1,0 +1,405 @@
+{
+  "state": {
+    "code": "MI",
+    "name": "Michigan",
+    "slug": "michigan"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/michigan",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:38.095Z",
+  "renderedHtmlSha256": "c253a7ac077ab9e789768306e375eef7bb735bb2236073ebf988059520b3f7f1",
+  "heading": "Solar installations in Michigan",
+  "documentTitle": "Solar in Michigan — 778 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "778",
+  "stateCapacityDisplay": null,
+  "underReported": true,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Michigan",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Wayne County",
+        "648",
+        "0.08%",
+        "29.5 MW",
+        "—"
+      ],
+      "countyName": "Wayne County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/wayne-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Genesee Countylimited",
+        "6",
+        "0.00%",
+        "30.3 MW",
+        "—"
+      ],
+      "countyName": "Genesee County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/genesee-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Ingham Countylimited",
+        "6",
+        "0.01%",
+        "35.7 MW",
+        "—"
+      ],
+      "countyName": "Ingham County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/ingham-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Shiawassee Countylimited",
+        "6",
+        "0.02%",
+        "126.1 MW",
+        "—"
+      ],
+      "countyName": "Shiawassee County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/shiawassee-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Calhoun Countylimited",
+        "4",
+        "0.01%",
+        "30.8 MW",
+        "—"
+      ],
+      "countyName": "Calhoun County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/calhoun-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Eaton Countylimited",
+        "4",
+        "0.01%",
+        "51.1 MW",
+        "—"
+      ],
+      "countyName": "Eaton County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/eaton-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Branch Countylimited",
+        "3",
+        "0.01%",
+        "31.3 MW",
+        "—"
+      ],
+      "countyName": "Branch County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/branch-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kent Countylimited",
+        "3",
+        "0.00%",
+        "21.3 MW",
+        "—"
+      ],
+      "countyName": "Kent County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/kent-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lenawee Countylimited",
+        "3",
+        "0.01%",
+        "30.6 MW",
+        "—"
+      ],
+      "countyName": "Lenawee County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/lenawee-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Saginaw Countylimited",
+        "3",
+        "0.00%",
+        "8.5 MW",
+        "—"
+      ],
+      "countyName": "Saginaw County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/saginaw-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clinton Countylimited",
+        "2",
+        "0.01%",
+        "43.4 MW",
+        "—"
+      ],
+      "countyName": "Clinton County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/clinton-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Delta Countylimited",
+        "2",
+        "0.01%",
+        "2.8 MW",
+        "—"
+      ],
+      "countyName": "Delta County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/delta-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Grand Traverse Countylimited",
+        "2",
+        "0.00%",
+        "2.4 MW",
+        "—"
+      ],
+      "countyName": "Grand Traverse County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/grand-traverse-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hillsdale Countylimited",
+        "2",
+        "0.01%",
+        "2.8 MW",
+        "—"
+      ],
+      "countyName": "Hillsdale County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/hillsdale-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jackson Countylimited",
+        "2",
+        "0.00%",
+        "45.9 MW",
+        "—"
+      ],
+      "countyName": "Jackson County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/jackson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kalamazoo Countylimited",
+        "2",
+        "0.00%",
+        "2.4 MW",
+        "—"
+      ],
+      "countyName": "Kalamazoo County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/kalamazoo-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lapeer Countylimited",
+        "2",
+        "0.01%",
+        "57.5 MW",
+        "—"
+      ],
+      "countyName": "Lapeer County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/lapeer-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Ottawa Countylimited",
+        "2",
+        "0.00%",
+        "7.0 MW",
+        "—"
+      ],
+      "countyName": "Ottawa County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/ottawa-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Allegan Countylimited",
+        "1",
+        "0.00%",
+        "26.1 MW",
+        "—"
+      ],
+      "countyName": "Allegan County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/allegan-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Berrien Countylimited",
+        "1",
+        "0.00%",
+        "6.0 MW",
+        "—"
+      ],
+      "countyName": "Berrien County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/berrien-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Chippewa Countylimited",
+        "1",
+        "0.01%",
+        "7.6 MW",
+        "—"
+      ],
+      "countyName": "Chippewa County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/chippewa-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Gladwin Countylimited",
+        "1",
+        "0.01%",
+        "28.0 MW",
+        "—"
+      ],
+      "countyName": "Gladwin County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/gladwin-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Leelanau Countylimited",
+        "1",
+        "0.01%",
+        "2.2 MW",
+        "—"
+      ],
+      "countyName": "Leelanau County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/leelanau-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Missaukee Countylimited",
+        "1",
+        "0.01%",
+        "2.8 MW",
+        "—"
+      ],
+      "countyName": "Missaukee County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/missaukee-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Monroe Countylimited",
+        "1",
+        "0.00%",
+        "29.6 MW",
+        "—"
+      ],
+      "countyName": "Monroe County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/monroe-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Muskegon Countylimited",
+        "1",
+        "0.00%",
+        "28.0 MW",
+        "—"
+      ],
+      "countyName": "Muskegon County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/muskegon-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "St. Clair Countylimited",
+        "1",
+        "0.00%",
+        "2.0 MW",
+        "—"
+      ],
+      "countyName": "St. Clair County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/st-clair-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "St. Joseph Countylimited",
+        "1",
+        "0.00%",
+        "18.9 MW",
+        "—"
+      ],
+      "countyName": "St. Joseph County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/st-joseph-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Washtenaw Countylimited",
+        "1",
+        "0.00%",
+        "1.1 MW",
+        "—"
+      ],
+      "countyName": "Washtenaw County",
+      "countyUrl": "https://panelcensus.com/solar/michigan/washtenaw-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "siteId": "permit_tampa_BTR-23-0562421",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0562421",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 29, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:20.570Z",
+  "siteName": "8410 N 16th St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0256, -82.4413",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0255593&mlon=-82.4413339#map=17/28.0255593/-82.4413339",
+  "recordId": "permit_tampa_BTR-23-0562421",
+  "parties": [
+    {
+      "role": "Owner",
+      "name": "City OF Tampa"
+    },
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.0255593,
+  "longitude": -82.4413339,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

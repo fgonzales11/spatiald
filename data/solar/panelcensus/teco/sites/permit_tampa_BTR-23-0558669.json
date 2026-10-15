@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0558669",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0558669",
+  "listingPageNumber": 7,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "10.8 kW",
+    "Oct 6, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:52:06.228Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9164, -82.5064",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9163908&mlon=-82.506442#map=17/27.9163908/-82.506442",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0558669",
+  "siteName": "3819 W Tacon St (ACA)",
+  "sizeDisplay": "10.8 kW",
+  "latitude": 27.9163908,
+  "longitude": -82.506442,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 10.8,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

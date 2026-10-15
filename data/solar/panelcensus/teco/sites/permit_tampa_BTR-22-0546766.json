@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0546766",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0546766",
+  "listingPageNumber": 19,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Feb 28, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:30.202Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1581, -82.2972",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1581488&mlon=-82.2972266#map=17/28.1581488/-82.2972266",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0546766",
+  "siteName": "10803 Eagle Eye Way (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1581488,
+  "longitude": -82.2972266,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

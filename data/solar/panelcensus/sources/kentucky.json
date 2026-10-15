@@ -1,0 +1,223 @@
+{
+  "state": {
+    "code": "KY",
+    "name": "Kentucky",
+    "slug": "kentucky"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/kentucky",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:36.199Z",
+  "renderedHtmlSha256": "0812ee4027bd13f9f2452eb1e6813219f421955a90ff135c5532ed60b88f6e86",
+  "heading": "Solar installations in Kentucky",
+  "documentTitle": "Solar in Kentucky — 956 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "956",
+  "stateCapacityDisplay": null,
+  "underReported": true,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Kentucky",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Jefferson County",
+        "893",
+        "0.25%",
+        "4.4 MW",
+        "—"
+      ],
+      "countyName": "Jefferson County",
+      "countyUrl": "https://panelcensus.com/solar/kentucky/jefferson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "McCracken County",
+        "13",
+        "0.04%",
+        "16 kW",
+        "—"
+      ],
+      "countyName": "McCracken County",
+      "countyUrl": "https://panelcensus.com/solar/kentucky/mccracken-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Oldham Countylimited",
+        "8",
+        "0.03%",
+        "74 kW",
+        "—"
+      ],
+      "countyName": "Oldham County",
+      "countyUrl": "https://panelcensus.com/solar/kentucky/oldham-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Boone Countylimited",
+        "4",
+        "0.01%",
+        "9.6 MW",
+        "—"
+      ],
+      "countyName": "Boone County",
+      "countyUrl": "https://panelcensus.com/solar/kentucky/boone-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clark Countylimited",
+        "2",
+        "0.01%",
+        "21.8 MW",
+        "—"
+      ],
+      "countyName": "Clark County",
+      "countyUrl": "https://panelcensus.com/solar/kentucky/clark-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Garrard Countylimited",
+        "2",
+        "0.03%",
+        "71.0 MW",
+        "—"
+      ],
+      "countyName": "Garrard County",
+      "countyUrl": "https://panelcensus.com/solar/kentucky/garrard-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Mercer Countylimited",
+        "2",
+        "0.02%",
+        "19.3 MW",
+        "—"
+      ],
+      "countyName": "Mercer County",
+      "countyUrl": "https://panelcensus.com/solar/kentucky/mercer-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Shelby Countylimited",
+        "2",
+        "0.01%",
+        "3.1 MW",
+        "—"
+      ],
+      "countyName": "Shelby County",
+      "countyUrl": "https://panelcensus.com/solar/kentucky/shelby-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Grant Countylimited",
+        "1",
+        "0.01%",
+        "3.8 MW",
+        "—"
+      ],
+      "countyName": "Grant County",
+      "countyUrl": "https://panelcensus.com/solar/kentucky/grant-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Graves Countylimited",
+        "1",
+        "0.01%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Graves County",
+      "countyUrl": "https://panelcensus.com/solar/kentucky/graves-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kenton Countylimited",
+        "1",
+        "0.00%",
+        "1.3 MW",
+        "—"
+      ],
+      "countyName": "Kenton County",
+      "countyUrl": "https://panelcensus.com/solar/kentucky/kenton-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Logan Countylimited",
+        "1",
+        "0.01%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Logan County",
+      "countyUrl": "https://panelcensus.com/solar/kentucky/logan-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Martin Countylimited",
+        "1",
+        "0.02%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Martin County",
+      "countyUrl": "https://panelcensus.com/solar/kentucky/martin-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Metcalfe Countylimited",
+        "1",
+        "0.02%",
+        "55.0 MW",
+        "—"
+      ],
+      "countyName": "Metcalfe County",
+      "countyUrl": "https://panelcensus.com/solar/kentucky/metcalfe-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Simpson Countylimited",
+        "1",
+        "0.01%",
+        "3.5 MW",
+        "—"
+      ],
+      "countyName": "Simpson County",
+      "countyUrl": "https://panelcensus.com/solar/kentucky/simpson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

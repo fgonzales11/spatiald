@@ -1,0 +1,2030 @@
+{
+  "state": {
+    "code": "TX",
+    "name": "Texas",
+    "slug": "texas"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/texas",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:45.189Z",
+  "renderedHtmlSha256": "059ef7baf4718310d5aa0da85237fa946a67cb479d833f28adcc7da588b30cf9",
+  "heading": "Solar installations in Texas",
+  "documentTitle": "Solar in Texas — 350,060 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "350,060",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Texas",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Bexar County",
+        "100,759",
+        "12.5%",
+        "1.1 GW",
+        "$3.92/W"
+      ],
+      "countyName": "Bexar County",
+      "countyUrl": "https://panelcensus.com/solar/texas/bexar-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Travis County",
+        "40,554",
+        "6.8%",
+        "395.2 MW",
+        "$3.64/W"
+      ],
+      "countyName": "Travis County",
+      "countyUrl": "https://panelcensus.com/solar/texas/travis-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Collin County",
+        "3,676",
+        "0.87%",
+        "53.5 MW",
+        "$5.92/W"
+      ],
+      "countyName": "Collin County",
+      "countyUrl": "https://panelcensus.com/solar/texas/collin-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Dallas County",
+        "2,148",
+        "0.20%",
+        "15.6 MW",
+        "$6.91/W"
+      ],
+      "countyName": "Dallas County",
+      "countyUrl": "https://panelcensus.com/solar/texas/dallas-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Comal County",
+        "2,092",
+        "2.8%",
+        "31.1 MW",
+        "$3.75/W"
+      ],
+      "countyName": "Comal County",
+      "countyUrl": "https://panelcensus.com/solar/texas/comal-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kendall County",
+        "1,488",
+        "7.9%",
+        "15.0 MW",
+        "$3.74/W"
+      ],
+      "countyName": "Kendall County",
+      "countyUrl": "https://panelcensus.com/solar/texas/kendall-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Williamson County",
+        "1,140",
+        "0.45%",
+        "20.0 MW",
+        "$3.48/W"
+      ],
+      "countyName": "Williamson County",
+      "countyUrl": "https://panelcensus.com/solar/texas/williamson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Medina County",
+        "516",
+        "2.6%",
+        "5.6 MW",
+        "$3.84/W"
+      ],
+      "countyName": "Medina County",
+      "countyUrl": "https://panelcensus.com/solar/texas/medina-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Tarrant County",
+        "483",
+        "0.06%",
+        "3.8 MW",
+        "$7.98/W"
+      ],
+      "countyName": "Tarrant County",
+      "countyUrl": "https://panelcensus.com/solar/texas/tarrant-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "El Paso County",
+        "378",
+        "0.12%",
+        "30.2 MW",
+        "$5.19/W"
+      ],
+      "countyName": "El Paso County",
+      "countyUrl": "https://panelcensus.com/solar/texas/el-paso-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Atascosa County",
+        "333",
+        "1.8%",
+        "17.7 MW",
+        "$3.95/W"
+      ],
+      "countyName": "Atascosa County",
+      "countyUrl": "https://panelcensus.com/solar/texas/atascosa-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Guadalupe County",
+        "229",
+        "0.34%",
+        "10.6 MW",
+        "$3.86/W"
+      ],
+      "countyName": "Guadalupe County",
+      "countyUrl": "https://panelcensus.com/solar/texas/guadalupe-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hidalgo County",
+        "94",
+        "0.03%",
+        "3.2 MW",
+        "$3.45/W"
+      ],
+      "countyName": "Hidalgo County",
+      "countyUrl": "https://panelcensus.com/solar/texas/hidalgo-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Denton County",
+        "86",
+        "0.02%",
+        "32.4 MW",
+        "$5.71/W"
+      ],
+      "countyName": "Denton County",
+      "countyUrl": "https://panelcensus.com/solar/texas/denton-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Webb County",
+        "68",
+        "0.08%",
+        "16.5 MW",
+        "$2.86/W"
+      ],
+      "countyName": "Webb County",
+      "countyUrl": "https://panelcensus.com/solar/texas/webb-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cameron County",
+        "53",
+        "0.03%",
+        "60.7 MW",
+        "$3.56/W"
+      ],
+      "countyName": "Cameron County",
+      "countyUrl": "https://panelcensus.com/solar/texas/cameron-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Rockwall County",
+        "51",
+        "0.12%",
+        "554 kW",
+        "—"
+      ],
+      "countyName": "Rockwall County",
+      "countyUrl": "https://panelcensus.com/solar/texas/rockwall-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Tom Green County",
+        "43",
+        "0.08%",
+        "4.3 MW",
+        "$3.29/W"
+      ],
+      "countyName": "Tom Green County",
+      "countyUrl": "https://panelcensus.com/solar/texas/tom-green-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Nueces County",
+        "39",
+        "0.03%",
+        "507 kW",
+        "$3.76/W"
+      ],
+      "countyName": "Nueces County",
+      "countyUrl": "https://panelcensus.com/solar/texas/nueces-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Ellis County",
+        "34",
+        "0.05%",
+        "80.3 MW",
+        "$8.18/W"
+      ],
+      "countyName": "Ellis County",
+      "countyUrl": "https://panelcensus.com/solar/texas/ellis-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bell County",
+        "33",
+        "0.02%",
+        "3.2 MW",
+        "$5.74/W"
+      ],
+      "countyName": "Bell County",
+      "countyUrl": "https://panelcensus.com/solar/texas/bell-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Brewster County",
+        "31",
+        "0.52%",
+        "64.7 MW",
+        "$5.14/W"
+      ],
+      "countyName": "Brewster County",
+      "countyUrl": "https://panelcensus.com/solar/texas/brewster-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Montgomery County",
+        "30",
+        "0.01%",
+        "218 kW",
+        "$5.09/W"
+      ],
+      "countyName": "Montgomery County",
+      "countyUrl": "https://panelcensus.com/solar/texas/montgomery-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Presidio County",
+        "30",
+        "0.89%",
+        "30.8 MW",
+        "—"
+      ],
+      "countyName": "Presidio County",
+      "countyUrl": "https://panelcensus.com/solar/texas/presidio-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kleberg County",
+        "24",
+        "0.17%",
+        "201 kW",
+        "—"
+      ],
+      "countyName": "Kleberg County",
+      "countyUrl": "https://panelcensus.com/solar/texas/kleberg-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Smith County",
+        "23",
+        "0.02%",
+        "186 kW",
+        "—"
+      ],
+      "countyName": "Smith County",
+      "countyUrl": "https://panelcensus.com/solar/texas/smith-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Taylor County",
+        "21",
+        "0.03%",
+        "206 kW",
+        "—"
+      ],
+      "countyName": "Taylor County",
+      "countyUrl": "https://panelcensus.com/solar/texas/taylor-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Archer County",
+        "19",
+        "0.48%",
+        "220 kW",
+        "—"
+      ],
+      "countyName": "Archer County",
+      "countyUrl": "https://panelcensus.com/solar/texas/archer-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "McLennan County",
+        "18",
+        "0.02%",
+        "7.8 MW",
+        "—"
+      ],
+      "countyName": "McLennan County",
+      "countyUrl": "https://panelcensus.com/solar/texas/mclennan-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pecos County",
+        "18",
+        "0.31%",
+        "170.0 MW",
+        "—"
+      ],
+      "countyName": "Pecos County",
+      "countyUrl": "https://panelcensus.com/solar/texas/pecos-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wharton County",
+        "16",
+        "0.09%",
+        "180.8 MW",
+        "—"
+      ],
+      "countyName": "Wharton County",
+      "countyUrl": "https://panelcensus.com/solar/texas/wharton-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bosque County",
+        "14",
+        "0.15%",
+        "139.6 MW",
+        "—"
+      ],
+      "countyName": "Bosque County",
+      "countyUrl": "https://panelcensus.com/solar/texas/bosque-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hays County",
+        "14",
+        "0.01%",
+        "99 kW",
+        "—"
+      ],
+      "countyName": "Hays County",
+      "countyUrl": "https://panelcensus.com/solar/texas/hays-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lamar County",
+        "14",
+        "0.06%",
+        "166.6 MW",
+        "—"
+      ],
+      "countyName": "Lamar County",
+      "countyUrl": "https://panelcensus.com/solar/texas/lamar-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wilson County",
+        "14",
+        "0.07%",
+        "8.9 MW",
+        "—"
+      ],
+      "countyName": "Wilson County",
+      "countyUrl": "https://panelcensus.com/solar/texas/wilson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Callahan County",
+        "13",
+        "0.20%",
+        "133 kW",
+        "—"
+      ],
+      "countyName": "Callahan County",
+      "countyUrl": "https://panelcensus.com/solar/texas/callahan-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Grayson County",
+        "13",
+        "0.02%",
+        "42.6 MW",
+        "—"
+      ],
+      "countyName": "Grayson County",
+      "countyUrl": "https://panelcensus.com/solar/texas/grayson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Falls County",
+        "12",
+        "0.16%",
+        "55.1 MW",
+        "—"
+      ],
+      "countyName": "Falls County",
+      "countyUrl": "https://panelcensus.com/solar/texas/falls-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Gregg County",
+        "12",
+        "0.02%",
+        "209 kW",
+        "—"
+      ],
+      "countyName": "Gregg County",
+      "countyUrl": "https://panelcensus.com/solar/texas/gregg-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Johnson County",
+        "12",
+        "0.02%",
+        "86 kW",
+        "—"
+      ],
+      "countyName": "Johnson County",
+      "countyUrl": "https://panelcensus.com/solar/texas/johnson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Navarro County",
+        "11",
+        "0.05%",
+        "21.7 MW",
+        "—"
+      ],
+      "countyName": "Navarro County",
+      "countyUrl": "https://panelcensus.com/solar/texas/navarro-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Orange County",
+        "11",
+        "0.03%",
+        "86 kW",
+        "—"
+      ],
+      "countyName": "Orange County",
+      "countyUrl": "https://panelcensus.com/solar/texas/orange-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Andrews County",
+        "10",
+        "0.14%",
+        "25.0 MW",
+        "—"
+      ],
+      "countyName": "Andrews County",
+      "countyUrl": "https://panelcensus.com/solar/texas/andrews-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bowie County",
+        "10",
+        "0.03%",
+        "130 kW",
+        "—"
+      ],
+      "countyName": "Bowie County",
+      "countyUrl": "https://panelcensus.com/solar/texas/bowie-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Brown County",
+        "10",
+        "0.05%",
+        "2.1 MW",
+        "—"
+      ],
+      "countyName": "Brown County",
+      "countyUrl": "https://panelcensus.com/solar/texas/brown-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cherokee County",
+        "10",
+        "0.05%",
+        "79 kW",
+        "—"
+      ],
+      "countyName": "Cherokee County",
+      "countyUrl": "https://panelcensus.com/solar/texas/cherokee-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jeff Davis County",
+        "10",
+        "0.67%",
+        "63 kW",
+        "—"
+      ],
+      "countyName": "Jeff Davis County",
+      "countyUrl": "https://panelcensus.com/solar/texas/jeff-davis-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wichita County",
+        "10",
+        "0.02%",
+        "125 kW",
+        "—"
+      ],
+      "countyName": "Wichita County",
+      "countyUrl": "https://panelcensus.com/solar/texas/wichita-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Galveston Countylimited",
+        "9",
+        "0.01%",
+        "77 kW",
+        "—"
+      ],
+      "countyName": "Galveston County",
+      "countyUrl": "https://panelcensus.com/solar/texas/galveston-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hunt Countylimited",
+        "9",
+        "0.02%",
+        "95.6 MW",
+        "—"
+      ],
+      "countyName": "Hunt County",
+      "countyUrl": "https://panelcensus.com/solar/texas/hunt-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jones Countylimited",
+        "9",
+        "0.13%",
+        "78 kW",
+        "—"
+      ],
+      "countyName": "Jones County",
+      "countyUrl": "https://panelcensus.com/solar/texas/jones-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Midland Countylimited",
+        "9",
+        "0.01%",
+        "91 kW",
+        "—"
+      ],
+      "countyName": "Midland County",
+      "countyUrl": "https://panelcensus.com/solar/texas/midland-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Aransas Countylimited",
+        "8",
+        "0.05%",
+        "64 kW",
+        "—"
+      ],
+      "countyName": "Aransas County",
+      "countyUrl": "https://panelcensus.com/solar/texas/aransas-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Fort Bend Countylimited",
+        "8",
+        "0.00%",
+        "27.8 MW",
+        "—"
+      ],
+      "countyName": "Fort Bend County",
+      "countyUrl": "https://panelcensus.com/solar/texas/fort-bend-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jim Wells Countylimited",
+        "8",
+        "0.05%",
+        "55 kW",
+        "—"
+      ],
+      "countyName": "Jim Wells County",
+      "countyUrl": "https://panelcensus.com/solar/texas/jim-wells-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Parker Countylimited",
+        "8",
+        "0.01%",
+        "61 kW",
+        "—"
+      ],
+      "countyName": "Parker County",
+      "countyUrl": "https://panelcensus.com/solar/texas/parker-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Brazoria Countylimited",
+        "7",
+        "0.01%",
+        "12 kW",
+        "—"
+      ],
+      "countyName": "Brazoria County",
+      "countyUrl": "https://panelcensus.com/solar/texas/brazoria-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clay Countylimited",
+        "7",
+        "0.14%",
+        "67 kW",
+        "—"
+      ],
+      "countyName": "Clay County",
+      "countyUrl": "https://panelcensus.com/solar/texas/clay-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Maverick Countylimited",
+        "7",
+        "0.04%",
+        "70 kW",
+        "—"
+      ],
+      "countyName": "Maverick County",
+      "countyUrl": "https://panelcensus.com/solar/texas/maverick-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Angelina Countylimited",
+        "6",
+        "0.02%",
+        "62 kW",
+        "—"
+      ],
+      "countyName": "Angelina County",
+      "countyUrl": "https://panelcensus.com/solar/texas/angelina-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cooke Countylimited",
+        "6",
+        "0.03%",
+        "81.1 MW",
+        "—"
+      ],
+      "countyName": "Cooke County",
+      "countyUrl": "https://panelcensus.com/solar/texas/cooke-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Henderson Countylimited",
+        "6",
+        "0.01%",
+        "45 kW",
+        "—"
+      ],
+      "countyName": "Henderson County",
+      "countyUrl": "https://panelcensus.com/solar/texas/henderson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hill Countylimited",
+        "6",
+        "0.04%",
+        "53.9 MW",
+        "—"
+      ],
+      "countyName": "Hill County",
+      "countyUrl": "https://panelcensus.com/solar/texas/hill-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kaufman Countylimited",
+        "6",
+        "0.01%",
+        "35 kW",
+        "—"
+      ],
+      "countyName": "Kaufman County",
+      "countyUrl": "https://panelcensus.com/solar/texas/kaufman-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Starr Countylimited",
+        "6",
+        "0.03%",
+        "79 kW",
+        "—"
+      ],
+      "countyName": "Starr County",
+      "countyUrl": "https://panelcensus.com/solar/texas/starr-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wilbarger Countylimited",
+        "6",
+        "0.10%",
+        "208 kW",
+        "—"
+      ],
+      "countyName": "Wilbarger County",
+      "countyUrl": "https://panelcensus.com/solar/texas/wilbarger-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Dawson Countylimited",
+        "5",
+        "0.10%",
+        "75.1 MW",
+        "—"
+      ],
+      "countyName": "Dawson County",
+      "countyUrl": "https://panelcensus.com/solar/texas/dawson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Ector Countylimited",
+        "5",
+        "0.01%",
+        "19.5 MW",
+        "—"
+      ],
+      "countyName": "Ector County",
+      "countyUrl": "https://panelcensus.com/solar/texas/ector-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Goliad Countylimited",
+        "5",
+        "0.14%",
+        "38 kW",
+        "—"
+      ],
+      "countyName": "Goliad County",
+      "countyUrl": "https://panelcensus.com/solar/texas/goliad-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Reeves Countylimited",
+        "5",
+        "0.10%",
+        "24.9 MW",
+        "—"
+      ],
+      "countyName": "Reeves County",
+      "countyUrl": "https://panelcensus.com/solar/texas/reeves-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Van Zandt Countylimited",
+        "5",
+        "0.02%",
+        "81.0 MW",
+        "—"
+      ],
+      "countyName": "Van Zandt County",
+      "countyUrl": "https://panelcensus.com/solar/texas/van-zandt-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bee Countylimited",
+        "4",
+        "0.04%",
+        "125.4 MW",
+        "—"
+      ],
+      "countyName": "Bee County",
+      "countyUrl": "https://panelcensus.com/solar/texas/bee-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Burnet Countylimited",
+        "4",
+        "0.02%",
+        "22 kW",
+        "—"
+      ],
+      "countyName": "Burnet County",
+      "countyUrl": "https://panelcensus.com/solar/texas/burnet-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Dimmit Countylimited",
+        "4",
+        "0.10%",
+        "3.0 MW",
+        "—"
+      ],
+      "countyName": "Dimmit County",
+      "countyUrl": "https://panelcensus.com/solar/texas/dimmit-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Eastland Countylimited",
+        "4",
+        "0.04%",
+        "21 kW",
+        "—"
+      ],
+      "countyName": "Eastland County",
+      "countyUrl": "https://panelcensus.com/solar/texas/eastland-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hardin Countylimited",
+        "4",
+        "0.02%",
+        "21 kW",
+        "—"
+      ],
+      "countyName": "Hardin County",
+      "countyUrl": "https://panelcensus.com/solar/texas/hardin-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Haskell Countylimited",
+        "4",
+        "0.13%",
+        "26.6 MW",
+        "—"
+      ],
+      "countyName": "Haskell County",
+      "countyUrl": "https://panelcensus.com/solar/texas/haskell-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Karnes Countylimited",
+        "4",
+        "0.07%",
+        "15.5 MW",
+        "—"
+      ],
+      "countyName": "Karnes County",
+      "countyUrl": "https://panelcensus.com/solar/texas/karnes-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Real Countylimited",
+        "4",
+        "0.22%",
+        "4.5 MW",
+        "—"
+      ],
+      "countyName": "Real County",
+      "countyUrl": "https://panelcensus.com/solar/texas/real-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Rusk Countylimited",
+        "4",
+        "0.02%",
+        "27 kW",
+        "—"
+      ],
+      "countyName": "Rusk County",
+      "countyUrl": "https://panelcensus.com/solar/texas/rusk-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "San Patricio Countylimited",
+        "4",
+        "0.01%",
+        "26 kW",
+        "—"
+      ],
+      "countyName": "San Patricio County",
+      "countyUrl": "https://panelcensus.com/solar/texas/san-patricio-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Schleicher Countylimited",
+        "4",
+        "0.31%",
+        "45 kW",
+        "—"
+      ],
+      "countyName": "Schleicher County",
+      "countyUrl": "https://panelcensus.com/solar/texas/schleicher-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Upton Countylimited",
+        "4",
+        "0.25%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Upton County",
+      "countyUrl": "https://panelcensus.com/solar/texas/upton-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Anderson Countylimited",
+        "3",
+        "0.01%",
+        "21 kW",
+        "—"
+      ],
+      "countyName": "Anderson County",
+      "countyUrl": "https://panelcensus.com/solar/texas/anderson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Culberson Countylimited",
+        "3",
+        "0.31%",
+        "559 kW",
+        "—"
+      ],
+      "countyName": "Culberson County",
+      "countyUrl": "https://panelcensus.com/solar/texas/culberson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Erath Countylimited",
+        "3",
+        "0.02%",
+        "27.0 MW",
+        "—"
+      ],
+      "countyName": "Erath County",
+      "countyUrl": "https://panelcensus.com/solar/texas/erath-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Frio Countylimited",
+        "3",
+        "0.05%",
+        "5 kW",
+        "—"
+      ],
+      "countyName": "Frio County",
+      "countyUrl": "https://panelcensus.com/solar/texas/frio-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Harrison Countylimited",
+        "3",
+        "0.01%",
+        "26 kW",
+        "—"
+      ],
+      "countyName": "Harrison County",
+      "countyUrl": "https://panelcensus.com/solar/texas/harrison-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hopkins Countylimited",
+        "3",
+        "0.02%",
+        "276 kW",
+        "—"
+      ],
+      "countyName": "Hopkins County",
+      "countyUrl": "https://panelcensus.com/solar/texas/hopkins-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Howard Countylimited",
+        "3",
+        "0.02%",
+        "10.2 MW",
+        "—"
+      ],
+      "countyName": "Howard County",
+      "countyUrl": "https://panelcensus.com/solar/texas/howard-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jefferson Countylimited",
+        "3",
+        "0.00%",
+        "30 kW",
+        "—"
+      ],
+      "countyName": "Jefferson County",
+      "countyUrl": "https://panelcensus.com/solar/texas/jefferson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Live Oak Countylimited",
+        "3",
+        "0.05%",
+        "356 kW",
+        "—"
+      ],
+      "countyName": "Live Oak County",
+      "countyUrl": "https://panelcensus.com/solar/texas/live-oak-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Red River Countylimited",
+        "3",
+        "0.05%",
+        "45 kW",
+        "—"
+      ],
+      "countyName": "Red River County",
+      "countyUrl": "https://panelcensus.com/solar/texas/red-river-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Shackelford Countylimited",
+        "3",
+        "0.19%",
+        "35 kW",
+        "—"
+      ],
+      "countyName": "Shackelford County",
+      "countyUrl": "https://panelcensus.com/solar/texas/shackelford-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Val Verde Countylimited",
+        "3",
+        "0.02%",
+        "49.0 MW",
+        "—"
+      ],
+      "countyName": "Val Verde County",
+      "countyUrl": "https://panelcensus.com/solar/texas/val-verde-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Winkler Countylimited",
+        "3",
+        "0.09%",
+        "682 kW",
+        "—"
+      ],
+      "countyName": "Winkler County",
+      "countyUrl": "https://panelcensus.com/solar/texas/winkler-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Austin Countylimited",
+        "2",
+        "0.01%",
+        "3.5 MW",
+        "—"
+      ],
+      "countyName": "Austin County",
+      "countyUrl": "https://panelcensus.com/solar/texas/austin-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cass Countylimited",
+        "2",
+        "0.01%",
+        "32 kW",
+        "—"
+      ],
+      "countyName": "Cass County",
+      "countyUrl": "https://panelcensus.com/solar/texas/cass-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Childress Countylimited",
+        "2",
+        "0.07%",
+        "73.3 MW",
+        "—"
+      ],
+      "countyName": "Childress County",
+      "countyUrl": "https://panelcensus.com/solar/texas/childress-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Colorado Countylimited",
+        "2",
+        "0.02%",
+        "26 kW",
+        "—"
+      ],
+      "countyName": "Colorado County",
+      "countyUrl": "https://panelcensus.com/solar/texas/colorado-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Concho Countylimited",
+        "2",
+        "0.14%",
+        "763 kW",
+        "—"
+      ],
+      "countyName": "Concho County",
+      "countyUrl": "https://panelcensus.com/solar/texas/concho-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Coryell Countylimited",
+        "2",
+        "0.01%",
+        "19.6 MW",
+        "—"
+      ],
+      "countyName": "Coryell County",
+      "countyUrl": "https://panelcensus.com/solar/texas/coryell-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Crane Countylimited",
+        "2",
+        "0.11%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Crane County",
+      "countyUrl": "https://panelcensus.com/solar/texas/crane-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "DeWitt Countylimited",
+        "2",
+        "0.02%",
+        "15 kW",
+        "—"
+      ],
+      "countyName": "DeWitt County",
+      "countyUrl": "https://panelcensus.com/solar/texas/dewitt-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Dickens Countylimited",
+        "2",
+        "0.18%",
+        "1.8 MW",
+        "—"
+      ],
+      "countyName": "Dickens County",
+      "countyUrl": "https://panelcensus.com/solar/texas/dickens-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Duval Countylimited",
+        "2",
+        "0.04%",
+        "18 kW",
+        "—"
+      ],
+      "countyName": "Duval County",
+      "countyUrl": "https://panelcensus.com/solar/texas/duval-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Fannin Countylimited",
+        "2",
+        "0.01%",
+        "10 kW",
+        "—"
+      ],
+      "countyName": "Fannin County",
+      "countyUrl": "https://panelcensus.com/solar/texas/fannin-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Grimes Countylimited",
+        "2",
+        "0.02%",
+        "14 kW",
+        "—"
+      ],
+      "countyName": "Grimes County",
+      "countyUrl": "https://panelcensus.com/solar/texas/grimes-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hamilton Countylimited",
+        "2",
+        "0.05%",
+        "10 kW",
+        "—"
+      ],
+      "countyName": "Hamilton County",
+      "countyUrl": "https://panelcensus.com/solar/texas/hamilton-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jackson Countylimited",
+        "2",
+        "0.03%",
+        "10 kW",
+        "—"
+      ],
+      "countyName": "Jackson County",
+      "countyUrl": "https://panelcensus.com/solar/texas/jackson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Leon Countylimited",
+        "2",
+        "0.02%",
+        "20 kW",
+        "—"
+      ],
+      "countyName": "Leon County",
+      "countyUrl": "https://panelcensus.com/solar/texas/leon-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Limestone Countylimited",
+        "2",
+        "0.02%",
+        "10 kW",
+        "—"
+      ],
+      "countyName": "Limestone County",
+      "countyUrl": "https://panelcensus.com/solar/texas/limestone-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Martin Countylimited",
+        "2",
+        "0.09%",
+        "12 kW",
+        "—"
+      ],
+      "countyName": "Martin County",
+      "countyUrl": "https://panelcensus.com/solar/texas/martin-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Matagorda Countylimited",
+        "2",
+        "0.01%",
+        "45 kW",
+        "—"
+      ],
+      "countyName": "Matagorda County",
+      "countyUrl": "https://panelcensus.com/solar/texas/matagorda-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Morris Countylimited",
+        "2",
+        "0.03%",
+        "16 kW",
+        "—"
+      ],
+      "countyName": "Morris County",
+      "countyUrl": "https://panelcensus.com/solar/texas/morris-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Scurry Countylimited",
+        "2",
+        "0.03%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Scurry County",
+      "countyUrl": "https://panelcensus.com/solar/texas/scurry-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sterling Countylimited",
+        "2",
+        "0.39%",
+        "45.4 MW",
+        "—"
+      ],
+      "countyName": "Sterling County",
+      "countyUrl": "https://panelcensus.com/solar/texas/sterling-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Tyler Countylimited",
+        "2",
+        "0.02%",
+        "16 kW",
+        "—"
+      ],
+      "countyName": "Tyler County",
+      "countyUrl": "https://panelcensus.com/solar/texas/tyler-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Upshur Countylimited",
+        "2",
+        "0.01%",
+        "3.5 MW",
+        "—"
+      ],
+      "countyName": "Upshur County",
+      "countyUrl": "https://panelcensus.com/solar/texas/upshur-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Uvalde Countylimited",
+        "2",
+        "0.02%",
+        "8 kW",
+        "—"
+      ],
+      "countyName": "Uvalde County",
+      "countyUrl": "https://panelcensus.com/solar/texas/uvalde-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Borden Countylimited",
+        "1",
+        "0.28%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Borden County",
+      "countyUrl": "https://panelcensus.com/solar/texas/borden-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Brooks Countylimited",
+        "1",
+        "0.03%",
+        "14.5 MW",
+        "—"
+      ],
+      "countyName": "Brooks County",
+      "countyUrl": "https://panelcensus.com/solar/texas/brooks-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Caldwell Countylimited",
+        "1",
+        "0.01%",
+        "10 kW",
+        "—"
+      ],
+      "countyName": "Caldwell County",
+      "countyUrl": "https://panelcensus.com/solar/texas/caldwell-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Calhoun Countylimited",
+        "1",
+        "0.01%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Calhoun County",
+      "countyUrl": "https://panelcensus.com/solar/texas/calhoun-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Coke Countylimited",
+        "1",
+        "0.05%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Coke County",
+      "countyUrl": "https://panelcensus.com/solar/texas/coke-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Coleman Countylimited",
+        "1",
+        "0.02%",
+        "11 kW",
+        "—"
+      ],
+      "countyName": "Coleman County",
+      "countyUrl": "https://panelcensus.com/solar/texas/coleman-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Comanche Countylimited",
+        "1",
+        "0.01%",
+        "10 kW",
+        "—"
+      ],
+      "countyName": "Comanche County",
+      "countyUrl": "https://panelcensus.com/solar/texas/comanche-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Franklin Countylimited",
+        "1",
+        "0.02%",
+        "4 kW",
+        "—"
+      ],
+      "countyName": "Franklin County",
+      "countyUrl": "https://panelcensus.com/solar/texas/franklin-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hale Countylimited",
+        "1",
+        "0.01%",
+        "13 kW",
+        "—"
+      ],
+      "countyName": "Hale County",
+      "countyUrl": "https://panelcensus.com/solar/texas/hale-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Harris Countylimited",
+        "1",
+        "0.00%",
+        "7 kW",
+        "—"
+      ],
+      "countyName": "Harris County",
+      "countyUrl": "https://panelcensus.com/solar/texas/harris-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hood Countylimited",
+        "1",
+        "0.00%",
+        "3 kW",
+        "—"
+      ],
+      "countyName": "Hood County",
+      "countyUrl": "https://panelcensus.com/solar/texas/hood-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jim Hogg Countylimited",
+        "1",
+        "0.05%",
+        "4 kW",
+        "—"
+      ],
+      "countyName": "Jim Hogg County",
+      "countyUrl": "https://panelcensus.com/solar/texas/jim-hogg-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kimble Countylimited",
+        "1",
+        "0.04%",
+        "47 kW",
+        "—"
+      ],
+      "countyName": "Kimble County",
+      "countyUrl": "https://panelcensus.com/solar/texas/kimble-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kinney Countylimited",
+        "1",
+        "0.07%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Kinney County",
+      "countyUrl": "https://panelcensus.com/solar/texas/kinney-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Knox Countylimited",
+        "1",
+        "0.06%",
+        "46 kW",
+        "—"
+      ],
+      "countyName": "Knox County",
+      "countyUrl": "https://panelcensus.com/solar/texas/knox-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Liberty Countylimited",
+        "1",
+        "0.00%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Liberty County",
+      "countyUrl": "https://panelcensus.com/solar/texas/liberty-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lubbock Countylimited",
+        "1",
+        "0.00%",
+        "5.8 MW",
+        "—"
+      ],
+      "countyName": "Lubbock County",
+      "countyUrl": "https://panelcensus.com/solar/texas/lubbock-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Menard Countylimited",
+        "1",
+        "0.08%",
+        "10.8 MW",
+        "—"
+      ],
+      "countyName": "Menard County",
+      "countyUrl": "https://panelcensus.com/solar/texas/menard-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Milam Countylimited",
+        "1",
+        "0.01%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Milam County",
+      "countyUrl": "https://panelcensus.com/solar/texas/milam-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Montague Countylimited",
+        "1",
+        "0.01%",
+        "4 kW",
+        "—"
+      ],
+      "countyName": "Montague County",
+      "countyUrl": "https://panelcensus.com/solar/texas/montague-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Nolan Countylimited",
+        "1",
+        "0.01%",
+        "10 kW",
+        "—"
+      ],
+      "countyName": "Nolan County",
+      "countyUrl": "https://panelcensus.com/solar/texas/nolan-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Palo Pinto Countylimited",
+        "1",
+        "0.01%",
+        "5 kW",
+        "—"
+      ],
+      "countyName": "Palo Pinto County",
+      "countyUrl": "https://panelcensus.com/solar/texas/palo-pinto-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Panola Countylimited",
+        "1",
+        "0.01%",
+        "22 kW",
+        "—"
+      ],
+      "countyName": "Panola County",
+      "countyUrl": "https://panelcensus.com/solar/texas/panola-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Polk Countylimited",
+        "1",
+        "0.00%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Polk County",
+      "countyUrl": "https://panelcensus.com/solar/texas/polk-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Randall Countylimited",
+        "1",
+        "0.00%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Randall County",
+      "countyUrl": "https://panelcensus.com/solar/texas/randall-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Robertson Countylimited",
+        "1",
+        "0.01%",
+        "5 kW",
+        "—"
+      ],
+      "countyName": "Robertson County",
+      "countyUrl": "https://panelcensus.com/solar/texas/robertson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Runnels Countylimited",
+        "1",
+        "0.02%",
+        "10 kW",
+        "—"
+      ],
+      "countyName": "Runnels County",
+      "countyUrl": "https://panelcensus.com/solar/texas/runnels-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Swisher Countylimited",
+        "1",
+        "0.03%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Swisher County",
+      "countyUrl": "https://panelcensus.com/solar/texas/swisher-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Trinity Countylimited",
+        "1",
+        "0.01%",
+        "10 kW",
+        "—"
+      ],
+      "countyName": "Trinity County",
+      "countyUrl": "https://panelcensus.com/solar/texas/trinity-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Victoria Countylimited",
+        "1",
+        "0.00%",
+        "6 kW",
+        "—"
+      ],
+      "countyName": "Victoria County",
+      "countyUrl": "https://panelcensus.com/solar/texas/victoria-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Walker Countylimited",
+        "1",
+        "0.00%",
+        "23 kW",
+        "—"
+      ],
+      "countyName": "Walker County",
+      "countyUrl": "https://panelcensus.com/solar/texas/walker-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Waller Countylimited",
+        "1",
+        "0.01%",
+        "10 kW",
+        "—"
+      ],
+      "countyName": "Waller County",
+      "countyUrl": "https://panelcensus.com/solar/texas/waller-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wood Countylimited",
+        "1",
+        "0.00%",
+        "10 kW",
+        "—"
+      ],
+      "countyName": "Wood County",
+      "countyUrl": "https://panelcensus.com/solar/texas/wood-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Young Countylimited",
+        "1",
+        "0.01%",
+        "10 kW",
+        "—"
+      ],
+      "countyName": "Young County",
+      "countyUrl": "https://panelcensus.com/solar/texas/young-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

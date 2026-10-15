@@ -1,0 +1,80 @@
+{
+  "state": {
+    "code": "SD",
+    "name": "South Dakota",
+    "slug": "south-dakota"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/south-dakota",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:44.696Z",
+  "renderedHtmlSha256": "77f32832e21154bbe10340078d4f61c0834836232110f5153ab46a3ca351aa2e",
+  "heading": "Solar installations in South Dakota",
+  "documentTitle": "Solar in South Dakota — 6 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "6",
+  "stateCapacityDisplay": null,
+  "underReported": true,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in South Dakota",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Fall River Countylimited",
+        "1",
+        "0.02%",
+        "98.9 MW",
+        "—"
+      ],
+      "countyName": "Fall River County",
+      "countyUrl": "https://panelcensus.com/solar/south-dakota/fall-river-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hughes Countylimited",
+        "1",
+        "0.01%",
+        "1.3 MW",
+        "—"
+      ],
+      "countyName": "Hughes County",
+      "countyUrl": "https://panelcensus.com/solar/south-dakota/hughes-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Meade Countylimited",
+        "1",
+        "0.01%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Meade County",
+      "countyUrl": "https://panelcensus.com/solar/south-dakota/meade-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Potter Countylimited",
+        "1",
+        "0.06%",
+        "19 kW",
+        "—"
+      ],
+      "countyName": "Potter County",
+      "countyUrl": "https://panelcensus.com/solar/south-dakota/potter-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

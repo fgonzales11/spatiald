@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556352",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556352",
+  "listingPageNumber": 10,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Aug 18, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:14.740Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9741, -82.4031",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9741403&mlon=-82.4031153#map=17/27.9741403/-82.4031153",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556352",
+  "siteName": "3403 N 48th St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9741403,
+  "longitude": -82.4031153,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

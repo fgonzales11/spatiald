@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555656",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555656",
+  "listingPageNumber": 10,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "15.5 kW",
+    "Aug 8, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:36.672Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0178, -82.4831",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0177936&mlon=-82.4830579#map=17/28.0177936/-82.4830579",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555656",
+  "siteName": "2314 W Mary Glenn Dr (ACA)",
+  "sizeDisplay": "15.5 kW",
+  "latitude": 28.0177936,
+  "longitude": -82.4830579,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 15.5,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

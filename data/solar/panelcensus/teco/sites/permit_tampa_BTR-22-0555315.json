@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555315",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555315",
+  "listingPageNumber": 11,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Aug 2, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:55:19.785Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0272, -82.4451",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0271955&mlon=-82.4451476#map=17/28.0271955/-82.4451476",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555315",
+  "siteName": "8501 N Brooks St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0271955,
+  "longitude": -82.4451476,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

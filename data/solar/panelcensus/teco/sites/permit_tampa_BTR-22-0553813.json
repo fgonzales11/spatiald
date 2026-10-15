@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0553813",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0553813",
+  "listingPageNumber": 13,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jul 7, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:06.709Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9822, -82.4790",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9821967&mlon=-82.4790148#map=17/27.9821967/-82.4790148",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0553813",
+  "siteName": "1722 W Ferris Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9821967,
+  "longitude": -82.4790148,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560838",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560838",
+  "listingPageNumber": 3,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:34:19.277Z",
+  "siteName": "2915 E 29th Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9770, -82.4278",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9770045&mlon=-82.4277829#map=17/27.9770045/-82.4277829",
+  "recordId": "permit_tampa_BTR-23-0560838",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.9770045,
+  "longitude": -82.4277829,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

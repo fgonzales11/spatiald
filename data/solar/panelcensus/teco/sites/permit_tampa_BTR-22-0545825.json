@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0545825",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0545825",
+  "listingPageNumber": 20,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Feb 9, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:19.039Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9659, -82.4864",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9659453&mlon=-82.4864422#map=17/27.9659453/-82.4864422",
+  "parties": [
+    {
+      "name": "Georgia Group Trust LLC Truste",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0545825",
+  "siteName": "2616 W Saint Joseph St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9659453,
+  "longitude": -82.4864422,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

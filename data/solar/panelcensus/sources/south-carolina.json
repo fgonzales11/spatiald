@@ -1,0 +1,470 @@
+{
+  "state": {
+    "code": "SC",
+    "name": "South Carolina",
+    "slug": "south-carolina"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/south-carolina",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:43.992Z",
+  "renderedHtmlSha256": "5fe879d79e55bc6e26a16ad063bfdc64c940d884d847b56828a8fcebcc526fa6",
+  "heading": "Solar installations in South Carolina",
+  "documentTitle": "Solar in South Carolina — 207 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "207",
+  "stateCapacityDisplay": null,
+  "underReported": true,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in South Carolina",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Lexington County",
+        "12",
+        "0.01%",
+        "231.1 MW",
+        "—"
+      ],
+      "countyName": "Lexington County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/lexington-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Darlington County",
+        "11",
+        "0.04%",
+        "46.8 MW",
+        "—"
+      ],
+      "countyName": "Darlington County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/darlington-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Florence County",
+        "11",
+        "0.02%",
+        "33.5 MW",
+        "—"
+      ],
+      "countyName": "Florence County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/florence-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Greenville Countylimited",
+        "9",
+        "0.00%",
+        "16.0 MW",
+        "—"
+      ],
+      "countyName": "Greenville County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/greenville-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Orangeburg Countylimited",
+        "9",
+        "0.02%",
+        "173.9 MW",
+        "—"
+      ],
+      "countyName": "Orangeburg County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/orangeburg-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Spartanburg Countylimited",
+        "9",
+        "0.01%",
+        "46.5 MW",
+        "—"
+      ],
+      "countyName": "Spartanburg County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/spartanburg-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lee Countylimited",
+        "8",
+        "0.10%",
+        "28.7 MW",
+        "—"
+      ],
+      "countyName": "Lee County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/lee-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hampton Countylimited",
+        "7",
+        "0.08%",
+        "86.2 MW",
+        "—"
+      ],
+      "countyName": "Hampton County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/hampton-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Calhoun Countylimited",
+        "6",
+        "0.09%",
+        "48.8 MW",
+        "—"
+      ],
+      "countyName": "Calhoun County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/calhoun-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Greenwood Countylimited",
+        "6",
+        "0.02%",
+        "14.5 MW",
+        "—"
+      ],
+      "countyName": "Greenwood County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/greenwood-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Barnwell Countylimited",
+        "5",
+        "0.05%",
+        "57.9 MW",
+        "—"
+      ],
+      "countyName": "Barnwell County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/barnwell-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Beaufort Countylimited",
+        "5",
+        "0.01%",
+        "118.1 MW",
+        "—"
+      ],
+      "countyName": "Beaufort County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/beaufort-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jasper Countylimited",
+        "5",
+        "0.04%",
+        "126.8 MW",
+        "—"
+      ],
+      "countyName": "Jasper County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/jasper-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Allendale Countylimited",
+        "4",
+        "0.10%",
+        "26.4 MW",
+        "—"
+      ],
+      "countyName": "Allendale County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/allendale-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cherokee Countylimited",
+        "4",
+        "0.02%",
+        "10.2 MW",
+        "—"
+      ],
+      "countyName": "Cherokee County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/cherokee-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Chesterfield Countylimited",
+        "4",
+        "0.02%",
+        "104.0 MW",
+        "—"
+      ],
+      "countyName": "Chesterfield County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/chesterfield-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clarendon Countylimited",
+        "4",
+        "0.03%",
+        "10.6 MW",
+        "—"
+      ],
+      "countyName": "Clarendon County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/clarendon-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Marlboro Countylimited",
+        "4",
+        "0.03%",
+        "15.1 MW",
+        "—"
+      ],
+      "countyName": "Marlboro County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/marlboro-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Anderson Countylimited",
+        "3",
+        "0.00%",
+        "8.7 MW",
+        "—"
+      ],
+      "countyName": "Anderson County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/anderson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Horry Countylimited",
+        "3",
+        "0.00%",
+        "74.9 MW",
+        "—"
+      ],
+      "countyName": "Horry County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/horry-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Marion Countylimited",
+        "3",
+        "0.02%",
+        "14.5 MW",
+        "—"
+      ],
+      "countyName": "Marion County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/marion-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Richland Countylimited",
+        "3",
+        "0.00%",
+        "74.5 MW",
+        "—"
+      ],
+      "countyName": "Richland County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/richland-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Saluda Countylimited",
+        "3",
+        "0.03%",
+        "14.7 MW",
+        "—"
+      ],
+      "countyName": "Saluda County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/saluda-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Aiken Countylimited",
+        "2",
+        "0.00%",
+        "325 kW",
+        "—"
+      ],
+      "countyName": "Aiken County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/aiken-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Colleton Countylimited",
+        "2",
+        "0.01%",
+        "17.2 MW",
+        "—"
+      ],
+      "countyName": "Colleton County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/colleton-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Dorchester Countylimited",
+        "2",
+        "0.00%",
+        "9.2 MW",
+        "—"
+      ],
+      "countyName": "Dorchester County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/dorchester-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Newberry Countylimited",
+        "2",
+        "0.01%",
+        "4.4 MW",
+        "—"
+      ],
+      "countyName": "Newberry County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/newberry-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Williamsburg Countylimited",
+        "2",
+        "0.01%",
+        "11.3 MW",
+        "—"
+      ],
+      "countyName": "Williamsburg County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/williamsburg-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bamberg Countylimited",
+        "1",
+        "0.01%",
+        "8.6 MW",
+        "—"
+      ],
+      "countyName": "Bamberg County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/bamberg-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Charleston Countylimited",
+        "1",
+        "0.00%",
+        "10 kW",
+        "—"
+      ],
+      "countyName": "Charleston County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/charleston-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Dillon Countylimited",
+        "1",
+        "0.01%",
+        "14.2 MW",
+        "—"
+      ],
+      "countyName": "Dillon County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/dillon-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Georgetown Countylimited",
+        "1",
+        "0.00%",
+        "14.4 MW",
+        "—"
+      ],
+      "countyName": "Georgetown County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/georgetown-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lancaster Countylimited",
+        "1",
+        "0.00%",
+        "4.2 MW",
+        "—"
+      ],
+      "countyName": "Lancaster County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/lancaster-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Union Countylimited",
+        "1",
+        "0.01%",
+        "14.6 MW",
+        "—"
+      ],
+      "countyName": "Union County",
+      "countyUrl": "https://panelcensus.com/solar/south-carolina/union-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

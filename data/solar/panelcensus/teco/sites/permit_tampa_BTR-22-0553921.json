@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0553921",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0553921",
+  "listingPageNumber": 12,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jul 8, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:02.063Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9805, -82.4795",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9805294&mlon=-82.4794844#map=17/27.9805294/-82.4794844",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0553921",
+  "siteName": "1917 W Orient St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9805294,
+  "longitude": -82.4794844,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

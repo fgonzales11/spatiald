@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0552596",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0552596",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "9.2 kW",
+    "Jun 15, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:20.103Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9887, -82.4085",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9887303&mlon=-82.4085054#map=17/27.9887303/-82.4085054",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0552596",
+  "siteName": "4319 E Osborne Ave (ACA)",
+  "sizeDisplay": "9.2 kW",
+  "latitude": 27.9887303,
+  "longitude": -82.4085054,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 9.2,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

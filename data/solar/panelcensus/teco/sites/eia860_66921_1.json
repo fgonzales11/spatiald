@@ -1,0 +1,41 @@
+{
+  "siteId": "eia860_66921_1",
+  "sourceUrl": "https://panelcensus.com/sites/eia860_66921_1",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "Plant City, FL\nHillsborough County",
+    "Utility-scale",
+    "26,980 kW",
+    "Dec 1, 2024",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:17.498Z",
+  "siteName": "English Creek Solar",
+  "locationDescription": "Plant City · Hillsborough County · Florida · Utility-scale",
+  "sizeDisplay": "26,980 kW",
+  "capacityBasis": "23,000 kW AC",
+  "locationDisplay": "Location: 27.9458, -82.0672",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.945756&mlon=-82.06723#map=17/27.945756/-82.06723",
+  "recordId": "eia860_66921_1",
+  "parties": [
+    {
+      "role": "Owner",
+      "name": "Tampa Electric Co"
+    },
+    {
+      "role": "Plant operator",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 26980,
+  "latitude": 27.945756,
+  "longitude": -82.06723,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Owner",
+    "Plant operator"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

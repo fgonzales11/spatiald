@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0552348",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0552348",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "10.4 kW",
+    "Jun 10, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:28.186Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0534, -82.4770",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0534131&mlon=-82.4770152#map=17/28.0534131/-82.4770152",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0552348",
+  "siteName": "11510 Joshuas Bend Dr (ACA)",
+  "sizeDisplay": "10.4 kW",
+  "latitude": 28.0534131,
+  "longitude": -82.4770152,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 10.4,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0548869",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0548869",
+  "listingPageNumber": 17,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Apr 7, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:00:53.457Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0254, -82.4489",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0253965&mlon=-82.4489058#map=17/28.0253965/-82.4489058",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0548869",
+  "siteName": "8410 N Alaska St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0253965,
+  "longitude": -82.4489058,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

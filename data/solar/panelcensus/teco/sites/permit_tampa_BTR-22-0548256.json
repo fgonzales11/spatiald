@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0548256",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0548256",
+  "listingPageNumber": 18,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 28, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:01:13.155Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0388, -82.4808",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0387911&mlon=-82.4808209#map=17/28.0387911/-82.4808209",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0548256",
+  "siteName": "2112 W Herman St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0387911,
+  "longitude": -82.4808209,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

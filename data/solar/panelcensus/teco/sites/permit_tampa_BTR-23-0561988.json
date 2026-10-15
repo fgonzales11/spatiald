@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561988",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561988",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 19, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:28.437Z",
+  "siteName": "19113 Nature Palm Ln (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.1552, -82.3725",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1552292&mlon=-82.3725158#map=17/28.1552292/-82.3725158",
+  "recordId": "permit_tampa_BTR-23-0561988",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.1552292,
+  "longitude": -82.3725158,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

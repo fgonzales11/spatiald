@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559021",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559021",
+  "listingPageNumber": 6,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "12.2 kW",
+    "Oct 13, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:51:47.240Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1341, -82.3123",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.134086&mlon=-82.3122836#map=17/28.134086/-82.3122836",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0559021",
+  "siteName": "10214 Waterside Oaks Dr (ACA)",
+  "sizeDisplay": "12.2 kW",
+  "latitude": 28.134086,
+  "longitude": -82.3122836,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 12.2,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

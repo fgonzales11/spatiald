@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555547",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555547",
+  "listingPageNumber": 11,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Aug 4, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:55:17.390Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9951, -82.4084",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9950928&mlon=-82.4083891#map=17/27.9950928/-82.4083891",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555547",
+  "siteName": "5207 N 44th St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9950928,
+  "longitude": -82.4083891,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

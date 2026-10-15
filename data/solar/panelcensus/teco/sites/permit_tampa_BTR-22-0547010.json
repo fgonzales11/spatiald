@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0547010",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0547010",
+  "listingPageNumber": 19,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 3, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:22.591Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0080, -82.4224",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0079703&mlon=-82.4224346#map=17/28.0079703/-82.4224346",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0547010",
+  "siteName": "6602 N 34th St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0079703,
+  "longitude": -82.4224346,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

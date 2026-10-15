@@ -1,0 +1,1432 @@
+{
+  "state": {
+    "code": "VA",
+    "name": "Virginia",
+    "slug": "virginia"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/virginia",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:45.881Z",
+  "renderedHtmlSha256": "3449aa9cb4343b9239484302829b6d893a04cc034e7052a8ae191f5b6322775b",
+  "heading": "Solar installations in Virginia",
+  "documentTitle": "Solar in Virginia — 18,447 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "18,447",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Virginia",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Norfolk city",
+        "3,921",
+        "3.8%",
+        "5.8 MW",
+        "—"
+      ],
+      "countyName": "Norfolk city",
+      "countyUrl": "https://panelcensus.com/solar/virginia/norfolk-city",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Virginia Beach city",
+        "3,914",
+        "2.1%",
+        "41.3 MW",
+        "—"
+      ],
+      "countyName": "Virginia Beach city",
+      "countyUrl": "https://panelcensus.com/solar/virginia/virginia-beach-city",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Fairfax County",
+        "1,201",
+        "0.28%",
+        "10.6 MW",
+        "—"
+      ],
+      "countyName": "Fairfax County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/fairfax-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Albemarle County",
+        "1,008",
+        "2.1%",
+        "27.4 MW",
+        "—"
+      ],
+      "countyName": "Albemarle County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/albemarle-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Loudoun County",
+        "490",
+        "0.34%",
+        "4.9 MW",
+        "—"
+      ],
+      "countyName": "Loudoun County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/loudoun-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Augusta County",
+        "478",
+        "1.5%",
+        "15.1 MW",
+        "—"
+      ],
+      "countyName": "Augusta County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/augusta-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Henrico County",
+        "414",
+        "0.29%",
+        "56.7 MW",
+        "—"
+      ],
+      "countyName": "Henrico County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/henrico-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Arlington County",
+        "368",
+        "0.30%",
+        "3.4 MW",
+        "—"
+      ],
+      "countyName": "Arlington County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/arlington-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Chesterfield County",
+        "340",
+        "0.24%",
+        "6.5 MW",
+        "—"
+      ],
+      "countyName": "Chesterfield County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/chesterfield-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Prince William County",
+        "325",
+        "0.20%",
+        "30.9 MW",
+        "—"
+      ],
+      "countyName": "Prince William County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/prince-william-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Rockingham County",
+        "291",
+        "0.81%",
+        "7.2 MW",
+        "—"
+      ],
+      "countyName": "Rockingham County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/rockingham-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Chesapeake city",
+        "272",
+        "0.28%",
+        "148.4 MW",
+        "—"
+      ],
+      "countyName": "Chesapeake city",
+      "countyUrl": "https://panelcensus.com/solar/virginia/chesapeake-city",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Montgomery County",
+        "225",
+        "0.53%",
+        "1.6 MW",
+        "—"
+      ],
+      "countyName": "Montgomery County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/montgomery-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hanover County",
+        "176",
+        "0.40%",
+        "37.0 MW",
+        "—"
+      ],
+      "countyName": "Hanover County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/hanover-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Stafford County",
+        "170",
+        "0.32%",
+        "3.5 MW",
+        "—"
+      ],
+      "countyName": "Stafford County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/stafford-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Richmond city",
+        "153",
+        "0.14%",
+        "5.1 MW",
+        "—"
+      ],
+      "countyName": "Richmond city",
+      "countyUrl": "https://panelcensus.com/solar/virginia/richmond-city",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bedford County",
+        "142",
+        "0.38%",
+        "4.6 MW",
+        "—"
+      ],
+      "countyName": "Bedford County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/bedford-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Frederick County",
+        "134",
+        "0.37%",
+        "99.5 MW",
+        "—"
+      ],
+      "countyName": "Frederick County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/frederick-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hampton city",
+        "133",
+        "0.21%",
+        "1.1 MW",
+        "—"
+      ],
+      "countyName": "Hampton city",
+      "countyUrl": "https://panelcensus.com/solar/virginia/hampton-city",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Fauquier County",
+        "129",
+        "0.45%",
+        "29.2 MW",
+        "—"
+      ],
+      "countyName": "Fauquier County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/fauquier-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Spotsylvania County",
+        "129",
+        "0.24%",
+        "386.8 MW",
+        "—"
+      ],
+      "countyName": "Spotsylvania County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/spotsylvania-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Alexandria city",
+        "128",
+        "0.16%",
+        "1.0 MW",
+        "—"
+      ],
+      "countyName": "Alexandria city",
+      "countyUrl": "https://panelcensus.com/solar/virginia/alexandria-city",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "James City County",
+        "124",
+        "0.36%",
+        "46.5 MW",
+        "—"
+      ],
+      "countyName": "James City County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/james-city-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Warren County",
+        "118",
+        "0.70%",
+        "1.6 MW",
+        "—"
+      ],
+      "countyName": "Warren County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/warren-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Newport News city",
+        "118",
+        "0.14%",
+        "922 kW",
+        "—"
+      ],
+      "countyName": "Newport News city",
+      "countyUrl": "https://panelcensus.com/solar/virginia/newport-news-city",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Rappahannock County",
+        "112",
+        "2.9%",
+        "1.5 MW",
+        "—"
+      ],
+      "countyName": "Rappahannock County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/rappahannock-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Louisa County",
+        "95",
+        "0.53%",
+        "62.7 MW",
+        "—"
+      ],
+      "countyName": "Louisa County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/louisa-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Shenandoah County",
+        "88",
+        "0.41%",
+        "35.3 MW",
+        "—"
+      ],
+      "countyName": "Shenandoah County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/shenandoah-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Franklin County",
+        "84",
+        "0.30%",
+        "1.2 MW",
+        "—"
+      ],
+      "countyName": "Franklin County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/franklin-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Roanoke County",
+        "81",
+        "0.19%",
+        "4.0 MW",
+        "—"
+      ],
+      "countyName": "Roanoke County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/roanoke-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Roanoke city",
+        "80",
+        "0.16%",
+        "411 kW",
+        "—"
+      ],
+      "countyName": "Roanoke city",
+      "countyUrl": "https://panelcensus.com/solar/virginia/roanoke-city",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Floyd County",
+        "79",
+        "0.99%",
+        "471 kW",
+        "—"
+      ],
+      "countyName": "Floyd County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/floyd-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Nelson County",
+        "72",
+        "0.72%",
+        "605 kW",
+        "—"
+      ],
+      "countyName": "Nelson County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/nelson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Gloucester County",
+        "71",
+        "0.41%",
+        "122.2 MW",
+        "—"
+      ],
+      "countyName": "Gloucester County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/gloucester-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Rockbridge County",
+        "69",
+        "0.61%",
+        "12.4 MW",
+        "—"
+      ],
+      "countyName": "Rockbridge County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/rockbridge-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Suffolk city",
+        "67",
+        "0.17%",
+        "65.2 MW",
+        "—"
+      ],
+      "countyName": "Suffolk city",
+      "countyUrl": "https://panelcensus.com/solar/virginia/suffolk-city",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Greene County",
+        "66",
+        "0.76%",
+        "1.1 MW",
+        "—"
+      ],
+      "countyName": "Greene County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/greene-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clarke County",
+        "63",
+        "0.97%",
+        "26.2 MW",
+        "—"
+      ],
+      "countyName": "Clarke County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/clarke-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Culpeper County",
+        "61",
+        "0.31%",
+        "683 kW",
+        "—"
+      ],
+      "countyName": "Culpeper County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/culpeper-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Falls Church city",
+        "60",
+        "0.94%",
+        "463 kW",
+        "—"
+      ],
+      "countyName": "Falls Church city",
+      "countyUrl": "https://panelcensus.com/solar/virginia/falls-church-city",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Powhatan County",
+        "57",
+        "0.48%",
+        "60.1 MW",
+        "—"
+      ],
+      "countyName": "Powhatan County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/powhatan-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Goochland County",
+        "54",
+        "0.49%",
+        "531 kW",
+        "—"
+      ],
+      "countyName": "Goochland County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/goochland-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Madison County",
+        "52",
+        "0.85%",
+        "552 kW",
+        "—"
+      ],
+      "countyName": "Madison County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/madison-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Orange County",
+        "51",
+        "0.32%",
+        "76.2 MW",
+        "—"
+      ],
+      "countyName": "Orange County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/orange-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Washington County",
+        "51",
+        "0.20%",
+        "619 kW",
+        "—"
+      ],
+      "countyName": "Washington County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/washington-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Campbell County",
+        "50",
+        "0.20%",
+        "21.4 MW",
+        "—"
+      ],
+      "countyName": "Campbell County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/campbell-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Fluvanna County",
+        "50",
+        "0.44%",
+        "20.5 MW",
+        "—"
+      ],
+      "countyName": "Fluvanna County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/fluvanna-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "New Kent County",
+        "50",
+        "0.53%",
+        "23.3 MW",
+        "—"
+      ],
+      "countyName": "New Kent County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/new-kent-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "York County",
+        "49",
+        "0.17%",
+        "363 kW",
+        "—"
+      ],
+      "countyName": "York County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/york-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Amherst County",
+        "47",
+        "0.33%",
+        "7.9 MW",
+        "—"
+      ],
+      "countyName": "Amherst County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/amherst-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Botetourt County",
+        "47",
+        "0.31%",
+        "348 kW",
+        "—"
+      ],
+      "countyName": "Botetourt County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/botetourt-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Scott County",
+        "46",
+        "0.39%",
+        "80 kW",
+        "—"
+      ],
+      "countyName": "Scott County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/scott-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Prince George County",
+        "44",
+        "0.33%",
+        "21.2 MW",
+        "—"
+      ],
+      "countyName": "Prince George County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/prince-george-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Portsmouth city",
+        "44",
+        "0.10%",
+        "301 kW",
+        "—"
+      ],
+      "countyName": "Portsmouth city",
+      "countyUrl": "https://panelcensus.com/solar/virginia/portsmouth-city",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Dinwiddie County",
+        "37",
+        "0.31%",
+        "324 kW",
+        "—"
+      ],
+      "countyName": "Dinwiddie County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/dinwiddie-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Isle of Wight County",
+        "37",
+        "0.22%",
+        "51.7 MW",
+        "—"
+      ],
+      "countyName": "Isle of Wight County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/isle-of-wight-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Page County",
+        "37",
+        "0.31%",
+        "306 kW",
+        "—"
+      ],
+      "countyName": "Page County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/page-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "King George County",
+        "36",
+        "0.34%",
+        "290 kW",
+        "—"
+      ],
+      "countyName": "King George County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/king-george-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Caroline County",
+        "35",
+        "0.28%",
+        "644 kW",
+        "—"
+      ],
+      "countyName": "Caroline County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/caroline-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cumberland County",
+        "33",
+        "0.70%",
+        "49.4 MW",
+        "—"
+      ],
+      "countyName": "Cumberland County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/cumberland-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Middlesex County",
+        "32",
+        "0.45%",
+        "22.3 MW",
+        "—"
+      ],
+      "countyName": "Middlesex County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/middlesex-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Buckingham County",
+        "31",
+        "0.43%",
+        "5.5 MW",
+        "—"
+      ],
+      "countyName": "Buckingham County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/buckingham-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pulaski County",
+        "31",
+        "0.18%",
+        "330 kW",
+        "—"
+      ],
+      "countyName": "Pulaski County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/pulaski-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Mathews County",
+        "29",
+        "0.53%",
+        "207 kW",
+        "—"
+      ],
+      "countyName": "Mathews County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/mathews-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Westmoreland County",
+        "29",
+        "0.26%",
+        "49.0 MW",
+        "—"
+      ],
+      "countyName": "Westmoreland County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/westmoreland-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Fredericksburg city",
+        "29",
+        "0.24%",
+        "174 kW",
+        "—"
+      ],
+      "countyName": "Fredericksburg city",
+      "countyUrl": "https://panelcensus.com/solar/virginia/fredericksburg-city",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Winchester city",
+        "29",
+        "0.23%",
+        "699 kW",
+        "—"
+      ],
+      "countyName": "Winchester city",
+      "countyUrl": "https://panelcensus.com/solar/virginia/winchester-city",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Mecklenburg County",
+        "28",
+        "0.15%",
+        "208.8 MW",
+        "—"
+      ],
+      "countyName": "Mecklenburg County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/mecklenburg-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pittsylvania County",
+        "27",
+        "0.09%",
+        "169.1 MW",
+        "—"
+      ],
+      "countyName": "Pittsylvania County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/pittsylvania-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "King William County",
+        "26",
+        "0.34%",
+        "39.6 MW",
+        "—"
+      ],
+      "countyName": "King William County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/king-william-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Henry County",
+        "25",
+        "0.10%",
+        "99.1 MW",
+        "—"
+      ],
+      "countyName": "Henry County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/henry-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Halifax County",
+        "24",
+        "0.14%",
+        "327.2 MW",
+        "—"
+      ],
+      "countyName": "Halifax County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/halifax-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lynchburg city",
+        "24",
+        "0.07%",
+        "620 kW",
+        "—"
+      ],
+      "countyName": "Lynchburg city",
+      "countyUrl": "https://panelcensus.com/solar/virginia/lynchburg-city",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Carroll County",
+        "23",
+        "0.14%",
+        "174 kW",
+        "—"
+      ],
+      "countyName": "Carroll County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/carroll-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Northumberland County",
+        "23",
+        "0.26%",
+        "201 kW",
+        "—"
+      ],
+      "countyName": "Northumberland County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/northumberland-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Greensville County",
+        "22",
+        "0.55%",
+        "228.7 MW",
+        "—"
+      ],
+      "countyName": "Greensville County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/greensville-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Grayson County",
+        "21",
+        "0.23%",
+        "125 kW",
+        "—"
+      ],
+      "countyName": "Grayson County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/grayson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Smyth County",
+        "21",
+        "0.14%",
+        "159 kW",
+        "—"
+      ],
+      "countyName": "Smyth County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/smyth-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wythe County",
+        "21",
+        "0.15%",
+        "24.6 MW",
+        "—"
+      ],
+      "countyName": "Wythe County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/wythe-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Poquoson city",
+        "21",
+        "0.42%",
+        "146 kW",
+        "—"
+      ],
+      "countyName": "Poquoson city",
+      "countyUrl": "https://panelcensus.com/solar/virginia/poquoson-city",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Patrick County",
+        "20",
+        "0.20%",
+        "145 kW",
+        "—"
+      ],
+      "countyName": "Patrick County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/patrick-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Appomattox County",
+        "17",
+        "0.23%",
+        "25.0 MW",
+        "—"
+      ],
+      "countyName": "Appomattox County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/appomattox-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Giles County",
+        "17",
+        "0.20%",
+        "127 kW",
+        "—"
+      ],
+      "countyName": "Giles County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/giles-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Alleghany County",
+        "16",
+        "0.20%",
+        "104 kW",
+        "—"
+      ],
+      "countyName": "Alleghany County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/alleghany-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Amelia County",
+        "16",
+        "0.28%",
+        "13.5 MW",
+        "—"
+      ],
+      "countyName": "Amelia County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/amelia-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lancaster County",
+        "16",
+        "0.21%",
+        "7.1 MW",
+        "—"
+      ],
+      "countyName": "Lancaster County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/lancaster-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Richmond County",
+        "13",
+        "0.33%",
+        "37.2 MW",
+        "—"
+      ],
+      "countyName": "Richmond County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/richmond-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Dickenson County",
+        "12",
+        "0.16%",
+        "56 kW",
+        "—"
+      ],
+      "countyName": "Dickenson County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/dickenson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Nottoway County",
+        "12",
+        "0.18%",
+        "93 kW",
+        "—"
+      ],
+      "countyName": "Nottoway County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/nottoway-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Southampton County",
+        "12",
+        "0.15%",
+        "70.8 MW",
+        "—"
+      ],
+      "countyName": "Southampton County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/southampton-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Charles City County",
+        "10",
+        "0.31%",
+        "55 kW",
+        "—"
+      ],
+      "countyName": "Charles City County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/charles-city-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Essex County",
+        "10",
+        "0.17%",
+        "26.9 MW",
+        "—"
+      ],
+      "countyName": "Essex County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/essex-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sussex County",
+        "10",
+        "0.21%",
+        "28.4 MW",
+        "—"
+      ],
+      "countyName": "Sussex County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/sussex-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lunenburg Countylimited",
+        "9",
+        "0.15%",
+        "18.1 MW",
+        "—"
+      ],
+      "countyName": "Lunenburg County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/lunenburg-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Brunswick Countylimited",
+        "8",
+        "0.10%",
+        "56 kW",
+        "—"
+      ],
+      "countyName": "Brunswick County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/brunswick-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Charlotte Countylimited",
+        "8",
+        "0.13%",
+        "147 kW",
+        "—"
+      ],
+      "countyName": "Charlotte County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/charlotte-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "King and Queen Countylimited",
+        "8",
+        "0.23%",
+        "89 kW",
+        "—"
+      ],
+      "countyName": "King and Queen County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/king-and-queen-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Prince Edward Countylimited",
+        "7",
+        "0.08%",
+        "4.0 MW",
+        "—"
+      ],
+      "countyName": "Prince Edward County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/prince-edward-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bland Countylimited",
+        "6",
+        "0.19%",
+        "50 kW",
+        "—"
+      ],
+      "countyName": "Bland County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/bland-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Highland Countylimited",
+        "6",
+        "0.33%",
+        "51 kW",
+        "—"
+      ],
+      "countyName": "Highland County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/highland-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Surry Countylimited",
+        "6",
+        "0.17%",
+        "28 kW",
+        "—"
+      ],
+      "countyName": "Surry County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/surry-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Tazewell Countylimited",
+        "6",
+        "0.03%",
+        "43 kW",
+        "—"
+      ],
+      "countyName": "Tazewell County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/tazewell-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Accomack Countylimited",
+        "4",
+        "0.02%",
+        "18.8 MW",
+        "—"
+      ],
+      "countyName": "Accomack County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/accomack-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Manassas citylimited",
+        "4",
+        "0.03%",
+        "39 kW",
+        "—"
+      ],
+      "countyName": "Manassas city",
+      "countyUrl": "https://panelcensus.com/solar/virginia/manassas-city",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Russell Countylimited",
+        "2",
+        "0.02%",
+        "7 kW",
+        "—"
+      ],
+      "countyName": "Russell County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/russell-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wise Countylimited",
+        "2",
+        "0.01%",
+        "6.5 MW",
+        "—"
+      ],
+      "countyName": "Wise County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/wise-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bath Countylimited",
+        "1",
+        "0.03%",
+        "6.5 MW",
+        "—"
+      ],
+      "countyName": "Bath County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/bath-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Northampton Countylimited",
+        "1",
+        "0.01%",
+        "25.1 MW",
+        "—"
+      ],
+      "countyName": "Northampton County",
+      "countyUrl": "https://panelcensus.com/solar/virginia/northampton-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

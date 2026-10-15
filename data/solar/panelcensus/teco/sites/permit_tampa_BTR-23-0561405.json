@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561405",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561405",
+  "listingPageNumber": 2,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 6, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:42.815Z",
+  "siteName": "1903 Heather Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0464, -82.4375",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0463913&mlon=-82.4374795#map=17/28.0463913/-82.4374795",
+  "recordId": "permit_tampa_BTR-23-0561405",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.0463913,
+  "longitude": -82.4374795,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

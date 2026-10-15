@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0544476",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0544476",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "11.6 kW",
+    "Jan 12, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:55.357Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8776, -82.4984",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8775727&mlon=-82.498444#map=17/27.8775727/-82.498444",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0544476",
+  "siteName": "6304 S Selbourne Ave (ACA)",
+  "sizeDisplay": "11.6 kW",
+  "latitude": 27.8775727,
+  "longitude": -82.498444,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 11.6,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

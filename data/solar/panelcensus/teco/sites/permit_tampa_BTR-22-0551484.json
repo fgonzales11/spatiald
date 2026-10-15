@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0551484",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0551484",
+  "listingPageNumber": 15,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "May 26, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:48.832Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0462, -82.4296",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0461537&mlon=-82.4296415#map=17/28.0461537/-82.4296415",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0551484",
+  "siteName": "10601 Altman St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0461537,
+  "longitude": -82.4296415,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

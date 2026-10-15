@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561962",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561962",
+  "listingPageNumber": 2,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 16, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:30.937Z",
+  "siteName": "7430 Lakeshore Dr (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0169, -82.4162",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0168909&mlon=-82.4162243#map=17/28.0168909/-82.4162243",
+  "recordId": "permit_tampa_BTR-23-0561962",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.0168909,
+  "longitude": -82.4162243,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0544869",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0544869",
+  "listingPageNumber": 21,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "12 kW",
+    "Jan 20, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:45.911Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0345, -82.4285",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0345002&mlon=-82.4284963#map=17/28.0345002/-82.4284963",
+  "parties": [
+    {
+      "name": "Drcks #3 Asset Management LLC",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0544869",
+  "siteName": "9304 N 28th St (ACA)",
+  "sizeDisplay": "12 kW",
+  "latitude": 28.0345002,
+  "longitude": -82.4284963,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 12,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555104",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555104",
+  "listingPageNumber": 11,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jul 28, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:55:30.906Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8896, -82.5231",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8896172&mlon=-82.5230615#map=17/27.8896172/-82.5230615",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555104",
+  "siteName": "4612 W Ballast Point Blvd (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.8896172,
+  "longitude": -82.5230615,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

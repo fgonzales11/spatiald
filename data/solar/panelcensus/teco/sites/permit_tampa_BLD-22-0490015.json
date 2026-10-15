@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BLD-22-0490015",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BLD-22-0490015",
+  "listingPageNumber": 19,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Commercial",
+    "985.2 kW",
+    "Mar 9, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:13.722Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Commercial",
+  "locationDisplay": "Location: 28.1321, -82.3758",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1321496&mlon=-82.3758337#map=17/28.1321496/-82.3758337",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BLD-22-0490015",
+  "siteName": "PV Cells - Rooftop",
+  "sizeDisplay": "985.2 kW",
+  "latitude": 28.1321496,
+  "longitude": -82.3758337,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 985.2,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

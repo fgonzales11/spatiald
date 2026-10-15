@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0552901",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0552901",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:34.143Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8721, -82.4943",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.872126&mlon=-82.4942801#map=17/27.872126/-82.4942801",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0552901",
+  "siteName": "3108 W Hartnett Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.872126,
+  "longitude": -82.4942801,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

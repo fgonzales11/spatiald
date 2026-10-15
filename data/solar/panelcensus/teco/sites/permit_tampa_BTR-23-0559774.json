@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559774",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559774",
+  "listingPageNumber": 5,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "80 kW",
+    "Oct 28, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:36:36.213Z",
+  "siteName": "2307 W Broad St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "80 kW",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0160, -82.4825",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0160425&mlon=-82.4824942#map=17/28.0160425/-82.4824942",
+  "recordId": "permit_tampa_BTR-23-0559774",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 80,
+  "latitude": 28.0160425,
+  "longitude": -82.4824942,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

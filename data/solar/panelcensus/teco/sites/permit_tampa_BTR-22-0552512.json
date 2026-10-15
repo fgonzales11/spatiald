@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0552512",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0552512",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 14, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:21.147Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9935, -82.4685",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9934792&mlon=-82.4685054#map=17/27.9934792/-82.4685054",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0552512",
+  "siteName": "917 Cornelius Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9934792,
+  "longitude": -82.4685054,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559407",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559407",
+  "listingPageNumber": 5,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Oct 20, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:37:17.287Z",
+  "siteName": "1914 E Noel St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9866, -82.4385",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9866231&mlon=-82.4384858#map=17/27.9866231/-82.4384858",
+  "recordId": "permit_tampa_BTR-23-0559407",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.9866231,
+  "longitude": -82.4384858,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

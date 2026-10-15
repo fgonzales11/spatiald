@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0544473",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0544473",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "8.9 kW",
+    "Jan 12, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:56.459Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0060, -82.4782",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0059919&mlon=-82.4782404#map=17/28.0059919/-82.4782404",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0544473",
+  "siteName": "1916 W North St (ACA)",
+  "sizeDisplay": "8.9 kW",
+  "latitude": 28.0059919,
+  "longitude": -82.4782404,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 8.9,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

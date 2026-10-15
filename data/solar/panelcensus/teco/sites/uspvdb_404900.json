@@ -1,0 +1,43 @@
+{
+  "siteId": "uspvdb_404900",
+  "sourceUrl": "https://panelcensus.com/sites/uspvdb_404900",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Gibsonton, FL\nHillsborough County",
+    "Utility-scale",
+    "1,300 kW",
+    "Jan 1, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:28.322Z",
+  "capacityBasis": "1,000 kW AC",
+  "locationDescription": "Gibsonton · Hillsborough County · Florida · Utility-scale",
+  "locationDisplay": "Location: 27.7881, -82.3953",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.788074&mlon=-82.395294#map=17/27.788074/-82.395294",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Plant operator"
+    }
+  ],
+  "recordId": "uspvdb_404900",
+  "siteName": "Big Bend Floating Solar I",
+  "sizeDisplay": "1,300 kW",
+  "latitude": 27.788074,
+  "longitude": -82.395294,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 1300,
+  "tecoRoles": [
+    "Owner",
+    "Plant operator"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

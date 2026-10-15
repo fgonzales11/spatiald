@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0547419",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0547419",
+  "listingPageNumber": 19,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 11, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:06.905Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1208, -82.3960",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1208303&mlon=-82.3959777#map=17/28.1208303/-82.3959777",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0547419",
+  "siteName": "5016 Devon Park Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1208303,
+  "longitude": -82.3959777,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

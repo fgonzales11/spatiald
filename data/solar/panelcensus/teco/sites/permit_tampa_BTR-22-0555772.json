@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555772",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555772",
+  "listingPageNumber": 10,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Aug 9, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:32.985Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9485, -82.4852",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9485092&mlon=-82.4852292#map=17/27.9485092/-82.4852292",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555772",
+  "siteName": "2409 W Gray St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9485092,
+  "longitude": -82.4852292,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

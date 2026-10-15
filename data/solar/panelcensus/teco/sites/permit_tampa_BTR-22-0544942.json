@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0544942",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0544942",
+  "listingPageNumber": 21,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jan 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:44.764Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0364, -82.4392",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0363968&mlon=-82.4392431#map=17/28.0363968/-82.4392431",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0544942",
+  "siteName": "9608 N 18th St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0363968,
+  "longitude": -82.4392431,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

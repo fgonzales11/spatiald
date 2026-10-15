@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0562274",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0562274",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 27, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:22.338Z",
+  "siteName": "10018 N 27th St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0411, -82.4290",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0411302&mlon=-82.428964#map=17/28.0411302/-82.428964",
+  "recordId": "permit_tampa_BTR-23-0562274",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.0411302,
+  "longitude": -82.428964,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

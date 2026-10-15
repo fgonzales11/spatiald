@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0553430",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0553430",
+  "listingPageNumber": 13,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 30, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:16.769Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0457, -82.4347",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0457246&mlon=-82.4346555#map=17/28.0457246/-82.4346555",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0553430",
+  "siteName": "10602 N 22nd St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0457246,
+  "longitude": -82.4346555,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

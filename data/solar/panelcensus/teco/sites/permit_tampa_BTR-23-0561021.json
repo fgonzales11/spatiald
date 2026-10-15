@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561021",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561021",
+  "listingPageNumber": 3,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 28, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:33:52.519Z",
+  "siteName": "3934 W Bay Vista Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9060, -82.5089",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9060177&mlon=-82.5088603#map=17/27.9060177/-82.5088603",
+  "recordId": "permit_tampa_BTR-23-0561021",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.9060177,
+  "longitude": -82.5088603,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0551806",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0551806",
+  "listingPageNumber": 15,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "6.3 kW",
+    "Jun 2, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:38.660Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9458, -82.4945",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9458285&mlon=-82.4944501#map=17/27.9458285/-82.4944501",
+  "parties": [
+    {
+      "name": "Rbsm LLC",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0551806",
+  "siteName": "res solar install",
+  "sizeDisplay": "6.3 kW",
+  "latitude": 27.9458285,
+  "longitude": -82.4944501,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 6.3,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

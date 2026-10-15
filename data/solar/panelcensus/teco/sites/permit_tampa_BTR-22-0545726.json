@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0545726",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0545726",
+  "listingPageNumber": 21,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Feb 8, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:23.669Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0280, -82.4404",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.02797&mlon=-82.440403#map=17/28.02797/-82.440403",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0545726",
+  "siteName": "8609 N 17th St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.02797,
+  "longitude": -82.440403,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

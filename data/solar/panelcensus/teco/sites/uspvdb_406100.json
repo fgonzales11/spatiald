@@ -1,0 +1,40 @@
+{
+  "siteId": "uspvdb_406100",
+  "sourceUrl": "https://panelcensus.com/sites/uspvdb_406100",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "Lake Wales, FL\nPolk County",
+    "Utility-scale",
+    "90,000 kW",
+    "Jan 1, 2023",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:19.937Z",
+  "siteName": "Lake Mabel Solar",
+  "locationDescription": "Lake Wales · Polk County · Florida · Utility-scale",
+  "sizeDisplay": "90,000 kW",
+  "capacityBasis": "74,500 kW AC",
+  "locationDisplay": "Location: 27.9767, -81.5932",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.97674&mlon=-81.593163#map=17/27.97674/-81.593163",
+  "recordId": "uspvdb_406100",
+  "parties": [
+    {
+      "role": "Owner",
+      "name": "Tampa Electric Co [100%]"
+    },
+    {
+      "role": "Plant operator",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 90000,
+  "latitude": 27.97674,
+  "longitude": -81.593163,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Plant operator"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

@@ -1,0 +1,1172 @@
+{
+  "state": {
+    "code": "OH",
+    "name": "Ohio",
+    "slug": "ohio"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/ohio",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:42.665Z",
+  "renderedHtmlSha256": "7d493e2c9d3dcc520db8faa38d8585b5074c24f4b2b88f7d99d3ec3a1e3323d0",
+  "heading": "Solar installations in Ohio",
+  "documentTitle": "Solar in Ohio — 5,248 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "5,248",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Ohio",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Hamilton County",
+        "986",
+        "0.26%",
+        "20.9 MW",
+        "—"
+      ],
+      "countyName": "Hamilton County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/hamilton-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Franklin County",
+        "619",
+        "0.10%",
+        "13.0 MW",
+        "—"
+      ],
+      "countyName": "Franklin County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/franklin-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cuyahoga County",
+        "320",
+        "0.05%",
+        "25.1 MW",
+        "—"
+      ],
+      "countyName": "Cuyahoga County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/cuyahoga-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Delaware County",
+        "136",
+        "0.16%",
+        "3.5 MW",
+        "—"
+      ],
+      "countyName": "Delaware County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/delaware-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Butler County",
+        "132",
+        "0.09%",
+        "3.1 MW",
+        "—"
+      ],
+      "countyName": "Butler County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/butler-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Athens County",
+        "124",
+        "0.47%",
+        "2.1 MW",
+        "—"
+      ],
+      "countyName": "Athens County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/athens-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Stark County",
+        "124",
+        "0.07%",
+        "7.6 MW",
+        "—"
+      ],
+      "countyName": "Stark County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/stark-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clermont County",
+        "106",
+        "0.12%",
+        "2.0 MW",
+        "—"
+      ],
+      "countyName": "Clermont County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/clermont-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wayne County",
+        "106",
+        "0.23%",
+        "12.4 MW",
+        "—"
+      ],
+      "countyName": "Wayne County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/wayne-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Tuscarawas County",
+        "101",
+        "0.25%",
+        "7.3 MW",
+        "—"
+      ],
+      "countyName": "Tuscarawas County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/tuscarawas-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Warren County",
+        "101",
+        "0.11%",
+        "13.8 MW",
+        "—"
+      ],
+      "countyName": "Warren County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/warren-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Greene County",
+        "96",
+        "0.13%",
+        "12.2 MW",
+        "—"
+      ],
+      "countyName": "Greene County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/greene-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Licking County",
+        "94",
+        "0.13%",
+        "9.4 MW",
+        "—"
+      ],
+      "countyName": "Licking County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/licking-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Summit County",
+        "94",
+        "0.04%",
+        "6.5 MW",
+        "—"
+      ],
+      "countyName": "Summit County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/summit-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Medina County",
+        "93",
+        "0.12%",
+        "17.4 MW",
+        "—"
+      ],
+      "countyName": "Medina County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/medina-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Montgomery County",
+        "91",
+        "0.04%",
+        "6.2 MW",
+        "—"
+      ],
+      "countyName": "Montgomery County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/montgomery-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lucas County",
+        "82",
+        "0.04%",
+        "23.4 MW",
+        "—"
+      ],
+      "countyName": "Lucas County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/lucas-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lorain County",
+        "70",
+        "0.05%",
+        "11.2 MW",
+        "—"
+      ],
+      "countyName": "Lorain County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/lorain-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Holmes County",
+        "63",
+        "0.43%",
+        "4.7 MW",
+        "—"
+      ],
+      "countyName": "Holmes County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/holmes-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Fairfield County",
+        "60",
+        "0.10%",
+        "2.0 MW",
+        "—"
+      ],
+      "countyName": "Fairfield County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/fairfield-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Madison County",
+        "60",
+        "0.37%",
+        "10.5 MW",
+        "—"
+      ],
+      "countyName": "Madison County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/madison-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Putnam County",
+        "54",
+        "0.39%",
+        "73.0 MW",
+        "—"
+      ],
+      "countyName": "Putnam County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/putnam-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Columbiana County",
+        "50",
+        "0.11%",
+        "1.6 MW",
+        "—"
+      ],
+      "countyName": "Columbiana County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/columbiana-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Portage County",
+        "49",
+        "0.07%",
+        "1.1 MW",
+        "—"
+      ],
+      "countyName": "Portage County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/portage-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Huron County",
+        "46",
+        "0.18%",
+        "10.7 MW",
+        "—"
+      ],
+      "countyName": "Huron County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/huron-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Mahoning County",
+        "43",
+        "0.04%",
+        "2.1 MW",
+        "—"
+      ],
+      "countyName": "Mahoning County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/mahoning-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Geauga County",
+        "41",
+        "0.11%",
+        "726 kW",
+        "—"
+      ],
+      "countyName": "Geauga County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/geauga-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Knox County",
+        "41",
+        "0.16%",
+        "1.8 MW",
+        "—"
+      ],
+      "countyName": "Knox County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/knox-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Allen County",
+        "39",
+        "0.09%",
+        "1.1 MW",
+        "—"
+      ],
+      "countyName": "Allen County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/allen-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clark County",
+        "37",
+        "0.06%",
+        "4.8 MW",
+        "—"
+      ],
+      "countyName": "Clark County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/clark-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lake County",
+        "35",
+        "0.03%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Lake County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/lake-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wyandot County",
+        "34",
+        "0.34%",
+        "22.7 MW",
+        "—"
+      ],
+      "countyName": "Wyandot County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/wyandot-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Seneca County",
+        "33",
+        "0.14%",
+        "1.2 MW",
+        "—"
+      ],
+      "countyName": "Seneca County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/seneca-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wood County",
+        "33",
+        "0.06%",
+        "43.9 MW",
+        "—"
+      ],
+      "countyName": "Wood County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/wood-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Erie County",
+        "32",
+        "0.08%",
+        "540 kW",
+        "—"
+      ],
+      "countyName": "Erie County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/erie-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Washington County",
+        "32",
+        "0.11%",
+        "485 kW",
+        "—"
+      ],
+      "countyName": "Washington County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/washington-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Belmont County",
+        "31",
+        "0.10%",
+        "515 kW",
+        "—"
+      ],
+      "countyName": "Belmont County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/belmont-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Coshocton County",
+        "31",
+        "0.19%",
+        "745 kW",
+        "—"
+      ],
+      "countyName": "Coshocton County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/coshocton-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Miami County",
+        "31",
+        "0.07%",
+        "19.1 MW",
+        "—"
+      ],
+      "countyName": "Miami County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/miami-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Brown County",
+        "29",
+        "0.15%",
+        "105.4 MW",
+        "—"
+      ],
+      "countyName": "Brown County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/brown-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Trumbull County",
+        "29",
+        "0.03%",
+        "5.1 MW",
+        "—"
+      ],
+      "countyName": "Trumbull County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/trumbull-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pickaway County",
+        "28",
+        "0.12%",
+        "379 kW",
+        "—"
+      ],
+      "countyName": "Pickaway County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/pickaway-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Richland County",
+        "28",
+        "0.05%",
+        "5.5 MW",
+        "—"
+      ],
+      "countyName": "Richland County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/richland-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Paulding County",
+        "27",
+        "0.32%",
+        "82.8 MW",
+        "—"
+      ],
+      "countyName": "Paulding County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/paulding-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Ashtabula County",
+        "25",
+        "0.05%",
+        "1.1 MW",
+        "—"
+      ],
+      "countyName": "Ashtabula County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/ashtabula-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Muskingum County",
+        "24",
+        "0.06%",
+        "575 kW",
+        "—"
+      ],
+      "countyName": "Muskingum County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/muskingum-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Carroll County",
+        "23",
+        "0.17%",
+        "659 kW",
+        "—"
+      ],
+      "countyName": "Carroll County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/carroll-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Ashland County",
+        "22",
+        "0.10%",
+        "342 kW",
+        "—"
+      ],
+      "countyName": "Ashland County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/ashland-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Ross County",
+        "22",
+        "0.07%",
+        "51.0 MW",
+        "—"
+      ],
+      "countyName": "Ross County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/ross-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Champaign County",
+        "21",
+        "0.12%",
+        "1.2 MW",
+        "—"
+      ],
+      "countyName": "Champaign County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/champaign-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Crawford County",
+        "21",
+        "0.11%",
+        "698 kW",
+        "—"
+      ],
+      "countyName": "Crawford County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/crawford-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Darke County",
+        "21",
+        "0.09%",
+        "7.2 MW",
+        "—"
+      ],
+      "countyName": "Darke County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/darke-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hancock County",
+        "21",
+        "0.06%",
+        "6.8 MW",
+        "—"
+      ],
+      "countyName": "Hancock County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/hancock-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Henry County",
+        "21",
+        "0.17%",
+        "19.1 MW",
+        "—"
+      ],
+      "countyName": "Henry County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/henry-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Perry County",
+        "21",
+        "0.14%",
+        "187 kW",
+        "—"
+      ],
+      "countyName": "Perry County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/perry-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Adams County",
+        "20",
+        "0.16%",
+        "835 kW",
+        "—"
+      ],
+      "countyName": "Adams County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/adams-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Ottawa County",
+        "20",
+        "0.07%",
+        "2.0 MW",
+        "—"
+      ],
+      "countyName": "Ottawa County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/ottawa-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Auglaize County",
+        "19",
+        "0.10%",
+        "44.8 MW",
+        "—"
+      ],
+      "countyName": "Auglaize County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/auglaize-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Fulton County",
+        "19",
+        "0.11%",
+        "2.7 MW",
+        "—"
+      ],
+      "countyName": "Fulton County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/fulton-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Guernsey County",
+        "19",
+        "0.10%",
+        "444 kW",
+        "—"
+      ],
+      "countyName": "Guernsey County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/guernsey-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Logan County",
+        "16",
+        "0.07%",
+        "291 kW",
+        "—"
+      ],
+      "countyName": "Logan County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/logan-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Union County",
+        "16",
+        "0.07%",
+        "210 kW",
+        "—"
+      ],
+      "countyName": "Union County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/union-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Van Wert County",
+        "16",
+        "0.13%",
+        "1.1 MW",
+        "—"
+      ],
+      "countyName": "Van Wert County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/van-wert-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Meigs County",
+        "15",
+        "0.14%",
+        "106 kW",
+        "—"
+      ],
+      "countyName": "Meigs County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/meigs-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Gallia County",
+        "14",
+        "0.10%",
+        "3.0 MW",
+        "—"
+      ],
+      "countyName": "Gallia County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/gallia-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hardin County",
+        "14",
+        "0.11%",
+        "6.5 MW",
+        "—"
+      ],
+      "countyName": "Hardin County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/hardin-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Highland County",
+        "14",
+        "0.07%",
+        "182 kW",
+        "—"
+      ],
+      "countyName": "Highland County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/highland-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jefferson County",
+        "14",
+        "0.04%",
+        "148 kW",
+        "—"
+      ],
+      "countyName": "Jefferson County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/jefferson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Preble County",
+        "14",
+        "0.08%",
+        "227 kW",
+        "—"
+      ],
+      "countyName": "Preble County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/preble-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Scioto County",
+        "14",
+        "0.04%",
+        "1.3 MW",
+        "—"
+      ],
+      "countyName": "Scioto County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/scioto-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Shelby County",
+        "14",
+        "0.07%",
+        "2.5 MW",
+        "—"
+      ],
+      "countyName": "Shelby County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/shelby-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sandusky County",
+        "13",
+        "0.05%",
+        "8.4 MW",
+        "—"
+      ],
+      "countyName": "Sandusky County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/sandusky-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clinton County",
+        "12",
+        "0.07%",
+        "706 kW",
+        "—"
+      ],
+      "countyName": "Clinton County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/clinton-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Marion County",
+        "12",
+        "0.04%",
+        "516 kW",
+        "—"
+      ],
+      "countyName": "Marion County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/marion-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Morrow County",
+        "11",
+        "0.07%",
+        "695 kW",
+        "—"
+      ],
+      "countyName": "Morrow County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/morrow-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jackson County",
+        "10",
+        "0.07%",
+        "162 kW",
+        "—"
+      ],
+      "countyName": "Jackson County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/jackson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Mercer County",
+        "10",
+        "0.06%",
+        "11.5 MW",
+        "—"
+      ],
+      "countyName": "Mercer County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/mercer-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Harrison Countylimited",
+        "9",
+        "0.12%",
+        "122 kW",
+        "—"
+      ],
+      "countyName": "Harrison County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/harrison-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Fayette Countylimited",
+        "8",
+        "0.06%",
+        "372 kW",
+        "—"
+      ],
+      "countyName": "Fayette County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/fayette-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hocking Countylimited",
+        "8",
+        "0.06%",
+        "63 kW",
+        "—"
+      ],
+      "countyName": "Hocking County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/hocking-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Defiance Countylimited",
+        "7",
+        "0.04%",
+        "890 kW",
+        "—"
+      ],
+      "countyName": "Defiance County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/defiance-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lawrence Countylimited",
+        "7",
+        "0.03%",
+        "1.3 MW",
+        "—"
+      ],
+      "countyName": "Lawrence County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/lawrence-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Williams Countylimited",
+        "7",
+        "0.04%",
+        "7.0 MW",
+        "—"
+      ],
+      "countyName": "Williams County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/williams-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Monroe Countylimited",
+        "6",
+        "0.08%",
+        "34 kW",
+        "—"
+      ],
+      "countyName": "Monroe County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/monroe-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pike Countylimited",
+        "5",
+        "0.04%",
+        "51 kW",
+        "—"
+      ],
+      "countyName": "Pike County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/pike-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Vinton Countylimited",
+        "4",
+        "0.07%",
+        "38 kW",
+        "—"
+      ],
+      "countyName": "Vinton County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/vinton-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Morgan Countylimited",
+        "3",
+        "0.04%",
+        "19 kW",
+        "—"
+      ],
+      "countyName": "Morgan County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/morgan-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Noble Countylimited",
+        "3",
+        "0.05%",
+        "31 kW",
+        "—"
+      ],
+      "countyName": "Noble County",
+      "countyUrl": "https://panelcensus.com/solar/ohio/noble-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

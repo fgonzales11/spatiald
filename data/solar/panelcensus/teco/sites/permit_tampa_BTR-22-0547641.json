@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0547641",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0547641",
+  "listingPageNumber": 18,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 15, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:01:30.572Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9100, -82.5172",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9100487&mlon=-82.5171994#map=17/27.9100487/-82.5171994",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0547641",
+  "siteName": "3635 S Coolidge Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9100487,
+  "longitude": -82.5171994,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

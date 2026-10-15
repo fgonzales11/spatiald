@@ -1,0 +1,459 @@
+{
+  "verifiedAt": "2026-10-12T01:09:17.373Z",
+  "expectedStateCount": 50,
+  "verifiedStateCount": 50,
+  "countyRowsMatched": 1713,
+  "scope": "Every exported county row and installation count matched a second browser read of all 50 live state tables; limited rows included. State headline totals verified independently.",
+  "states": [
+    {
+      "stateCode": "AL",
+      "sourceUrl": "https://panelcensus.com/solar/alabama",
+      "httpStatus": 200,
+      "countyRowsMatched": 12,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:04.257Z"
+    },
+    {
+      "stateCode": "AK",
+      "sourceUrl": "https://panelcensus.com/solar/alaska",
+      "httpStatus": 200,
+      "countyRowsMatched": 2,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:04.257Z"
+    },
+    {
+      "stateCode": "AZ",
+      "sourceUrl": "https://panelcensus.com/solar/arizona",
+      "httpStatus": 200,
+      "countyRowsMatched": 15,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:04.790Z"
+    },
+    {
+      "stateCode": "AR",
+      "sourceUrl": "https://panelcensus.com/solar/arkansas",
+      "httpStatus": 200,
+      "countyRowsMatched": 48,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:04.797Z"
+    },
+    {
+      "stateCode": "CA",
+      "sourceUrl": "https://panelcensus.com/solar/california",
+      "httpStatus": 200,
+      "countyRowsMatched": 58,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:05.323Z"
+    },
+    {
+      "stateCode": "CO",
+      "sourceUrl": "https://panelcensus.com/solar/colorado",
+      "httpStatus": 200,
+      "countyRowsMatched": 42,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:05.324Z"
+    },
+    {
+      "stateCode": "CT",
+      "sourceUrl": "https://panelcensus.com/solar/connecticut",
+      "httpStatus": 200,
+      "countyRowsMatched": 8,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:05.845Z"
+    },
+    {
+      "stateCode": "DE",
+      "sourceUrl": "https://panelcensus.com/solar/delaware",
+      "httpStatus": 200,
+      "countyRowsMatched": 3,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:05.848Z"
+    },
+    {
+      "stateCode": "FL",
+      "sourceUrl": "https://panelcensus.com/solar/florida",
+      "httpStatus": 200,
+      "countyRowsMatched": 64,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:06.360Z"
+    },
+    {
+      "stateCode": "GA",
+      "sourceUrl": "https://panelcensus.com/solar/georgia",
+      "httpStatus": 200,
+      "countyRowsMatched": 80,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:06.361Z"
+    },
+    {
+      "stateCode": "HI",
+      "sourceUrl": "https://panelcensus.com/solar/hawaii",
+      "httpStatus": 200,
+      "countyRowsMatched": 4,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:06.881Z"
+    },
+    {
+      "stateCode": "ID",
+      "sourceUrl": "https://panelcensus.com/solar/idaho",
+      "httpStatus": 200,
+      "countyRowsMatched": 9,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:06.880Z"
+    },
+    {
+      "stateCode": "IL",
+      "sourceUrl": "https://panelcensus.com/solar/illinois",
+      "httpStatus": 200,
+      "countyRowsMatched": 102,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:07.402Z"
+    },
+    {
+      "stateCode": "IN",
+      "sourceUrl": "https://panelcensus.com/solar/indiana",
+      "httpStatus": 200,
+      "countyRowsMatched": 48,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:07.403Z"
+    },
+    {
+      "stateCode": "IA",
+      "sourceUrl": "https://panelcensus.com/solar/iowa",
+      "httpStatus": 200,
+      "countyRowsMatched": 24,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:07.922Z"
+    },
+    {
+      "stateCode": "KS",
+      "sourceUrl": "https://panelcensus.com/solar/kansas",
+      "httpStatus": 200,
+      "countyRowsMatched": 29,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:07.924Z"
+    },
+    {
+      "stateCode": "KY",
+      "sourceUrl": "https://panelcensus.com/solar/kentucky",
+      "httpStatus": 200,
+      "countyRowsMatched": 15,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:08.455Z"
+    },
+    {
+      "stateCode": "LA",
+      "sourceUrl": "https://panelcensus.com/solar/louisiana",
+      "httpStatus": 200,
+      "countyRowsMatched": 8,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:08.448Z"
+    },
+    {
+      "stateCode": "ME",
+      "sourceUrl": "https://panelcensus.com/solar/maine",
+      "httpStatus": 200,
+      "countyRowsMatched": 16,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:08.969Z"
+    },
+    {
+      "stateCode": "MD",
+      "sourceUrl": "https://panelcensus.com/solar/maryland",
+      "httpStatus": 200,
+      "countyRowsMatched": 24,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:08.971Z"
+    },
+    {
+      "stateCode": "MA",
+      "sourceUrl": "https://panelcensus.com/solar/massachusetts",
+      "httpStatus": 200,
+      "countyRowsMatched": 14,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:09.500Z"
+    },
+    {
+      "stateCode": "MI",
+      "sourceUrl": "https://panelcensus.com/solar/michigan",
+      "httpStatus": 200,
+      "countyRowsMatched": 29,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:09.498Z"
+    },
+    {
+      "stateCode": "MN",
+      "sourceUrl": "https://panelcensus.com/solar/minnesota",
+      "httpStatus": 200,
+      "countyRowsMatched": 79,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:10.046Z"
+    },
+    {
+      "stateCode": "MS",
+      "sourceUrl": "https://panelcensus.com/solar/mississippi",
+      "httpStatus": 200,
+      "countyRowsMatched": 17,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:10.044Z"
+    },
+    {
+      "stateCode": "MO",
+      "sourceUrl": "https://panelcensus.com/solar/missouri",
+      "httpStatus": 200,
+      "countyRowsMatched": 26,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:10.551Z"
+    },
+    {
+      "stateCode": "MT",
+      "sourceUrl": "https://panelcensus.com/solar/montana",
+      "httpStatus": 200,
+      "countyRowsMatched": 7,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:10.536Z"
+    },
+    {
+      "stateCode": "NE",
+      "sourceUrl": "https://panelcensus.com/solar/nebraska",
+      "httpStatus": 200,
+      "countyRowsMatched": 16,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:11.065Z"
+    },
+    {
+      "stateCode": "NV",
+      "sourceUrl": "https://panelcensus.com/solar/nevada",
+      "httpStatus": 200,
+      "countyRowsMatched": 9,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:11.069Z"
+    },
+    {
+      "stateCode": "NH",
+      "sourceUrl": "https://panelcensus.com/solar/new-hampshire",
+      "httpStatus": 200,
+      "countyRowsMatched": 10,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:11.592Z"
+    },
+    {
+      "stateCode": "NJ",
+      "sourceUrl": "https://panelcensus.com/solar/new-jersey",
+      "httpStatus": 200,
+      "countyRowsMatched": 21,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:11.589Z"
+    },
+    {
+      "stateCode": "NM",
+      "sourceUrl": "https://panelcensus.com/solar/new-mexico",
+      "httpStatus": 200,
+      "countyRowsMatched": 33,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:12.108Z"
+    },
+    {
+      "stateCode": "NY",
+      "sourceUrl": "https://panelcensus.com/solar/new-york",
+      "httpStatus": 200,
+      "countyRowsMatched": 62,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:12.110Z"
+    },
+    {
+      "stateCode": "NC",
+      "sourceUrl": "https://panelcensus.com/solar/north-carolina",
+      "httpStatus": 200,
+      "countyRowsMatched": 84,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:12.648Z"
+    },
+    {
+      "stateCode": "ND",
+      "sourceUrl": "https://panelcensus.com/solar/north-dakota",
+      "httpStatus": 200,
+      "countyRowsMatched": 2,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:12.637Z"
+    },
+    {
+      "stateCode": "OH",
+      "sourceUrl": "https://panelcensus.com/solar/ohio",
+      "httpStatus": 200,
+      "countyRowsMatched": 88,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:13.186Z"
+    },
+    {
+      "stateCode": "OK",
+      "sourceUrl": "https://panelcensus.com/solar/oklahoma",
+      "httpStatus": 200,
+      "countyRowsMatched": 12,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:13.165Z"
+    },
+    {
+      "stateCode": "OR",
+      "sourceUrl": "https://panelcensus.com/solar/oregon",
+      "httpStatus": 200,
+      "countyRowsMatched": 36,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:13.690Z"
+    },
+    {
+      "stateCode": "PA",
+      "sourceUrl": "https://panelcensus.com/solar/pennsylvania",
+      "httpStatus": 200,
+      "countyRowsMatched": 67,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:13.701Z"
+    },
+    {
+      "stateCode": "RI",
+      "sourceUrl": "https://panelcensus.com/solar/rhode-island",
+      "httpStatus": 200,
+      "countyRowsMatched": 5,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:14.205Z"
+    },
+    {
+      "stateCode": "SC",
+      "sourceUrl": "https://panelcensus.com/solar/south-carolina",
+      "httpStatus": 200,
+      "countyRowsMatched": 34,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:14.209Z"
+    },
+    {
+      "stateCode": "SD",
+      "sourceUrl": "https://panelcensus.com/solar/south-dakota",
+      "httpStatus": 200,
+      "countyRowsMatched": 4,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:14.736Z"
+    },
+    {
+      "stateCode": "TN",
+      "sourceUrl": "https://panelcensus.com/solar/tennessee",
+      "httpStatus": 200,
+      "countyRowsMatched": 21,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:14.743Z"
+    },
+    {
+      "stateCode": "TX",
+      "sourceUrl": "https://panelcensus.com/solar/texas",
+      "httpStatus": 200,
+      "countyRowsMatched": 154,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:15.282Z"
+    },
+    {
+      "stateCode": "UT",
+      "sourceUrl": "https://panelcensus.com/solar/utah",
+      "httpStatus": 200,
+      "countyRowsMatched": 29,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:15.272Z"
+    },
+    {
+      "stateCode": "VT",
+      "sourceUrl": "https://panelcensus.com/solar/vermont",
+      "httpStatus": 200,
+      "countyRowsMatched": 14,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:15.790Z"
+    },
+    {
+      "stateCode": "VA",
+      "sourceUrl": "https://panelcensus.com/solar/virginia",
+      "httpStatus": 200,
+      "countyRowsMatched": 108,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:15.820Z"
+    },
+    {
+      "stateCode": "WA",
+      "sourceUrl": "https://panelcensus.com/solar/washington",
+      "httpStatus": 200,
+      "countyRowsMatched": 39,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:16.322Z"
+    },
+    {
+      "stateCode": "WV",
+      "sourceUrl": "https://panelcensus.com/solar/west-virginia",
+      "httpStatus": 200,
+      "countyRowsMatched": 6,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:16.317Z"
+    },
+    {
+      "stateCode": "WI",
+      "sourceUrl": "https://panelcensus.com/solar/wisconsin",
+      "httpStatus": 200,
+      "countyRowsMatched": 72,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:16.982Z"
+    },
+    {
+      "stateCode": "WY",
+      "sourceUrl": "https://panelcensus.com/solar/wyoming",
+      "httpStatus": 200,
+      "countyRowsMatched": 4,
+      "allRowsMatch": true,
+      "stateTotalMatches": true,
+      "verifiedAt": "2026-10-12T01:09:16.850Z"
+    }
+  ]
+}

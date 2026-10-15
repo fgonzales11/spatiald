@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559552",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559552",
+  "listingPageNumber": 5,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "13.7 kW",
+    "Oct 24, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:37:04.968Z",
+  "siteName": "2806 W San Isidro St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "13.7 kW",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9258, -82.4895",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9258485&mlon=-82.4894637#map=17/27.9258485/-82.4894637",
+  "recordId": "permit_tampa_BTR-23-0559552",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 13.7,
+  "latitude": 27.9258485,
+  "longitude": -82.4894637,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

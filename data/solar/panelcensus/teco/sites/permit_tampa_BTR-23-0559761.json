@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559761",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559761",
+  "listingPageNumber": 4,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "11 kW",
+    "Nov 18, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:34:37.627Z",
+  "siteName": "2305 E 9th Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "11 kW",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9616, -82.4334",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9616227&mlon=-82.4333937#map=17/27.9616227/-82.4333937",
+  "recordId": "permit_tampa_BTR-23-0559761",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 11,
+  "latitude": 27.9616227,
+  "longitude": -82.4333937,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

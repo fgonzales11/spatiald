@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556815",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556815",
+  "listingPageNumber": 9,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Aug 26, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:53:32.306Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8810, -82.4982",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8810102&mlon=-82.4982#map=17/27.8810102/-82.4982",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556815",
+  "siteName": "3302 W Iowa Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.8810102,
+  "longitude": -82.4982,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

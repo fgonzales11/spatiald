@@ -1,0 +1,210 @@
+{
+  "state": {
+    "code": "MA",
+    "name": "Massachusetts",
+    "slug": "massachusetts"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/massachusetts",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:37.525Z",
+  "renderedHtmlSha256": "5a466374585c3062373792005d59061f2583784363368c144df7f020caa98786",
+  "heading": "Solar installations in Massachusetts",
+  "documentTitle": "Solar in Massachusetts — 159,700 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "159,700",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Massachusetts",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Suffolk County",
+        "10,812",
+        "3.1%",
+        "218.3 MW",
+        "$3.01/W"
+      ],
+      "countyName": "Suffolk County",
+      "countyUrl": "https://panelcensus.com/solar/massachusetts/suffolk-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Middlesex County",
+        "5,164",
+        "0.78%",
+        "492.9 MW",
+        "$3.34/W"
+      ],
+      "countyName": "Middlesex County",
+      "countyUrl": "https://panelcensus.com/solar/massachusetts/middlesex-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Worcester County",
+        "552",
+        "0.16%",
+        "1.3 GW",
+        "$3.18/W"
+      ],
+      "countyName": "Worcester County",
+      "countyUrl": "https://panelcensus.com/solar/massachusetts/worcester-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Plymouth County",
+        "244",
+        "0.11%",
+        "536.3 MW",
+        "$3.06/W"
+      ],
+      "countyName": "Plymouth County",
+      "countyUrl": "https://panelcensus.com/solar/massachusetts/plymouth-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bristol County",
+        "195",
+        "0.08%",
+        "391.7 MW",
+        "$3.26/W"
+      ],
+      "countyName": "Bristol County",
+      "countyUrl": "https://panelcensus.com/solar/massachusetts/bristol-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Essex County",
+        "167",
+        "0.05%",
+        "121.4 MW",
+        "$3.46/W"
+      ],
+      "countyName": "Essex County",
+      "countyUrl": "https://panelcensus.com/solar/massachusetts/essex-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hampden County",
+        "147",
+        "0.07%",
+        "406.5 MW",
+        "—"
+      ],
+      "countyName": "Hampden County",
+      "countyUrl": "https://panelcensus.com/solar/massachusetts/hampden-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Norfolk County",
+        "139",
+        "0.05%",
+        "172.6 MW",
+        "$3.12/W"
+      ],
+      "countyName": "Norfolk County",
+      "countyUrl": "https://panelcensus.com/solar/massachusetts/norfolk-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Berkshire County",
+        "104",
+        "0.15%",
+        "247.6 MW",
+        "—"
+      ],
+      "countyName": "Berkshire County",
+      "countyUrl": "https://panelcensus.com/solar/massachusetts/berkshire-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hampshire County",
+        "82",
+        "0.12%",
+        "221.7 MW",
+        "—"
+      ],
+      "countyName": "Hampshire County",
+      "countyUrl": "https://panelcensus.com/solar/massachusetts/hampshire-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Barnstable County",
+        "60",
+        "0.04%",
+        "98.0 MW",
+        "—"
+      ],
+      "countyName": "Barnstable County",
+      "countyUrl": "https://panelcensus.com/solar/massachusetts/barnstable-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Franklin County",
+        "59",
+        "0.17%",
+        "152.9 MW",
+        "—"
+      ],
+      "countyName": "Franklin County",
+      "countyUrl": "https://panelcensus.com/solar/massachusetts/franklin-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Dukes County",
+        "16",
+        "0.09%",
+        "10.0 MW",
+        "—"
+      ],
+      "countyName": "Dukes County",
+      "countyUrl": "https://panelcensus.com/solar/massachusetts/dukes-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Nantucket Countylimited",
+        "3",
+        "0.02%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Nantucket County",
+      "countyUrl": "https://panelcensus.com/solar/massachusetts/nantucket-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

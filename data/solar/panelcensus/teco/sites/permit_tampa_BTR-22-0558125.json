@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0558125",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0558125",
+  "listingPageNumber": 6,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "11.6 kW",
+    "Oct 10, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:51:56.855Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0443, -82.4370",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0443311&mlon=-82.437033#map=17/28.0443311/-82.437033",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0558125",
+  "siteName": "1908 Brust Ave (ACA)",
+  "sizeDisplay": "11.6 kW",
+  "latitude": 28.0443311,
+  "longitude": -82.437033,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 11.6,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

@@ -1,0 +1,145 @@
+{
+  "state": {
+    "code": "NV",
+    "name": "Nevada",
+    "slug": "nevada"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/nevada",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:40.313Z",
+  "renderedHtmlSha256": "38ea65e4474cc4fd8fb144347c46aafee45ac7b77e15bdb5c128671b7c8b1a13",
+  "heading": "Solar installations in Nevada",
+  "documentTitle": "Solar in Nevada — 31,576 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "31,576",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Nevada",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Clark County",
+        "31,538",
+        "3.4%",
+        "950.2 MW",
+        "—"
+      ],
+      "countyName": "Clark County",
+      "countyUrl": "https://panelcensus.com/solar/nevada/clark-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Washoe County",
+        "11",
+        "0.01%",
+        "95.2 MW",
+        "—"
+      ],
+      "countyName": "Washoe County",
+      "countyUrl": "https://panelcensus.com/solar/nevada/washoe-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Churchill Countylimited",
+        "8",
+        "0.07%",
+        "93.6 MW",
+        "—"
+      ],
+      "countyName": "Churchill County",
+      "countyUrl": "https://panelcensus.com/solar/nevada/churchill-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Storey Countylimited",
+        "3",
+        "0.14%",
+        "20.3 MW",
+        "—"
+      ],
+      "countyName": "Storey County",
+      "countyUrl": "https://panelcensus.com/solar/nevada/storey-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lander Countylimited",
+        "2",
+        "0.07%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Lander County",
+      "countyUrl": "https://panelcensus.com/solar/nevada/lander-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Nye Countylimited",
+        "2",
+        "0.01%",
+        "17.5 MW",
+        "—"
+      ],
+      "countyName": "Nye County",
+      "countyUrl": "https://panelcensus.com/solar/nevada/nye-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Humboldt Countylimited",
+        "1",
+        "0.01%",
+        "9 kW",
+        "—"
+      ],
+      "countyName": "Humboldt County",
+      "countyUrl": "https://panelcensus.com/solar/nevada/humboldt-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lyon Countylimited",
+        "1",
+        "0.00%",
+        "20.3 MW",
+        "—"
+      ],
+      "countyName": "Lyon County",
+      "countyUrl": "https://panelcensus.com/solar/nevada/lyon-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Mineral Countylimited",
+        "1",
+        "0.04%",
+        "54.5 MW",
+        "—"
+      ],
+      "countyName": "Mineral County",
+      "countyUrl": "https://panelcensus.com/solar/nevada/mineral-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

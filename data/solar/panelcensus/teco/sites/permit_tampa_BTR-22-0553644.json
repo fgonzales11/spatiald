@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0553644",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0553644",
+  "listingPageNumber": 13,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "11.5 kW",
+    "Jul 5, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:12.503Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0000, -82.4674",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9999922&mlon=-82.4673744#map=17/27.9999922/-82.4673744",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0553644",
+  "siteName": "5911 N Otis Ave (ACA)",
+  "sizeDisplay": "11.5 kW",
+  "latitude": 27.9999922,
+  "longitude": -82.4673744,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 11.5,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

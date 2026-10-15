@@ -1,0 +1,80 @@
+{
+  "state": {
+    "code": "HI",
+    "name": "Hawaii",
+    "slug": "hawaii"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/hawaii",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:34.117Z",
+  "renderedHtmlSha256": "197f2bc6653956014d403b822dc985cef41ea14a2d904899a1338122105fb5fb",
+  "heading": "Solar installations in Hawaii",
+  "documentTitle": "Solar in Hawaii — 3,154 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "3,154",
+  "stateCapacityDisplay": null,
+  "underReported": true,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Hawaii",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Honolulu County",
+        "3,072",
+        "0.82%",
+        "981.9 MW",
+        "—"
+      ],
+      "countyName": "Honolulu County",
+      "countyUrl": "https://panelcensus.com/solar/hawaii/honolulu-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kauai County",
+        "54",
+        "0.18%",
+        "101.5 MW",
+        "—"
+      ],
+      "countyName": "Kauai County",
+      "countyUrl": "https://panelcensus.com/solar/hawaii/kauai-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Maui Countylimited",
+        "8",
+        "0.01%",
+        "76.3 MW",
+        "—"
+      ],
+      "countyName": "Maui County",
+      "countyUrl": "https://panelcensus.com/solar/hawaii/maui-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hawaii Countylimited",
+        "2",
+        "0.00%",
+        "31.1 MW",
+        "—"
+      ],
+      "countyName": "Hawaii County",
+      "countyUrl": "https://panelcensus.com/solar/hawaii/hawaii-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0546628",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0546628",
+  "listingPageNumber": 20,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Feb 24, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:34.954Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0400, -82.4083",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0399835&mlon=-82.4082697#map=17/28.0399835/-82.4082697",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0546628",
+  "siteName": "10005 N Connechusett Rd (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0399835,
+  "longitude": -82.4082697,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

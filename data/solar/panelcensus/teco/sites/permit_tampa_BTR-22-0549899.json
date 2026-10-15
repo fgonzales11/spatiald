@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0549899",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0549899",
+  "listingPageNumber": 16,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Apr 27, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:59:59.733Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1530, -82.3017",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1530417&mlon=-82.3016687#map=17/28.1530417/-82.3016687",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0549899",
+  "siteName": "10550 Coral Key Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1530417,
+  "longitude": -82.3016687,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

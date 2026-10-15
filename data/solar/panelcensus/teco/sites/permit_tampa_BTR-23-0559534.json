@@ -1,0 +1,40 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559534",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559534",
+  "listingPageNumber": 5,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Oct 24, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:37:02.903Z",
+  "siteName": "3012 E Caracas St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9915, -82.4263",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9915297&mlon=-82.4262742#map=17/27.9915297/-82.4262742",
+  "recordId": "permit_tampa_BTR-23-0559534",
+  "parties": [
+    {
+      "role": "Owner",
+      "name": "Gonzalez Produce International"
+    },
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.9915297,
+  "longitude": -82.4262742,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0544532",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0544532",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jan 13, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:53.623Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9859, -82.4386",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9858941&mlon=-82.4386055#map=17/27.9858941/-82.4386055",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0544532",
+  "siteName": "1908 E Emma St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9858941,
+  "longitude": -82.4386055,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

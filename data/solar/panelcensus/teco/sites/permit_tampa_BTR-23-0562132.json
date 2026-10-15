@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0562132",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0562132",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:25.514Z",
+  "siteName": "17738 Long Ridge Rd (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.1290, -82.3337",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1289813&mlon=-82.3337401#map=17/28.1289813/-82.3337401",
+  "recordId": "permit_tampa_BTR-23-0562132",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.1289813,
+  "longitude": -82.3337401,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

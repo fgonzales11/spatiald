@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559743",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559743",
+  "listingPageNumber": 5,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "9.6 kW",
+    "Oct 27, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:36:46.422Z",
+  "siteName": "11051 Sundrift Dr (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "9.6 kW",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.1612, -82.2882",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1612369&mlon=-82.28823#map=17/28.1612369/-82.28823",
+  "recordId": "permit_tampa_BTR-23-0559743",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 9.6,
+  "latitude": 28.1612369,
+  "longitude": -82.28823,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0547736",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0547736",
+  "listingPageNumber": 18,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 17, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:01:26.641Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0080, -82.4502",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.008022&mlon=-82.4502066#map=17/28.008022/-82.4502066",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0547736",
+  "siteName": "908 E Knollwood St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.008022,
+  "longitude": -82.4502066,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

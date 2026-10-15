@@ -1,0 +1,42 @@
+{
+  "siteId": "uspvdb_402522",
+  "sourceUrl": "https://panelcensus.com/sites/uspvdb_402522",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Bartow, FL\nPolk County",
+    "Utility-scale",
+    "64,800 kW",
+    "Jan 1, 2019",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:32.668Z",
+  "capacityBasis": "55,000 kW AC",
+  "locationDescription": "Bartow · Polk County · Florida · Utility-scale",
+  "locationDisplay": "Location: 27.9152, -81.8087",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.915186&mlon=-81.808662#map=17/27.915186/-81.808662",
+  "parties": [
+    {
+      "name": "Tampa Electric Co [100%]",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Plant operator"
+    }
+  ],
+  "recordId": "uspvdb_402522",
+  "siteName": "Peace Creek Solar",
+  "sizeDisplay": "64,800 kW",
+  "latitude": 27.915186,
+  "longitude": -81.808662,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 64800,
+  "tecoRoles": [
+    "Plant operator"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

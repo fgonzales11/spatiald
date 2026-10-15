@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0557279",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557279",
+  "listingPageNumber": 8,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "11.5 kW",
+    "Sep 6, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:53:18.099Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0289, -82.4355",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0289375&mlon=-82.4354702#map=17/28.0289375/-82.4354702",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0557279",
+  "siteName": "2020 E Yukon St (ACA)",
+  "sizeDisplay": "11.5 kW",
+  "latitude": 28.0289375,
+  "longitude": -82.4354702,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 11.5,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0562283",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0562283",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 27, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:22.142Z",
+  "siteName": "4715 W Wisconsin Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.8818, -82.5247",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8817905&mlon=-82.5246661#map=17/27.8817905/-82.5246661",
+  "recordId": "permit_tampa_BTR-23-0562283",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.8817905,
+  "longitude": -82.5246661,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

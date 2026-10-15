@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0544143",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0544143",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jan 5, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:24.571Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1630, -82.2786",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1629808&mlon=-82.278562#map=17/28.1629808/-82.278562",
+  "parties": [
+    {
+      "name": "Easton Park Cdd",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0544143",
+  "siteName": "10619 Pictorial Park Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1629808,
+  "longitude": -82.278562,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

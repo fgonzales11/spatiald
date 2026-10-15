@@ -1,0 +1,301 @@
+{
+  "state": {
+    "code": "TN",
+    "name": "Tennessee",
+    "slug": "tennessee"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/tennessee",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:44.750Z",
+  "renderedHtmlSha256": "7ae47ae31ecfe13ab30117aa5758e9b43c5173cedf9e9bd194d235332f47636b",
+  "heading": "Solar installations in Tennessee",
+  "documentTitle": "Solar in Tennessee — 499 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "499",
+  "stateCapacityDisplay": null,
+  "underReported": true,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Tennessee",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Shelby County",
+        "217",
+        "0.05%",
+        "132.5 MW",
+        "—"
+      ],
+      "countyName": "Shelby County",
+      "countyUrl": "https://panelcensus.com/solar/tennessee/shelby-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Davidson County",
+        "186",
+        "0.05%",
+        "9.9 MW",
+        "—"
+      ],
+      "countyName": "Davidson County",
+      "countyUrl": "https://panelcensus.com/solar/tennessee/davidson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "McNairy Countylimited",
+        "4",
+        "0.03%",
+        "69.9 MW",
+        "—"
+      ],
+      "countyName": "McNairy County",
+      "countyUrl": "https://panelcensus.com/solar/tennessee/mcnairy-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Williamson Countylimited",
+        "4",
+        "0.00%",
+        "109 kW",
+        "—"
+      ],
+      "countyName": "Williamson County",
+      "countyUrl": "https://panelcensus.com/solar/tennessee/williamson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hamilton Countylimited",
+        "3",
+        "0.00%",
+        "13.8 MW",
+        "—"
+      ],
+      "countyName": "Hamilton County",
+      "countyUrl": "https://panelcensus.com/solar/tennessee/hamilton-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Madison Countylimited",
+        "3",
+        "0.01%",
+        "92.0 MW",
+        "—"
+      ],
+      "countyName": "Madison County",
+      "countyUrl": "https://panelcensus.com/solar/tennessee/madison-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Tipton Countylimited",
+        "3",
+        "0.01%",
+        "44 kW",
+        "—"
+      ],
+      "countyName": "Tipton County",
+      "countyUrl": "https://panelcensus.com/solar/tennessee/tipton-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Fayette Countylimited",
+        "2",
+        "0.01%",
+        "20.0 MW",
+        "—"
+      ],
+      "countyName": "Fayette County",
+      "countyUrl": "https://panelcensus.com/solar/tennessee/fayette-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Greene Countylimited",
+        "2",
+        "0.01%",
+        "13.4 MW",
+        "—"
+      ],
+      "countyName": "Greene County",
+      "countyUrl": "https://panelcensus.com/solar/tennessee/greene-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hardeman Countylimited",
+        "2",
+        "0.02%",
+        "24.6 MW",
+        "—"
+      ],
+      "countyName": "Hardeman County",
+      "countyUrl": "https://panelcensus.com/solar/tennessee/hardeman-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Haywood Countylimited",
+        "2",
+        "0.02%",
+        "8.9 MW",
+        "—"
+      ],
+      "countyName": "Haywood County",
+      "countyUrl": "https://panelcensus.com/solar/tennessee/haywood-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Montgomery Countylimited",
+        "2",
+        "0.00%",
+        "9.5 MW",
+        "—"
+      ],
+      "countyName": "Montgomery County",
+      "countyUrl": "https://panelcensus.com/solar/tennessee/montgomery-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Washington Countylimited",
+        "2",
+        "0.00%",
+        "20.0 MW",
+        "—"
+      ],
+      "countyName": "Washington County",
+      "countyUrl": "https://panelcensus.com/solar/tennessee/washington-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bedford Countylimited",
+        "1",
+        "0.01%",
+        "46.9 MW",
+        "—"
+      ],
+      "countyName": "Bedford County",
+      "countyUrl": "https://panelcensus.com/solar/tennessee/bedford-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Henry Countylimited",
+        "1",
+        "0.01%",
+        "9.5 MW",
+        "—"
+      ],
+      "countyName": "Henry County",
+      "countyUrl": "https://panelcensus.com/solar/tennessee/henry-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jefferson Countylimited",
+        "1",
+        "0.00%",
+        "2.8 MW",
+        "—"
+      ],
+      "countyName": "Jefferson County",
+      "countyUrl": "https://panelcensus.com/solar/tennessee/jefferson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lincoln Countylimited",
+        "1",
+        "0.01%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Lincoln County",
+      "countyUrl": "https://panelcensus.com/solar/tennessee/lincoln-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "McMinn Countylimited",
+        "1",
+        "0.00%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "McMinn County",
+      "countyUrl": "https://panelcensus.com/solar/tennessee/mcminn-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Maury Countylimited",
+        "1",
+        "0.00%",
+        "14 kW",
+        "—"
+      ],
+      "countyName": "Maury County",
+      "countyUrl": "https://panelcensus.com/solar/tennessee/maury-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Obion Countylimited",
+        "1",
+        "0.01%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Obion County",
+      "countyUrl": "https://panelcensus.com/solar/tennessee/obion-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sequatchie Countylimited",
+        "1",
+        "0.01%",
+        "1.8 MW",
+        "—"
+      ],
+      "countyName": "Sequatchie County",
+      "countyUrl": "https://panelcensus.com/solar/tennessee/sequatchie-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

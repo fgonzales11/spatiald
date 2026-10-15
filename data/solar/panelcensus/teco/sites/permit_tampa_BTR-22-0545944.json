@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0545944",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0545944",
+  "listingPageNumber": 20,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Feb 11, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:16.926Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0451, -82.4003",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0450587&mlon=-82.4002963#map=17/28.0450587/-82.4002963",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0545944",
+  "siteName": "10607 N Sassafras St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0450587,
+  "longitude": -82.4002963,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0550544",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0550544",
+  "listingPageNumber": 16,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "May 10, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:59:46.616Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0216, -82.4137",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0215709&mlon=-82.4137428#map=17/28.0215709/-82.4137428",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0550544",
+  "siteName": "4025 E River Hills Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0215709,
+  "longitude": -82.4137428,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

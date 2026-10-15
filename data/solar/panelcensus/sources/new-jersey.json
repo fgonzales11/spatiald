@@ -1,0 +1,301 @@
+{
+  "state": {
+    "code": "NJ",
+    "name": "New Jersey",
+    "slug": "new-jersey"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/new-jersey",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:40.839Z",
+  "renderedHtmlSha256": "df27379bcd488d2cf17dbceb355d5d8be26043592c2acfbe16d5fb2389b36912",
+  "heading": "Solar installations in New Jersey",
+  "documentTitle": "Solar in New Jersey — 232,288 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "232,288",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in New Jersey",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Ocean County",
+        "27,113",
+        "9.2%",
+        "588.5 MW",
+        "—"
+      ],
+      "countyName": "Ocean County",
+      "countyUrl": "https://panelcensus.com/solar/new-jersey/ocean-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Middlesex County",
+        "22,351",
+        "7.1%",
+        "983.3 MW",
+        "—"
+      ],
+      "countyName": "Middlesex County",
+      "countyUrl": "https://panelcensus.com/solar/new-jersey/middlesex-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Burlington County",
+        "20,198",
+        "10.9%",
+        "780.9 MW",
+        "—"
+      ],
+      "countyName": "Burlington County",
+      "countyUrl": "https://panelcensus.com/solar/new-jersey/burlington-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Camden County",
+        "19,850",
+        "9.3%",
+        "481.5 MW",
+        "—"
+      ],
+      "countyName": "Camden County",
+      "countyUrl": "https://panelcensus.com/solar/new-jersey/camden-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Monmouth County",
+        "15,973",
+        "5.9%",
+        "515.6 MW",
+        "—"
+      ],
+      "countyName": "Monmouth County",
+      "countyUrl": "https://panelcensus.com/solar/new-jersey/monmouth-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Atlantic County",
+        "15,908",
+        "12.0%",
+        "280.3 MW",
+        "—"
+      ],
+      "countyName": "Atlantic County",
+      "countyUrl": "https://panelcensus.com/solar/new-jersey/atlantic-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Gloucester County",
+        "14,650",
+        "12.5%",
+        "360.1 MW",
+        "—"
+      ],
+      "countyName": "Gloucester County",
+      "countyUrl": "https://panelcensus.com/solar/new-jersey/gloucester-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bergen County",
+        "13,068",
+        "3.5%",
+        "322.2 MW",
+        "—"
+      ],
+      "countyName": "Bergen County",
+      "countyUrl": "https://panelcensus.com/solar/new-jersey/bergen-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Union County",
+        "11,843",
+        "5.6%",
+        "293.6 MW",
+        "—"
+      ],
+      "countyName": "Union County",
+      "countyUrl": "https://panelcensus.com/solar/new-jersey/union-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Essex County",
+        "9,743",
+        "2.9%",
+        "239.1 MW",
+        "—"
+      ],
+      "countyName": "Essex County",
+      "countyUrl": "https://panelcensus.com/solar/new-jersey/essex-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Mercer County",
+        "9,401",
+        "6.2%",
+        "351.9 MW",
+        "—"
+      ],
+      "countyName": "Mercer County",
+      "countyUrl": "https://panelcensus.com/solar/new-jersey/mercer-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Somerset County",
+        "8,209",
+        "6.2%",
+        "340.5 MW",
+        "—"
+      ],
+      "countyName": "Somerset County",
+      "countyUrl": "https://panelcensus.com/solar/new-jersey/somerset-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Passaic County",
+        "7,034",
+        "3.8%",
+        "147.2 MW",
+        "—"
+      ],
+      "countyName": "Passaic County",
+      "countyUrl": "https://panelcensus.com/solar/new-jersey/passaic-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cumberland County",
+        "6,833",
+        "11.9%",
+        "226.2 MW",
+        "—"
+      ],
+      "countyName": "Cumberland County",
+      "countyUrl": "https://panelcensus.com/solar/new-jersey/cumberland-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cape May County",
+        "6,670",
+        "6.7%",
+        "88.5 MW",
+        "—"
+      ],
+      "countyName": "Cape May County",
+      "countyUrl": "https://panelcensus.com/solar/new-jersey/cape-may-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Morris County",
+        "6,340",
+        "3.2%",
+        "298.9 MW",
+        "—"
+      ],
+      "countyName": "Morris County",
+      "countyUrl": "https://panelcensus.com/solar/new-jersey/morris-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Salem County",
+        "4,680",
+        "16.9%",
+        "101.7 MW",
+        "—"
+      ],
+      "countyName": "Salem County",
+      "countyUrl": "https://panelcensus.com/solar/new-jersey/salem-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hudson County",
+        "3,665",
+        "1.2%",
+        "216.0 MW",
+        "—"
+      ],
+      "countyName": "Hudson County",
+      "countyUrl": "https://panelcensus.com/solar/new-jersey/hudson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hunterdon County",
+        "3,050",
+        "5.9%",
+        "197.7 MW",
+        "—"
+      ],
+      "countyName": "Hunterdon County",
+      "countyUrl": "https://panelcensus.com/solar/new-jersey/hunterdon-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sussex County",
+        "2,648",
+        "4.2%",
+        "125.7 MW",
+        "—"
+      ],
+      "countyName": "Sussex County",
+      "countyUrl": "https://panelcensus.com/solar/new-jersey/sussex-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Warren County",
+        "2,355",
+        "5.0%",
+        "171.1 MW",
+        "—"
+      ],
+      "countyName": "Warren County",
+      "countyUrl": "https://panelcensus.com/solar/new-jersey/warren-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    }
+  ]
+}

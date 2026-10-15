@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0549092",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0549092",
+  "listingPageNumber": 17,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Apr 11, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:00:49.082Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1453, -82.3691",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1452874&mlon=-82.3691461#map=17/28.1452874/-82.3691461",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0549092",
+  "siteName": "8503 Pecan Brook Ct (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1452874,
+  "longitude": -82.3691461,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

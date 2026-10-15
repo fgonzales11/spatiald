@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0545821",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0545821",
+  "listingPageNumber": 20,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Feb 9, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:20.199Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9320, -82.5110",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9320414&mlon=-82.5110044#map=17/27.9320414/-82.5110044",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0545821",
+  "siteName": "4014 W Watrous Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9320414,
+  "longitude": -82.5110044,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0554927",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0554927",
+  "listingPageNumber": 12,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jul 26, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:55:39.214Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9897, -82.4164",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9897485&mlon=-82.4164176#map=17/27.9897485/-82.4164176",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0554927",
+  "siteName": "3808 Osborne Oaks Way (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9897485,
+  "longitude": -82.4164176,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

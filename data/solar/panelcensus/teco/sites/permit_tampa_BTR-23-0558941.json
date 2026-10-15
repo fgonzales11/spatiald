@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0558941",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0558941",
+  "listingPageNumber": 6,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Oct 12, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:51:49.887Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9840, -82.4881",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9840265&mlon=-82.488056#map=17/27.9840265/-82.488056",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0558941",
+  "siteName": "2733 Bel Aire Cir (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9840265,
+  "longitude": -82.488056,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

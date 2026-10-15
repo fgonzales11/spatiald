@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0544167",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0544167",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jan 5, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:24.059Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9478, -82.5109",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9477869&mlon=-82.5108504#map=17/27.9477869/-82.5108504",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0544167",
+  "siteName": "4011 W Fig St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9477869,
+  "longitude": -82.5108504,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

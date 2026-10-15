@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0546681",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0546681",
+  "listingPageNumber": 20,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Feb 25, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:32.514Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0026, -82.4805",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.002645&mlon=-82.480525#map=17/28.002645/-82.480525",
+  "parties": [
+    {
+      "name": "School Board OF Hillsborough C",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0546681",
+  "siteName": "2104 W Paris St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.002645,
+  "longitude": -82.480525,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

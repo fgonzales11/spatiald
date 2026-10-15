@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559345",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559345",
+  "listingPageNumber": 5,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Oct 19, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:51:01.072Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9927, -82.4911",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9927153&mlon=-82.491072#map=17/27.9927153/-82.491072",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0559345",
+  "siteName": "3014 W Wilder Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9927153,
+  "longitude": -82.491072,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559609",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559609",
+  "listingPageNumber": 5,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Oct 25, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:36:58.818Z",
+  "siteName": "3002 E 25th Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9734, -82.4263",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9734037&mlon=-82.4262688#map=17/27.9734037/-82.4262688",
+  "recordId": "permit_tampa_BTR-23-0559609",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.9734037,
+  "longitude": -82.4262688,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

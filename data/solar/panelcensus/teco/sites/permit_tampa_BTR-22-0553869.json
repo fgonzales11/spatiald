@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0553869",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0553869",
+  "listingPageNumber": 12,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "18.9 kW",
+    "Jul 8, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:02.555Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0423, -82.4282",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0423077&mlon=-82.428168#map=17/28.0423077/-82.428168",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0553869",
+  "siteName": "10214 N 28th St (ACA)",
+  "sizeDisplay": "18.9 kW",
+  "latitude": 28.0423077,
+  "longitude": -82.428168,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 18.9,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

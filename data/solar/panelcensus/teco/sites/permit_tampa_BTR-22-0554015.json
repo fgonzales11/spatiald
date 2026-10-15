@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0554015",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0554015",
+  "listingPageNumber": 12,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jul 11, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:01.552Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1109, -82.3738",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1109318&mlon=-82.3738035#map=17/28.1109318/-82.3738035",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0554015",
+  "siteName": "16339 Hyde Manor Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1109318,
+  "longitude": -82.3738035,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

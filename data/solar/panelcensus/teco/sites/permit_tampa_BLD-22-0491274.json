@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BLD-22-0491274",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BLD-22-0491274",
+  "listingPageNumber": 19,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 7, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:15.600Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1405, -82.3342",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1405427&mlon=-82.3341766#map=17/28.1405427/-82.3341766",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BLD-22-0491274",
+  "siteName": "Solar Roof",
+  "sizeDisplay": "—",
+  "latitude": 28.1405427,
+  "longitude": -82.3341766,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

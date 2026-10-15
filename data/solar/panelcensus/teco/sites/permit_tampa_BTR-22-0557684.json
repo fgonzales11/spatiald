@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0557684",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557684",
+  "listingPageNumber": 8,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Sep 14, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:53:06.462Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1685, -82.2946",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1684703&mlon=-82.294643#map=17/28.1684703/-82.294643",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0557684",
+  "siteName": "19350 Eagle Creek Ln (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1684703,
+  "longitude": -82.294643,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

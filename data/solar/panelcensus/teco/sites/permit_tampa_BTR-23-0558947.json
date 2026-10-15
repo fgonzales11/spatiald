@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0558947",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0558947",
+  "listingPageNumber": 6,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "5.2 kW",
+    "Oct 12, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:51:51.443Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0092, -82.4393",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0092015&mlon=-82.4393033#map=17/28.0092015/-82.4393033",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0558947",
+  "siteName": "6814 Lyman Ave (ACA)",
+  "sizeDisplay": "5.2 kW",
+  "latitude": 28.0092015,
+  "longitude": -82.4393033,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 5.2,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

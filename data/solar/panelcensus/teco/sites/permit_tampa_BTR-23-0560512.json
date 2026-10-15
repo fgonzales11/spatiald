@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560512",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560512",
+  "listingPageNumber": 4,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "520 kW",
+    "Nov 14, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:35:33.737Z",
+  "siteName": "5123 N Rome Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "520 kW",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9923, -82.4762",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9922544&mlon=-82.4762221#map=17/27.9922544/-82.4762221",
+  "recordId": "permit_tampa_BTR-23-0560512",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 520,
+  "latitude": 27.9922544,
+  "longitude": -82.4762221,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

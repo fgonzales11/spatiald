@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556274",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556274",
+  "listingPageNumber": 10,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Aug 17, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:19.596Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0255, -82.4505",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0254923&mlon=-82.4504681#map=17/28.0254923/-82.4504681",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556274",
+  "siteName": "8418 N 9th St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0254923,
+  "longitude": -82.4504681,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0545854",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0545854",
+  "listingPageNumber": 20,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "7.6 kW",
+    "Feb 9, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:19.589Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0463, -82.3999",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0462771&mlon=-82.3998934#map=17/28.0462771/-82.3998934",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0545854",
+  "siteName": "5105 E Parade St (ACA)",
+  "sizeDisplay": "7.6 kW",
+  "latitude": 28.0462771,
+  "longitude": -82.3998934,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 7.6,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

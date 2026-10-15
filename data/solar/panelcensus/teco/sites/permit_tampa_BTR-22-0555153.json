@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555153",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555153",
+  "listingPageNumber": 11,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jul 29, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:55:28.805Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0910, -82.3859",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.091048&mlon=-82.3858763#map=17/28.091048/-82.3858763",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555153",
+  "siteName": "15501 Thornhurst Ct (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.091048,
+  "longitude": -82.3858763,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

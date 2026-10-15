@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0545348",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0545348",
+  "listingPageNumber": 21,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "8.3 kW",
+    "Jan 31, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:33.239Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0017, -82.4487",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0017035&mlon=-82.44872#map=17/28.0017035/-82.44872",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0545348",
+  "siteName": "6008 N Orange Blossom Ave (ACA)",
+  "sizeDisplay": "8.3 kW",
+  "latitude": 28.0017035,
+  "longitude": -82.44872,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 8.3,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556202",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556202",
+  "listingPageNumber": 10,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "8.9 kW",
+    "Aug 16, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:20.055Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0473, -82.4465",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0472831&mlon=-82.4465095#map=17/28.0472831/-82.4465095",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556202",
+  "siteName": "1212 E 109th Ave (ACA)",
+  "sizeDisplay": "8.9 kW",
+  "latitude": 28.0472831,
+  "longitude": -82.4465095,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 8.9,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

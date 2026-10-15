@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0549143",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0549143",
+  "listingPageNumber": 17,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "16.7 kW",
+    "Apr 12, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:00:48.289Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9048, -82.5238",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9047904&mlon=-82.5237655#map=17/27.9047904/-82.5237655",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0549143",
+  "siteName": "4705 W Tambay Ave (ACA)",
+  "sizeDisplay": "16.7 kW",
+  "latitude": 27.9047904,
+  "longitude": -82.5237655,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 16.7,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

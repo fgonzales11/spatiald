@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0557391",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557391",
+  "listingPageNumber": 8,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Sep 8, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:53:11.812Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8851, -82.4914",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8851031&mlon=-82.491402#map=17/27.8851031/-82.491402",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0557391",
+  "siteName": "2909 W Wallace Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.8851031,
+  "longitude": -82.491402,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,46 @@
+{
+  "siteId": "uspvdb_405655",
+  "sourceUrl": "https://panelcensus.com/sites/uspvdb_405655",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Mulberry, FL\nPolk County",
+    "Utility-scale",
+    "87,700 kW",
+    "Jan 1, 2021",
+    "Wild Turkey Solar, LLC",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:29.517Z",
+  "capacityBasis": "74,500 kW AC",
+  "locationDescription": "Mulberry · Polk County · Florida · Utility-scale",
+  "locationDisplay": "Location: 27.9144, -82.0530",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.914442&mlon=-82.052979#map=17/27.914442/-82.052979",
+  "parties": [
+    {
+      "name": "NextEra Energy Inc [100%]",
+      "role": "Owner"
+    },
+    {
+      "name": "Wild Turkey Solar, LLC",
+      "role": "Developer"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Plant operator"
+    }
+  ],
+  "recordId": "uspvdb_405655",
+  "siteName": "Magnolia Solar",
+  "sizeDisplay": "87,700 kW",
+  "latitude": 27.914442,
+  "longitude": -82.052979,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 87700,
+  "tecoRoles": [
+    "Plant operator"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

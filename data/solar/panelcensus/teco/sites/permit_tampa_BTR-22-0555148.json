@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555148",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555148",
+  "listingPageNumber": 11,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "5.4 kW",
+    "Jul 29, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:55:24.580Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9108, -82.5217",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9108464&mlon=-82.5216593#map=17/27.9108464/-82.5216593",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555148",
+  "siteName": "4611 W Kensington Ave (ACA)",
+  "sizeDisplay": "5.4 kW",
+  "latitude": 27.9108464,
+  "longitude": -82.5216593,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 5.4,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

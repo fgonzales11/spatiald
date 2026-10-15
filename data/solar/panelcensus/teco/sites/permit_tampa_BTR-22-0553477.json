@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0553477",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0553477",
+  "listingPageNumber": 13,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 30, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:15.274Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1406, -82.3685",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1405869&mlon=-82.3684617#map=17/28.1405869/-82.3684617",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0553477",
+  "siteName": "18315 Bankston Pl (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1405869,
+  "longitude": -82.3684617,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0548205",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0548205",
+  "listingPageNumber": 18,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Commercial",
+    "—",
+    "Mar 25, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:01:16.519Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Commercial",
+  "locationDisplay": "Location: 27.9434, -82.4831",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9433967&mlon=-82.4830583#map=17/27.9433967/-82.4830583",
+  "parties": [
+    {
+      "name": "115 Black Orchid LLC",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0548205",
+  "siteName": "2301 W Cleveland St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9433967,
+  "longitude": -82.4830583,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

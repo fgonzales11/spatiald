@@ -1,0 +1,236 @@
+{
+  "state": {
+    "code": "ME",
+    "name": "Maine",
+    "slug": "maine"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/maine",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:36.989Z",
+  "renderedHtmlSha256": "17de1f714bb229eab40543eac474b85809e7992aa539bd58bce5c310578f73b7",
+  "heading": "Solar installations in Maine",
+  "documentTitle": "Solar in Maine — 22,412 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "22,412",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Maine",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Androscoggin County",
+        "473",
+        "0.94%",
+        "212.3 MW",
+        "—"
+      ],
+      "countyName": "Androscoggin County",
+      "countyUrl": "https://panelcensus.com/solar/maine/androscoggin-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cumberland County",
+        "117",
+        "0.08%",
+        "85.1 MW",
+        "—"
+      ],
+      "countyName": "Cumberland County",
+      "countyUrl": "https://panelcensus.com/solar/maine/cumberland-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kennebec County",
+        "66",
+        "0.10%",
+        "214.6 MW",
+        "—"
+      ],
+      "countyName": "Kennebec County",
+      "countyUrl": "https://panelcensus.com/solar/maine/kennebec-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "York County",
+        "66",
+        "0.06%",
+        "209.6 MW",
+        "—"
+      ],
+      "countyName": "York County",
+      "countyUrl": "https://panelcensus.com/solar/maine/york-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lincoln County",
+        "45",
+        "0.19%",
+        "43.8 MW",
+        "—"
+      ],
+      "countyName": "Lincoln County",
+      "countyUrl": "https://panelcensus.com/solar/maine/lincoln-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Somerset County",
+        "41",
+        "0.14%",
+        "169.2 MW",
+        "—"
+      ],
+      "countyName": "Somerset County",
+      "countyUrl": "https://panelcensus.com/solar/maine/somerset-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Aroostook County",
+        "38",
+        "0.10%",
+        "114.0 MW",
+        "—"
+      ],
+      "countyName": "Aroostook County",
+      "countyUrl": "https://panelcensus.com/solar/maine/aroostook-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Knox County",
+        "36",
+        "0.15%",
+        "30.6 MW",
+        "—"
+      ],
+      "countyName": "Knox County",
+      "countyUrl": "https://panelcensus.com/solar/maine/knox-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Oxford County",
+        "36",
+        "0.10%",
+        "83.6 MW",
+        "—"
+      ],
+      "countyName": "Oxford County",
+      "countyUrl": "https://panelcensus.com/solar/maine/oxford-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Waldo County",
+        "36",
+        "0.16%",
+        "66.3 MW",
+        "—"
+      ],
+      "countyName": "Waldo County",
+      "countyUrl": "https://panelcensus.com/solar/maine/waldo-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Penobscot County",
+        "24",
+        "0.03%",
+        "88.2 MW",
+        "—"
+      ],
+      "countyName": "Penobscot County",
+      "countyUrl": "https://panelcensus.com/solar/maine/penobscot-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Franklin County",
+        "23",
+        "0.11%",
+        "65.4 MW",
+        "—"
+      ],
+      "countyName": "Franklin County",
+      "countyUrl": "https://panelcensus.com/solar/maine/franklin-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sagadahoc County",
+        "19",
+        "0.10%",
+        "23.7 MW",
+        "—"
+      ],
+      "countyName": "Sagadahoc County",
+      "countyUrl": "https://panelcensus.com/solar/maine/sagadahoc-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hancock Countylimited",
+        "7",
+        "0.02%",
+        "18.9 MW",
+        "—"
+      ],
+      "countyName": "Hancock County",
+      "countyUrl": "https://panelcensus.com/solar/maine/hancock-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Piscataquis Countylimited",
+        "7",
+        "0.05%",
+        "49.1 MW",
+        "—"
+      ],
+      "countyName": "Piscataquis County",
+      "countyUrl": "https://panelcensus.com/solar/maine/piscataquis-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Washington Countylimited",
+        "3",
+        "0.01%",
+        "20.1 MW",
+        "—"
+      ],
+      "countyName": "Washington County",
+      "countyUrl": "https://panelcensus.com/solar/maine/washington-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

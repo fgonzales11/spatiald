@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560774",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560774",
+  "listingPageNumber": 4,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 18, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:34:47.769Z",
+  "siteName": "2307 W Flora St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0123, -82.4825",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.012337&mlon=-82.4824757#map=17/28.012337/-82.4824757",
+  "recordId": "permit_tampa_BTR-23-0560774",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.012337,
+  "longitude": -82.4824757,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

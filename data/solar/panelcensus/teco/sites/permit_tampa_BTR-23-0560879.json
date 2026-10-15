@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560879",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560879",
+  "listingPageNumber": 3,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "11.6 kW",
+    "Nov 22, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:34:10.820Z",
+  "siteName": "4733 W Iowa Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "11.6 kW",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.8811, -82.5252",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8810566&mlon=-82.525154#map=17/27.8810566/-82.525154",
+  "recordId": "permit_tampa_BTR-23-0560879",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 11.6,
+  "latitude": 27.8810566,
+  "longitude": -82.525154,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0547939",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0547939",
+  "listingPageNumber": 18,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:01:23.438Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1329, -82.3145",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1329187&mlon=-82.3145035#map=17/28.1329187/-82.3145035",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0547939",
+  "siteName": "10237 Estuary Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1329187,
+  "longitude": -82.3145035,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

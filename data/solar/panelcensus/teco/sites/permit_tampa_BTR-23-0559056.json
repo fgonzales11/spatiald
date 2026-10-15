@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559056",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559056",
+  "listingPageNumber": 6,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Oct 13, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:51:45.630Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0205, -82.4695",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0205383&mlon=-82.4695264#map=17/28.0205383/-82.4695264",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0559056",
+  "siteName": "1102 Arboleda Ct (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0205383,
+  "longitude": -82.4695264,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

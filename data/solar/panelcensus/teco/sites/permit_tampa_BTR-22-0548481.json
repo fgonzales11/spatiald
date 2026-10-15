@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0548481",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0548481",
+  "listingPageNumber": 18,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 31, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:01:08.400Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9197, -82.5063",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.919715&mlon=-82.5062986#map=17/27.919715/-82.5062986",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0548481",
+  "siteName": "3814 W Bay To Bay Blvd (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.919715,
+  "longitude": -82.5062986,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

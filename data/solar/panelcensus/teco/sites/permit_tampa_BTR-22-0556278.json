@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556278",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556278",
+  "listingPageNumber": 10,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Aug 17, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:19.082Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9867, -82.4175",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9866951&mlon=-82.4175082#map=17/27.9866951/-82.4175082",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556278",
+  "siteName": "Reissue: ROOF MOUNTED SOLAR PV SYSTEM",
+  "sizeDisplay": "—",
+  "latitude": 27.9866951,
+  "longitude": -82.4175082,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

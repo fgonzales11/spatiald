@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561372",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561372",
+  "listingPageNumber": 3,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 5, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:44.362Z",
+  "siteName": "10850 Breaking Rocks Dr (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.1577, -82.2848",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1577468&mlon=-82.2848323#map=17/28.1577468/-82.2848323",
+  "recordId": "permit_tampa_BTR-23-0561372",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.1577468,
+  "longitude": -82.2848323,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

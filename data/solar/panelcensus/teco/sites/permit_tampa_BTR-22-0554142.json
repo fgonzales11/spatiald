@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0554142",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0554142",
+  "listingPageNumber": 12,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jul 13, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:56:56.815Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9763, -82.4701",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9763435&mlon=-82.4700548#map=17/27.9763435/-82.4700548",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0554142",
+  "siteName": "817 W Woodlawn Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9763435,
+  "longitude": -82.4700548,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

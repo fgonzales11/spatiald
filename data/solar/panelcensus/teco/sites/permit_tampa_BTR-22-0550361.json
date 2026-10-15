@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0550361",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0550361",
+  "listingPageNumber": 16,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "May 5, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:59:51.328Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0362, -82.4697",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0362498&mlon=-82.4697018#map=17/28.0362498/-82.4697018",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0550361",
+  "siteName": "9413 N Newport Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0362498,
+  "longitude": -82.4697018,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

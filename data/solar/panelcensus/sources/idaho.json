@@ -1,0 +1,145 @@
+{
+  "state": {
+    "code": "ID",
+    "name": "Idaho",
+    "slug": "idaho"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/idaho",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:34.752Z",
+  "renderedHtmlSha256": "a7f5dd34db0f5b9e3ee68967ac24f3a9d0d7598b4ae5e520dfc69dac6da59d1d",
+  "heading": "Solar installations in Idaho",
+  "documentTitle": "Solar in Idaho — 25 installations & installers · PanelCensus",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "25",
+  "stateCapacityDisplay": null,
+  "underReported": true,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Idaho",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Owyhee Countylimited",
+        "5",
+        "0.10%",
+        "104.0 MW",
+        "—"
+      ],
+      "countyName": "Owyhee County",
+      "countyUrl": "https://panelcensus.com/solar/idaho/owyhee-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Elmore Countylimited",
+        "4",
+        "0.03%",
+        "94.5 MW",
+        "—"
+      ],
+      "countyName": "Elmore County",
+      "countyUrl": "https://panelcensus.com/solar/idaho/elmore-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Franklin Countylimited",
+        "3",
+        "0.06%",
+        "26 kW",
+        "—"
+      ],
+      "countyName": "Franklin County",
+      "countyUrl": "https://panelcensus.com/solar/idaho/franklin-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Twin Falls Countylimited",
+        "3",
+        "0.01%",
+        "2.0 MW",
+        "—"
+      ],
+      "countyName": "Twin Falls County",
+      "countyUrl": "https://panelcensus.com/solar/idaho/twin-falls-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Ada Countylimited",
+        "1",
+        "0.00%",
+        "54.6 MW",
+        "—"
+      ],
+      "countyName": "Ada County",
+      "countyUrl": "https://panelcensus.com/solar/idaho/ada-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Boundary Countylimited",
+        "1",
+        "0.02%",
+        "8 kW",
+        "—"
+      ],
+      "countyName": "Boundary County",
+      "countyUrl": "https://panelcensus.com/solar/idaho/boundary-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Canyon Countylimited",
+        "1",
+        "0.00%",
+        "34 kW",
+        "—"
+      ],
+      "countyName": "Canyon County",
+      "countyUrl": "https://panelcensus.com/solar/idaho/canyon-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clearwater Countylimited",
+        "1",
+        "0.02%",
+        "16 kW",
+        "—"
+      ],
+      "countyName": "Clearwater County",
+      "countyUrl": "https://panelcensus.com/solar/idaho/clearwater-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Custer Countylimited",
+        "1",
+        "0.03%",
+        "9 kW",
+        "—"
+      ],
+      "countyName": "Custer County",
+      "countyUrl": "https://panelcensus.com/solar/idaho/custer-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

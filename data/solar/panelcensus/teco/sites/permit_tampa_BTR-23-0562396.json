@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0562396",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0562396",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 29, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:20.841Z",
+  "siteName": "18912 Twinberry Dr (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.1432, -82.3685",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1432272&mlon=-82.3684505#map=17/28.1432272/-82.3684505",
+  "recordId": "permit_tampa_BTR-23-0562396",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.1432272,
+  "longitude": -82.3684505,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0553554",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0553554",
+  "listingPageNumber": 13,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "15.9 kW",
+    "Jul 2, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:13.552Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9100, -82.4599",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9099713&mlon=-82.4598993#map=17/27.9099713/-82.4598993",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0553554",
+  "siteName": "581 W Davis Blvd (ACA)",
+  "sizeDisplay": "15.9 kW",
+  "latitude": 27.9099713,
+  "longitude": -82.4598993,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 15.9,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

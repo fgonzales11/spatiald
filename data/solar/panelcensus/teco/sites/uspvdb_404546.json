@@ -1,0 +1,42 @@
+{
+  "siteId": "uspvdb_404546",
+  "sourceUrl": "https://panelcensus.com/sites/uspvdb_404546",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Dade City, FL\nPasco County",
+    "Utility-scale",
+    "64,700 kW",
+    "Jan 1, 2018",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:34.847Z",
+  "capacityBasis": "54,600 kW AC",
+  "locationDescription": "Dade City · Pasco County · Florida · Utility-scale",
+  "locationDisplay": "Location: 28.3888, -82.2222",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.38879&mlon=-82.222153#map=17/28.38879/-82.222153",
+  "parties": [
+    {
+      "name": "Tampa Electric Co [100%]",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Plant operator"
+    }
+  ],
+  "recordId": "uspvdb_404546",
+  "siteName": "Mountain View Solar (FL)",
+  "sizeDisplay": "64,700 kW",
+  "latitude": 28.38879,
+  "longitude": -82.222153,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 64700,
+  "tecoRoles": [
+    "Plant operator"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

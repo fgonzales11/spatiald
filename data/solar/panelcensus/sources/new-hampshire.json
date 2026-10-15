@@ -1,0 +1,158 @@
+{
+  "state": {
+    "code": "NH",
+    "name": "New Hampshire",
+    "slug": "new-hampshire"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/new-hampshire",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:40.371Z",
+  "renderedHtmlSha256": "d1e48c7be90076be365b5d25ee672f36ec22257b7333f5286e8b451d883f30e2",
+  "heading": "Solar installations in New Hampshire",
+  "documentTitle": "Solar in New Hampshire — 11,059 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "11,059",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in New Hampshire",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Rockingham County",
+        "144",
+        "0.10%",
+        "8.4 MW",
+        "$3.17/W"
+      ],
+      "countyName": "Rockingham County",
+      "countyUrl": "https://panelcensus.com/solar/new-hampshire/rockingham-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Grafton County",
+        "105",
+        "0.20%",
+        "6.0 MW",
+        "$2.89/W"
+      ],
+      "countyName": "Grafton County",
+      "countyUrl": "https://panelcensus.com/solar/new-hampshire/grafton-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Merrimack County",
+        "97",
+        "0.15%",
+        "10.6 MW",
+        "$2.87/W"
+      ],
+      "countyName": "Merrimack County",
+      "countyUrl": "https://panelcensus.com/solar/new-hampshire/merrimack-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hillsborough County",
+        "95",
+        "0.05%",
+        "14.4 MW",
+        "$2.78/W"
+      ],
+      "countyName": "Hillsborough County",
+      "countyUrl": "https://panelcensus.com/solar/new-hampshire/hillsborough-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Strafford County",
+        "74",
+        "0.13%",
+        "7.7 MW",
+        "$2.87/W"
+      ],
+      "countyName": "Strafford County",
+      "countyUrl": "https://panelcensus.com/solar/new-hampshire/strafford-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cheshire County",
+        "52",
+        "0.14%",
+        "4.8 MW",
+        "$2.76/W"
+      ],
+      "countyName": "Cheshire County",
+      "countyUrl": "https://panelcensus.com/solar/new-hampshire/cheshire-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sullivan County",
+        "36",
+        "0.16%",
+        "2.9 MW",
+        "$2.79/W"
+      ],
+      "countyName": "Sullivan County",
+      "countyUrl": "https://panelcensus.com/solar/new-hampshire/sullivan-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Belknap County",
+        "35",
+        "0.09%",
+        "1.5 MW",
+        "$2.77/W"
+      ],
+      "countyName": "Belknap County",
+      "countyUrl": "https://panelcensus.com/solar/new-hampshire/belknap-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Carroll County",
+        "34",
+        "0.09%",
+        "1.0 MW",
+        "$2.50/W"
+      ],
+      "countyName": "Carroll County",
+      "countyUrl": "https://panelcensus.com/solar/new-hampshire/carroll-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Coos County",
+        "26",
+        "0.13%",
+        "687 kW",
+        "—"
+      ],
+      "countyName": "Coos County",
+      "countyUrl": "https://panelcensus.com/solar/new-hampshire/coos-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    }
+  ]
+}

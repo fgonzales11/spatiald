@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561407",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561407",
+  "listingPageNumber": 2,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 6, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:42.064Z",
+  "siteName": "8450 N River Dune St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0271, -82.4033",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0271306&mlon=-82.4032996#map=17/28.0271306/-82.4032996",
+  "recordId": "permit_tampa_BTR-23-0561407",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.0271306,
+  "longitude": -82.4032996,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

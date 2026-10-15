@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555159",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555159",
+  "listingPageNumber": 11,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "11.6 kW",
+    "Jul 29, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:55:23.563Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8900, -82.5023",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8899572&mlon=-82.5022758#map=17/27.8899572/-82.5022758",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555159",
+  "siteName": "3504 W Ballast Point Blvd (ACA)",
+  "sizeDisplay": "11.6 kW",
+  "latitude": 27.8899572,
+  "longitude": -82.5022758,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 11.6,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

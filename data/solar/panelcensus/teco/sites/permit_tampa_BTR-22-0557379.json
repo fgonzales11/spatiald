@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0557379",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557379",
+  "listingPageNumber": 8,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "9.3 kW",
+    "Sep 8, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:53:10.766Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0370, -82.4615",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0370321&mlon=-82.4614862#map=17/28.0370321/-82.4614862",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0557379",
+  "siteName": "211 W Floriland Ave (ACA)",
+  "sizeDisplay": "9.3 kW",
+  "latitude": 28.0370321,
+  "longitude": -82.4614862,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 9.3,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

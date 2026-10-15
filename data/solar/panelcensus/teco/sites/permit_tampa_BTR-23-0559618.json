@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559618",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559618",
+  "listingPageNumber": 5,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Oct 25, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:36:56.736Z",
+  "siteName": "3415 S Beach Dr (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9138, -82.5312",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9138007&mlon=-82.5312325#map=17/27.9138007/-82.5312325",
+  "recordId": "permit_tampa_BTR-23-0559618",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.9138007,
+  "longitude": -82.5312325,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559402",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559402",
+  "listingPageNumber": 5,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Oct 20, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:50:58.066Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9912, -82.4420",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9912292&mlon=-82.441965#map=17/27.9912292/-82.441965",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0559402",
+  "siteName": "1505 E Ellicott St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9912292,
+  "longitude": -82.441965,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

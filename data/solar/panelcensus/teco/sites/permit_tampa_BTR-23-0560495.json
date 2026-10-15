@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560495",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560495",
+  "listingPageNumber": 4,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 14, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:35:31.682Z",
+  "siteName": "9327 N Dartmouth Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0344, -82.4631",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0343978&mlon=-82.4630604#map=17/28.0343978/-82.4630604",
+  "recordId": "permit_tampa_BTR-23-0560495",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.0343978,
+  "longitude": -82.4630604,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

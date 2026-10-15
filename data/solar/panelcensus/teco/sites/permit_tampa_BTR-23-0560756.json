@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560756",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560756",
+  "listingPageNumber": 4,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 18, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:34:41.591Z",
+  "siteName": "3901 E Hanna Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0034, -82.4162",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0033565&mlon=-82.4161852#map=17/28.0033565/-82.4161852",
+  "recordId": "permit_tampa_BTR-23-0560756",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.0033565,
+  "longitude": -82.4161852,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

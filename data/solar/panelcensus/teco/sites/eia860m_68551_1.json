@@ -1,0 +1,45 @@
+{
+  "siteId": "eia860m_68551_1",
+  "sourceUrl": "https://panelcensus.com/sites/eia860m_68551_1",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "FL\nHillsborough County",
+    "Utility-scale",
+    "74,500 kW",
+    "Dec 1, 2025",
+    "Cottonmouth Ranch Solar",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:17.500Z",
+  "siteName": "Cottonmouth Ranch Solar",
+  "locationDescription": "Hillsborough County · Florida · Utility-scale",
+  "sizeDisplay": "74,500 kW",
+  "capacityBasis": "AC nameplate",
+  "locationDisplay": "Location: 27.6545, -82.2900",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.654491&mlon=-82.29003#map=17/27.654491/-82.29003",
+  "recordId": "eia860m_68551_1",
+  "parties": [
+    {
+      "role": "Owner",
+      "name": "Tampa Electric Co"
+    },
+    {
+      "role": "Developer",
+      "name": "Cottonmouth Ranch Solar"
+    },
+    {
+      "role": "Plant operator",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 74500,
+  "latitude": 27.654491,
+  "longitude": -82.29003,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Owner",
+    "Plant operator"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

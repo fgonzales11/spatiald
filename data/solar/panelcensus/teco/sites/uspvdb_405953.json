@@ -1,0 +1,42 @@
+{
+  "siteId": "uspvdb_405953",
+  "sourceUrl": "https://panelcensus.com/sites/uspvdb_405953",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Plant City, FL\nHillsborough County",
+    "Utility-scale",
+    "72,200 kW",
+    "Jan 1, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:27.704Z",
+  "capacityBasis": "61,200 kW AC",
+  "locationDescription": "Plant City · Hillsborough County · Florida · Utility-scale",
+  "locationDisplay": "Location: 27.9199, -82.0697",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.919945&mlon=-82.06971#map=17/27.919945/-82.06971",
+  "parties": [
+    {
+      "name": "Tampa Electric Co [100%]",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Plant operator"
+    }
+  ],
+  "recordId": "uspvdb_405953",
+  "siteName": "Laurel Oaks Solar",
+  "sizeDisplay": "72,200 kW",
+  "latitude": 27.919945,
+  "longitude": -82.06971,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 72200,
+  "tecoRoles": [
+    "Plant operator"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

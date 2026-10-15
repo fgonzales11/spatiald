@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556593",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556593",
+  "listingPageNumber": 9,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Aug 23, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:04.169Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0454, -82.4788",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0454173&mlon=-82.4788396#map=17/28.0454173/-82.4788396",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556593",
+  "siteName": "10320 N Oakleaf Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0454173,
+  "longitude": -82.4788396,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

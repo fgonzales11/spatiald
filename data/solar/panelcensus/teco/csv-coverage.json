@@ -1,0 +1,16 @@
+{
+  "listingPages": 23,
+  "endOfPaginationReached": true,
+  "listedSiteCount": 1112,
+  "profileReportedRecords": 1131,
+  "detailPagesCaptured": 1112,
+  "detailPagesPending": 0,
+  "sitesWithSize": 273,
+  "sitesWithCoordinates": 1112,
+  "sitesWithSizeAndCoordinates": 273,
+  "complete": true,
+  "exportedAt": "2026-10-12T02:05:24.838Z",
+  "csvSha256": "3f5a8006a08c0afe7158b46089ce581c3adb2e3ef1085050802bf15199324d5d",
+  "originalExportSha256": "c50db39bad9d4f6d2aed9db7bc8c4da8908a2bb09c826841f65a89a532e56dbb",
+  "lastVerifiedAt": "2026-10-12T02:36:22.114485+00:00"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556376",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556376",
+  "listingPageNumber": 10,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Aug 18, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:13.126Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0297, -82.4385",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.029718&mlon=-82.438509#map=17/28.029718/-82.438509",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556376",
+  "siteName": "1808 E Eskimo Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.029718,
+  "longitude": -82.438509,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

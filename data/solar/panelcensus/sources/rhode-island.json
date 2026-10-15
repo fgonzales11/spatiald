@@ -1,0 +1,93 @@
+{
+  "state": {
+    "code": "RI",
+    "name": "Rhode Island",
+    "slug": "rhode-island"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/rhode-island",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:43.997Z",
+  "renderedHtmlSha256": "41314a8ffadf6ed78a39309a365805e5843482fee08ed1286a0642d73b41401f",
+  "heading": "Solar installations in Rhode Island",
+  "documentTitle": "Solar in Rhode Island — 5,366 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "5,366",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Rhode Island",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Providence County",
+        "53",
+        "0.02%",
+        "246.8 MW",
+        "—"
+      ],
+      "countyName": "Providence County",
+      "countyUrl": "https://panelcensus.com/solar/rhode-island/providence-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Washington County",
+        "31",
+        "0.05%",
+        "147.2 MW",
+        "—"
+      ],
+      "countyName": "Washington County",
+      "countyUrl": "https://panelcensus.com/solar/rhode-island/washington-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kent County",
+        "20",
+        "0.03%",
+        "171.6 MW",
+        "—"
+      ],
+      "countyName": "Kent County",
+      "countyUrl": "https://panelcensus.com/solar/rhode-island/kent-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Newport County",
+        "11",
+        "0.03%",
+        "56.0 MW",
+        "—"
+      ],
+      "countyName": "Newport County",
+      "countyUrl": "https://panelcensus.com/solar/rhode-island/newport-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bristol Countylimited",
+        "7",
+        "0.03%",
+        "26.3 MW",
+        "—"
+      ],
+      "countyName": "Bristol County",
+      "countyUrl": "https://panelcensus.com/solar/rhode-island/bristol-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

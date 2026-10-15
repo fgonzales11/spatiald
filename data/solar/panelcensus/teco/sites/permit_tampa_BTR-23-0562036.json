@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0562036",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0562036",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "17.6 kW",
+    "Dec 19, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:27.905Z",
+  "siteName": "116 S Lauber Way (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "17.6 kW",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9442, -82.5191",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9442002&mlon=-82.5190586#map=17/27.9442002/-82.5190586",
+  "recordId": "permit_tampa_BTR-23-0562036",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 17.6,
+  "latitude": 27.9442002,
+  "longitude": -82.5190586,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

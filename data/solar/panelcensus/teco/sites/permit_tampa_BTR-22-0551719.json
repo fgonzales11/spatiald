@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0551719",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0551719",
+  "listingPageNumber": 15,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 1, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:41.961Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9979, -82.5105",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9978519&mlon=-82.5105312#map=17/27.9978519/-82.5105312",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0551719",
+  "siteName": "4022 W Comanche Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9978519,
+  "longitude": -82.5105312,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

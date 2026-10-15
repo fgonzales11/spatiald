@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0549635",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0549635",
+  "listingPageNumber": 17,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Apr 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:00:09.021Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1577, -82.2940",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1577113&mlon=-82.2939916#map=17/28.1577113/-82.2939916",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0549635",
+  "siteName": "19241 Mossy Pine Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1577113,
+  "longitude": -82.2939916,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

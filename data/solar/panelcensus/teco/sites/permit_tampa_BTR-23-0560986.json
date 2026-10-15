@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560986",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560986",
+  "listingPageNumber": 3,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 28, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:33:54.521Z",
+  "siteName": "2215 E Clark St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9493, -82.4344",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.949337&mlon=-82.434368#map=17/27.949337/-82.434368",
+  "recordId": "permit_tampa_BTR-23-0560986",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.949337,
+  "longitude": -82.434368,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

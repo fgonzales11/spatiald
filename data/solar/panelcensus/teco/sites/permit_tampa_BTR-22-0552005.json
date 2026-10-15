@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0552005",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0552005",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "18 kW",
+    "Jun 6, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:35.129Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1479, -82.3773",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1479019&mlon=-82.3772538#map=17/28.1479019/-82.3772538",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0552005",
+  "siteName": "8208 Marsh Glen Ct (ACA)",
+  "sizeDisplay": "18 kW",
+  "latitude": 28.1479019,
+  "longitude": -82.3772538,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 18,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

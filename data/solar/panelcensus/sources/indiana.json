@@ -1,0 +1,652 @@
+{
+  "state": {
+    "code": "IN",
+    "name": "Indiana",
+    "slug": "indiana"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/indiana",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:35.197Z",
+  "renderedHtmlSha256": "557d1ecfe8505921320e9724c8678b552037140b9f4a2d29b52118b01d672eba",
+  "heading": "Solar installations in Indiana",
+  "documentTitle": "Solar in Indiana — 234 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "234",
+  "stateCapacityDisplay": null,
+  "underReported": true,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Indiana",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Marion County",
+        "22",
+        "0.01%",
+        "98.6 MW",
+        "—"
+      ],
+      "countyName": "Marion County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/marion-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Madison County",
+        "11",
+        "0.02%",
+        "59.1 MW",
+        "—"
+      ],
+      "countyName": "Madison County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/madison-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wayne Countylimited",
+        "8",
+        "0.03%",
+        "53.1 MW",
+        "—"
+      ],
+      "countyName": "Wayne County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/wayne-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Henry Countylimited",
+        "6",
+        "0.03%",
+        "6.5 MW",
+        "—"
+      ],
+      "countyName": "Henry County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/henry-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Miami Countylimited",
+        "6",
+        "0.04%",
+        "33.1 MW",
+        "—"
+      ],
+      "countyName": "Miami County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/miami-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Randolph Countylimited",
+        "6",
+        "0.05%",
+        "46.1 MW",
+        "—"
+      ],
+      "countyName": "Randolph County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/randolph-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jasper Countylimited",
+        "5",
+        "0.04%",
+        "19.5 MW",
+        "—"
+      ],
+      "countyName": "Jasper County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/jasper-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lake Countylimited",
+        "5",
+        "0.00%",
+        "9.2 MW",
+        "—"
+      ],
+      "countyName": "Lake County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/lake-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Montgomery Countylimited",
+        "5",
+        "0.03%",
+        "18.4 MW",
+        "—"
+      ],
+      "countyName": "Montgomery County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/montgomery-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Grant Countylimited",
+        "4",
+        "0.01%",
+        "8.8 MW",
+        "—"
+      ],
+      "countyName": "Grant County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/grant-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "St. Joseph Countylimited",
+        "4",
+        "0.00%",
+        "35.0 MW",
+        "—"
+      ],
+      "countyName": "St. Joseph County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/st-joseph-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Vanderburgh Countylimited",
+        "4",
+        "0.01%",
+        "7.3 MW",
+        "—"
+      ],
+      "countyName": "Vanderburgh County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/vanderburgh-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "White Countylimited",
+        "4",
+        "0.03%",
+        "808 kW",
+        "—"
+      ],
+      "countyName": "White County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/white-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Greene Countylimited",
+        "3",
+        "0.02%",
+        "9.2 MW",
+        "—"
+      ],
+      "countyName": "Greene County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/greene-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hancock Countylimited",
+        "3",
+        "0.01%",
+        "4.6 MW",
+        "—"
+      ],
+      "countyName": "Hancock County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/hancock-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hendricks Countylimited",
+        "3",
+        "0.00%",
+        "25.8 MW",
+        "—"
+      ],
+      "countyName": "Hendricks County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/hendricks-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Howard Countylimited",
+        "3",
+        "0.01%",
+        "8.8 MW",
+        "—"
+      ],
+      "countyName": "Howard County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/howard-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Johnson Countylimited",
+        "3",
+        "0.01%",
+        "2.6 MW",
+        "—"
+      ],
+      "countyName": "Johnson County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/johnson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lawrence Countylimited",
+        "3",
+        "0.01%",
+        "3.2 MW",
+        "—"
+      ],
+      "countyName": "Lawrence County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/lawrence-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Martin Countylimited",
+        "3",
+        "0.07%",
+        "42.0 MW",
+        "—"
+      ],
+      "countyName": "Martin County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/martin-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Monroe Countylimited",
+        "3",
+        "0.01%",
+        "2.6 MW",
+        "—"
+      ],
+      "countyName": "Monroe County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/monroe-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bartholomew Countylimited",
+        "2",
+        "0.01%",
+        "2.6 MW",
+        "—"
+      ],
+      "countyName": "Bartholomew County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/bartholomew-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clay Countylimited",
+        "2",
+        "0.02%",
+        "13.1 MW",
+        "—"
+      ],
+      "countyName": "Clay County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/clay-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Daviess Countylimited",
+        "2",
+        "0.02%",
+        "14.8 MW",
+        "—"
+      ],
+      "countyName": "Daviess County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/daviess-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "DeKalb Countylimited",
+        "2",
+        "0.01%",
+        "15.3 MW",
+        "—"
+      ],
+      "countyName": "DeKalb County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/dekalb-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Harrison Countylimited",
+        "2",
+        "0.01%",
+        "2.6 MW",
+        "—"
+      ],
+      "countyName": "Harrison County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/harrison-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Perry Countylimited",
+        "2",
+        "0.02%",
+        "5.6 MW",
+        "—"
+      ],
+      "countyName": "Perry County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/perry-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Porter Countylimited",
+        "2",
+        "0.00%",
+        "3.3 MW",
+        "—"
+      ],
+      "countyName": "Porter County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/porter-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Warren Countylimited",
+        "2",
+        "0.05%",
+        "19.5 MW",
+        "—"
+      ],
+      "countyName": "Warren County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/warren-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Whitley Countylimited",
+        "2",
+        "0.01%",
+        "5.9 MW",
+        "—"
+      ],
+      "countyName": "Whitley County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/whitley-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Allen Countylimited",
+        "1",
+        "0.00%",
+        "1.2 MW",
+        "—"
+      ],
+      "countyName": "Allen County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/allen-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cass Countylimited",
+        "1",
+        "0.01%",
+        "19.3 MW",
+        "—"
+      ],
+      "countyName": "Cass County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/cass-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clinton Countylimited",
+        "1",
+        "0.01%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Clinton County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/clinton-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Decatur Countylimited",
+        "1",
+        "0.01%",
+        "1.3 MW",
+        "—"
+      ],
+      "countyName": "Decatur County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/decatur-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Dubois Countylimited",
+        "1",
+        "0.01%",
+        "2.5 MW",
+        "—"
+      ],
+      "countyName": "Dubois County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/dubois-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Elkhart Countylimited",
+        "1",
+        "0.00%",
+        "2.0 MW",
+        "—"
+      ],
+      "countyName": "Elkhart County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/elkhart-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hamilton Countylimited",
+        "1",
+        "0.00%",
+        "1.8 MW",
+        "—"
+      ],
+      "countyName": "Hamilton County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/hamilton-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "LaPorte Countylimited",
+        "1",
+        "0.00%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "LaPorte County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/laporte-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Marshall Countylimited",
+        "1",
+        "0.01%",
+        "9.0 MW",
+        "—"
+      ],
+      "countyName": "Marshall County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/marshall-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Scott Countylimited",
+        "1",
+        "0.01%",
+        "1.3 MW",
+        "—"
+      ],
+      "countyName": "Scott County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/scott-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Shelby Countylimited",
+        "1",
+        "0.01%",
+        "2.8 MW",
+        "—"
+      ],
+      "countyName": "Shelby County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/shelby-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Spencer Countylimited",
+        "1",
+        "0.01%",
+        "65.0 MW",
+        "—"
+      ],
+      "countyName": "Spencer County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/spencer-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Starke Countylimited",
+        "1",
+        "0.01%",
+        "5 kW",
+        "—"
+      ],
+      "countyName": "Starke County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/starke-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sullivan Countylimited",
+        "1",
+        "0.01%",
+        "7.1 MW",
+        "—"
+      ],
+      "countyName": "Sullivan County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/sullivan-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Tippecanoe Countylimited",
+        "1",
+        "0.00%",
+        "2.4 MW",
+        "—"
+      ],
+      "countyName": "Tippecanoe County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/tippecanoe-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Tipton Countylimited",
+        "1",
+        "0.01%",
+        "6.7 MW",
+        "—"
+      ],
+      "countyName": "Tipton County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/tipton-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Vigo Countylimited",
+        "1",
+        "0.00%",
+        "7.0 MW",
+        "—"
+      ],
+      "countyName": "Vigo County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/vigo-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Warrick Countylimited",
+        "1",
+        "0.00%",
+        "1.3 MW",
+        "—"
+      ],
+      "countyName": "Warrick County",
+      "countyUrl": "https://panelcensus.com/solar/indiana/warrick-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

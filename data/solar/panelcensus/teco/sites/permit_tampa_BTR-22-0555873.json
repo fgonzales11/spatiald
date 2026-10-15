@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555873",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555873",
+  "listingPageNumber": 10,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Aug 10, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:30.223Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0043, -82.4746",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0042721&mlon=-82.47457#map=17/28.0042721/-82.47457",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555873",
+  "siteName": "1525 W Jean St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0042721,
+  "longitude": -82.47457,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

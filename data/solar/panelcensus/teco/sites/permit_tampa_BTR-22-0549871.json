@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0549871",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0549871",
+  "listingPageNumber": 16,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Apr 26, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:00:03.907Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9841, -82.4190",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.984131&mlon=-82.4189725#map=17/27.984131/-82.4189725",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0549871",
+  "siteName": "3633 E Genesee St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.984131,
+  "longitude": -82.4189725,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,43 @@
+{
+  "siteId": "uspvdb_405207",
+  "sourceUrl": "https://panelcensus.com/sites/uspvdb_405207",
+  "listingPageNumber": 23,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Utility-scale",
+    "2,000 kW",
+    "Jan 1, 2015",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:36.528Z",
+  "capacityBasis": "1,600 kW AC",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Utility-scale",
+  "locationDisplay": "Location: 27.9662, -82.5340",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.966196&mlon=-82.533981#map=17/27.966196/-82.533981",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Plant operator"
+    }
+  ],
+  "recordId": "uspvdb_405207",
+  "siteName": "TIA Solar",
+  "sizeDisplay": "2,000 kW",
+  "latitude": 27.966196,
+  "longitude": -82.533981,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 2000,
+  "tecoRoles": [
+    "Owner",
+    "Plant operator"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

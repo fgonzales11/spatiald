@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0554071",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0554071",
+  "listingPageNumber": 12,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jul 12, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:56:58.931Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1609, -82.2964",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1608876&mlon=-82.2964427#map=17/28.1608876/-82.2964427",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0554071",
+  "siteName": "10811 Rolling Moss Rd (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1608876,
+  "longitude": -82.2964427,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560902",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560902",
+  "listingPageNumber": 3,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 22, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:34:08.756Z",
+  "siteName": "18902 Geranium Pl (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.1439, -82.3677",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1439148&mlon=-82.3676564#map=17/28.1439148/-82.3676564",
+  "recordId": "permit_tampa_BTR-23-0560902",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.1439148,
+  "longitude": -82.3676564,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

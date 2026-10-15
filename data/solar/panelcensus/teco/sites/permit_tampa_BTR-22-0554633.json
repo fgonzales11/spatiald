@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0554633",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0554633",
+  "listingPageNumber": 12,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "560 kW",
+    "Jul 20, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:55:47.818Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9932, -82.4389",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9932186&mlon=-82.4389062#map=17/27.9932186/-82.4389062",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0554633",
+  "siteName": "5112 N 19th St (ACA)",
+  "sizeDisplay": "560 kW",
+  "latitude": 27.9932186,
+  "longitude": -82.4389062,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 560,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

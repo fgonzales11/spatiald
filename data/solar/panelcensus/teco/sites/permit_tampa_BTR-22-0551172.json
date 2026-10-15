@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0551172",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0551172",
+  "listingPageNumber": 15,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "May 20, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:58.696Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0064, -82.4809",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0064283&mlon=-82.4809104#map=17/28.0064283/-82.4809104",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0551172",
+  "siteName": "2307 Fern Cir (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0064283,
+  "longitude": -82.4809104,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561418",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561418",
+  "listingPageNumber": 2,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 6, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:43.619Z",
+  "siteName": "8101 El Portal Dr (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0217, -82.4695",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0217401&mlon=-82.4695091#map=17/28.0217401/-82.4695091",
+  "recordId": "permit_tampa_BTR-23-0561418",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.0217401,
+  "longitude": -82.4695091,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

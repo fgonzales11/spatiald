@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0546357",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0546357",
+  "listingPageNumber": 20,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "7.1 kW",
+    "Feb 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:37.907Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0298, -82.4289",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0297903&mlon=-82.4288662#map=17/28.0297903/-82.4288662",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0546357",
+  "siteName": "8725 N 27th St (ACA)",
+  "sizeDisplay": "7.1 kW",
+  "latitude": 28.0297903,
+  "longitude": -82.4288662,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 7.1,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

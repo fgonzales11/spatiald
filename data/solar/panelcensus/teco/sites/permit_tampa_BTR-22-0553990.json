@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0553990",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0553990",
+  "listingPageNumber": 12,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jul 11, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:01.074Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9778, -82.4303",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9777605&mlon=-82.4303269#map=17/27.9777605/-82.4303269",
+  "parties": [
+    {
+      "name": "Asmar Investment LLC",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0553990",
+  "siteName": "Re-issued solar panels",
+  "sizeDisplay": "—",
+  "latitude": 27.9777605,
+  "longitude": -82.4303269,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

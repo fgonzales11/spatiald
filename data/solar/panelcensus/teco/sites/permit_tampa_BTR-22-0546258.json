@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0546258",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0546258",
+  "listingPageNumber": 20,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Feb 17, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:44.389Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1649, -82.2966",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1648505&mlon=-82.2966373#map=17/28.1648505/-82.2966373",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0546258",
+  "siteName": "10736 Pleasant Knoll Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1648505,
+  "longitude": -82.2966373,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

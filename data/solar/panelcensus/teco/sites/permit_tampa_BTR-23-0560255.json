@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560255",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560255",
+  "listingPageNumber": 4,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "520 kW",
+    "Nov 8, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:35:59.878Z",
+  "siteName": "4407 Gandy Cir (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "520 kW",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.8728, -82.5195",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8728093&mlon=-82.5194531#map=17/27.8728093/-82.5194531",
+  "recordId": "permit_tampa_BTR-23-0560255",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 520,
+  "latitude": 27.8728093,
+  "longitude": -82.5194531,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

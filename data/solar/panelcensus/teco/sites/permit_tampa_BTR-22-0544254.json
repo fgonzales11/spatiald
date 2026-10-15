@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0544254",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0544254",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "14.4 kW",
+    "Jan 7, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:19.054Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0480, -82.4466",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0479728&mlon=-82.446625#map=17/28.0479728/-82.446625",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0544254",
+  "siteName": "10920 N Lantana Ave (ACA)",
+  "sizeDisplay": "14.4 kW",
+  "latitude": 28.0479728,
+  "longitude": -82.446625,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 14.4,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

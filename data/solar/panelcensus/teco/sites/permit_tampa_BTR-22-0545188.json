@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0545188",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0545188",
+  "listingPageNumber": 21,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jan 27, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:37.188Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9970, -82.4619",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9970214&mlon=-82.4618847#map=17/27.9970214/-82.4618847",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0545188",
+  "siteName": "217 W Mohawk Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9970214,
+  "longitude": -82.4618847,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559162",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559162",
+  "listingPageNumber": 6,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Oct 17, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:51:06.336Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1553, -82.3040",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1553312&mlon=-82.3040057#map=17/28.1553312/-82.3040057",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0559162",
+  "siteName": "Solar Panel System Installation",
+  "sizeDisplay": "—",
+  "latitude": 28.1553312,
+  "longitude": -82.3040057,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

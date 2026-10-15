@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0548066",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0548066",
+  "listingPageNumber": 18,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 23, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:01:18.634Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0013, -82.4804",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0012691&mlon=-82.4804215#map=17/28.0012691/-82.4804215",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0548066",
+  "siteName": "2104 W Idlewild Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0012691,
+  "longitude": -82.4804215,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0545308",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0545308",
+  "listingPageNumber": 21,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jan 31, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:31.557Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0377, -82.4142",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0377496&mlon=-82.4141846#map=17/28.0377496/-82.4141846",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0545308",
+  "siteName": "4126 E 97th Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0377496,
+  "longitude": -82.4141846,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

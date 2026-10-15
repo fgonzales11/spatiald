@@ -1,0 +1,45 @@
+{
+  "siteId": "eia860m_68472_1",
+  "sourceUrl": "https://panelcensus.com/sites/eia860m_68472_1",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "FL\nManatee County",
+    "Utility-scale",
+    "74,500 kW",
+    "Feb 1, 2026",
+    "FPL",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:18.168Z",
+  "siteName": "Long Branch Solar",
+  "locationDescription": "Manatee County · Florida · Utility-scale",
+  "sizeDisplay": "74,500 kW",
+  "capacityBasis": "AC nameplate",
+  "locationDisplay": "Location: 27.6257, -82.1713",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.62574&mlon=-82.17134#map=17/27.62574/-82.17134",
+  "recordId": "eia860m_68472_1",
+  "parties": [
+    {
+      "role": "Owner",
+      "name": "Tampa Electric Co"
+    },
+    {
+      "role": "Developer",
+      "name": "FPL"
+    },
+    {
+      "role": "Plant operator",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 74500,
+  "latitude": 27.62574,
+  "longitude": -82.17134,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Owner",
+    "Plant operator"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

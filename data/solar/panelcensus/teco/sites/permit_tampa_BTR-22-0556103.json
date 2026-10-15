@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556103",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556103",
+  "listingPageNumber": 10,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "960 kW",
+    "Aug 15, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:23.195Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1056, -82.3729",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1056434&mlon=-82.372897#map=17/28.1056434/-82.372897",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556103",
+  "siteName": "16126 Brecon Palms Pl (ACA)",
+  "sizeDisplay": "960 kW",
+  "latitude": 28.1056434,
+  "longitude": -82.372897,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 960,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

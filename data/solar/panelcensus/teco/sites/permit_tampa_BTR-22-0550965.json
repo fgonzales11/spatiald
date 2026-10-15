@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0550965",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0550965",
+  "listingPageNumber": 15,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "May 18, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:59:38.755Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9729, -82.4701",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9728915&mlon=-82.4701155#map=17/27.9728915/-82.4701155",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0550965",
+  "siteName": "battery back up for solar panels",
+  "sizeDisplay": "—",
+  "latitude": 27.9728915,
+  "longitude": -82.4701155,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

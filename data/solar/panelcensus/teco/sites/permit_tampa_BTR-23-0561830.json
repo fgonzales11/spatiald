@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561830",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561830",
+  "listingPageNumber": 2,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "10.4 kW",
+    "Dec 14, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:34.361Z",
+  "siteName": "3409 E Powhatan Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "10.4 kW",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9990, -82.4213",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.998951&mlon=-82.4213404#map=17/27.998951/-82.4213404",
+  "recordId": "permit_tampa_BTR-23-0561830",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 10.4,
+  "latitude": 27.998951,
+  "longitude": -82.4213404,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

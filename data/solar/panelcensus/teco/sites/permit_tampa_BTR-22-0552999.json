@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0552999",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0552999",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 22, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:31.048Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9875, -82.4204",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.987474&mlon=-82.4204037#map=17/27.987474/-82.4204037",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0552999",
+  "siteName": "REISSUE- 4626 N 36th St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.987474,
+  "longitude": -82.4204037,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

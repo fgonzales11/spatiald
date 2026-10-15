@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0544233",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0544233",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jan 6, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:20.696Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0078, -82.4253",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0078304&mlon=-82.425337#map=17/28.0078304/-82.425337",
+  "parties": [
+    {
+      "name": "Alliance Asset Holdings I LLC",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0544233",
+  "siteName": "3105 E Knollwood St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0078304,
+  "longitude": -82.425337,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

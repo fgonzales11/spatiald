@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0546796",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0546796",
+  "listingPageNumber": 19,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Feb 28, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:29.685Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0274, -82.4677",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0273846&mlon=-82.4676804#map=17/28.0273846/-82.4676804",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0546796",
+  "siteName": "8521 N Boulevard (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0273846,
+  "longitude": -82.4676804,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

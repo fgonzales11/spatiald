@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0554609",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0554609",
+  "listingPageNumber": 12,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "19.2 kW",
+    "Jul 20, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:55:47.295Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9105, -82.5130",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9104778&mlon=-82.5129664#map=17/27.9104778/-82.5129664",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0554609",
+  "siteName": "3620 W Clark Cir (ACA)",
+  "sizeDisplay": "19.2 kW",
+  "latitude": 27.9104778,
+  "longitude": -82.5129664,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 19.2,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

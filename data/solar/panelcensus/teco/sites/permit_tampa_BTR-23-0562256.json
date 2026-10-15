@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0562256",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0562256",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 26, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:23.080Z",
+  "siteName": "2601 N Lincoln Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9641, -82.4972",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9640868&mlon=-82.4972434#map=17/27.9640868/-82.4972434",
+  "recordId": "permit_tampa_BTR-23-0562256",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.9640868,
+  "longitude": -82.4972434,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

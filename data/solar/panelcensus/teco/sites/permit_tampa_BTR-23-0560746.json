@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560746",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560746",
+  "listingPageNumber": 4,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 18, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:34:39.623Z",
+  "siteName": "18153 Portside St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.1507, -82.3101",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1507015&mlon=-82.3100868#map=17/28.1507015/-82.3100868",
+  "recordId": "permit_tampa_BTR-23-0560746",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.1507015,
+  "longitude": -82.3100868,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

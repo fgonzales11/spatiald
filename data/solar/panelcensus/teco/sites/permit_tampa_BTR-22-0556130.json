@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556130",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556130",
+  "listingPageNumber": 10,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "12.6 kW",
+    "Aug 15, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:22.086Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8830, -82.5146",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8829778&mlon=-82.5145513#map=17/27.8829778/-82.5145513",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556130",
+  "siteName": "4205 W Wyoming Ave (ACA)",
+  "sizeDisplay": "12.6 kW",
+  "latitude": 27.8829778,
+  "longitude": -82.5145513,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 12.6,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

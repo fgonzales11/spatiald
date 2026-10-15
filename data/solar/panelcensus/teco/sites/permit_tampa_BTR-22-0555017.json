@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555017",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555017",
+  "listingPageNumber": 11,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jul 27, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:55:35.913Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9878, -82.4490",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9878147&mlon=-82.4489844#map=17/27.9878147/-82.4489844",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555017",
+  "siteName": "1007 E Curtis St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9878147,
+  "longitude": -82.4489844,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

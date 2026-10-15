@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0551958",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0551958",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 6, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:34.061Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0020, -82.4202",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0019951&mlon=-82.4201575#map=17/28.0019951/-82.4201575",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0551958",
+  "siteName": "3606 E Grove St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0019951,
+  "longitude": -82.4201575,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

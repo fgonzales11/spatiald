@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561105",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561105",
+  "listingPageNumber": 3,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 30, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:33:25.807Z",
+  "siteName": "4409 Webster St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9852, -82.4209",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9852046&mlon=-82.4209462#map=17/27.9852046/-82.4209462",
+  "recordId": "permit_tampa_BTR-23-0561105",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.9852046,
+  "longitude": -82.4209462,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

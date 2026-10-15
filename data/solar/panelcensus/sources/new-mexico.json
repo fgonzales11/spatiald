@@ -1,0 +1,457 @@
+{
+  "state": {
+    "code": "NM",
+    "name": "New Mexico",
+    "slug": "new-mexico"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/new-mexico",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:41.178Z",
+  "renderedHtmlSha256": "1406ae11dfdd13408c61dfe777271e3bb22f1930d229d4fb45f1458961770a51",
+  "heading": "Solar installations in New Mexico",
+  "documentTitle": "Solar in New Mexico — 68,499 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "68,499",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in New Mexico",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Bernalillo County",
+        "33,717",
+        "11.2%",
+        "496.0 MW",
+        "$4.50/W"
+      ],
+      "countyName": "Bernalillo County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/bernalillo-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sandoval County",
+        "11,718",
+        "19.6%",
+        "247.2 MW",
+        "$4.56/W"
+      ],
+      "countyName": "Sandoval County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/sandoval-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Santa Fe County",
+        "8,192",
+        "10.5%",
+        "87.7 MW",
+        "$5.01/W"
+      ],
+      "countyName": "Santa Fe County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/santa-fe-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Doña Ana County",
+        "3,901",
+        "4.3%",
+        "77.9 MW",
+        "$4.40/W"
+      ],
+      "countyName": "Doña Ana County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/do-a-ana-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Valencia County",
+        "3,598",
+        "11.8%",
+        "105.9 MW",
+        "$4.69/W"
+      ],
+      "countyName": "Valencia County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/valencia-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Otero County",
+        "2,531",
+        "7.8%",
+        "57.1 MW",
+        "$4.44/W"
+      ],
+      "countyName": "Otero County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/otero-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Grant County",
+        "1,193",
+        "8.1%",
+        "11.9 MW",
+        "$5.19/W"
+      ],
+      "countyName": "Grant County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/grant-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Luna County",
+        "766",
+        "6.6%",
+        "121.1 MW",
+        "$5.17/W"
+      ],
+      "countyName": "Luna County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/luna-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "San Miguel County",
+        "318",
+        "2.1%",
+        "42.2 MW",
+        "$5.37/W"
+      ],
+      "countyName": "San Miguel County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/san-miguel-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Chaves County",
+        "258",
+        "0.96%",
+        "233.4 MW",
+        "$4.93/W"
+      ],
+      "countyName": "Chaves County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/chaves-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Rio Arriba County",
+        "202",
+        "1.0%",
+        "130.8 MW",
+        "$4.67/W"
+      ],
+      "countyName": "Rio Arriba County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/rio-arriba-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Eddy County",
+        "193",
+        "0.72%",
+        "33.0 MW",
+        "$4.63/W"
+      ],
+      "countyName": "Eddy County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/eddy-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Taos County",
+        "176",
+        "0.83%",
+        "32.8 MW",
+        "$4.99/W"
+      ],
+      "countyName": "Taos County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/taos-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lincoln County",
+        "174",
+        "0.98%",
+        "5.0 MW",
+        "$5.43/W"
+      ],
+      "countyName": "Lincoln County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/lincoln-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "San Juan County",
+        "172",
+        "0.36%",
+        "1.6 MW",
+        "$5.18/W"
+      ],
+      "countyName": "San Juan County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/san-juan-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sierra County",
+        "130",
+        "1.6%",
+        "1.9 MW",
+        "$5.28/W"
+      ],
+      "countyName": "Sierra County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/sierra-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Socorro County",
+        "99",
+        "1.3%",
+        "613 kW",
+        "$4.49/W"
+      ],
+      "countyName": "Socorro County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/socorro-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Los Alamos County",
+        "92",
+        "1.1%",
+        "647 kW",
+        "$4.44/W"
+      ],
+      "countyName": "Los Alamos County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/los-alamos-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lea County",
+        "80",
+        "0.28%",
+        "57.3 MW",
+        "$4.82/W"
+      ],
+      "countyName": "Lea County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/lea-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hidalgo County",
+        "77",
+        "3.5%",
+        "1.5 MW",
+        "—"
+      ],
+      "countyName": "Hidalgo County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/hidalgo-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Curry County",
+        "67",
+        "0.32%",
+        "3.2 MW",
+        "$4.55/W"
+      ],
+      "countyName": "Curry County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/curry-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "McKinley County",
+        "62",
+        "0.25%",
+        "10.2 MW",
+        "$4.72/W"
+      ],
+      "countyName": "McKinley County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/mckinley-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Torrance County",
+        "62",
+        "0.86%",
+        "414 kW",
+        "$5.15/W"
+      ],
+      "countyName": "Torrance County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/torrance-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Colfax County",
+        "56",
+        "0.58%",
+        "50.1 MW",
+        "$5.24/W"
+      ],
+      "countyName": "Colfax County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/colfax-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cibola County",
+        "41",
+        "0.37%",
+        "93.8 MW",
+        "$4.85/W"
+      ],
+      "countyName": "Cibola County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/cibola-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Union County",
+        "39",
+        "1.9%",
+        "300 kW",
+        "—"
+      ],
+      "countyName": "Union County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/union-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Roosevelt County",
+        "24",
+        "0.28%",
+        "271 kW",
+        "—"
+      ],
+      "countyName": "Roosevelt County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/roosevelt-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Mora County",
+        "23",
+        "0.78%",
+        "175 kW",
+        "—"
+      ],
+      "countyName": "Mora County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/mora-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Quay County",
+        "13",
+        "0.24%",
+        "32.1 MW",
+        "—"
+      ],
+      "countyName": "Quay County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/quay-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Catron Countylimited",
+        "9",
+        "0.27%",
+        "50 kW",
+        "—"
+      ],
+      "countyName": "Catron County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/catron-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "De Baca Countylimited",
+        "3",
+        "0.26%",
+        "14 kW",
+        "—"
+      ],
+      "countyName": "De Baca County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/de-baca-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Guadalupe Countylimited",
+        "2",
+        "0.09%",
+        "7 kW",
+        "—"
+      ],
+      "countyName": "Guadalupe County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/guadalupe-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Harding Countylimited",
+        "1",
+        "0.20%",
+        "13 kW",
+        "—"
+      ],
+      "countyName": "Harding County",
+      "countyUrl": "https://panelcensus.com/solar/new-mexico/harding-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

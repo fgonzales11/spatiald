@@ -1,0 +1,574 @@
+{
+  "state": {
+    "code": "CO",
+    "name": "Colorado",
+    "slug": "colorado"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/colorado",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:32.569Z",
+  "renderedHtmlSha256": "23c1f00960658d8aed683e3ac942f6e33fc296f0683858c33b79b240b0011905",
+  "heading": "Solar installations in Colorado",
+  "documentTitle": "Solar in Colorado — 116,386 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "116,386",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Colorado",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Jefferson County",
+        "20,509",
+        "8.2%",
+        "180.2 MW",
+        "$4.35/W"
+      ],
+      "countyName": "Jefferson County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/jefferson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Denver County",
+        "18,363",
+        "5.2%",
+        "233.9 MW",
+        "$4.35/W"
+      ],
+      "countyName": "Denver County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/denver-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Arapahoe County",
+        "17,976",
+        "6.8%",
+        "333.0 MW",
+        "$4.35/W"
+      ],
+      "countyName": "Arapahoe County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/arapahoe-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Boulder County",
+        "13,015",
+        "9.1%",
+        "304.7 MW",
+        "$4.35/W"
+      ],
+      "countyName": "Boulder County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/boulder-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Adams County",
+        "11,882",
+        "6.2%",
+        "260.9 MW",
+        "$4.55/W"
+      ],
+      "countyName": "Adams County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/adams-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Weld County",
+        "8,088",
+        "6.5%",
+        "342.9 MW",
+        "$4.42/W"
+      ],
+      "countyName": "Weld County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/weld-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Douglas County",
+        "7,230",
+        "5.1%",
+        "59.9 MW",
+        "$4.17/W"
+      ],
+      "countyName": "Douglas County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/douglas-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Mesa County",
+        "5,207",
+        "7.6%",
+        "68.9 MW",
+        "$4.20/W"
+      ],
+      "countyName": "Mesa County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/mesa-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Larimer County",
+        "4,003",
+        "2.5%",
+        "117.1 MW",
+        "$4.30/W"
+      ],
+      "countyName": "Larimer County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/larimer-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Broomfield County",
+        "2,576",
+        "8.0%",
+        "31.5 MW",
+        "$4.35/W"
+      ],
+      "countyName": "Broomfield County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/broomfield-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Summit County",
+        "899",
+        "2.8%",
+        "9.0 MW",
+        "$3.99/W"
+      ],
+      "countyName": "Summit County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/summit-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clear Creek County",
+        "842",
+        "14.6%",
+        "6.6 MW",
+        "$4.41/W"
+      ],
+      "countyName": "Clear Creek County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/clear-creek-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Chaffee County",
+        "401",
+        "3.5%",
+        "14.4 MW",
+        "$3.75/W"
+      ],
+      "countyName": "Chaffee County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/chaffee-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Garfield County",
+        "358",
+        "1.5%",
+        "21.7 MW",
+        "$4.36/W"
+      ],
+      "countyName": "Garfield County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/garfield-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pitkin County",
+        "351",
+        "2.6%",
+        "13.2 MW",
+        "$3.96/W"
+      ],
+      "countyName": "Pitkin County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/pitkin-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Rio Blanco County",
+        "292",
+        "8.9%",
+        "39.3 MW",
+        "$4.49/W"
+      ],
+      "countyName": "Rio Blanco County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/rio-blanco-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Alamosa County",
+        "269",
+        "3.8%",
+        "195.4 MW",
+        "$4.22/W"
+      ],
+      "countyName": "Alamosa County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/alamosa-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Logan County",
+        "157",
+        "1.8%",
+        "59.6 MW",
+        "$4.75/W"
+      ],
+      "countyName": "Logan County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/logan-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Rio Grande County",
+        "135",
+        "2.1%",
+        "3.7 MW",
+        "$3.69/W"
+      ],
+      "countyName": "Rio Grande County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/rio-grande-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lake County",
+        "94",
+        "2.3%",
+        "1.4 MW",
+        "$4.16/W"
+      ],
+      "countyName": "Lake County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/lake-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Morgan County",
+        "92",
+        "0.79%",
+        "19.3 MW",
+        "$5.26/W"
+      ],
+      "countyName": "Morgan County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/morgan-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Park County",
+        "91",
+        "0.63%",
+        "538 kW",
+        "$5.25/W"
+      ],
+      "countyName": "Park County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/park-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Conejos County",
+        "80",
+        "2.0%",
+        "13.2 MW",
+        "$3.94/W"
+      ],
+      "countyName": "Conejos County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/conejos-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Saguache County",
+        "35",
+        "0.91%",
+        "3.6 MW",
+        "$3.55/W"
+      ],
+      "countyName": "Saguache County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/saguache-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Costilla County",
+        "30",
+        "1.2%",
+        "181 kW",
+        "$4.26/W"
+      ],
+      "countyName": "Costilla County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/costilla-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Eagle County",
+        "24",
+        "0.07%",
+        "160 kW",
+        "—"
+      ],
+      "countyName": "Eagle County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/eagle-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "El Paso County",
+        "19",
+        "0.01%",
+        "161.8 MW",
+        "—"
+      ],
+      "countyName": "El Paso County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/el-paso-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pueblo County",
+        "15",
+        "0.02%",
+        "25.1 MW",
+        "—"
+      ],
+      "countyName": "Pueblo County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/pueblo-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Gilpin Countylimited",
+        "6",
+        "0.16%",
+        "34 kW",
+        "—"
+      ],
+      "countyName": "Gilpin County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/gilpin-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Grand Countylimited",
+        "4",
+        "0.02%",
+        "1.3 MW",
+        "—"
+      ],
+      "countyName": "Grand County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/grand-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Montrose Countylimited",
+        "4",
+        "0.02%",
+        "12.2 MW",
+        "—"
+      ],
+      "countyName": "Montrose County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/montrose-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bent Countylimited",
+        "3",
+        "0.14%",
+        "19 kW",
+        "—"
+      ],
+      "countyName": "Bent County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/bent-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "La Plata Countylimited",
+        "3",
+        "0.01%",
+        "4.8 MW",
+        "—"
+      ],
+      "countyName": "La Plata County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/la-plata-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Las Animas Countylimited",
+        "3",
+        "0.04%",
+        "37.9 MW",
+        "—"
+      ],
+      "countyName": "Las Animas County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/las-animas-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Moffat Countylimited",
+        "3",
+        "0.05%",
+        "5.8 MW",
+        "—"
+      ],
+      "countyName": "Moffat County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/moffat-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Montezuma Countylimited",
+        "3",
+        "0.02%",
+        "9.8 MW",
+        "—"
+      ],
+      "countyName": "Montezuma County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/montezuma-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Fremont Countylimited",
+        "2",
+        "0.01%",
+        "2.6 MW",
+        "—"
+      ],
+      "countyName": "Fremont County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/fremont-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Baca Countylimited",
+        "1",
+        "0.05%",
+        "5.0 MW",
+        "—"
+      ],
+      "countyName": "Baca County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/baca-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Delta Countylimited",
+        "1",
+        "0.01%",
+        "10 kW",
+        "—"
+      ],
+      "countyName": "Delta County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/delta-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Elbert Countylimited",
+        "1",
+        "0.01%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Elbert County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/elbert-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jackson Countylimited",
+        "1",
+        "0.09%",
+        "1.3 MW",
+        "—"
+      ],
+      "countyName": "Jackson County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/jackson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Otero Countylimited",
+        "1",
+        "0.01%",
+        "2.0 MW",
+        "—"
+      ],
+      "countyName": "Otero County",
+      "countyUrl": "https://panelcensus.com/solar/colorado/otero-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

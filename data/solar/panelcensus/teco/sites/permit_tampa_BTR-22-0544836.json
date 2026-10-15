@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0544836",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0544836",
+  "listingPageNumber": 21,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jan 20, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:47.015Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1310, -82.3454",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1310296&mlon=-82.3454233#map=17/28.1310296/-82.3454233",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0544836",
+  "siteName": "17802 Grey Brooke Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1310296,
+  "longitude": -82.3454233,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

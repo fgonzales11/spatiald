@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560050",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560050",
+  "listingPageNumber": 5,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 3, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:36:11.510Z",
+  "siteName": "4322 N River View Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9796, -82.4779",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9796007&mlon=-82.4779141#map=17/27.9796007/-82.4779141",
+  "recordId": "permit_tampa_BTR-23-0560050",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.9796007,
+  "longitude": -82.4779141,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0558810",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0558810",
+  "listingPageNumber": 6,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "7.6 kW",
+    "Oct 10, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:51:59.980Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0117, -82.4777",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0117257&mlon=-82.477721#map=17/28.0117257/-82.477721",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0558810",
+  "siteName": "1815 W Norfolk St (ACA)",
+  "sizeDisplay": "7.6 kW",
+  "latitude": 28.0117257,
+  "longitude": -82.477721,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 7.6,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

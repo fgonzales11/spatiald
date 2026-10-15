@@ -1,0 +1,132 @@
+{
+  "state": {
+    "code": "LA",
+    "name": "Louisiana",
+    "slug": "louisiana"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/louisiana",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:36.645Z",
+  "renderedHtmlSha256": "4fcafe28ae31be7ab9462de9dcb3ddd42674cc1aeb7d1c6ef22bf5a6a0e9fb6a",
+  "heading": "Solar installations in Louisiana",
+  "documentTitle": "Solar in Louisiana — 41,415 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "41,415",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Louisiana",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Orleans Parish",
+        "39,706",
+        "20.4%",
+        "508.4 MW",
+        "—"
+      ],
+      "countyName": "Orleans Parish",
+      "countyUrl": "https://panelcensus.com/solar/louisiana/orleans-parish",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Morehouse Parishlimited",
+        "2",
+        "0.02%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Morehouse Parish",
+      "countyUrl": "https://panelcensus.com/solar/louisiana/morehouse-parish",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Washington Parishlimited",
+        "2",
+        "0.01%",
+        "83.2 MW",
+        "—"
+      ],
+      "countyName": "Washington Parish",
+      "countyUrl": "https://panelcensus.com/solar/louisiana/washington-parish",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "West Baton Rouge Parishlimited",
+        "2",
+        "0.02%",
+        "75.5 MW",
+        "—"
+      ],
+      "countyName": "West Baton Rouge Parish",
+      "countyUrl": "https://panelcensus.com/solar/louisiana/west-baton-rouge-parish",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pointe Coupee Parishlimited",
+        "1",
+        "0.01%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Pointe Coupee Parish",
+      "countyUrl": "https://panelcensus.com/solar/louisiana/pointe-coupee-parish",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "St. James Parishlimited",
+        "1",
+        "0.01%",
+        "35.0 MW",
+        "—"
+      ],
+      "countyName": "St. James Parish",
+      "countyUrl": "https://panelcensus.com/solar/louisiana/st-james-parish",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "St. Landry Parishlimited",
+        "1",
+        "0.00%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "St. Landry Parish",
+      "countyUrl": "https://panelcensus.com/solar/louisiana/st-landry-parish",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Vernon Parishlimited",
+        "1",
+        "0.01%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Vernon Parish",
+      "countyUrl": "https://panelcensus.com/solar/louisiana/vernon-parish",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

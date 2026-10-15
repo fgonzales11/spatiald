@@ -1,0 +1,1354 @@
+{
+  "state": {
+    "code": "IL",
+    "name": "Illinois",
+    "slug": "illinois"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/illinois",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:34.759Z",
+  "renderedHtmlSha256": "b1bb46f13fd58d3034104bc52b47458beb4aaf9e8e52c5557745bc9489f65cea",
+  "heading": "Solar installations in Illinois",
+  "documentTitle": "Solar in Illinois — 115,105 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "115,105",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Illinois",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Cook County",
+        "34,924",
+        "1.5%",
+        "862.3 MW",
+        "—"
+      ],
+      "countyName": "Cook County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/cook-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Will County",
+        "8,058",
+        "3.2%",
+        "265.6 MW",
+        "—"
+      ],
+      "countyName": "Will County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/will-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "DuPage County",
+        "7,202",
+        "2.0%",
+        "149.6 MW",
+        "—"
+      ],
+      "countyName": "DuPage County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/dupage-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lake County",
+        "6,386",
+        "2.4%",
+        "157.6 MW",
+        "—"
+      ],
+      "countyName": "Lake County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/lake-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kane County",
+        "4,407",
+        "2.3%",
+        "121.6 MW",
+        "—"
+      ],
+      "countyName": "Kane County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/kane-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Winnebago County",
+        "3,862",
+        "3.1%",
+        "200.9 MW",
+        "—"
+      ],
+      "countyName": "Winnebago County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/winnebago-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "McHenry County",
+        "3,484",
+        "2.9%",
+        "239.8 MW",
+        "—"
+      ],
+      "countyName": "McHenry County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/mchenry-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Champaign County",
+        "3,091",
+        "3.3%",
+        "160.9 MW",
+        "—"
+      ],
+      "countyName": "Champaign County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/champaign-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Tazewell County",
+        "2,919",
+        "5.0%",
+        "87.3 MW",
+        "—"
+      ],
+      "countyName": "Tazewell County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/tazewell-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Peoria County",
+        "2,713",
+        "3.2%",
+        "103.9 MW",
+        "—"
+      ],
+      "countyName": "Peoria County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/peoria-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Madison County",
+        "2,405",
+        "2.0%",
+        "142.8 MW",
+        "—"
+      ],
+      "countyName": "Madison County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/madison-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "St. Clair County",
+        "2,333",
+        "2.0%",
+        "149.7 MW",
+        "—"
+      ],
+      "countyName": "St. Clair County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/st-clair-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kendall County",
+        "2,216",
+        "4.8%",
+        "52.9 MW",
+        "—"
+      ],
+      "countyName": "Kendall County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/kendall-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "McLean County",
+        "1,599",
+        "2.1%",
+        "51.2 MW",
+        "—"
+      ],
+      "countyName": "McLean County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/mclean-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sangamon County",
+        "1,248",
+        "1.3%",
+        "35.2 MW",
+        "—"
+      ],
+      "countyName": "Sangamon County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/sangamon-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "DeKalb County",
+        "1,184",
+        "2.9%",
+        "220.0 MW",
+        "—"
+      ],
+      "countyName": "DeKalb County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/dekalb-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Boone County",
+        "1,073",
+        "5.3%",
+        "62.3 MW",
+        "—"
+      ],
+      "countyName": "Boone County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/boone-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Ogle County",
+        "1,027",
+        "4.5%",
+        "65.4 MW",
+        "—"
+      ],
+      "countyName": "Ogle County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/ogle-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Stephenson County",
+        "1,027",
+        "4.8%",
+        "199.5 MW",
+        "—"
+      ],
+      "countyName": "Stephenson County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/stephenson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kankakee County",
+        "794",
+        "1.7%",
+        "253.5 MW",
+        "—"
+      ],
+      "countyName": "Kankakee County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/kankakee-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jo Daviess County",
+        "780",
+        "5.8%",
+        "40.4 MW",
+        "—"
+      ],
+      "countyName": "Jo Daviess County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/jo-daviess-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Woodford County",
+        "766",
+        "4.9%",
+        "51.1 MW",
+        "—"
+      ],
+      "countyName": "Woodford County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/woodford-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Williamson County",
+        "746",
+        "2.3%",
+        "70.1 MW",
+        "—"
+      ],
+      "countyName": "Williamson County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/williamson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "LaSalle County",
+        "728",
+        "1.5%",
+        "103.9 MW",
+        "—"
+      ],
+      "countyName": "LaSalle County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/lasalle-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Adams County",
+        "685",
+        "2.3%",
+        "20.4 MW",
+        "—"
+      ],
+      "countyName": "Adams County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/adams-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Whiteside County",
+        "672",
+        "2.6%",
+        "164.7 MW",
+        "—"
+      ],
+      "countyName": "Whiteside County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/whiteside-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Henry County",
+        "638",
+        "2.9%",
+        "33.4 MW",
+        "—"
+      ],
+      "countyName": "Henry County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/henry-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Macon County",
+        "624",
+        "1.3%",
+        "49.8 MW",
+        "—"
+      ],
+      "countyName": "Macon County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/macon-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Montgomery County",
+        "612",
+        "4.9%",
+        "78.6 MW",
+        "—"
+      ],
+      "countyName": "Montgomery County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/montgomery-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clinton County",
+        "587",
+        "3.7%",
+        "48.3 MW",
+        "—"
+      ],
+      "countyName": "Clinton County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/clinton-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Knox County",
+        "584",
+        "2.5%",
+        "72.3 MW",
+        "—"
+      ],
+      "countyName": "Knox County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/knox-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Macoupin County",
+        "582",
+        "2.8%",
+        "45.0 MW",
+        "—"
+      ],
+      "countyName": "Macoupin County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/macoupin-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Fulton County",
+        "518",
+        "3.3%",
+        "32.6 MW",
+        "—"
+      ],
+      "countyName": "Fulton County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/fulton-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Livingston County",
+        "510",
+        "3.2%",
+        "153.2 MW",
+        "—"
+      ],
+      "countyName": "Livingston County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/livingston-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Vermilion County",
+        "493",
+        "1.4%",
+        "65.7 MW",
+        "—"
+      ],
+      "countyName": "Vermilion County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/vermilion-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jackson County",
+        "484",
+        "1.7%",
+        "19.4 MW",
+        "—"
+      ],
+      "countyName": "Jackson County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/jackson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Carroll County",
+        "462",
+        "5.6%",
+        "12.0 MW",
+        "—"
+      ],
+      "countyName": "Carroll County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/carroll-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lee County",
+        "457",
+        "3.0%",
+        "47.5 MW",
+        "—"
+      ],
+      "countyName": "Lee County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/lee-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hancock County",
+        "443",
+        "4.9%",
+        "35.0 MW",
+        "—"
+      ],
+      "countyName": "Hancock County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/hancock-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Christian County",
+        "435",
+        "2.9%",
+        "42.8 MW",
+        "—"
+      ],
+      "countyName": "Christian County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/christian-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Morgan County",
+        "384",
+        "2.6%",
+        "85.1 MW",
+        "—"
+      ],
+      "countyName": "Morgan County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/morgan-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Monroe County",
+        "357",
+        "2.4%",
+        "8.6 MW",
+        "—"
+      ],
+      "countyName": "Monroe County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/monroe-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Rock Island County",
+        "355",
+        "0.53%",
+        "16.7 MW",
+        "—"
+      ],
+      "countyName": "Rock Island County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/rock-island-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Logan County",
+        "341",
+        "2.8%",
+        "122.5 MW",
+        "—"
+      ],
+      "countyName": "Logan County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/logan-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bureau County",
+        "324",
+        "2.1%",
+        "68.2 MW",
+        "—"
+      ],
+      "countyName": "Bureau County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/bureau-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Effingham County",
+        "315",
+        "2.1%",
+        "10.2 MW",
+        "—"
+      ],
+      "countyName": "Effingham County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/effingham-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Grundy County",
+        "313",
+        "1.5%",
+        "53.4 MW",
+        "—"
+      ],
+      "countyName": "Grundy County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/grundy-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Piatt County",
+        "308",
+        "4.2%",
+        "13.3 MW",
+        "—"
+      ],
+      "countyName": "Piatt County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/piatt-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Randolph County",
+        "305",
+        "2.3%",
+        "30.9 MW",
+        "—"
+      ],
+      "countyName": "Randolph County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/randolph-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bond County",
+        "294",
+        "4.3%",
+        "7.2 MW",
+        "—"
+      ],
+      "countyName": "Bond County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/bond-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Mercer County",
+        "282",
+        "3.9%",
+        "20.6 MW",
+        "—"
+      ],
+      "countyName": "Mercer County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/mercer-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Perry County",
+        "268",
+        "2.9%",
+        "87.3 MW",
+        "—"
+      ],
+      "countyName": "Perry County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/perry-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Marion County",
+        "267",
+        "1.5%",
+        "29.2 MW",
+        "—"
+      ],
+      "countyName": "Marion County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/marion-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "McDonough County",
+        "252",
+        "1.9%",
+        "38.7 MW",
+        "—"
+      ],
+      "countyName": "McDonough County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/mcdonough-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jersey County",
+        "245",
+        "2.5%",
+        "11.6 MW",
+        "—"
+      ],
+      "countyName": "Jersey County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/jersey-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Saline County",
+        "233",
+        "2.0%",
+        "9.7 MW",
+        "—"
+      ],
+      "countyName": "Saline County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/saline-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Franklin County",
+        "232",
+        "1.3%",
+        "14.9 MW",
+        "—"
+      ],
+      "countyName": "Franklin County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/franklin-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Coles County",
+        "231",
+        "1.0%",
+        "28.5 MW",
+        "—"
+      ],
+      "countyName": "Coles County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/coles-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Washington County",
+        "231",
+        "3.6%",
+        "7.3 MW",
+        "—"
+      ],
+      "countyName": "Washington County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/washington-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Ford County",
+        "209",
+        "3.3%",
+        "12.2 MW",
+        "—"
+      ],
+      "countyName": "Ford County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/ford-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Fayette County",
+        "206",
+        "2.3%",
+        "33.7 MW",
+        "—"
+      ],
+      "countyName": "Fayette County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/fayette-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Douglas County",
+        "196",
+        "2.3%",
+        "35.7 MW",
+        "—"
+      ],
+      "countyName": "Douglas County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/douglas-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Iroquois County",
+        "177",
+        "1.4%",
+        "18.6 MW",
+        "—"
+      ],
+      "countyName": "Iroquois County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/iroquois-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jefferson County",
+        "177",
+        "1.1%",
+        "20.6 MW",
+        "—"
+      ],
+      "countyName": "Jefferson County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/jefferson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Warren County",
+        "174",
+        "2.3%",
+        "39.4 MW",
+        "—"
+      ],
+      "countyName": "Warren County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/warren-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Marshall County",
+        "164",
+        "2.8%",
+        "30.0 MW",
+        "—"
+      ],
+      "countyName": "Marshall County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/marshall-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Stark County",
+        "159",
+        "6.2%",
+        "4.1 MW",
+        "—"
+      ],
+      "countyName": "Stark County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/stark-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Menard County",
+        "148",
+        "2.6%",
+        "1.9 MW",
+        "—"
+      ],
+      "countyName": "Menard County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/menard-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Edgar County",
+        "143",
+        "1.7%",
+        "21.6 MW",
+        "—"
+      ],
+      "countyName": "Edgar County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/edgar-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Mason County",
+        "142",
+        "2.1%",
+        "11.5 MW",
+        "—"
+      ],
+      "countyName": "Mason County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/mason-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "De Witt County",
+        "133",
+        "1.8%",
+        "3.9 MW",
+        "—"
+      ],
+      "countyName": "De Witt County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/de-witt-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cass County",
+        "130",
+        "2.3%",
+        "18.5 MW",
+        "—"
+      ],
+      "countyName": "Cass County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/cass-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Shelby County",
+        "129",
+        "1.3%",
+        "2.1 MW",
+        "—"
+      ],
+      "countyName": "Shelby County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/shelby-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pike County",
+        "123",
+        "1.7%",
+        "7.2 MW",
+        "—"
+      ],
+      "countyName": "Pike County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/pike-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Union County",
+        "121",
+        "1.5%",
+        "3.5 MW",
+        "—"
+      ],
+      "countyName": "Union County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/union-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Greene County",
+        "107",
+        "1.8%",
+        "4.6 MW",
+        "—"
+      ],
+      "countyName": "Greene County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/greene-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Henderson County",
+        "93",
+        "2.8%",
+        "6.1 MW",
+        "—"
+      ],
+      "countyName": "Henderson County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/henderson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Richland County",
+        "89",
+        "1.2%",
+        "9.5 MW",
+        "—"
+      ],
+      "countyName": "Richland County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/richland-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Crawford County",
+        "86",
+        "1.0%",
+        "15.6 MW",
+        "—"
+      ],
+      "countyName": "Crawford County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/crawford-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lawrence County",
+        "68",
+        "1.1%",
+        "27.2 MW",
+        "—"
+      ],
+      "countyName": "Lawrence County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/lawrence-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Putnam County",
+        "66",
+        "2.2%",
+        "17.8 MW",
+        "—"
+      ],
+      "countyName": "Putnam County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/putnam-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wabash County",
+        "57",
+        "1.1%",
+        "954 kW",
+        "—"
+      ],
+      "countyName": "Wabash County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/wabash-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Johnson County",
+        "56",
+        "1.0%",
+        "3.8 MW",
+        "—"
+      ],
+      "countyName": "Johnson County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/johnson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Schuyler County",
+        "55",
+        "1.7%",
+        "9.0 MW",
+        "—"
+      ],
+      "countyName": "Schuyler County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/schuyler-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cumberland County",
+        "53",
+        "1.1%",
+        "16.8 MW",
+        "—"
+      ],
+      "countyName": "Cumberland County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/cumberland-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "White County",
+        "53",
+        "0.79%",
+        "3.8 MW",
+        "—"
+      ],
+      "countyName": "White County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/white-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Brown County",
+        "51",
+        "2.2%",
+        "541 kW",
+        "—"
+      ],
+      "countyName": "Brown County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/brown-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jasper County",
+        "50",
+        "1.2%",
+        "1.9 MW",
+        "—"
+      ],
+      "countyName": "Jasper County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/jasper-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Moultrie County",
+        "50",
+        "0.81%",
+        "1.1 MW",
+        "—"
+      ],
+      "countyName": "Moultrie County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/moultrie-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Scott County",
+        "50",
+        "2.1%",
+        "596 kW",
+        "—"
+      ],
+      "countyName": "Scott County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/scott-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clay County",
+        "47",
+        "0.77%",
+        "18.5 MW",
+        "—"
+      ],
+      "countyName": "Clay County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/clay-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Gallatin County",
+        "46",
+        "1.8%",
+        "4.3 MW",
+        "—"
+      ],
+      "countyName": "Gallatin County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/gallatin-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clark County",
+        "45",
+        "0.61%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Clark County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/clark-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pope County",
+        "37",
+        "1.6%",
+        "533 kW",
+        "—"
+      ],
+      "countyName": "Pope County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/pope-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hamilton County",
+        "35",
+        "0.92%",
+        "772 kW",
+        "—"
+      ],
+      "countyName": "Hamilton County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/hamilton-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wayne County",
+        "32",
+        "0.42%",
+        "796 kW",
+        "—"
+      ],
+      "countyName": "Wayne County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/wayne-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Edwards County",
+        "23",
+        "0.76%",
+        "417 kW",
+        "—"
+      ],
+      "countyName": "Edwards County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/edwards-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Calhoun County",
+        "21",
+        "0.91%",
+        "244 kW",
+        "—"
+      ],
+      "countyName": "Calhoun County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/calhoun-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Massac County",
+        "20",
+        "0.29%",
+        "235 kW",
+        "—"
+      ],
+      "countyName": "Massac County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/massac-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Alexander County",
+        "17",
+        "0.57%",
+        "5.8 MW",
+        "—"
+      ],
+      "countyName": "Alexander County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/alexander-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hardin County",
+        "17",
+        "0.74%",
+        "321 kW",
+        "—"
+      ],
+      "countyName": "Hardin County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/hardin-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pulaski County",
+        "13",
+        "0.46%",
+        "6.1 MW",
+        "—"
+      ],
+      "countyName": "Pulaski County",
+      "countyUrl": "https://panelcensus.com/solar/illinois/pulaski-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    }
+  ]
+}

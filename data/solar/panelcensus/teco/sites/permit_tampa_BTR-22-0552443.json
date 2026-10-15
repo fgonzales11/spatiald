@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0552443",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0552443",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "4.7 kW",
+    "Jun 13, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:26.095Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0126, -82.4564",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0125784&mlon=-82.4563808#map=17/28.0125784/-82.4563808",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0552443",
+  "siteName": "7105 N Navin Ave (ACA)",
+  "sizeDisplay": "4.7 kW",
+  "latitude": 28.0125784,
+  "longitude": -82.4563808,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 4.7,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

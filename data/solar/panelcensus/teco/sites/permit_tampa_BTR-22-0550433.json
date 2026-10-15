@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0550433",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0550433",
+  "listingPageNumber": 16,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "May 6, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:59:49.784Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0363, -82.4287",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0363089&mlon=-82.428724#map=17/28.0363089/-82.428724",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0550433",
+  "siteName": "2704 E Annie St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0363089,
+  "longitude": -82.428724,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

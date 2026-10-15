@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556895",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556895",
+  "listingPageNumber": 9,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "7.8 kW",
+    "Aug 29, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:53:25.928Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9941, -82.4423",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9940838&mlon=-82.442258#map=17/27.9940838/-82.442258",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556895",
+  "siteName": "1509 E Shadowlawn Ave (ACA)",
+  "sizeDisplay": "7.8 kW",
+  "latitude": 27.9940838,
+  "longitude": -82.442258,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 7.8,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

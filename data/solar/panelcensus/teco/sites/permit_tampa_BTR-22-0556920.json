@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556920",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556920",
+  "listingPageNumber": 9,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Aug 29, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:53:29.054Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9239, -82.5072",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9238891&mlon=-82.5071764#map=17/27.9238891/-82.5071764",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556920",
+  "siteName": "3815 W San Carlos St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9238891,
+  "longitude": -82.5071764,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

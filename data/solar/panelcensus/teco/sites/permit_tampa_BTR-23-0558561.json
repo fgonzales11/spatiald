@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0558561",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0558561",
+  "listingPageNumber": 7,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "8.8 kW",
+    "Oct 5, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:52:11.381Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0464, -82.4396",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0463555&mlon=-82.4395652#map=17/28.0463555/-82.4395652",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0558561",
+  "siteName": "1818 Heather Ave (ACA)",
+  "sizeDisplay": "8.8 kW",
+  "latitude": 28.0463555,
+  "longitude": -82.4395652,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 8.8,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

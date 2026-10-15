@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555867",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555867",
+  "listingPageNumber": 10,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "6.9 kW",
+    "Aug 10, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:30.723Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0035, -82.4555",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0035069&mlon=-82.4554718#map=17/28.0035069/-82.4554718",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555867",
+  "siteName": "6210 N Central Ave (ACA)",
+  "sizeDisplay": "6.9 kW",
+  "latitude": 28.0035069,
+  "longitude": -82.4554718,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 6.9,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

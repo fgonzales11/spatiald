@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556111",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556111",
+  "listingPageNumber": 23,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "6.4 kW",
+    "—",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:37.040Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1050, -82.3965",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1049548&mlon=-82.3964846#map=17/28.1049548/-82.3964846",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556111",
+  "siteName": "5018 Campton Ct (ACA)",
+  "sizeDisplay": "6.4 kW",
+  "latitude": 28.1049548,
+  "longitude": -82.3964846,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 6.4,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

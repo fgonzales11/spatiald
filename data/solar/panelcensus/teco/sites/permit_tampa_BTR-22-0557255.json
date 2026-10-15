@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0557255",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557255",
+  "listingPageNumber": 8,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Sep 6, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:53:17.018Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0524, -82.4391",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0524131&mlon=-82.439078#map=17/28.0524131/-82.439078",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0557255",
+  "siteName": "1802 E 115th Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0524131,
+  "longitude": -82.439078,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

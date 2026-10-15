@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0549831",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0549831",
+  "listingPageNumber": 16,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "9.3 kW",
+    "Apr 26, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:00:00.816Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0309, -82.4044",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0308737&mlon=-82.4044346#map=17/28.0308737/-82.4044346",
+  "parties": [
+    {
+      "name": "Jeydy Investments INC",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0549831",
+  "siteName": "8744 Busch Oaks St (ACA)",
+  "sizeDisplay": "9.3 kW",
+  "latitude": 28.0308737,
+  "longitude": -82.4044346,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 9.3,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

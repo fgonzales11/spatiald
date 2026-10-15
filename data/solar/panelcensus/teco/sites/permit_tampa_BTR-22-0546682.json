@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0546682",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0546682",
+  "listingPageNumber": 20,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Feb 25, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:31.320Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0463, -82.4615",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0463164&mlon=-82.4615394#map=17/28.0463164/-82.4615394",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0546682",
+  "siteName": "214 W 108th Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0463164,
+  "longitude": -82.4615394,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

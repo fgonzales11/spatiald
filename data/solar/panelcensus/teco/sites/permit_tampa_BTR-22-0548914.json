@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0548914",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0548914",
+  "listingPageNumber": 17,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Apr 7, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:00:55.291Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8892, -82.5003",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.889223&mlon=-82.5003405#map=17/27.889223/-82.5003405",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0548914",
+  "siteName": "3411 W Cherokee Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.889223,
+  "longitude": -82.5003405,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555763",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555763",
+  "listingPageNumber": 10,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "48 kW",
+    "Aug 9, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:33.524Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9180, -82.5317",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9180355&mlon=-82.5317006#map=17/27.9180355/-82.5317006",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555763",
+  "siteName": "5113 W Homer Ave (ACA)",
+  "sizeDisplay": "48 kW",
+  "latitude": 27.9180355,
+  "longitude": -82.5317006,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 48,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

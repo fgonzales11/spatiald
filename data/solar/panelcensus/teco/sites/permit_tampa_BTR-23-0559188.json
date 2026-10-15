@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559188",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559188",
+  "listingPageNumber": 6,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Oct 17, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:51:09.929Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0149, -82.4394",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0149112&mlon=-82.4393752#map=17/28.0149112/-82.4393752",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0559188",
+  "siteName": "1901 E Crenshaw St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0149112,
+  "longitude": -82.4393752,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

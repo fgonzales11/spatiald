@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BLD-22-0496282",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BLD-22-0496282",
+  "listingPageNumber": 23,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "—",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:39.715Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9841, -82.4767",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9840767&mlon=-82.4767393#map=17/27.9840767/-82.4767393",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BLD-22-0496282",
+  "siteName": "*SEE BTR-22-0558120***",
+  "sizeDisplay": "—",
+  "latitude": 27.9840767,
+  "longitude": -82.4767393,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

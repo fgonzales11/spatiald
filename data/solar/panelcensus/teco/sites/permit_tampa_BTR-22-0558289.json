@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0558289",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0558289",
+  "listingPageNumber": 7,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Sep 29, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:52:15.164Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9660, -82.3950",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9660461&mlon=-82.395021#map=17/27.9660461/-82.395021",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0558289",
+  "siteName": "2521 N 54th St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9660461,
+  "longitude": -82.395021,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

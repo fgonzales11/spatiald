@@ -1,0 +1,54 @@
+{
+  "state": {
+    "code": "ND",
+    "name": "North Dakota",
+    "slug": "north-dakota"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/north-dakota",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:41.954Z",
+  "renderedHtmlSha256": "676e9d0cc87f3dcc9d996e54404127a39cf758ea27be769902e8a5263f634432",
+  "heading": "Solar installations in North Dakota",
+  "documentTitle": "Solar in North Dakota — 1 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "1",
+  "stateCapacityDisplay": null,
+  "underReported": true,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in North Dakota",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Bottineau Countylimited",
+        "1",
+        "0.03%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Bottineau County",
+      "countyUrl": "https://panelcensus.com/solar/north-dakota/bottineau-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "McHenry Countylimited",
+        "1",
+        "0.04%",
+        "8 kW",
+        "—"
+      ],
+      "countyName": "McHenry County",
+      "countyUrl": "https://panelcensus.com/solar/north-dakota/mchenry-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

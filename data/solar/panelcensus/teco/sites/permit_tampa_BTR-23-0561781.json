@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561781",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561781",
+  "listingPageNumber": 2,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 13, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:35.269Z",
+  "siteName": "6109 River Ter (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0027, -82.4699",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0027374&mlon=-82.4698791#map=17/28.0027374/-82.4698791",
+  "recordId": "permit_tampa_BTR-23-0561781",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.0027374,
+  "longitude": -82.4698791,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

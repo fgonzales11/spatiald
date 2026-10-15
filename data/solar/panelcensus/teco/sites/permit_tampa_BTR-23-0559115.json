@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559115",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559115",
+  "listingPageNumber": 6,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Oct 14, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:51:10.426Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9838, -82.4595",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9837881&mlon=-82.4595252#map=17/27.9837881/-82.4595252",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0559115",
+  "siteName": "105 W Alva St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9837881,
+  "longitude": -82.4595252,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0557857",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557857",
+  "listingPageNumber": 8,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Sep 19, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:52:59.418Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1357, -82.3686",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1357214&mlon=-82.3685747#map=17/28.1357214/-82.3685747",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0557857",
+  "siteName": "18119 Antietam Ct (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1357214,
+  "longitude": -82.3685747,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0551487",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0551487",
+  "listingPageNumber": 15,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "May 26, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:49.709Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1682, -82.3077",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1681694&mlon=-82.3076894#map=17/28.1681694/-82.3076894",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0551487",
+  "siteName": "19516 Whispering Brook Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1681694,
+  "longitude": -82.3076894,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

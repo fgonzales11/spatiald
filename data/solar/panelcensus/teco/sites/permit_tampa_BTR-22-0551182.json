@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0551182",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0551182",
+  "listingPageNumber": 15,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "May 20, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:57.646Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9704, -82.4915",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9704341&mlon=-82.4915087#map=17/27.9704341/-82.4915087",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0551182",
+  "siteName": "3021 W Abdella St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9704341,
+  "longitude": -82.4915087,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

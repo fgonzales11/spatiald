@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556096",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556096",
+  "listingPageNumber": 10,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "920 kW",
+    "Aug 15, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:23.718Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9778, -82.4302",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9777605&mlon=-82.4302468#map=17/27.9777605/-82.4302468",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556096",
+  "siteName": "2617 E Lake Ave (ACA)",
+  "sizeDisplay": "920 kW",
+  "latitude": 27.9777605,
+  "longitude": -82.4302468,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 920,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0544535",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0544535",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jan 13, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:53.166Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9874, -82.4467",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9873866&mlon=-82.4467147#map=17/27.9873866/-82.4467147",
+  "parties": [
+    {
+      "name": "City OF Tampa",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0544535",
+  "siteName": "1214 E Palifox St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9873866,
+  "longitude": -82.4467147,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

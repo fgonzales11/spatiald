@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0558022",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0558022",
+  "listingPageNumber": 7,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Sep 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:52:51.440Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9670, -82.4521",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9669621&mlon=-82.4521028#map=17/27.9669621/-82.4521028",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0558022",
+  "siteName": "2708 N Mitchell Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9669621,
+  "longitude": -82.4521028,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

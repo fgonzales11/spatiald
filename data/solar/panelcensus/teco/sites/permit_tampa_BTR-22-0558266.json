@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0558266",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0558266",
+  "listingPageNumber": 7,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Sep 27, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:52:16.959Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0446, -82.4615",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0446101&mlon=-82.4615498#map=17/28.0446101/-82.4615498",
+  "parties": [
+    {
+      "name": "City OF Tampa",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0558266",
+  "siteName": "215 W Azalea Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0446101,
+  "longitude": -82.4615498,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

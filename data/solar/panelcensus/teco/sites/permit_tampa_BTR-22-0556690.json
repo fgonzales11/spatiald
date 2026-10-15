@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556690",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556690",
+  "listingPageNumber": 9,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Aug 24, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:02.097Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9976, -82.4804",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9976454&mlon=-82.480372#map=17/27.9976454/-82.480372",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556690",
+  "siteName": "5604 N Albany Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9976454,
+  "longitude": -82.480372,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

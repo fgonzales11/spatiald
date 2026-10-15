@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0546748",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0546748",
+  "listingPageNumber": 19,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Feb 28, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:27.574Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9696, -82.4955",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9696077&mlon=-82.4954572#map=17/27.9696077/-82.4954572",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0546748",
+  "siteName": "3210 W Ivy St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9696077,
+  "longitude": -82.4954572,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

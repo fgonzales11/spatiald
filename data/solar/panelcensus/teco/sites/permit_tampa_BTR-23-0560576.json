@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560576",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560576",
+  "listingPageNumber": 4,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "12.6 kW",
+    "Nov 15, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:35:17.160Z",
+  "siteName": "1905 W Lemon St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "12.6 kW",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9506, -82.4789",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.950633&mlon=-82.4789397#map=17/27.950633/-82.4789397",
+  "recordId": "permit_tampa_BTR-23-0560576",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 12.6,
+  "latitude": 27.950633,
+  "longitude": -82.4789397,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

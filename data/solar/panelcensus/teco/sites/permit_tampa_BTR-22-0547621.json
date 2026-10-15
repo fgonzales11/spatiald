@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0547621",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0547621",
+  "listingPageNumber": 18,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 15, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:01:31.120Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9719, -82.4488",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9718824&mlon=-82.4488354#map=17/27.9718824/-82.4488354",
+  "parties": [
+    {
+      "name": "Redfish Capital LLC",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0547621",
+  "siteName": "1011 E 23rd Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9718824,
+  "longitude": -82.4488354,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

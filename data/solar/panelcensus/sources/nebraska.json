@@ -1,0 +1,236 @@
+{
+  "state": {
+    "code": "NE",
+    "name": "Nebraska",
+    "slug": "nebraska"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/nebraska",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:39.695Z",
+  "renderedHtmlSha256": "8d6498315c8f4003918f2278dd129b21696944be55a3a20cae7d5ac97a0846f1",
+  "heading": "Solar installations in Nebraska",
+  "documentTitle": "Solar in Nebraska — 61 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "61",
+  "stateCapacityDisplay": null,
+  "underReported": true,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Nebraska",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Dodge Countylimited",
+        "5",
+        "0.03%",
+        "8.3 MW",
+        "—"
+      ],
+      "countyName": "Dodge County",
+      "countyUrl": "https://panelcensus.com/solar/nebraska/dodge-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Dawson Countylimited",
+        "3",
+        "0.03%",
+        "7.6 MW",
+        "—"
+      ],
+      "countyName": "Dawson County",
+      "countyUrl": "https://panelcensus.com/solar/nebraska/dawson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lancaster Countylimited",
+        "3",
+        "0.00%",
+        "10.8 MW",
+        "—"
+      ],
+      "countyName": "Lancaster County",
+      "countyUrl": "https://panelcensus.com/solar/nebraska/lancaster-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sioux Countylimited",
+        "3",
+        "0.44%",
+        "11.1 MW",
+        "—"
+      ],
+      "countyName": "Sioux County",
+      "countyUrl": "https://panelcensus.com/solar/nebraska/sioux-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Adams Countylimited",
+        "2",
+        "0.01%",
+        "4.0 MW",
+        "—"
+      ],
+      "countyName": "Adams County",
+      "countyUrl": "https://panelcensus.com/solar/nebraska/adams-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Buffalo Countylimited",
+        "2",
+        "0.01%",
+        "14.6 MW",
+        "—"
+      ],
+      "countyName": "Buffalo County",
+      "countyUrl": "https://panelcensus.com/solar/nebraska/buffalo-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Dakota Countylimited",
+        "2",
+        "0.03%",
+        "4.1 MW",
+        "—"
+      ],
+      "countyName": "Dakota County",
+      "countyUrl": "https://panelcensus.com/solar/nebraska/dakota-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Madison Countylimited",
+        "2",
+        "0.01%",
+        "23.4 MW",
+        "—"
+      ],
+      "countyName": "Madison County",
+      "countyUrl": "https://panelcensus.com/solar/nebraska/madison-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Washington Countylimited",
+        "2",
+        "0.02%",
+        "13.5 MW",
+        "—"
+      ],
+      "countyName": "Washington County",
+      "countyUrl": "https://panelcensus.com/solar/nebraska/washington-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Burt Countylimited",
+        "1",
+        "0.03%",
+        "900 kW",
+        "—"
+      ],
+      "countyName": "Burt County",
+      "countyUrl": "https://panelcensus.com/solar/nebraska/burt-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hall Countylimited",
+        "1",
+        "0.00%",
+        "12.4 MW",
+        "—"
+      ],
+      "countyName": "Hall County",
+      "countyUrl": "https://panelcensus.com/solar/nebraska/hall-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Howard Countylimited",
+        "1",
+        "0.04%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Howard County",
+      "countyUrl": "https://panelcensus.com/solar/nebraska/howard-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Polk Countylimited",
+        "1",
+        "0.04%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Polk County",
+      "countyUrl": "https://panelcensus.com/solar/nebraska/polk-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Saunders Countylimited",
+        "1",
+        "0.01%",
+        "81.0 MW",
+        "—"
+      ],
+      "countyName": "Saunders County",
+      "countyUrl": "https://panelcensus.com/solar/nebraska/saunders-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Seward Countylimited",
+        "1",
+        "0.01%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Seward County",
+      "countyUrl": "https://panelcensus.com/solar/nebraska/seward-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Thayer Countylimited",
+        "1",
+        "0.04%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Thayer County",
+      "countyUrl": "https://panelcensus.com/solar/nebraska/thayer-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

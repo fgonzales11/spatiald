@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560781",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560781",
+  "listingPageNumber": 4,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 18, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:34:43.631Z",
+  "siteName": "4503 E Yukon St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0289, -82.4109",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0288535&mlon=-82.410897#map=17/28.0288535/-82.410897",
+  "recordId": "permit_tampa_BTR-23-0560781",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.0288535,
+  "longitude": -82.410897,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

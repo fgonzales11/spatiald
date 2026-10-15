@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559059",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559059",
+  "listingPageNumber": 6,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "8.9 kW",
+    "Oct 13, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:51:47.806Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8809, -82.5107",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8809372&mlon=-82.5107047#map=17/27.8809372/-82.5107047",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0559059",
+  "siteName": "4012 W Iowa Ave (ACA)",
+  "sizeDisplay": "8.9 kW",
+  "latitude": 27.8809372,
+  "longitude": -82.5107047,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 8.9,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

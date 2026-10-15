@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0552128",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0552128",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "8.5 kW",
+    "Jun 8, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:30.329Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0375, -82.4028",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0375057&mlon=-82.4027953#map=17/28.0375057/-82.4027953",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0552128",
+  "siteName": "4901 E 97th Ave (ACA)",
+  "sizeDisplay": "8.5 kW",
+  "latitude": 28.0375057,
+  "longitude": -82.4027953,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 8.5,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

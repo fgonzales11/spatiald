@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0552427",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0552427",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 13, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:25.622Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1647, -82.2922",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1647388&mlon=-82.2922062#map=17/28.1647388/-82.2922062",
+  "parties": [
+    {
+      "name": "K-bar Ranch II Cdd",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0552427",
+  "siteName": "10806 Windswept Garden Way (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1647388,
+  "longitude": -82.2922062,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

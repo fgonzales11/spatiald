@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0553032",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0553032",
+  "listingPageNumber": 13,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 23, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:29.025Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9575, -82.4974",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9574827&mlon=-82.4974038#map=17/27.9574827/-82.4974038",
+  "parties": [
+    {
+      "name": "Dept OF Transportation",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0553032",
+  "siteName": "1704 N Lincoln Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9574827,
+  "longitude": -82.4974038,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

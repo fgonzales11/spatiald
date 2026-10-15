@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0557425",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557425",
+  "listingPageNumber": 8,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Sep 8, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:53:12.394Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8751, -82.5201",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8751237&mlon=-82.5200778#map=17/27.8751237/-82.5200778",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0557425",
+  "siteName": "6327 S Lansdale Cir (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.8751237,
+  "longitude": -82.5200778,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

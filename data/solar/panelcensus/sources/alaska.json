@@ -1,0 +1,54 @@
+{
+  "state": {
+    "code": "AK",
+    "name": "Alaska",
+    "slug": "alaska"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/alaska",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:30.976Z",
+  "renderedHtmlSha256": "dd14c2e310c7dcc49478ac3f3b873624c02ccd959a492bff45ae0f3b43275c7c",
+  "heading": "Solar installations in Alaska",
+  "documentTitle": "Solar in Alaska — 44 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "44",
+  "stateCapacityDisplay": null,
+  "underReported": true,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Alaska",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Matanuska-Susitna Boroughlimited",
+        "1",
+        "0.00%",
+        "8.4 MW",
+        "—"
+      ],
+      "countyName": "Matanuska-Susitna Borough",
+      "countyUrl": "https://panelcensus.com/solar/alaska/matanuska-susitna-borough",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Northwest Arctic Boroughlimited",
+        "1",
+        "0.04%",
+        "3.4 MW",
+        "—"
+      ],
+      "countyName": "Northwest Arctic Borough",
+      "countyUrl": "https://panelcensus.com/solar/alaska/northwest-arctic-borough",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

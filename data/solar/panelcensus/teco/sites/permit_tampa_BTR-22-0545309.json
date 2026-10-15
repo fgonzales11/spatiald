@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0545309",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0545309",
+  "listingPageNumber": 21,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jan 31, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:34.326Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0467, -82.4069",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0467125&mlon=-82.4068515#map=17/28.0467125/-82.4068515",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0545309",
+  "siteName": "10718 N Oklawaha Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0467125,
+  "longitude": -82.4068515,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

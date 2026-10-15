@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_TRE-22-0000714",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_TRE-22-0000714",
+  "listingPageNumber": 16,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Commercial",
+    "—",
+    "Apr 29, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:59:57.671Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Commercial",
+  "locationDisplay": "Location: 27.9998, -82.4204",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9998129&mlon=-82.420419#map=17/27.9998129/-82.420419",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_TRE-22-0000714",
+  "siteName": "Protected tree removal",
+  "sizeDisplay": "—",
+  "latitude": 27.9998129,
+  "longitude": -82.420419,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

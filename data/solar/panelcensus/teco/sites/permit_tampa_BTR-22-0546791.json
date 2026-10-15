@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0546791",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0546791",
+  "listingPageNumber": 19,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Feb 28, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:28.096Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0199, -82.4405",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0198781&mlon=-82.4404821#map=17/28.0198781/-82.4404821",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0546791",
+  "siteName": "1714 E River Cove St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0198781,
+  "longitude": -82.4404821,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

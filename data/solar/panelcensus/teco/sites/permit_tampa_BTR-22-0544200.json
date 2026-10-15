@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0544200",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0544200",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jan 6, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:22.471Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8832, -82.4913",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8831711&mlon=-82.4913169#map=17/27.8831711/-82.4913169",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0544200",
+  "siteName": "2902 W Trilby Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.8831711,
+  "longitude": -82.4913169,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

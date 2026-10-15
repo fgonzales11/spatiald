@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0553128",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0553128",
+  "listingPageNumber": 13,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "14.4 kW",
+    "Jun 24, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:28.473Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0234, -82.4153",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0234393&mlon=-82.4153198#map=17/28.0234393/-82.4153198",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0553128",
+  "siteName": "8309 N Greenwood Ave (ACA)",
+  "sizeDisplay": "14.4 kW",
+  "latitude": 28.0234393,
+  "longitude": -82.4153198,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 14.4,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

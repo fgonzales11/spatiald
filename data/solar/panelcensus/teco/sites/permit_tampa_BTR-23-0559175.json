@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559175",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559175",
+  "listingPageNumber": 6,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Oct 17, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:51:05.244Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9527, -82.4727",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9526514&mlon=-82.4726732#map=17/27.9526514/-82.4726732",
+  "parties": [
+    {
+      "name": "First Baptist Church OF West T",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0559175",
+  "siteName": "1302 W Grace St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9526514,
+  "longitude": -82.4726732,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

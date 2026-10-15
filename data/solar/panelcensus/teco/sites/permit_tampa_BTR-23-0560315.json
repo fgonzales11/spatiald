@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560315",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560315",
+  "listingPageNumber": 4,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 9, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:35:57.794Z",
+  "siteName": "17216 Broadoak Dr (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.1222, -82.3871",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1221579&mlon=-82.3870708#map=17/28.1221579/-82.3870708",
+  "recordId": "permit_tampa_BTR-23-0560315",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.1221579,
+  "longitude": -82.3870708,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

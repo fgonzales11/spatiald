@@ -1,0 +1,405 @@
+{
+  "state": {
+    "code": "KS",
+    "name": "Kansas",
+    "slug": "kansas"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/kansas",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:35.903Z",
+  "renderedHtmlSha256": "74abd67b40b6558282d3a032246619c49ec6e5ea3d5d79d76f37fafcac46f086",
+  "heading": "Solar installations in Kansas",
+  "documentTitle": "Solar in Kansas — 55 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "55",
+  "stateCapacityDisplay": null,
+  "underReported": true,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Kansas",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Johnson Countylimited",
+        "3",
+        "0.00%",
+        "99.7 MW",
+        "—"
+      ],
+      "countyName": "Johnson County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/johnson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pratt Countylimited",
+        "2",
+        "0.05%",
+        "9.1 MW",
+        "—"
+      ],
+      "countyName": "Pratt County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/pratt-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Reno Countylimited",
+        "2",
+        "0.01%",
+        "2.7 MW",
+        "—"
+      ],
+      "countyName": "Reno County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/reno-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sedgwick Countylimited",
+        "2",
+        "0.00%",
+        "2.8 MW",
+        "—"
+      ],
+      "countyName": "Sedgwick County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/sedgwick-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Shawnee Countylimited",
+        "2",
+        "0.00%",
+        "3.5 MW",
+        "—"
+      ],
+      "countyName": "Shawnee County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/shawnee-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Thomas Countylimited",
+        "2",
+        "0.06%",
+        "2.4 MW",
+        "—"
+      ],
+      "countyName": "Thomas County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/thomas-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wilson Countylimited",
+        "2",
+        "0.04%",
+        "3.4 MW",
+        "—"
+      ],
+      "countyName": "Wilson County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/wilson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wyandotte Countylimited",
+        "2",
+        "0.00%",
+        "2.6 MW",
+        "—"
+      ],
+      "countyName": "Wyandotte County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/wyandotte-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Butler Countylimited",
+        "1",
+        "0.00%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Butler County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/butler-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Chautauqua Countylimited",
+        "1",
+        "0.05%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Chautauqua County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/chautauqua-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Comanche Countylimited",
+        "1",
+        "0.10%",
+        "2.8 MW",
+        "—"
+      ],
+      "countyName": "Comanche County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/comanche-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Crawford Countylimited",
+        "1",
+        "0.01%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Crawford County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/crawford-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Douglas Countylimited",
+        "1",
+        "0.00%",
+        "1.7 MW",
+        "—"
+      ],
+      "countyName": "Douglas County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/douglas-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Geary Countylimited",
+        "1",
+        "0.01%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Geary County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/geary-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Harvey Countylimited",
+        "1",
+        "0.01%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Harvey County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/harvey-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jefferson Countylimited",
+        "1",
+        "0.01%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Jefferson County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/jefferson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kiowa Countylimited",
+        "1",
+        "0.09%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Kiowa County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/kiowa-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Labette Countylimited",
+        "1",
+        "0.01%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Labette County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/labette-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lyon Countylimited",
+        "1",
+        "0.01%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Lyon County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/lyon-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "McPherson Countylimited",
+        "1",
+        "0.01%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "McPherson County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/mcpherson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Marion Countylimited",
+        "1",
+        "0.02%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Marion County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/marion-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Miami Countylimited",
+        "1",
+        "0.01%",
+        "6.4 MW",
+        "—"
+      ],
+      "countyName": "Miami County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/miami-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Mitchell Countylimited",
+        "1",
+        "0.03%",
+        "2.6 MW",
+        "—"
+      ],
+      "countyName": "Mitchell County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/mitchell-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Neosho Countylimited",
+        "1",
+        "0.01%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Neosho County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/neosho-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Osage Countylimited",
+        "1",
+        "0.01%",
+        "2.1 MW",
+        "—"
+      ],
+      "countyName": "Osage County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/osage-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Ottawa Countylimited",
+        "1",
+        "0.04%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Ottawa County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/ottawa-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pottawatomie Countylimited",
+        "1",
+        "0.01%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Pottawatomie County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/pottawatomie-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Riley Countylimited",
+        "1",
+        "0.00%",
+        "1.8 MW",
+        "—"
+      ],
+      "countyName": "Riley County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/riley-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Stanton Countylimited",
+        "1",
+        "0.10%",
+        "27.5 MW",
+        "—"
+      ],
+      "countyName": "Stanton County",
+      "countyUrl": "https://panelcensus.com/solar/kansas/stanton-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

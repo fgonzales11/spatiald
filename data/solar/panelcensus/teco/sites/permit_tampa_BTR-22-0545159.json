@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0545159",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0545159",
+  "listingPageNumber": 21,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jan 27, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:39.481Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9836, -82.4216",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9835628&mlon=-82.4215626#map=17/27.9835628/-82.4215626",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0545159",
+  "siteName": "REISSUE - Solar system",
+  "sizeDisplay": "—",
+  "latitude": 27.9835628,
+  "longitude": -82.4215626,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

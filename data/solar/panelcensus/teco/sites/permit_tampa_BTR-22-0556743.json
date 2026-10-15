@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556743",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556743",
+  "listingPageNumber": 9,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "22.8 kW",
+    "Aug 25, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:00.558Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8793, -82.4857",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8793431&mlon=-82.4857148#map=17/27.8793431/-82.4857148",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556743",
+  "siteName": "Re-issued 5816 Bayshore Blvd (ACA)",
+  "sizeDisplay": "22.8 kW",
+  "latitude": 27.8793431,
+  "longitude": -82.4857148,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 22.8,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

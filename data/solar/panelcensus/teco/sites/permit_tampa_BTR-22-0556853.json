@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556853",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556853",
+  "listingPageNumber": 9,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "240 kW",
+    "Aug 26, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:53:33.929Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9573, -82.4873",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9572587&mlon=-82.4872571#map=17/27.9572587/-82.4872571",
+  "parties": [
+    {
+      "name": "Dept OF Transportation",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556853",
+  "siteName": "2711 W Main St (ACA)",
+  "sizeDisplay": "240 kW",
+  "latitude": 27.9572587,
+  "longitude": -82.4872571,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 240,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

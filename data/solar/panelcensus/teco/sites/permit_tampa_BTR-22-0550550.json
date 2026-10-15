@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0550550",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0550550",
+  "listingPageNumber": 16,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "May 10, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:59:44.524Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1463, -82.3010",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1462679&mlon=-82.300965#map=17/28.1462679/-82.300965",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0550550",
+  "siteName": "18115 Emerald Bay St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1462679,
+  "longitude": -82.300965,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

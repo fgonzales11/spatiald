@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555090",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555090",
+  "listingPageNumber": 11,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jul 28, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:55:33.583Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1517, -82.2787",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1517443&mlon=-82.2786572#map=17/28.1517443/-82.2786572",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555090",
+  "siteName": "16001 Sonoma Grove Cir (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1517443,
+  "longitude": -82.2786572,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

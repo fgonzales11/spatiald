@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555549",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555549",
+  "listingPageNumber": 11,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Aug 4, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:55:15.224Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1574, -82.2802",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1574369&mlon=-82.2802112#map=17/28.1574369/-82.2802112",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555549",
+  "siteName": "11111 Ancient Futures Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1574369,
+  "longitude": -82.2802112,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

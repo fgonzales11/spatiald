@@ -1,0 +1,67 @@
+{
+  "state": {
+    "code": "DE",
+    "name": "Delaware",
+    "slug": "delaware"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/delaware",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:33.306Z",
+  "renderedHtmlSha256": "7df12a760f5f8f2591655a363413f73ec71c9323fa96cbc7d022c355c4fcba0f",
+  "heading": "Solar installations in Delaware",
+  "documentTitle": "Solar in Delaware — 9,548 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "9,548",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Delaware",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "New Castle County",
+        "5,793",
+        "2.5%",
+        "139.1 MW",
+        "$4.33/W"
+      ],
+      "countyName": "New Castle County",
+      "countyUrl": "https://panelcensus.com/solar/delaware/new-castle-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sussex County",
+        "2,900",
+        "2.0%",
+        "71.2 MW",
+        "$4.41/W"
+      ],
+      "countyName": "Sussex County",
+      "countyUrl": "https://panelcensus.com/solar/delaware/sussex-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kent County",
+        "809",
+        "1.1%",
+        "25.3 MW",
+        "$4.68/W"
+      ],
+      "countyName": "Kent County",
+      "countyUrl": "https://panelcensus.com/solar/delaware/kent-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    }
+  ]
+}

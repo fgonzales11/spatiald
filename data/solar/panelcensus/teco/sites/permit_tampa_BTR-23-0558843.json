@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0558843",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0558843",
+  "listingPageNumber": 6,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "13.3 kW",
+    "Oct 10, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:52:01.014Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1338, -82.3346",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1337981&mlon=-82.3346102#map=17/28.1337981/-82.3346102",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0558843",
+  "siteName": "9305 Cypress Bend Dr (ACA)",
+  "sizeDisplay": "13.3 kW",
+  "latitude": 28.1337981,
+  "longitude": -82.3346102,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 13.3,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

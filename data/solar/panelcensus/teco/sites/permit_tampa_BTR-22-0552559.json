@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0552559",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0552559",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 15, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:19.582Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0472, -82.3984",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0471656&mlon=-82.3984139#map=17/28.0471656/-82.3984139",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0552559",
+  "siteName": "5144 E Whiteway Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0471656,
+  "longitude": -82.3984139,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

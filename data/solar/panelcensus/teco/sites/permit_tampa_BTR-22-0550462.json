@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0550462",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0550462",
+  "listingPageNumber": 16,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "May 8, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:59:48.744Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1495, -82.3003",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1495283&mlon=-82.3002709#map=17/28.1495283/-82.3002709",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0550462",
+  "siteName": "18133 Bahama Bay Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1495283,
+  "longitude": -82.3002709,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

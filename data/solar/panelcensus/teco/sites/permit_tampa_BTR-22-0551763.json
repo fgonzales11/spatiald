@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0551763",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0551763",
+  "listingPageNumber": 15,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "17.8 kW",
+    "Jun 1, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:41.413Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1228, -82.3554",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1227941&mlon=-82.3553507#map=17/28.1227941/-82.3553507",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0551763",
+  "siteName": "8817 Heather Glen Ct (ACA)",
+  "sizeDisplay": "17.8 kW",
+  "latitude": 28.1227941,
+  "longitude": -82.3553507,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 17.8,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

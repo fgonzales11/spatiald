@@ -1,0 +1,44 @@
+{
+  "siteId": "uspvdb_405952",
+  "sourceUrl": "https://panelcensus.com/sites/uspvdb_405952",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "Zephyrhills, FL\nPasco County",
+    "Utility-scale",
+    "85,600 kW",
+    "Jan 1, 2023",
+    "Florida Renewable Partners, LLC",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:19.190Z",
+  "siteName": "Juniper Solar (FL)",
+  "locationDescription": "Zephyrhills · Pasco County · Florida · Utility-scale",
+  "sizeDisplay": "85,600 kW",
+  "capacityBasis": "70,000 kW AC",
+  "locationDisplay": "Location: 28.1789, -82.1472",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.178879&mlon=-82.147247#map=17/28.178879/-82.147247",
+  "recordId": "uspvdb_405952",
+  "parties": [
+    {
+      "role": "Owner",
+      "name": "Tampa Electric Co [100%]"
+    },
+    {
+      "role": "Developer",
+      "name": "Florida Renewable Partners, LLC"
+    },
+    {
+      "role": "Plant operator",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 85600,
+  "latitude": 28.178879,
+  "longitude": -82.147247,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Plant operator"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

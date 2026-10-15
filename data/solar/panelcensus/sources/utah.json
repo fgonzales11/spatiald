@@ -1,0 +1,405 @@
+{
+  "state": {
+    "code": "UT",
+    "name": "Utah",
+    "slug": "utah"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/utah",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:45.290Z",
+  "renderedHtmlSha256": "393463ef10424494892f328f90d566f1c72737e2938b19c87a2472dad091a0d2",
+  "heading": "Solar installations in Utah",
+  "documentTitle": "Solar in Utah — 48,517 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "48,517",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Utah",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Salt Lake County",
+        "17,743",
+        "4.0%",
+        "544.5 MW",
+        "$4.00/W"
+      ],
+      "countyName": "Salt Lake County",
+      "countyUrl": "https://panelcensus.com/solar/utah/salt-lake-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Utah County",
+        "8,205",
+        "4.0%",
+        "228.3 MW",
+        "$4.01/W"
+      ],
+      "countyName": "Utah County",
+      "countyUrl": "https://panelcensus.com/solar/utah/utah-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Davis County",
+        "6,736",
+        "5.7%",
+        "114.8 MW",
+        "$4.19/W"
+      ],
+      "countyName": "Davis County",
+      "countyUrl": "https://panelcensus.com/solar/utah/davis-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Weber County",
+        "5,237",
+        "5.3%",
+        "83.0 MW",
+        "$4.27/W"
+      ],
+      "countyName": "Weber County",
+      "countyUrl": "https://panelcensus.com/solar/utah/weber-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cache County",
+        "1,853",
+        "4.1%",
+        "53.9 MW",
+        "$4.08/W"
+      ],
+      "countyName": "Cache County",
+      "countyUrl": "https://panelcensus.com/solar/utah/cache-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Washington County",
+        "1,829",
+        "2.3%",
+        "31.2 MW",
+        "$4.31/W"
+      ],
+      "countyName": "Washington County",
+      "countyUrl": "https://panelcensus.com/solar/utah/washington-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Tooele County",
+        "1,602",
+        "6.6%",
+        "103.9 MW",
+        "$4.59/W"
+      ],
+      "countyName": "Tooele County",
+      "countyUrl": "https://panelcensus.com/solar/utah/tooele-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Box Elder County",
+        "982",
+        "4.8%",
+        "174.2 MW",
+        "$4.02/W"
+      ],
+      "countyName": "Box Elder County",
+      "countyUrl": "https://panelcensus.com/solar/utah/box-elder-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Summit County",
+        "947",
+        "3.6%",
+        "24.2 MW",
+        "$3.55/W"
+      ],
+      "countyName": "Summit County",
+      "countyUrl": "https://panelcensus.com/solar/utah/summit-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Iron County",
+        "805",
+        "3.5%",
+        "185.3 MW",
+        "$4.95/W"
+      ],
+      "countyName": "Iron County",
+      "countyUrl": "https://panelcensus.com/solar/utah/iron-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wasatch County",
+        "310",
+        "2.0%",
+        "18.0 MW",
+        "$3.99/W"
+      ],
+      "countyName": "Wasatch County",
+      "countyUrl": "https://panelcensus.com/solar/utah/wasatch-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Grand County",
+        "284",
+        "5.3%",
+        "2.0 MW",
+        "$3.56/W"
+      ],
+      "countyName": "Grand County",
+      "countyUrl": "https://panelcensus.com/solar/utah/grand-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Uintah County",
+        "236",
+        "1.7%",
+        "14.3 MW",
+        "$4.21/W"
+      ],
+      "countyName": "Uintah County",
+      "countyUrl": "https://panelcensus.com/solar/utah/uintah-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sevier County",
+        "224",
+        "2.6%",
+        "3.4 MW",
+        "$4.50/W"
+      ],
+      "countyName": "Sevier County",
+      "countyUrl": "https://panelcensus.com/solar/utah/sevier-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Morgan County",
+        "217",
+        "5.7%",
+        "1.9 MW",
+        "$3.76/W"
+      ],
+      "countyName": "Morgan County",
+      "countyUrl": "https://panelcensus.com/solar/utah/morgan-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sanpete County",
+        "201",
+        "1.9%",
+        "3.6 MW",
+        "$4.17/W"
+      ],
+      "countyName": "Sanpete County",
+      "countyUrl": "https://panelcensus.com/solar/utah/sanpete-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Millard County",
+        "185",
+        "3.7%",
+        "158.5 MW",
+        "$4.41/W"
+      ],
+      "countyName": "Millard County",
+      "countyUrl": "https://panelcensus.com/solar/utah/millard-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Carbon County",
+        "148",
+        "1.5%",
+        "1.2 MW",
+        "$4.37/W"
+      ],
+      "countyName": "Carbon County",
+      "countyUrl": "https://panelcensus.com/solar/utah/carbon-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Emery County",
+        "122",
+        "3.0%",
+        "77.9 MW",
+        "$4.57/W"
+      ],
+      "countyName": "Emery County",
+      "countyUrl": "https://panelcensus.com/solar/utah/emery-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Juab County",
+        "77",
+        "1.9%",
+        "11.1 MW",
+        "$3.90/W"
+      ],
+      "countyName": "Juab County",
+      "countyUrl": "https://panelcensus.com/solar/utah/juab-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Beaver County",
+        "69",
+        "2.4%",
+        "30.4 MW",
+        "$4.92/W"
+      ],
+      "countyName": "Beaver County",
+      "countyUrl": "https://panelcensus.com/solar/utah/beaver-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kane County",
+        "61",
+        "0.97%",
+        "1.0 MW",
+        "$3.97/W"
+      ],
+      "countyName": "Kane County",
+      "countyUrl": "https://panelcensus.com/solar/utah/kane-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Rich County",
+        "56",
+        "1.7%",
+        "76.8 MW",
+        "$4.30/W"
+      ],
+      "countyName": "Rich County",
+      "countyUrl": "https://panelcensus.com/solar/utah/rich-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "San Juan County",
+        "55",
+        "0.98%",
+        "72.5 MW",
+        "$3.51/W"
+      ],
+      "countyName": "San Juan County",
+      "countyUrl": "https://panelcensus.com/solar/utah/san-juan-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Duchesne County",
+        "49",
+        "0.55%",
+        "631 kW",
+        "$4.11/W"
+      ],
+      "countyName": "Duchesne County",
+      "countyUrl": "https://panelcensus.com/solar/utah/duchesne-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Garfield County",
+        "34",
+        "0.95%",
+        "850 kW",
+        "$4.97/W"
+      ],
+      "countyName": "Garfield County",
+      "countyUrl": "https://panelcensus.com/solar/utah/garfield-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wayne County",
+        "33",
+        "1.9%",
+        "399 kW",
+        "$4.14/W"
+      ],
+      "countyName": "Wayne County",
+      "countyUrl": "https://panelcensus.com/solar/utah/wayne-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Piute County",
+        "11",
+        "1.2%",
+        "91 kW",
+        "—"
+      ],
+      "countyName": "Piute County",
+      "countyUrl": "https://panelcensus.com/solar/utah/piute-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Daggett Countylimited",
+        "4",
+        "0.35%",
+        "31 kW",
+        "—"
+      ],
+      "countyName": "Daggett County",
+      "countyUrl": "https://panelcensus.com/solar/utah/daggett-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

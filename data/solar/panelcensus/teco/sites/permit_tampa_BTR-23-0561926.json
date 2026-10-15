@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561926",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561926",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 16, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:29.639Z",
+  "siteName": "10503 Cory Lake Dr (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.1292, -82.3006",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1292301&mlon=-82.3006165#map=17/28.1292301/-82.3006165",
+  "recordId": "permit_tampa_BTR-23-0561926",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.1292301,
+  "longitude": -82.3006165,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

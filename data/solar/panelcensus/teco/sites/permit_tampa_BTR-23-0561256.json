@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561256",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561256",
+  "listingPageNumber": 23,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "—",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:41.290Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8780, -82.5246",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.877983&mlon=-82.5246168#map=17/27.877983/-82.5246168",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0561256",
+  "siteName": "4711 W Montgomery Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.877983,
+  "longitude": -82.5246168,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

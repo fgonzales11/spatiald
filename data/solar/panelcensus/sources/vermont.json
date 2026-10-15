@@ -1,0 +1,210 @@
+{
+  "state": {
+    "code": "VT",
+    "name": "Vermont",
+    "slug": "vermont"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/vermont",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:45.886Z",
+  "renderedHtmlSha256": "47687489bcb9e619627a7914481afd18205bb038eb3856305737eee4f37524ea",
+  "heading": "Solar installations in Vermont",
+  "documentTitle": "Solar in Vermont — 35,393 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "35,393",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Vermont",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Windsor County",
+        "544",
+        "1.6%",
+        "65.0 MW",
+        "—"
+      ],
+      "countyName": "Windsor County",
+      "countyUrl": "https://panelcensus.com/solar/vermont/windsor-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Windham County",
+        "539",
+        "1.8%",
+        "30.6 MW",
+        "—"
+      ],
+      "countyName": "Windham County",
+      "countyUrl": "https://panelcensus.com/solar/vermont/windham-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Chittenden County",
+        "494",
+        "0.67%",
+        "73.7 MW",
+        "—"
+      ],
+      "countyName": "Chittenden County",
+      "countyUrl": "https://panelcensus.com/solar/vermont/chittenden-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Rutland County",
+        "301",
+        "0.89%",
+        "49.4 MW",
+        "—"
+      ],
+      "countyName": "Rutland County",
+      "countyUrl": "https://panelcensus.com/solar/vermont/rutland-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Washington County",
+        "274",
+        "0.89%",
+        "21.3 MW",
+        "—"
+      ],
+      "countyName": "Washington County",
+      "countyUrl": "https://panelcensus.com/solar/vermont/washington-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bennington County",
+        "238",
+        "1.1%",
+        "11.5 MW",
+        "—"
+      ],
+      "countyName": "Bennington County",
+      "countyUrl": "https://panelcensus.com/solar/vermont/bennington-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Addison County",
+        "236",
+        "1.3%",
+        "68.1 MW",
+        "—"
+      ],
+      "countyName": "Addison County",
+      "countyUrl": "https://panelcensus.com/solar/vermont/addison-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Orange County",
+        "157",
+        "1.0%",
+        "32.1 MW",
+        "—"
+      ],
+      "countyName": "Orange County",
+      "countyUrl": "https://panelcensus.com/solar/vermont/orange-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Franklin County",
+        "87",
+        "0.38%",
+        "27.0 MW",
+        "—"
+      ],
+      "countyName": "Franklin County",
+      "countyUrl": "https://panelcensus.com/solar/vermont/franklin-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Caledonia County",
+        "63",
+        "0.39%",
+        "13.4 MW",
+        "—"
+      ],
+      "countyName": "Caledonia County",
+      "countyUrl": "https://panelcensus.com/solar/vermont/caledonia-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lamoille County",
+        "22",
+        "0.16%",
+        "9.7 MW",
+        "—"
+      ],
+      "countyName": "Lamoille County",
+      "countyUrl": "https://panelcensus.com/solar/vermont/lamoille-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Essex County",
+        "11",
+        "0.22%",
+        "2.9 MW",
+        "—"
+      ],
+      "countyName": "Essex County",
+      "countyUrl": "https://panelcensus.com/solar/vermont/essex-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Orleans County",
+        "10",
+        "0.06%",
+        "8.1 MW",
+        "—"
+      ],
+      "countyName": "Orleans County",
+      "countyUrl": "https://panelcensus.com/solar/vermont/orleans-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Grand Isle Countylimited",
+        "3",
+        "0.06%",
+        "8.9 MW",
+        "—"
+      ],
+      "countyName": "Grand Isle County",
+      "countyUrl": "https://panelcensus.com/solar/vermont/grand-isle-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

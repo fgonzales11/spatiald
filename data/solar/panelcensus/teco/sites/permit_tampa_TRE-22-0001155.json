@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_TRE-22-0001155",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_TRE-22-0001155",
+  "listingPageNumber": 10,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Commercial",
+    "—",
+    "Aug 18, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:15.216Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Commercial",
+  "locationDisplay": "Location: 27.9931, -82.4679",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9930893&mlon=-82.4679084#map=17/27.9930893/-82.4679084",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_TRE-22-0001155",
+  "siteName": "5105 N Boulevard (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9930893,
+  "longitude": -82.4679084,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

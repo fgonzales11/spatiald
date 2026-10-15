@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559787",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559787",
+  "listingPageNumber": 5,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Oct 28, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:36:38.240Z",
+  "siteName": "1516 E Caracas St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9920, -82.4427",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9920151&mlon=-82.442673#map=17/27.9920151/-82.442673",
+  "recordId": "permit_tampa_BTR-23-0559787",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.9920151,
+  "longitude": -82.442673,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

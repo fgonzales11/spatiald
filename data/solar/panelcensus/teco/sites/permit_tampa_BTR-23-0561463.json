@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561463",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561463",
+  "listingPageNumber": 2,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 7, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:41.239Z",
+  "siteName": "5915 N Ola Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0000, -82.4635",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0000283&mlon=-82.4634802#map=17/28.0000283/-82.4634802",
+  "recordId": "permit_tampa_BTR-23-0561463",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.0000283,
+  "longitude": -82.4634802,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

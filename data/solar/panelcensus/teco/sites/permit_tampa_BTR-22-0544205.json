@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0544205",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0544205",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "15.6 kW",
+    "Jan 6, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:23.029Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9677, -82.4500",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.967734&mlon=-82.450006#map=17/27.967734/-82.450006",
+  "parties": [
+    {
+      "name": "801 E Saint Clair ST LLC",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0544205",
+  "siteName": "922 E 17th Ave (ACA)",
+  "sizeDisplay": "15.6 kW",
+  "latitude": 27.967734,
+  "longitude": -82.450006,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 15.6,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0550238",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0550238",
+  "listingPageNumber": 16,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "17 kW",
+    "May 3, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:59:53.948Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0244, -82.4128",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0244371&mlon=-82.4127838#map=17/28.0244371/-82.4127838",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0550238",
+  "siteName": "4305 E Grove View Ave (ACA)",
+  "sizeDisplay": "17 kW",
+  "latitude": 28.0244371,
+  "longitude": -82.4127838,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 17,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0552695",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0552695",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 16, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:18.556Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1488, -82.3116",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1487834&mlon=-82.3116473#map=17/28.1487834/-82.3116473",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0552695",
+  "siteName": "18121 Canal Pointe St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1487834,
+  "longitude": -82.3116473,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

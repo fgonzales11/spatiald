@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0545239",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0545239",
+  "listingPageNumber": 21,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jan 28, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:34.939Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1631, -82.2786",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1630655&mlon=-82.278645#map=17/28.1630655/-82.278645",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0545239",
+  "siteName": "10621 Pictorial Park Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1630655,
+  "longitude": -82.278645,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

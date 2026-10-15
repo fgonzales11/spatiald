@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559376",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559376",
+  "listingPageNumber": 5,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Oct 19, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:51:02.120Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9837, -82.4304",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9837349&mlon=-82.4304446#map=17/27.9837349/-82.4304446",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0559376",
+  "siteName": "2606 E 38th Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9837349,
+  "longitude": -82.4304446,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

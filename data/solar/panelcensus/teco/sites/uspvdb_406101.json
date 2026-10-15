@@ -1,0 +1,40 @@
+{
+  "siteId": "uspvdb_406101",
+  "sourceUrl": "https://panelcensus.com/sites/uspvdb_406101",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "Dover, FL\nHillsborough County",
+    "Utility-scale",
+    "32,000 kW",
+    "Jan 1, 2023",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:18.899Z",
+  "siteName": "Dover Solar",
+  "locationDescription": "Dover · Hillsborough County · Florida · Utility-scale",
+  "sizeDisplay": "32,000 kW",
+  "capacityBasis": "25,000 kW AC",
+  "locationDisplay": "Location: 27.9560, -82.1993",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.956045&mlon=-82.199257#map=17/27.956045/-82.199257",
+  "recordId": "uspvdb_406101",
+  "parties": [
+    {
+      "role": "Owner",
+      "name": "Tampa Electric Co [100%]"
+    },
+    {
+      "role": "Plant operator",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 32000,
+  "latitude": 27.956045,
+  "longitude": -82.199257,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Plant operator"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

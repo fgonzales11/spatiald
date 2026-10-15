@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0546929",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0546929",
+  "listingPageNumber": 19,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 2, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:24.274Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0455, -82.4066",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0455191&mlon=-82.4066019#map=17/28.0455191/-82.4066019",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0546929",
+  "siteName": "4722 E Seneca Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0455191,
+  "longitude": -82.4066019,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

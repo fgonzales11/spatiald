@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0554180",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0554180",
+  "listingPageNumber": 12,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "8.9 kW",
+    "Jul 13, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:56:55.750Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9822, -82.4621",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9822155&mlon=-82.4621478#map=17/27.9822155/-82.4621478",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0554180",
+  "siteName": "302 W Ida St (ACA)",
+  "sizeDisplay": "8.9 kW",
+  "latitude": 27.9822155,
+  "longitude": -82.4621478,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 8.9,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

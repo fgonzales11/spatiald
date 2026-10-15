@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0558159",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0558159",
+  "listingPageNumber": 7,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "12.8 kW",
+    "Sep 23, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:52:20.338Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1334, -82.2934",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.133369&mlon=-82.2933715#map=17/28.133369/-82.2933715",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0558159",
+  "siteName": "15210 Antilles Isle Ln (ACA)",
+  "sizeDisplay": "12.8 kW",
+  "latitude": 28.133369,
+  "longitude": -82.2933715,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 12.8,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

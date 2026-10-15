@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0562220",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0562220",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 22, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:23.921Z",
+  "siteName": "2508 Auburn Ave W (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0207, -82.4845",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0206555&mlon=-82.4845239#map=17/28.0206555/-82.4845239",
+  "recordId": "permit_tampa_BTR-23-0562220",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.0206555,
+  "longitude": -82.4845239,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

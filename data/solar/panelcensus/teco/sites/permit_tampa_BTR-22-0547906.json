@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0547906",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0547906",
+  "listingPageNumber": 18,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:01:24.477Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0285, -82.4771",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0285466&mlon=-82.47712#map=17/28.0285466/-82.47712",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0547906",
+  "siteName": "1804 W Arctic St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0285466,
+  "longitude": -82.47712,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555750",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555750",
+  "listingPageNumber": 10,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "10.1 kW",
+    "Aug 8, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:36.139Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9052, -82.5084",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9052256&mlon=-82.5084382#map=17/27.9052256/-82.5084382",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555750",
+  "siteName": "3915 W Bay View Ave (ACA)",
+  "sizeDisplay": "10.1 kW",
+  "latitude": 27.9052256,
+  "longitude": -82.5084382,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 10.1,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

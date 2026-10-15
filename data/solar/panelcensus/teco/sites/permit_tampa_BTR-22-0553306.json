@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0553306",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0553306",
+  "listingPageNumber": 13,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 28, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:22.957Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8976, -82.5248",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8975895&mlon=-82.5248314#map=17/27.8975895/-82.5248314",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0553306",
+  "siteName": "4711 W Coachman Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.8975895,
+  "longitude": -82.5248314,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

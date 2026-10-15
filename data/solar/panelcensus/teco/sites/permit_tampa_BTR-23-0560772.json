@@ -1,0 +1,40 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560772",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560772",
+  "listingPageNumber": 4,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Commercial",
+    "—",
+    "Nov 18, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:34:29.416Z",
+  "siteName": "401 Channelside Dr (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Commercial",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9400, -82.4517",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9399638&mlon=-82.451682#map=17/27.9399638/-82.451682",
+  "recordId": "permit_tampa_BTR-23-0560772",
+  "parties": [
+    {
+      "role": "Owner",
+      "name": "Wst Block B2 LLC"
+    },
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.9399638,
+  "longitude": -82.451682,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

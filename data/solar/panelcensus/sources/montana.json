@@ -1,0 +1,119 @@
+{
+  "state": {
+    "code": "MT",
+    "name": "Montana",
+    "slug": "montana"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/montana",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:39.558Z",
+  "renderedHtmlSha256": "7a713ca6ccb5c143137720c73f9649ffc64864ff496ef14c45d7317c491426fc",
+  "heading": "Solar installations in Montana",
+  "documentTitle": "Solar in Montana — 29 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "29",
+  "stateCapacityDisplay": null,
+  "underReported": true,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Montana",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Big Horn Countylimited",
+        "2",
+        "0.04%",
+        "7.0 MW",
+        "—"
+      ],
+      "countyName": "Big Horn County",
+      "countyUrl": "https://panelcensus.com/solar/montana/big-horn-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lewis and Clark Countylimited",
+        "2",
+        "0.01%",
+        "8.3 MW",
+        "—"
+      ],
+      "countyName": "Lewis and Clark County",
+      "countyUrl": "https://panelcensus.com/solar/montana/lewis-and-clark-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Yellowstone Countylimited",
+        "2",
+        "0.00%",
+        "80.7 MW",
+        "—"
+      ],
+      "countyName": "Yellowstone County",
+      "countyUrl": "https://panelcensus.com/solar/montana/yellowstone-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Beaverhead Countylimited",
+        "1",
+        "0.02%",
+        "80.0 MW",
+        "—"
+      ],
+      "countyName": "Beaverhead County",
+      "countyUrl": "https://panelcensus.com/solar/montana/beaverhead-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cascade Countylimited",
+        "1",
+        "0.00%",
+        "4.1 MW",
+        "—"
+      ],
+      "countyName": "Cascade County",
+      "countyUrl": "https://panelcensus.com/solar/montana/cascade-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Gallatin Countylimited",
+        "1",
+        "0.00%",
+        "2.5 MW",
+        "—"
+      ],
+      "countyName": "Gallatin County",
+      "countyUrl": "https://panelcensus.com/solar/montana/gallatin-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Golden Valley Countylimited",
+        "1",
+        "0.21%",
+        "4.1 MW",
+        "—"
+      ],
+      "countyName": "Golden Valley County",
+      "countyUrl": "https://panelcensus.com/solar/montana/golden-valley-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

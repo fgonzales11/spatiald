@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0551579",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0551579",
+  "listingPageNumber": 15,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "May 27, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:46.738Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8671, -82.5235",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8671408&mlon=-82.5235021#map=17/27.8671408/-82.5235021",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0551579",
+  "siteName": "6820 S Shamrock Rd (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.8671408,
+  "longitude": -82.5235021,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555581",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555581",
+  "listingPageNumber": 11,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Aug 5, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:39.861Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9729, -82.4701",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9728915&mlon=-82.4701155#map=17/27.9728915/-82.4701155",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555581",
+  "siteName": "818 W Adalee St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9728915,
+  "longitude": -82.4701155,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

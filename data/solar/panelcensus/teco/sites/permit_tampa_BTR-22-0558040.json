@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0558040",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0558040",
+  "listingPageNumber": 7,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Sep 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:52:27.994Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1493, -82.3077",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1492502&mlon=-82.3077125#map=17/28.1492502/-82.3077125",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0558040",
+  "siteName": "18123 Sandy Pointe Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1492502,
+  "longitude": -82.3077125,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

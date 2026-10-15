@@ -1,0 +1,42 @@
+{
+  "siteId": "uspvdb_400004",
+  "sourceUrl": "https://panelcensus.com/sites/uspvdb_400004",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Apollo Beach, FL\nHillsborough County",
+    "Utility-scale",
+    "23,000 kW",
+    "Jan 1, 2017",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:35.375Z",
+  "capacityBasis": "19,000 kW AC",
+  "locationDescription": "Apollo Beach · Hillsborough County · Florida · Utility-scale",
+  "locationDisplay": "Location: 27.7858, -82.3903",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.785791&mlon=-82.390274#map=17/27.785791/-82.390274",
+  "parties": [
+    {
+      "name": "Tampa Electric Co [100%]",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Plant operator"
+    }
+  ],
+  "recordId": "uspvdb_400004",
+  "siteName": "Big Bend",
+  "sizeDisplay": "23,000 kW",
+  "latitude": 27.785791,
+  "longitude": -82.390274,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 23000,
+  "tecoRoles": [
+    "Plant operator"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

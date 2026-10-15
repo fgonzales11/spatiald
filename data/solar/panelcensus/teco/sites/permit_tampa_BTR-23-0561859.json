@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561859",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561859",
+  "listingPageNumber": 2,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 15, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:31.305Z",
+  "siteName": "8722 N Hyaleah Rd (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0293, -82.4054",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0292577&mlon=-82.4053941#map=17/28.0292577/-82.4053941",
+  "recordId": "permit_tampa_BTR-23-0561859",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.0292577,
+  "longitude": -82.4053941,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0557915",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557915",
+  "listingPageNumber": 8,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "9.3 kW",
+    "Sep 20, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:52:54.416Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9712, -82.4742",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9712463&mlon=-82.4742173#map=17/27.9712463/-82.4742173",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0557915",
+  "siteName": "1006 W Alfred St (ACA)",
+  "sizeDisplay": "9.3 kW",
+  "latitude": 27.9712463,
+  "longitude": -82.4742173,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 9.3,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

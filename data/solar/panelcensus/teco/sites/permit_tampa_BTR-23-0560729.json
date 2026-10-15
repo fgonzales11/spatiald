@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560729",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560729",
+  "listingPageNumber": 4,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 17, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:34:54.076Z",
+  "siteName": "REISSUE - 4604 W Lowell Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9179, -82.5211",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.917921&mlon=-82.5211166#map=17/27.917921/-82.5211166",
+  "recordId": "permit_tampa_BTR-23-0560729",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.917921,
+  "longitude": -82.5211166,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

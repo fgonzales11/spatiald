@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555170",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555170",
+  "listingPageNumber": 11,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jul 29, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:55:26.628Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9384, -82.5020",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.938426&mlon=-82.5019768#map=17/27.938426/-82.5019768",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555170",
+  "siteName": "3618 W De Leon St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.938426,
+  "longitude": -82.5019768,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

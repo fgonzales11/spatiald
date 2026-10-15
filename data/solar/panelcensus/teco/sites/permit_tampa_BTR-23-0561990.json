@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561990",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561990",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "9,620 kW",
+    "Dec 19, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:27.377Z",
+  "siteName": "3624 E Clifton St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "9,620 kW",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0005, -82.4191",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0005118&mlon=-82.4190999#map=17/28.0005118/-82.4190999",
+  "recordId": "permit_tampa_BTR-23-0561990",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 9620,
+  "latitude": 28.0005118,
+  "longitude": -82.4190999,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

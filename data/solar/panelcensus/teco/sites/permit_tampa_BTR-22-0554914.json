@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0554914",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0554914",
+  "listingPageNumber": 12,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "9.4 kW",
+    "Jul 26, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:55:40.323Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9105, -82.5081",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9105431&mlon=-82.5080896#map=17/27.9105431/-82.5080896",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0554914",
+  "siteName": "3610 S Church Ave (ACA)",
+  "sizeDisplay": "9.4 kW",
+  "latitude": 27.9105431,
+  "longitude": -82.5080896,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 9.4,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

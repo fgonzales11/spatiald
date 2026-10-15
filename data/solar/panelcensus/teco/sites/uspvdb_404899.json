@@ -1,0 +1,43 @@
+{
+  "siteId": "uspvdb_404899",
+  "sourceUrl": "https://panelcensus.com/sites/uspvdb_404899",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Apollo Beach, FL\nHillsborough County",
+    "Utility-scale",
+    "1,200 kW",
+    "Jan 1, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:28.893Z",
+  "capacityBasis": "1,000 kW AC",
+  "locationDescription": "Apollo Beach · Hillsborough County · Florida · Utility-scale",
+  "locationDisplay": "Location: 27.7806, -82.3995",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.780645&mlon=-82.399498#map=17/27.780645/-82.399498",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Plant operator"
+    }
+  ],
+  "recordId": "uspvdb_404899",
+  "siteName": "Big Bend Agrivoltaics",
+  "sizeDisplay": "1,200 kW",
+  "latitude": 27.780645,
+  "longitude": -82.399498,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 1200,
+  "tecoRoles": [
+    "Owner",
+    "Plant operator"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0552736",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0552736",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 17, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:37.299Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0509, -82.4333",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0508713&mlon=-82.4332721#map=17/28.0508713/-82.4332721",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0552736",
+  "siteName": "2230 E 113th Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0508713,
+  "longitude": -82.4332721,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

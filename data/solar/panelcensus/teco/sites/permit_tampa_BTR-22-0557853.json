@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0557853",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557853",
+  "listingPageNumber": 8,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Sep 19, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:52:57.861Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0107, -82.4831",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.010697&mlon=-82.4831222#map=17/28.010697/-82.4831222",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0557853",
+  "siteName": "2306 W Sligh Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.010697,
+  "longitude": -82.4831222,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

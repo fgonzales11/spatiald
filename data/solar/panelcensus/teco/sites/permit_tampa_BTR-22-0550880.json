@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0550880",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0550880",
+  "listingPageNumber": 16,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "15.5 kW",
+    "May 16, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:59:42.452Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8767, -82.5100",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8766681&mlon=-82.509957#map=17/27.8766681/-82.509957",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0550880",
+  "siteName": "6210 S Richard Ave (ACA)",
+  "sizeDisplay": "15.5 kW",
+  "latitude": 27.8766681,
+  "longitude": -82.509957,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 15.5,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

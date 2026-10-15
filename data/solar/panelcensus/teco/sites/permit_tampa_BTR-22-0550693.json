@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0550693",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0550693",
+  "listingPageNumber": 16,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "May 12, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:59:42.947Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0340, -82.3981",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0339653&mlon=-82.3981339#map=17/28.0339653/-82.3981339",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0550693",
+  "siteName": "9236 N 52nd St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0339653,
+  "longitude": -82.3981339,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

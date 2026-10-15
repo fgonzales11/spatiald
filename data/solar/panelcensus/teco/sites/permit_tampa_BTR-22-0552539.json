@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0552539",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0552539",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 14, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:23.248Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0214, -82.4472",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0213772&mlon=-82.447246#map=17/28.0213772/-82.447246",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0552539",
+  "siteName": "8111 N 12th St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0213772,
+  "longitude": -82.447246,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

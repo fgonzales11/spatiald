@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0544510",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0544510",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jan 12, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:55.934Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0168, -82.4842",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0168236&mlon=-82.4841806#map=17/28.0168236/-82.4841806",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0544510",
+  "siteName": "7605 N Coarsey Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0168236,
+  "longitude": -82.4841806,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

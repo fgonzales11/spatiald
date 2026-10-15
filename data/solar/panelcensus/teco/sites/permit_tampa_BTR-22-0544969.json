@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0544969",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0544969",
+  "listingPageNumber": 21,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "8.5 kW",
+    "Jan 24, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:43.589Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9587, -82.4871",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9587361&mlon=-82.4871081#map=17/27.9587361/-82.4871081",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0544969",
+  "siteName": "1902 N Tampania Ave (ACA)",
+  "sizeDisplay": "8.5 kW",
+  "latitude": 27.9587361,
+  "longitude": -82.4871081,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 8.5,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

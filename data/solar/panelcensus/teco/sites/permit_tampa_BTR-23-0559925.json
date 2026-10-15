@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559925",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559925",
+  "listingPageNumber": 5,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 1, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:36:25.822Z",
+  "siteName": "9416 N 20th St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0352, -82.4368",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0351952&mlon=-82.4368134#map=17/28.0351952/-82.4368134",
+  "recordId": "permit_tampa_BTR-23-0559925",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.0351952,
+  "longitude": -82.4368134,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

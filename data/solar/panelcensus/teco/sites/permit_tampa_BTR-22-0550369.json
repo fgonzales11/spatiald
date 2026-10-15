@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0550369",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0550369",
+  "listingPageNumber": 16,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "May 5, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:59:50.805Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0200, -82.4472",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0199803&mlon=-82.4472482#map=17/28.0199803/-82.4472482",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0550369",
+  "siteName": "REISSUE - 8009 N 12th St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0199803,
+  "longitude": -82.4472482,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

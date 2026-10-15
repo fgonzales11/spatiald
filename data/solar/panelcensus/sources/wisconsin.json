@@ -1,0 +1,964 @@
+{
+  "state": {
+    "code": "WI",
+    "name": "Wisconsin",
+    "slug": "wisconsin"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/wisconsin",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:47.159Z",
+  "renderedHtmlSha256": "4b21428377b767fc26c6fe6b72e12f5118dfadc3a2f889ee794e847be7db59de",
+  "heading": "Solar installations in Wisconsin",
+  "documentTitle": "Solar in Wisconsin — 22,775 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "22,775",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Wisconsin",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Dane County",
+        "5,697",
+        "2.2%",
+        "128.4 MW",
+        "$4.25/W"
+      ],
+      "countyName": "Dane County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/dane-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Milwaukee County",
+        "1,664",
+        "0.39%",
+        "27.2 MW",
+        "$3.92/W"
+      ],
+      "countyName": "Milwaukee County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/milwaukee-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Waukesha County",
+        "1,165",
+        "0.67%",
+        "20.1 MW",
+        "$3.60/W"
+      ],
+      "countyName": "Waukesha County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/waukesha-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "La Crosse County",
+        "1,062",
+        "2.0%",
+        "34.7 MW",
+        "$2.89/W"
+      ],
+      "countyName": "La Crosse County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/la-crosse-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Rock County",
+        "667",
+        "0.94%",
+        "228.9 MW",
+        "$4.60/W"
+      ],
+      "countyName": "Rock County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/rock-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sauk County",
+        "565",
+        "1.8%",
+        "5.2 MW",
+        "$2.95/W"
+      ],
+      "countyName": "Sauk County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/sauk-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Eau Claire County",
+        "548",
+        "1.2%",
+        "21.0 MW",
+        "$2.94/W"
+      ],
+      "countyName": "Eau Claire County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/eau-claire-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Brown County",
+        "459",
+        "0.40%",
+        "7.8 MW",
+        "$3.10/W"
+      ],
+      "countyName": "Brown County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/brown-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Vernon County",
+        "450",
+        "3.2%",
+        "46.8 MW",
+        "$2.79/W"
+      ],
+      "countyName": "Vernon County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/vernon-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Portage County",
+        "436",
+        "1.4%",
+        "3.1 MW",
+        "$3.70/W"
+      ],
+      "countyName": "Portage County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/portage-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Racine County",
+        "404",
+        "0.48%",
+        "19.4 MW",
+        "$3.75/W"
+      ],
+      "countyName": "Racine County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/racine-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Outagamie County",
+        "389",
+        "0.49%",
+        "4.3 MW",
+        "$3.18/W"
+      ],
+      "countyName": "Outagamie County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/outagamie-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jefferson County",
+        "346",
+        "0.94%",
+        "104.2 MW",
+        "$4.60/W"
+      ],
+      "countyName": "Jefferson County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/jefferson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pierce County",
+        "314",
+        "1.8%",
+        "5.9 MW",
+        "$3.57/W"
+      ],
+      "countyName": "Pierce County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/pierce-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Iowa County",
+        "311",
+        "2.8%",
+        "2.6 MW",
+        "$3.50/W"
+      ],
+      "countyName": "Iowa County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/iowa-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Ozaukee County",
+        "309",
+        "0.78%",
+        "15.1 MW",
+        "$3.44/W"
+      ],
+      "countyName": "Ozaukee County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/ozaukee-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Washington County",
+        "307",
+        "0.52%",
+        "8.9 MW",
+        "$3.79/W"
+      ],
+      "countyName": "Washington County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/washington-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "St. Croix County",
+        "302",
+        "0.79%",
+        "6.4 MW",
+        "$3.48/W"
+      ],
+      "countyName": "St. Croix County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/st-croix-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Winnebago County",
+        "302",
+        "0.39%",
+        "4.6 MW",
+        "$3.46/W"
+      ],
+      "countyName": "Winnebago County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/winnebago-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Columbia County",
+        "301",
+        "1.1%",
+        "34.0 MW",
+        "$3.67/W"
+      ],
+      "countyName": "Columbia County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/columbia-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sheboygan County",
+        "301",
+        "0.57%",
+        "11.9 MW",
+        "$3.41/W"
+      ],
+      "countyName": "Sheboygan County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/sheboygan-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Marathon County",
+        "291",
+        "0.48%",
+        "6.8 MW",
+        "$3.23/W"
+      ],
+      "countyName": "Marathon County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/marathon-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Walworth County",
+        "286",
+        "0.53%",
+        "11.6 MW",
+        "$3.96/W"
+      ],
+      "countyName": "Walworth County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/walworth-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Dodge County",
+        "273",
+        "0.71%",
+        "66.7 MW",
+        "$3.45/W"
+      ],
+      "countyName": "Dodge County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/dodge-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Monroe County",
+        "273",
+        "1.4%",
+        "51.6 MW",
+        "$2.54/W"
+      ],
+      "countyName": "Monroe County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/monroe-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sawyer County",
+        "265",
+        "1.6%",
+        "1.6 MW",
+        "$2.38/W"
+      ],
+      "countyName": "Sawyer County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/sawyer-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Green County",
+        "262",
+        "1.6%",
+        "2.9 MW",
+        "$4.00/W"
+      ],
+      "countyName": "Green County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/green-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Fond du Lac County",
+        "254",
+        "0.55%",
+        "16.4 MW",
+        "$3.91/W"
+      ],
+      "countyName": "Fond du Lac County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/fond-du-lac-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Ashland County",
+        "249",
+        "2.6%",
+        "17.8 MW",
+        "$2.90/W"
+      ],
+      "countyName": "Ashland County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/ashland-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bayfield County",
+        "249",
+        "1.9%",
+        "6.7 MW",
+        "$2.99/W"
+      ],
+      "countyName": "Bayfield County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/bayfield-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kenosha County",
+        "235",
+        "0.32%",
+        "17.3 MW",
+        "$3.66/W"
+      ],
+      "countyName": "Kenosha County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/kenosha-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Grant County",
+        "231",
+        "1.0%",
+        "138.2 MW",
+        "$2.61/W"
+      ],
+      "countyName": "Grant County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/grant-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Door County",
+        "197",
+        "0.82%",
+        "2.0 MW",
+        "$3.06/W"
+      ],
+      "countyName": "Door County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/door-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wood County",
+        "197",
+        "0.57%",
+        "2.2 MW",
+        "$3.07/W"
+      ],
+      "countyName": "Wood County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/wood-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Waupaca County",
+        "188",
+        "0.73%",
+        "1.8 MW",
+        "$3.60/W"
+      ],
+      "countyName": "Waupaca County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/waupaca-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Calumet County",
+        "184",
+        "0.83%",
+        "3.2 MW",
+        "$3.26/W"
+      ],
+      "countyName": "Calumet County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/calumet-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Polk County",
+        "178",
+        "0.73%",
+        "5.6 MW",
+        "$3.38/W"
+      ],
+      "countyName": "Polk County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/polk-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Chippewa County",
+        "163",
+        "0.56%",
+        "13.6 MW",
+        "$2.77/W"
+      ],
+      "countyName": "Chippewa County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/chippewa-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Dunn County",
+        "159",
+        "0.84%",
+        "7.1 MW",
+        "$2.97/W"
+      ],
+      "countyName": "Dunn County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/dunn-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Manitowoc County",
+        "149",
+        "0.39%",
+        "1.8 MW",
+        "$3.38/W"
+      ],
+      "countyName": "Manitowoc County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/manitowoc-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Adams County",
+        "127",
+        "0.75%",
+        "22.4 MW",
+        "$2.85/W"
+      ],
+      "countyName": "Adams County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/adams-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clark County",
+        "122",
+        "0.82%",
+        "11.0 MW",
+        "$2.99/W"
+      ],
+      "countyName": "Clark County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/clark-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Crawford County",
+        "110",
+        "1.3%",
+        "1.3 MW",
+        "$3.00/W"
+      ],
+      "countyName": "Crawford County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/crawford-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Richland County",
+        "109",
+        "1.3%",
+        "66.3 MW",
+        "$2.98/W"
+      ],
+      "countyName": "Richland County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/richland-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Waushara County",
+        "104",
+        "0.70%",
+        "874 kW",
+        "$3.60/W"
+      ],
+      "countyName": "Waushara County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/waushara-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Oconto County",
+        "94",
+        "0.39%",
+        "724 kW",
+        "$3.17/W"
+      ],
+      "countyName": "Oconto County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/oconto-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Trempealeau County",
+        "91",
+        "0.68%",
+        "8.0 MW",
+        "$2.73/W"
+      ],
+      "countyName": "Trempealeau County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/trempealeau-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Forest County",
+        "86",
+        "0.99%",
+        "1.6 MW",
+        "$3.30/W"
+      ],
+      "countyName": "Forest County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/forest-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lafayette County",
+        "84",
+        "1.2%",
+        "929 kW",
+        "$3.29/W"
+      ],
+      "countyName": "Lafayette County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/lafayette-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Washburn County",
+        "83",
+        "0.65%",
+        "3.1 MW",
+        "$3.07/W"
+      ],
+      "countyName": "Washburn County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/washburn-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pepin County",
+        "81",
+        "2.2%",
+        "1.0 MW",
+        "$3.12/W"
+      ],
+      "countyName": "Pepin County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/pepin-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Shawano County",
+        "80",
+        "0.39%",
+        "11.2 MW",
+        "$3.07/W"
+      ],
+      "countyName": "Shawano County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/shawano-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lincoln County",
+        "75",
+        "0.46%",
+        "1.1 MW",
+        "$3.30/W"
+      ],
+      "countyName": "Lincoln County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/lincoln-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Vilas County",
+        "70",
+        "0.28%",
+        "643 kW",
+        "$3.66/W"
+      ],
+      "countyName": "Vilas County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/vilas-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Barron County",
+        "69",
+        "0.29%",
+        "9.4 MW",
+        "$2.91/W"
+      ],
+      "countyName": "Barron County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/barron-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Buffalo County",
+        "69",
+        "1.1%",
+        "5.0 MW",
+        "$2.84/W"
+      ],
+      "countyName": "Buffalo County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/buffalo-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Juneau County",
+        "68",
+        "0.47%",
+        "16.1 MW",
+        "$3.05/W"
+      ],
+      "countyName": "Juneau County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/juneau-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Douglas County",
+        "66",
+        "0.29%",
+        "6.1 MW",
+        "$3.18/W"
+      ],
+      "countyName": "Douglas County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/douglas-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Oneida County",
+        "66",
+        "0.21%",
+        "10.3 MW",
+        "$3.67/W"
+      ],
+      "countyName": "Oneida County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/oneida-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Marinette County",
+        "60",
+        "0.20%",
+        "2.0 MW",
+        "$3.61/W"
+      ],
+      "countyName": "Marinette County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/marinette-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Burnett County",
+        "57",
+        "0.37%",
+        "422 kW",
+        "$3.01/W"
+      ],
+      "countyName": "Burnett County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/burnett-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Taylor County",
+        "51",
+        "0.54%",
+        "3.3 MW",
+        "$3.36/W"
+      ],
+      "countyName": "Taylor County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/taylor-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kewaunee County",
+        "47",
+        "0.50%",
+        "923 kW",
+        "$3.14/W"
+      ],
+      "countyName": "Kewaunee County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/kewaunee-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Langlade County",
+        "47",
+        "0.39%",
+        "1.1 MW",
+        "$3.07/W"
+      ],
+      "countyName": "Langlade County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/langlade-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Marquette County",
+        "45",
+        "0.46%",
+        "453 kW",
+        "$3.48/W"
+      ],
+      "countyName": "Marquette County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/marquette-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Rusk County",
+        "45",
+        "0.52%",
+        "1.8 MW",
+        "—"
+      ],
+      "countyName": "Rusk County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/rusk-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Price County",
+        "41",
+        "0.38%",
+        "5.1 MW",
+        "—"
+      ],
+      "countyName": "Price County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/price-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jackson County",
+        "30",
+        "0.31%",
+        "11.6 MW",
+        "—"
+      ],
+      "countyName": "Jackson County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/jackson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Green Lake County",
+        "23",
+        "0.21%",
+        "226 kW",
+        "—"
+      ],
+      "countyName": "Green Lake County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/green-lake-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Iron County",
+        "15",
+        "0.27%",
+        "96 kW",
+        "—"
+      ],
+      "countyName": "Iron County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/iron-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Florence Countylimited",
+        "7",
+        "0.15%",
+        "70 kW",
+        "—"
+      ],
+      "countyName": "Florence County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/florence-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Menominee Countylimited",
+        "5",
+        "0.23%",
+        "43 kW",
+        "—"
+      ],
+      "countyName": "Menominee County",
+      "countyUrl": "https://panelcensus.com/solar/wisconsin/menominee-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

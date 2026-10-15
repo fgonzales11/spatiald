@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0547937",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0547937",
+  "listingPageNumber": 17,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Apr 5, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:01:00.699Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9358, -82.4717",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.935812&mlon=-82.4716618#map=17/27.935812/-82.4716618",
+  "parties": [
+    {
+      "name": "Hyde Park Presbyterian Church",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0547937",
+  "siteName": "804 S Newport Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.935812,
+  "longitude": -82.4716618,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

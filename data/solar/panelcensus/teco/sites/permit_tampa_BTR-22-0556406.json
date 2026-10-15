@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556406",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556406",
+  "listingPageNumber": 10,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Aug 19, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:12.040Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9659, -82.4810",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9658764&mlon=-82.4810128#map=17/27.9658764/-82.4810128",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556406",
+  "siteName": "2122 W Saint Joseph St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9658764,
+  "longitude": -82.4810128,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

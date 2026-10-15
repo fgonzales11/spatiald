@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0546590",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0546590",
+  "listingPageNumber": 20,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Feb 24, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:36.069Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0060, -82.4223",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0060475&mlon=-82.4223142#map=17/28.0060475/-82.4223142",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0546590",
+  "siteName": "6407 N 34th St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0060475,
+  "longitude": -82.4223142,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

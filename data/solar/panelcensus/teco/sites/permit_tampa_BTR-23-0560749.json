@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560749",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560749",
+  "listingPageNumber": 4,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 18, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:34:31.527Z",
+  "siteName": "15230 Anguilla Isle Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.1343, -82.2940",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1342681&mlon=-82.2939807#map=17/28.1342681/-82.2939807",
+  "recordId": "permit_tampa_BTR-23-0560749",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.1342681,
+  "longitude": -82.2939807,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

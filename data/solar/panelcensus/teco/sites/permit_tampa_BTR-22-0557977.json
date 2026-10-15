@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0557977",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557977",
+  "listingPageNumber": 8,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Sep 20, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:52:56.170Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1500, -82.3766",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1499858&mlon=-82.37664#map=17/28.1499858/-82.37664",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0557977",
+  "siteName": "19204 Autumn Woods Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1499858,
+  "longitude": -82.37664,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

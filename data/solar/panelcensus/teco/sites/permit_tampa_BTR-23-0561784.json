@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561784",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561784",
+  "listingPageNumber": 2,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 13, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:35.872Z",
+  "siteName": "1725 W Perdiz St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0378, -82.4767",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0378375&mlon=-82.4767083#map=17/28.0378375/-82.4767083",
+  "recordId": "permit_tampa_BTR-23-0561784",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.0378375,
+  "longitude": -82.4767083,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

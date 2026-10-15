@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0553391",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0553391",
+  "listingPageNumber": 13,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 29, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:17.828Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9719, -82.4205",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9719431&mlon=-82.4205247#map=17/27.9719431/-82.4205247",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0553391",
+  "siteName": "3506 E 23rd Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9719431,
+  "longitude": -82.4205247,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

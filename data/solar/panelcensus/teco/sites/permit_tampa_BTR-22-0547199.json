@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0547199",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0547199",
+  "listingPageNumber": 19,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 7, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:16.187Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9639, -82.4865",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9638639&mlon=-82.4864539#map=17/27.9638639/-82.4864539",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0547199",
+  "siteName": "2617 W Saint Conrad St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9638639,
+  "longitude": -82.4864539,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

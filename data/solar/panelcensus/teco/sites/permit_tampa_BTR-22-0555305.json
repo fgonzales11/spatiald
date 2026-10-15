@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555305",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555305",
+  "listingPageNumber": 11,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "14.2 kW",
+    "Aug 2, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:55:20.272Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0455, -82.4611",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0455476&mlon=-82.4610993#map=17/28.0455476/-82.4610993",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555305",
+  "siteName": "10503 N Ashley St (ACA)",
+  "sizeDisplay": "14.2 kW",
+  "latitude": 28.0455476,
+  "longitude": -82.4610993,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 14.2,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0558054",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0558054",
+  "listingPageNumber": 7,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "11.5 kW",
+    "Sep 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:52:51.972Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9883, -82.4715",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9882992&mlon=-82.4714983#map=17/27.9882992/-82.4714983",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0558054",
+  "siteName": "1510 W River Ln (ACA)",
+  "sizeDisplay": "11.5 kW",
+  "latitude": 27.9882992,
+  "longitude": -82.4714983,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 11.5,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

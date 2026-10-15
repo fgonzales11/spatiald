@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560431",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560431",
+  "listingPageNumber": 4,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "5.4 kW",
+    "Nov 11, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:35:49.734Z",
+  "siteName": "2807 S Manhattan Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "5.4 kW",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9205, -82.5179",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9205122&mlon=-82.5178987#map=17/27.9205122/-82.5178987",
+  "recordId": "permit_tampa_BTR-23-0560431",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 5.4,
+  "latitude": 27.9205122,
+  "longitude": -82.5178987,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

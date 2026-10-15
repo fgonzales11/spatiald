@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0551198",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0551198",
+  "listingPageNumber": 15,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "May 23, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:55.483Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8823, -82.5310",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.88228&mlon=-82.5309563#map=17/27.88228/-82.5309563",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0551198",
+  "siteName": "REISSUE - 5909 Beacon Shores St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.88228,
+  "longitude": -82.5309563,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

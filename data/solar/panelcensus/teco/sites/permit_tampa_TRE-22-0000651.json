@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_TRE-22-0000651",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_TRE-22-0000651",
+  "listingPageNumber": 17,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Commercial",
+    "—",
+    "Apr 13, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:00:19.648Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Commercial",
+  "locationDisplay": "Location: 28.0287, -82.4765",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0286538&mlon=-82.4765262#map=17/28.0286538/-82.4765262",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_TRE-22-0000651",
+  "siteName": "Protected Removals",
+  "sizeDisplay": "—",
+  "latitude": 28.0286538,
+  "longitude": -82.4765262,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

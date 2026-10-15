@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0553360",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0553360",
+  "listingPageNumber": 13,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 29, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:19.455Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0306, -82.4773",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0305642&mlon=-82.477297#map=17/28.0305642/-82.477297",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0553360",
+  "siteName": "1721 W Humphrey St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0305642,
+  "longitude": -82.477297,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

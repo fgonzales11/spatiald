@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0548495",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0548495",
+  "listingPageNumber": 18,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 31, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:01:05.474Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1513, -82.2829",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1513276&mlon=-82.2828617#map=17/28.1513276/-82.2828617",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0548495",
+  "siteName": "20003 Bears Track Ln (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1513276,
+  "longitude": -82.2828617,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,42 @@
+{
+  "siteId": "uspvdb_404710",
+  "sourceUrl": "https://panelcensus.com/sites/uspvdb_404710",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Mulberry, FL\nPolk County",
+    "Utility-scale",
+    "85,600 kW",
+    "Jan 1, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:27.163Z",
+  "capacityBasis": "74,500 kW AC",
+  "locationDescription": "Mulberry · Polk County · Florida · Utility-scale",
+  "locationDisplay": "Location: 27.8098, -81.9562",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.809797&mlon=-81.956215#map=17/27.809797/-81.956215",
+  "parties": [
+    {
+      "name": "Ecoplexus Inc [100%]",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Plant operator"
+    }
+  ],
+  "recordId": "uspvdb_404710",
+  "siteName": "Jamison Solar (FL)",
+  "sizeDisplay": "85,600 kW",
+  "latitude": 27.809797,
+  "longitude": -81.956215,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 85600,
+  "tecoRoles": [
+    "Plant operator"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

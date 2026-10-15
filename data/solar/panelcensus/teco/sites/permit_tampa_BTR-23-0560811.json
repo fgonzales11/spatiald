@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0560811",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0560811",
+  "listingPageNumber": 3,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:34:15.178Z",
+  "siteName": "4724 W Tambay Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9047, -82.5241",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9046784&mlon=-82.5241341#map=17/27.9046784/-82.5241341",
+  "recordId": "permit_tampa_BTR-23-0560811",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.9046784,
+  "longitude": -82.5241341,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

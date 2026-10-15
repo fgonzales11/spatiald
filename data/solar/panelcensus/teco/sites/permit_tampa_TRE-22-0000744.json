@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_TRE-22-0000744",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_TRE-22-0000744",
+  "listingPageNumber": 16,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Commercial",
+    "—",
+    "May 10, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:59:45.568Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Commercial",
+  "locationDisplay": "Location: 28.0273, -82.4697",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0272991&mlon=-82.4696823#map=17/28.0272991/-82.4696823",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_TRE-22-0000744",
+  "siteName": "8511 El Portal Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0272991,
+  "longitude": -82.4696823,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

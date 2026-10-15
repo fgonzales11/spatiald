@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0558836",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0558836",
+  "listingPageNumber": 6,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "9.4 kW",
+    "Oct 10, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:51:58.420Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9231, -82.4577",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9230856&mlon=-82.4576572#map=17/27.9230856/-82.4576572",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0558836",
+  "siteName": "418 Erie Ave (ACA)",
+  "sizeDisplay": "9.4 kW",
+  "latitude": 27.9230856,
+  "longitude": -82.4576572,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 9.4,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

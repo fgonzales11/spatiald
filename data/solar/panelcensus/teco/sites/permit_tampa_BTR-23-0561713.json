@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561713",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561713",
+  "listingPageNumber": 2,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 12, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:36.086Z",
+  "siteName": "10216 N Oakleaf Ave (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0423, -82.4789",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.042315&mlon=-82.4788648#map=17/28.042315/-82.4788648",
+  "recordId": "permit_tampa_BTR-23-0561713",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.042315,
+  "longitude": -82.4788648,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

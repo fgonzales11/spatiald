@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556841",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556841",
+  "listingPageNumber": 9,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "9.7 kW",
+    "Aug 26, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:53:29.582Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9744, -82.4069",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9743632&mlon=-82.4069446#map=17/27.9743632/-82.4069446",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556841",
+  "siteName": "3412 Sand Dune Ln (ACA)",
+  "sizeDisplay": "9.7 kW",
+  "latitude": 27.9743632,
+  "longitude": -82.4069446,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 9.7,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

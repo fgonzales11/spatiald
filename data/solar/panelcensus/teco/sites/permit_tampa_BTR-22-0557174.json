@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0557174",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557174",
+  "listingPageNumber": 8,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "8.8 kW",
+    "Sep 2, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:53:20.176Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9708, -82.4667",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9707868&mlon=-82.4666551#map=17/27.9707868/-82.4666551",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0557174",
+  "siteName": "3003 N Woodrow Ave (ACA)",
+  "sizeDisplay": "8.8 kW",
+  "latitude": 27.9707868,
+  "longitude": -82.4666551,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 8.8,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

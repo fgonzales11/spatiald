@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0546046",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0546046",
+  "listingPageNumber": 20,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Feb 14, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:49.757Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0215, -82.4401",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0214572&mlon=-82.4400608#map=17/28.0214572/-82.4400608",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0546046",
+  "siteName": "8112 N Elmer St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0214572,
+  "longitude": -82.4400608,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

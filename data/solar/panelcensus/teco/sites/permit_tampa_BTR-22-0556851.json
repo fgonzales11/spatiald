@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556851",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556851",
+  "listingPageNumber": 8,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Sep 9, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:53:07.559Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9899, -82.4621",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.98988&mlon=-82.4621295#map=17/27.98988/-82.4621295",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556851",
+  "siteName": "4818 N Highland Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.98988,
+  "longitude": -82.4621295,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

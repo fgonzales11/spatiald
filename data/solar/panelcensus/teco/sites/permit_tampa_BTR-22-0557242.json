@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0557242",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557242",
+  "listingPageNumber": 8,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "600 kW",
+    "Sep 6, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:53:18.616Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1493, -82.3798",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1492856&mlon=-82.3797569#map=17/28.1492856/-82.3797569",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0557242",
+  "siteName": "19122 Cypress Reach Ln (ACA)",
+  "sizeDisplay": "600 kW",
+  "latitude": 28.1492856,
+  "longitude": -82.3797569,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 600,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

@@ -1,0 +1,1055 @@
+{
+  "state": {
+    "code": "MN",
+    "name": "Minnesota",
+    "slug": "minnesota"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/minnesota",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:38.230Z",
+  "renderedHtmlSha256": "f33e774101bf3babfb489cb89db4f69ce3f50f6d930703c29cec8feedea12baa",
+  "heading": "Solar installations in Minnesota",
+  "documentTitle": "Solar in Minnesota — 23,724 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "23,724",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Minnesota",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Hennepin County",
+        "8,556",
+        "1.5%",
+        "197.0 MW",
+        "$3.88/W"
+      ],
+      "countyName": "Hennepin County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/hennepin-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Ramsey County",
+        "2,849",
+        "1.2%",
+        "44.9 MW",
+        "$3.88/W"
+      ],
+      "countyName": "Ramsey County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/ramsey-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Washington County",
+        "1,869",
+        "1.7%",
+        "179.5 MW",
+        "$3.95/W"
+      ],
+      "countyName": "Washington County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/washington-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Dakota County",
+        "1,201",
+        "0.68%",
+        "300.0 MW",
+        "$4.29/W"
+      ],
+      "countyName": "Dakota County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/dakota-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Anoka County",
+        "491",
+        "0.35%",
+        "57.5 MW",
+        "$3.71/W"
+      ],
+      "countyName": "Anoka County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/anoka-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Rice County",
+        "465",
+        "1.8%",
+        "229.9 MW",
+        "$4.28/W"
+      ],
+      "countyName": "Rice County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/rice-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Stearns County",
+        "444",
+        "0.67%",
+        "310.4 MW",
+        "$4.02/W"
+      ],
+      "countyName": "Stearns County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/stearns-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Carver County",
+        "358",
+        "0.86%",
+        "143.6 MW",
+        "$3.75/W"
+      ],
+      "countyName": "Carver County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/carver-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wright County",
+        "343",
+        "0.61%",
+        "187.5 MW",
+        "$4.32/W"
+      ],
+      "countyName": "Wright County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/wright-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Chisago County",
+        "290",
+        "1.3%",
+        "231.0 MW",
+        "$4.08/W"
+      ],
+      "countyName": "Chisago County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/chisago-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Winona County",
+        "268",
+        "1.2%",
+        "40.3 MW",
+        "$3.50/W"
+      ],
+      "countyName": "Winona County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/winona-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Goodhue County",
+        "263",
+        "1.2%",
+        "180.4 MW",
+        "$3.85/W"
+      ],
+      "countyName": "Goodhue County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/goodhue-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Blue Earth County",
+        "204",
+        "0.69%",
+        "131.2 MW",
+        "$3.81/W"
+      ],
+      "countyName": "Blue Earth County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/blue-earth-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Scott County",
+        "198",
+        "0.36%",
+        "45.4 MW",
+        "$4.19/W"
+      ],
+      "countyName": "Scott County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/scott-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wabasha County",
+        "198",
+        "1.9%",
+        "63.0 MW",
+        "$3.96/W"
+      ],
+      "countyName": "Wabasha County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/wabasha-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sherburne County",
+        "197",
+        "0.54%",
+        "235.8 MW",
+        "$4.64/W"
+      ],
+      "countyName": "Sherburne County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/sherburne-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Dodge County",
+        "133",
+        "1.6%",
+        "110.3 MW",
+        "$3.52/W"
+      ],
+      "countyName": "Dodge County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/dodge-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Waseca County",
+        "114",
+        "1.4%",
+        "98.9 MW",
+        "$4.32/W"
+      ],
+      "countyName": "Waseca County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/waseca-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Olmsted County",
+        "110",
+        "0.16%",
+        "64.3 MW",
+        "$3.96/W"
+      ],
+      "countyName": "Olmsted County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/olmsted-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Benton County",
+        "99",
+        "0.57%",
+        "84.0 MW",
+        "$4.45/W"
+      ],
+      "countyName": "Benton County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/benton-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Houston County",
+        "98",
+        "1.1%",
+        "14.6 MW",
+        "$3.60/W"
+      ],
+      "countyName": "Houston County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/houston-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pope County",
+        "97",
+        "1.5%",
+        "120.5 MW",
+        "—"
+      ],
+      "countyName": "Pope County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/pope-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "McLeod County",
+        "96",
+        "0.60%",
+        "93.7 MW",
+        "$3.42/W"
+      ],
+      "countyName": "McLeod County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/mcleod-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Renville County",
+        "89",
+        "1.3%",
+        "90.9 MW",
+        "—"
+      ],
+      "countyName": "Renville County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/renville-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "St. Louis County",
+        "83",
+        "0.08%",
+        "8.7 MW",
+        "$7.42/W"
+      ],
+      "countyName": "St. Louis County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/st-louis-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Chippewa County",
+        "69",
+        "1.2%",
+        "77.6 MW",
+        "—"
+      ],
+      "countyName": "Chippewa County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/chippewa-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kandiyohi County",
+        "67",
+        "0.33%",
+        "37.6 MW",
+        "$5.60/W"
+      ],
+      "countyName": "Kandiyohi County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/kandiyohi-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Le Sueur County",
+        "55",
+        "0.42%",
+        "72.6 MW",
+        "—"
+      ],
+      "countyName": "Le Sueur County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/le-sueur-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sibley County",
+        "53",
+        "0.82%",
+        "28.0 MW",
+        "$4.10/W"
+      ],
+      "countyName": "Sibley County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/sibley-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pipestone County",
+        "52",
+        "1.2%",
+        "29.8 MW",
+        "$3.91/W"
+      ],
+      "countyName": "Pipestone County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/pipestone-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lyon County",
+        "46",
+        "0.41%",
+        "141.1 MW",
+        "—"
+      ],
+      "countyName": "Lyon County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/lyon-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Redwood County",
+        "43",
+        "0.60%",
+        "31.5 MW",
+        "—"
+      ],
+      "countyName": "Redwood County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/redwood-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Nicollet County",
+        "42",
+        "0.31%",
+        "53.8 MW",
+        "—"
+      ],
+      "countyName": "Nicollet County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/nicollet-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Meeker County",
+        "36",
+        "0.34%",
+        "14.5 MW",
+        "—"
+      ],
+      "countyName": "Meeker County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/meeker-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Morrison County",
+        "31",
+        "0.19%",
+        "25.7 MW",
+        "—"
+      ],
+      "countyName": "Morrison County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/morrison-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Steele County",
+        "30",
+        "0.19%",
+        "31.7 MW",
+        "—"
+      ],
+      "countyName": "Steele County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/steele-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Todd County",
+        "30",
+        "0.23%",
+        "34.1 MW",
+        "—"
+      ],
+      "countyName": "Todd County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/todd-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Carlton County",
+        "28",
+        "0.18%",
+        "3.0 MW",
+        "—"
+      ],
+      "countyName": "Carlton County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/carlton-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Murray County",
+        "27",
+        "0.61%",
+        "18.5 MW",
+        "—"
+      ],
+      "countyName": "Murray County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/murray-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Freeborn County",
+        "24",
+        "0.17%",
+        "8.6 MW",
+        "—"
+      ],
+      "countyName": "Freeborn County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/freeborn-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Crow Wing County",
+        "23",
+        "0.06%",
+        "502 kW",
+        "—"
+      ],
+      "countyName": "Crow Wing County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/crow-wing-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lincoln County",
+        "18",
+        "0.59%",
+        "16.1 MW",
+        "—"
+      ],
+      "countyName": "Lincoln County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/lincoln-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wadena County",
+        "18",
+        "0.26%",
+        "166 kW",
+        "—"
+      ],
+      "countyName": "Wadena County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/wadena-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Brown County",
+        "17",
+        "0.14%",
+        "154 kW",
+        "—"
+      ],
+      "countyName": "Brown County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/brown-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Fillmore County",
+        "17",
+        "0.18%",
+        "68.4 MW",
+        "—"
+      ],
+      "countyName": "Fillmore County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/fillmore-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Mower County",
+        "17",
+        "0.10%",
+        "3.5 MW",
+        "—"
+      ],
+      "countyName": "Mower County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/mower-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cass County",
+        "16",
+        "0.07%",
+        "31.3 MW",
+        "—"
+      ],
+      "countyName": "Cass County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/cass-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clay County",
+        "16",
+        "0.06%",
+        "12.0 MW",
+        "—"
+      ],
+      "countyName": "Clay County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/clay-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lake County",
+        "16",
+        "0.22%",
+        "5.5 MW",
+        "—"
+      ],
+      "countyName": "Lake County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/lake-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Yellow Medicine County",
+        "16",
+        "0.35%",
+        "16.9 MW",
+        "—"
+      ],
+      "countyName": "Yellow Medicine County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/yellow-medicine-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Mille Lacs County",
+        "15",
+        "0.12%",
+        "240 kW",
+        "—"
+      ],
+      "countyName": "Mille Lacs County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/mille-lacs-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cook County",
+        "12",
+        "0.20%",
+        "95 kW",
+        "—"
+      ],
+      "countyName": "Cook County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/cook-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Itasca County",
+        "12",
+        "0.05%",
+        "1.6 MW",
+        "—"
+      ],
+      "countyName": "Itasca County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/itasca-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Beltrami County",
+        "11",
+        "0.05%",
+        "550 kW",
+        "—"
+      ],
+      "countyName": "Beltrami County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/beltrami-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pine County",
+        "11",
+        "0.06%",
+        "4.8 MW",
+        "—"
+      ],
+      "countyName": "Pine County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/pine-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Isanti County",
+        "10",
+        "0.06%",
+        "15.8 MW",
+        "—"
+      ],
+      "countyName": "Isanti County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/isanti-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kanabec County",
+        "10",
+        "0.13%",
+        "112 kW",
+        "—"
+      ],
+      "countyName": "Kanabec County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/kanabec-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hubbard Countylimited",
+        "9",
+        "0.06%",
+        "211 kW",
+        "—"
+      ],
+      "countyName": "Hubbard County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/hubbard-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Otter Tail Countylimited",
+        "8",
+        "0.02%",
+        "50.0 MW",
+        "—"
+      ],
+      "countyName": "Otter Tail County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/otter-tail-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Nobles Countylimited",
+        "7",
+        "0.08%",
+        "266 kW",
+        "—"
+      ],
+      "countyName": "Nobles County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/nobles-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Polk Countylimited",
+        "7",
+        "0.05%",
+        "139 kW",
+        "—"
+      ],
+      "countyName": "Polk County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/polk-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Watonwan Countylimited",
+        "6",
+        "0.12%",
+        "1.9 MW",
+        "—"
+      ],
+      "countyName": "Watonwan County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/watonwan-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Aitkin Countylimited",
+        "4",
+        "0.03%",
+        "73 kW",
+        "—"
+      ],
+      "countyName": "Aitkin County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/aitkin-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Stevens Countylimited",
+        "4",
+        "0.10%",
+        "43 kW",
+        "—"
+      ],
+      "countyName": "Stevens County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/stevens-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Becker Countylimited",
+        "3",
+        "0.01%",
+        "774 kW",
+        "—"
+      ],
+      "countyName": "Becker County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/becker-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clearwater Countylimited",
+        "2",
+        "0.04%",
+        "109 kW",
+        "—"
+      ],
+      "countyName": "Clearwater County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/clearwater-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cottonwood Countylimited",
+        "2",
+        "0.04%",
+        "15 kW",
+        "—"
+      ],
+      "countyName": "Cottonwood County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/cottonwood-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Douglas Countylimited",
+        "2",
+        "0.01%",
+        "20 kW",
+        "—"
+      ],
+      "countyName": "Douglas County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/douglas-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jackson Countylimited",
+        "2",
+        "0.04%",
+        "79 kW",
+        "—"
+      ],
+      "countyName": "Jackson County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/jackson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Marshall Countylimited",
+        "2",
+        "0.04%",
+        "68 kW",
+        "—"
+      ],
+      "countyName": "Marshall County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/marshall-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Rock Countylimited",
+        "2",
+        "0.05%",
+        "18 kW",
+        "—"
+      ],
+      "countyName": "Rock County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/rock-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wilkin Countylimited",
+        "2",
+        "0.07%",
+        "539 kW",
+        "—"
+      ],
+      "countyName": "Wilkin County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/wilkin-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Faribault Countylimited",
+        "1",
+        "0.01%",
+        "10 kW",
+        "—"
+      ],
+      "countyName": "Faribault County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/faribault-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Grant Countylimited",
+        "1",
+        "0.03%",
+        "3 kW",
+        "—"
+      ],
+      "countyName": "Grant County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/grant-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Koochiching Countylimited",
+        "1",
+        "0.01%",
+        "38 kW",
+        "—"
+      ],
+      "countyName": "Koochiching County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/koochiching-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Mahnomen Countylimited",
+        "1",
+        "0.04%",
+        "3 kW",
+        "—"
+      ],
+      "countyName": "Mahnomen County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/mahnomen-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Martin Countylimited",
+        "1",
+        "0.01%",
+        "58 kW",
+        "—"
+      ],
+      "countyName": "Martin County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/martin-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Red Lake Countylimited",
+        "1",
+        "0.05%",
+        "1.0 MW",
+        "—"
+      ],
+      "countyName": "Red Lake County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/red-lake-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Swift Countylimited",
+        "1",
+        "0.02%",
+        "11 kW",
+        "—"
+      ],
+      "countyName": "Swift County",
+      "countyUrl": "https://panelcensus.com/solar/minnesota/swift-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

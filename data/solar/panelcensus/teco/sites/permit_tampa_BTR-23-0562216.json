@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0562216",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0562216",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 22, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:23.624Z",
+  "siteName": "4413 Atwood Dr (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 27.9855, -82.4045",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9854709&mlon=-82.4044505#map=17/27.9854709/-82.4044505",
+  "recordId": "permit_tampa_BTR-23-0562216",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 27.9854709,
+  "longitude": -82.4044505,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

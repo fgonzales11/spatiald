@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0553214",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0553214",
+  "listingPageNumber": 13,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 27, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:25.762Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1308, -82.2946",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1308472&mlon=-82.2945668#map=17/28.1308472/-82.2945668",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0553214",
+  "siteName": "10527 Canary Isle Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1308472,
+  "longitude": -82.2945668,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

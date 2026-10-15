@@ -1,0 +1,184 @@
+{
+  "state": {
+    "code": "OK",
+    "name": "Oklahoma",
+    "slug": "oklahoma"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/oklahoma",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:42.723Z",
+  "renderedHtmlSha256": "2f300b9dc693a24179c78d82e860c250089e97207cff42f89fe0aa321e8134e9",
+  "heading": "Solar installations in Oklahoma",
+  "documentTitle": "Solar in Oklahoma — 39 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "39",
+  "stateCapacityDisplay": null,
+  "underReported": true,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Oklahoma",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Caddo Countylimited",
+        "3",
+        "0.03%",
+        "14.4 MW",
+        "—"
+      ],
+      "countyName": "Caddo County",
+      "countyUrl": "https://panelcensus.com/solar/oklahoma/caddo-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bryan Countylimited",
+        "2",
+        "0.01%",
+        "6.4 MW",
+        "—"
+      ],
+      "countyName": "Bryan County",
+      "countyUrl": "https://panelcensus.com/solar/oklahoma/bryan-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cleveland Countylimited",
+        "2",
+        "0.00%",
+        "3.1 MW",
+        "—"
+      ],
+      "countyName": "Cleveland County",
+      "countyUrl": "https://panelcensus.com/solar/oklahoma/cleveland-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Garfield Countylimited",
+        "2",
+        "0.01%",
+        "26.2 MW",
+        "—"
+      ],
+      "countyName": "Garfield County",
+      "countyUrl": "https://panelcensus.com/solar/oklahoma/garfield-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Love Countylimited",
+        "2",
+        "0.04%",
+        "4.3 MW",
+        "—"
+      ],
+      "countyName": "Love County",
+      "countyUrl": "https://panelcensus.com/solar/oklahoma/love-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Oklahoma Countylimited",
+        "2",
+        "0.00%",
+        "3.6 MW",
+        "—"
+      ],
+      "countyName": "Oklahoma County",
+      "countyUrl": "https://panelcensus.com/solar/oklahoma/oklahoma-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Texas Countylimited",
+        "2",
+        "0.02%",
+        "3.1 MW",
+        "—"
+      ],
+      "countyName": "Texas County",
+      "countyUrl": "https://panelcensus.com/solar/oklahoma/texas-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Grady Countylimited",
+        "1",
+        "0.00%",
+        "5.1 MW",
+        "—"
+      ],
+      "countyName": "Grady County",
+      "countyUrl": "https://panelcensus.com/solar/oklahoma/grady-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kiowa Countylimited",
+        "1",
+        "0.02%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Kiowa County",
+      "countyUrl": "https://panelcensus.com/solar/oklahoma/kiowa-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Murray Countylimited",
+        "1",
+        "0.01%",
+        "6.1 MW",
+        "—"
+      ],
+      "countyName": "Murray County",
+      "countyUrl": "https://panelcensus.com/solar/oklahoma/murray-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Okmulgee Countylimited",
+        "1",
+        "0.01%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Okmulgee County",
+      "countyUrl": "https://panelcensus.com/solar/oklahoma/okmulgee-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pontotoc Countylimited",
+        "1",
+        "0.01%",
+        "7.0 MW",
+        "—"
+      ],
+      "countyName": "Pontotoc County",
+      "countyUrl": "https://panelcensus.com/solar/oklahoma/pontotoc-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

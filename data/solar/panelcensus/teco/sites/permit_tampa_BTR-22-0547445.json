@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0547445",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0547445",
+  "listingPageNumber": 19,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 11, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:07.871Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1206, -82.3983",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1206081&mlon=-82.398285#map=17/28.1206081/-82.398285",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0547445",
+  "siteName": "16321 Sambourne Ln (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1206081,
+  "longitude": -82.398285,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

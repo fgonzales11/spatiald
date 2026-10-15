@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0558020",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0558020",
+  "listingPageNumber": 7,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Sep 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:52:29.573Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9706, -82.4109",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9706399&mlon=-82.4108585#map=17/27.9706399/-82.4108585",
+  "parties": [
+    {
+      "name": "T O C 1 LLC",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0558020",
+  "siteName": "3010 N 43rd St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9706399,
+  "longitude": -82.4108585,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

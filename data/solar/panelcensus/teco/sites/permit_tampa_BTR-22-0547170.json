@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0547170",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0547170",
+  "listingPageNumber": 19,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 7, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:14.965Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1610, -82.3780",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1610428&mlon=-82.3780097#map=17/28.1610428/-82.3780097",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0547170",
+  "siteName": "20120 Oak Alley Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1610428,
+  "longitude": -82.3780097,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

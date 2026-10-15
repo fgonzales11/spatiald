@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0552526",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0552526",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 14, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:24.010Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8738, -82.5029",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8737548&mlon=-82.5029#map=17/27.8737548/-82.5029",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0552526",
+  "siteName": "3619 Anderson Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.8737548,
+  "longitude": -82.5029,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

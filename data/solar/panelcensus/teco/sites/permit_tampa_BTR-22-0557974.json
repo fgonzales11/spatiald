@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0557974",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0557974",
+  "listingPageNumber": 8,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Sep 20, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:52:55.047Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0291, -82.4678",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0290585&mlon=-82.4678227#map=17/28.0290585/-82.4678227",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0557974",
+  "siteName": "8704 N Boulevard (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0290585,
+  "longitude": -82.4678227,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

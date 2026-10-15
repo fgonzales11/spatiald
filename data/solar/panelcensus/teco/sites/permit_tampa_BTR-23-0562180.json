@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0562180",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0562180",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Dec 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:25.190Z",
+  "siteName": "8414 N 39th St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0254, -82.4173",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0254376&mlon=-82.417303#map=17/28.0254376/-82.417303",
+  "recordId": "permit_tampa_BTR-23-0562180",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.0254376,
+  "longitude": -82.417303,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

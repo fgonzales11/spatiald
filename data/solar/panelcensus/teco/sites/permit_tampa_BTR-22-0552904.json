@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0552904",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0552904",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:35.198Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0273, -82.4641",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0273329&mlon=-82.4641305#map=17/28.0273329/-82.4641305",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0552904",
+  "siteName": "8515 N Lynn Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0273329,
+  "longitude": -82.4641305,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,1120 @@
+{
+  "state": {
+    "code": "NC",
+    "name": "North Carolina",
+    "slug": "north-carolina"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/north-carolina",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:41.922Z",
+  "renderedHtmlSha256": "f32f70ee2610c60e04ad08cebf07b4d99030e85ee3dc58b510a30c6b7cab1b24",
+  "heading": "Solar installations in North Carolina",
+  "documentTitle": "Solar in North Carolina — 15,869 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "15,869",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in North Carolina",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Wake County",
+        "7,615",
+        "1.6%",
+        "135.7 MW",
+        "—"
+      ],
+      "countyName": "Wake County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/wake-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Mecklenburg County",
+        "5,898",
+        "1.2%",
+        "48.8 MW",
+        "—"
+      ],
+      "countyName": "Mecklenburg County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/mecklenburg-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Durham County",
+        "611",
+        "0.41%",
+        "29.4 MW",
+        "—"
+      ],
+      "countyName": "Durham County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/durham-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Chatham County",
+        "149",
+        "0.43%",
+        "47.0 MW",
+        "—"
+      ],
+      "countyName": "Chatham County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/chatham-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Harnett County",
+        "144",
+        "0.27%",
+        "64.3 MW",
+        "—"
+      ],
+      "countyName": "Harnett County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/harnett-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Duplin County",
+        "48",
+        "0.20%",
+        "300.6 MW",
+        "—"
+      ],
+      "countyName": "Duplin County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/duplin-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Robeson County",
+        "48",
+        "0.10%",
+        "350.6 MW",
+        "—"
+      ],
+      "countyName": "Robeson County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/robeson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Johnston County",
+        "32",
+        "0.04%",
+        "101.4 MW",
+        "—"
+      ],
+      "countyName": "Johnston County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/johnston-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sampson County",
+        "32",
+        "0.12%",
+        "223.6 MW",
+        "—"
+      ],
+      "countyName": "Sampson County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/sampson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Nash County",
+        "29",
+        "0.07%",
+        "345.6 MW",
+        "—"
+      ],
+      "countyName": "Nash County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/nash-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Columbus County",
+        "27",
+        "0.12%",
+        "109.8 MW",
+        "—"
+      ],
+      "countyName": "Columbus County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/columbus-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wayne County",
+        "25",
+        "0.05%",
+        "126.7 MW",
+        "—"
+      ],
+      "countyName": "Wayne County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/wayne-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cleveland County",
+        "22",
+        "0.05%",
+        "108.5 MW",
+        "—"
+      ],
+      "countyName": "Cleveland County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/cleveland-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Edgecombe County",
+        "20",
+        "0.09%",
+        "103.0 MW",
+        "—"
+      ],
+      "countyName": "Edgecombe County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/edgecombe-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Randolph County",
+        "20",
+        "0.03%",
+        "79.5 MW",
+        "—"
+      ],
+      "countyName": "Randolph County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/randolph-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Halifax County",
+        "19",
+        "0.08%",
+        "174.5 MW",
+        "—"
+      ],
+      "countyName": "Halifax County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/halifax-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Rowan County",
+        "19",
+        "0.03%",
+        "158.3 MW",
+        "—"
+      ],
+      "countyName": "Rowan County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/rowan-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cumberland County",
+        "17",
+        "0.01%",
+        "244.2 MW",
+        "—"
+      ],
+      "countyName": "Cumberland County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/cumberland-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Martin County",
+        "17",
+        "0.15%",
+        "139.2 MW",
+        "—"
+      ],
+      "countyName": "Martin County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/martin-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Franklin County",
+        "16",
+        "0.05%",
+        "123.6 MW",
+        "—"
+      ],
+      "countyName": "Franklin County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/franklin-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Northampton County",
+        "16",
+        "0.15%",
+        "86.8 MW",
+        "—"
+      ],
+      "countyName": "Northampton County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/northampton-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pitt County",
+        "16",
+        "0.02%",
+        "181.1 MW",
+        "—"
+      ],
+      "countyName": "Pitt County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/pitt-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Scotland County",
+        "16",
+        "0.11%",
+        "183.0 MW",
+        "—"
+      ],
+      "countyName": "Scotland County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/scotland-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wilson County",
+        "16",
+        "0.04%",
+        "165.5 MW",
+        "—"
+      ],
+      "countyName": "Wilson County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/wilson-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Montgomery County",
+        "15",
+        "0.10%",
+        "154.4 MW",
+        "—"
+      ],
+      "countyName": "Montgomery County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/montgomery-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Rutherford County",
+        "15",
+        "0.05%",
+        "170.0 MW",
+        "—"
+      ],
+      "countyName": "Rutherford County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/rutherford-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Yadkin County",
+        "15",
+        "0.09%",
+        "183.5 MW",
+        "—"
+      ],
+      "countyName": "Yadkin County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/yadkin-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hertford County",
+        "14",
+        "0.14%",
+        "162.7 MW",
+        "—"
+      ],
+      "countyName": "Hertford County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/hertford-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bertie County",
+        "13",
+        "0.14%",
+        "85.4 MW",
+        "—"
+      ],
+      "countyName": "Bertie County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/bertie-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Bladen County",
+        "13",
+        "0.09%",
+        "138.2 MW",
+        "—"
+      ],
+      "countyName": "Bladen County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/bladen-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Granville County",
+        "13",
+        "0.05%",
+        "57.9 MW",
+        "—"
+      ],
+      "countyName": "Granville County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/granville-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lenoir County",
+        "13",
+        "0.05%",
+        "142.7 MW",
+        "—"
+      ],
+      "countyName": "Lenoir County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/lenoir-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Alamance County",
+        "12",
+        "0.02%",
+        "60.2 MW",
+        "—"
+      ],
+      "countyName": "Alamance County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/alamance-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Catawba County",
+        "12",
+        "0.02%",
+        "123.4 MW",
+        "—"
+      ],
+      "countyName": "Catawba County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/catawba-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Warren County",
+        "12",
+        "0.10%",
+        "281.7 MW",
+        "—"
+      ],
+      "countyName": "Warren County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/warren-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cabarrus County",
+        "11",
+        "0.01%",
+        "134.5 MW",
+        "—"
+      ],
+      "countyName": "Cabarrus County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/cabarrus-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Vance County",
+        "11",
+        "0.06%",
+        "69.4 MW",
+        "—"
+      ],
+      "countyName": "Vance County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/vance-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Beaufort County",
+        "10",
+        "0.04%",
+        "172.3 MW",
+        "—"
+      ],
+      "countyName": "Beaufort County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/beaufort-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Craven County",
+        "10",
+        "0.02%",
+        "50.0 MW",
+        "—"
+      ],
+      "countyName": "Craven County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/craven-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Moore County",
+        "10",
+        "0.02%",
+        "56.1 MW",
+        "—"
+      ],
+      "countyName": "Moore County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/moore-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Onslow County",
+        "10",
+        "0.01%",
+        "59.8 MW",
+        "—"
+      ],
+      "countyName": "Onslow County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/onslow-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Anson Countylimited",
+        "9",
+        "0.09%",
+        "42.9 MW",
+        "—"
+      ],
+      "countyName": "Anson County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/anson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Person Countylimited",
+        "9",
+        "0.05%",
+        "36.5 MW",
+        "—"
+      ],
+      "countyName": "Person County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/person-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lee Countylimited",
+        "8",
+        "0.03%",
+        "43.7 MW",
+        "—"
+      ],
+      "countyName": "Lee County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/lee-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pender Countylimited",
+        "8",
+        "0.03%",
+        "38.6 MW",
+        "—"
+      ],
+      "countyName": "Pender County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/pender-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Richmond Countylimited",
+        "8",
+        "0.04%",
+        "92.8 MW",
+        "—"
+      ],
+      "countyName": "Richmond County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/richmond-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Rockingham Countylimited",
+        "8",
+        "0.02%",
+        "44.6 MW",
+        "—"
+      ],
+      "countyName": "Rockingham County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/rockingham-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cherokee Countylimited",
+        "7",
+        "0.04%",
+        "5.3 MW",
+        "—"
+      ],
+      "countyName": "Cherokee County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/cherokee-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Currituck Countylimited",
+        "7",
+        "0.04%",
+        "236.2 MW",
+        "—"
+      ],
+      "countyName": "Currituck County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/currituck-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Guilford Countylimited",
+        "7",
+        "0.00%",
+        "27.5 MW",
+        "—"
+      ],
+      "countyName": "Guilford County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/guilford-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hoke Countylimited",
+        "7",
+        "0.03%",
+        "41.8 MW",
+        "—"
+      ],
+      "countyName": "Hoke County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/hoke-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jones Countylimited",
+        "7",
+        "0.15%",
+        "23.4 MW",
+        "—"
+      ],
+      "countyName": "Jones County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/jones-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Perquimans Countylimited",
+        "7",
+        "0.10%",
+        "55.8 MW",
+        "—"
+      ],
+      "countyName": "Perquimans County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/perquimans-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Davie Countylimited",
+        "6",
+        "0.03%",
+        "46.7 MW",
+        "—"
+      ],
+      "countyName": "Davie County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/davie-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Gaston Countylimited",
+        "6",
+        "0.01%",
+        "86.5 MW",
+        "—"
+      ],
+      "countyName": "Gaston County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/gaston-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Surry Countylimited",
+        "6",
+        "0.02%",
+        "52.8 MW",
+        "—"
+      ],
+      "countyName": "Surry County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/surry-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Caswell Countylimited",
+        "5",
+        "0.05%",
+        "29.8 MW",
+        "—"
+      ],
+      "countyName": "Caswell County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/caswell-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Chowan Countylimited",
+        "5",
+        "0.07%",
+        "35.5 MW",
+        "—"
+      ],
+      "countyName": "Chowan County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/chowan-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Greene Countylimited",
+        "5",
+        "0.06%",
+        "21.0 MW",
+        "—"
+      ],
+      "countyName": "Greene County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/greene-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Stanly Countylimited",
+        "5",
+        "0.02%",
+        "86.4 MW",
+        "—"
+      ],
+      "countyName": "Stanly County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/stanly-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Stokes Countylimited",
+        "5",
+        "0.02%",
+        "84.3 MW",
+        "—"
+      ],
+      "countyName": "Stokes County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/stokes-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Union Countylimited",
+        "5",
+        "0.01%",
+        "93.4 MW",
+        "—"
+      ],
+      "countyName": "Union County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/union-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Iredell Countylimited",
+        "4",
+        "0.01%",
+        "13.4 MW",
+        "—"
+      ],
+      "countyName": "Iredell County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/iredell-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Washington Countylimited",
+        "4",
+        "0.07%",
+        "48.0 MW",
+        "—"
+      ],
+      "countyName": "Washington County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/washington-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Buncombe Countylimited",
+        "3",
+        "0.00%",
+        "11.5 MW",
+        "—"
+      ],
+      "countyName": "Buncombe County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/buncombe-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Caldwell Countylimited",
+        "3",
+        "0.01%",
+        "17.2 MW",
+        "—"
+      ],
+      "countyName": "Caldwell County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/caldwell-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Davidson Countylimited",
+        "3",
+        "0.00%",
+        "10.1 MW",
+        "—"
+      ],
+      "countyName": "Davidson County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/davidson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Gates Countylimited",
+        "3",
+        "0.06%",
+        "20.5 MW",
+        "—"
+      ],
+      "countyName": "Gates County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/gates-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Henderson Countylimited",
+        "3",
+        "0.01%",
+        "7.7 MW",
+        "—"
+      ],
+      "countyName": "Henderson County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/henderson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lincoln Countylimited",
+        "3",
+        "0.01%",
+        "35.5 MW",
+        "—"
+      ],
+      "countyName": "Lincoln County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/lincoln-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Alexander Countylimited",
+        "2",
+        "0.01%",
+        "8.0 MW",
+        "—"
+      ],
+      "countyName": "Alexander County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/alexander-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Brunswick Countylimited",
+        "2",
+        "0.00%",
+        "13.2 MW",
+        "—"
+      ],
+      "countyName": "Brunswick County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/brunswick-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Burke Countylimited",
+        "2",
+        "0.01%",
+        "9.5 MW",
+        "—"
+      ],
+      "countyName": "Burke County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/burke-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Camden Countylimited",
+        "2",
+        "0.05%",
+        "36.5 MW",
+        "—"
+      ],
+      "countyName": "Camden County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/camden-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Carteret Countylimited",
+        "2",
+        "0.00%",
+        "4 kW",
+        "—"
+      ],
+      "countyName": "Carteret County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/carteret-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Forsyth Countylimited",
+        "2",
+        "0.00%",
+        "9.1 MW",
+        "—"
+      ],
+      "countyName": "Forsyth County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/forsyth-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Orange Countylimited",
+        "2",
+        "0.00%",
+        "12.6 MW",
+        "—"
+      ],
+      "countyName": "Orange County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/orange-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pamlico Countylimited",
+        "2",
+        "0.03%",
+        "12.8 MW",
+        "—"
+      ],
+      "countyName": "Pamlico County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/pamlico-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pasquotank Countylimited",
+        "2",
+        "0.01%",
+        "29.2 MW",
+        "—"
+      ],
+      "countyName": "Pasquotank County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/pasquotank-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Haywood Countylimited",
+        "1",
+        "0.00%",
+        "1.9 MW",
+        "—"
+      ],
+      "countyName": "Haywood County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/haywood-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Madison Countylimited",
+        "1",
+        "0.01%",
+        "2.7 MW",
+        "—"
+      ],
+      "countyName": "Madison County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/madison-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "New Hanover Countylimited",
+        "1",
+        "0.00%",
+        "1.2 MW",
+        "—"
+      ],
+      "countyName": "New Hanover County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/new-hanover-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Polk Countylimited",
+        "1",
+        "0.01%",
+        "2.8 MW",
+        "—"
+      ],
+      "countyName": "Polk County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/polk-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wilkes Countylimited",
+        "1",
+        "0.00%",
+        "6 kW",
+        "—"
+      ],
+      "countyName": "Wilkes County",
+      "countyUrl": "https://panelcensus.com/solar/north-carolina/wilkes-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

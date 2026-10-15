@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0558697",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0558697",
+  "listingPageNumber": 6,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "6.5 kW",
+    "Oct 7, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:52:02.916Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8691, -82.4942",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8690835&mlon=-82.494151#map=17/27.8690835/-82.494151",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0558697",
+  "siteName": "REISSUE - 3101 S Adams St (ACA)",
+  "sizeDisplay": "6.5 kW",
+  "latitude": 27.8690835,
+  "longitude": -82.494151,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 6.5,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

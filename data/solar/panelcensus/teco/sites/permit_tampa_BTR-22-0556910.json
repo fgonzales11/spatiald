@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556910",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556910",
+  "listingPageNumber": 9,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Aug 29, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:53:27.018Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0400, -82.4427",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0399738&mlon=-82.4427286#map=17/28.0399738/-82.4427286",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556910",
+  "siteName": "1510 E Linebaugh Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0399738,
+  "longitude": -82.4427286,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

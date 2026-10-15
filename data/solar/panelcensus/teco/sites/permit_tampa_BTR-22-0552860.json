@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0552860",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0552860",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:34.679Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0481, -82.4362",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0480854&mlon=-82.4361791#map=17/28.0480854/-82.4361791",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0552860",
+  "siteName": "10911 N 21st St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0480854,
+  "longitude": -82.4361791,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

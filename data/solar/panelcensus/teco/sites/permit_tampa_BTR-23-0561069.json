@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561069",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561069",
+  "listingPageNumber": 3,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Nov 29, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:33:40.049Z",
+  "siteName": "10726 Cory Lake Dr (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "—",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.1417, -82.3080",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1416607&mlon=-82.3080219#map=17/28.1416607/-82.3080219",
+  "recordId": "permit_tampa_BTR-23-0561069",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": null,
+  "latitude": 28.1416607,
+  "longitude": -82.3080219,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

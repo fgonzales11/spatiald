@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0555611",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0555611",
+  "listingPageNumber": 11,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "10.9 kW",
+    "Aug 5, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:55:12.681Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0993, -82.3821",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.099311&mlon=-82.3821438#map=17/28.099311/-82.3821438",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0555611",
+  "siteName": "6206 Greenwich Dr (ACA)",
+  "sizeDisplay": "10.9 kW",
+  "latitude": 28.099311,
+  "longitude": -82.3821438,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 10.9,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

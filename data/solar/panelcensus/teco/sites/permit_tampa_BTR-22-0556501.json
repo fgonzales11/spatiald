@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0556501",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0556501",
+  "listingPageNumber": 9,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "8.5 kW",
+    "Aug 22, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:54:10.978Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9688, -82.4637",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9687614&mlon=-82.463692#map=17/27.9687614/-82.463692",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0556501",
+  "siteName": "304 W Warren Ave (ACA)",
+  "sizeDisplay": "8.5 kW",
+  "latitude": 27.9687614,
+  "longitude": -82.463692,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 8.5,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

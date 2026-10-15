@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0549789",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0549789",
+  "listingPageNumber": 16,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Apr 25, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:00:06.226Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.8605, -82.5296",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.8604652&mlon=-82.5296396#map=17/27.8604652/-82.5296396",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0549789",
+  "siteName": "7305 S Faul St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.8604652,
+  "longitude": -82.5296396,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

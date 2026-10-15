@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0552335",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0552335",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "7.7 kW",
+    "Jun 10, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:27.103Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0123, -82.4824",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0123368&mlon=-82.4824465#map=17/28.0123368/-82.4824465",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0552335",
+  "siteName": "REISSUE - 2305 W Flora St (ACA)",
+  "sizeDisplay": "7.7 kW",
+  "latitude": 28.0123368,
+  "longitude": -82.4824465,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 7.7,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

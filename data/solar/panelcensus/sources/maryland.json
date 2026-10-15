@@ -1,0 +1,340 @@
+{
+  "state": {
+    "code": "MD",
+    "name": "Maryland",
+    "slug": "maryland"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/maryland",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:37.234Z",
+  "renderedHtmlSha256": "d9f0a2290ed0ce51cf175dd3d962c5f55bcc147a2fb65e23a7fe2d382a92f9d7",
+  "heading": "Solar installations in Maryland",
+  "documentTitle": "Solar in Maryland — 110,800 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "110,800",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Maryland",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Prince George's County",
+        "53,934",
+        "14.9%",
+        "240.8 MW",
+        "$4.14/W"
+      ],
+      "countyName": "Prince George's County",
+      "countyUrl": "https://panelcensus.com/solar/maryland/prince-george-s-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Montgomery County",
+        "4,093",
+        "1.0%",
+        "119.3 MW",
+        "$3.11/W"
+      ],
+      "countyName": "Montgomery County",
+      "countyUrl": "https://panelcensus.com/solar/maryland/montgomery-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Baltimore city",
+        "2,481",
+        "0.84%",
+        "81.2 MW",
+        "$4.07/W"
+      ],
+      "countyName": "Baltimore city",
+      "countyUrl": "https://panelcensus.com/solar/maryland/baltimore-city",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Anne Arundel County",
+        "1,842",
+        "0.78%",
+        "57.1 MW",
+        "$3.87/W"
+      ],
+      "countyName": "Anne Arundel County",
+      "countyUrl": "https://panelcensus.com/solar/maryland/anne-arundel-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Baltimore County",
+        "1,668",
+        "0.48%",
+        "82.5 MW",
+        "$4.14/W"
+      ],
+      "countyName": "Baltimore County",
+      "countyUrl": "https://panelcensus.com/solar/maryland/baltimore-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Howard County",
+        "1,316",
+        "1.1%",
+        "88.6 MW",
+        "$3.10/W"
+      ],
+      "countyName": "Howard County",
+      "countyUrl": "https://panelcensus.com/solar/maryland/howard-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Frederick County",
+        "930",
+        "0.87%",
+        "103.6 MW",
+        "$3.39/W"
+      ],
+      "countyName": "Frederick County",
+      "countyUrl": "https://panelcensus.com/solar/maryland/frederick-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Harford County",
+        "867",
+        "0.83%",
+        "100.8 MW",
+        "$4.07/W"
+      ],
+      "countyName": "Harford County",
+      "countyUrl": "https://panelcensus.com/solar/maryland/harford-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Charles County",
+        "462",
+        "0.73%",
+        "52.2 MW",
+        "$3.90/W"
+      ],
+      "countyName": "Charles County",
+      "countyUrl": "https://panelcensus.com/solar/maryland/charles-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Carroll County",
+        "405",
+        "0.61%",
+        "30.4 MW",
+        "$3.70/W"
+      ],
+      "countyName": "Carroll County",
+      "countyUrl": "https://panelcensus.com/solar/maryland/carroll-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cecil County",
+        "376",
+        "0.85%",
+        "29.5 MW",
+        "$3.86/W"
+      ],
+      "countyName": "Cecil County",
+      "countyUrl": "https://panelcensus.com/solar/maryland/cecil-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "St. Mary's County",
+        "315",
+        "0.68%",
+        "4.1 MW",
+        "$3.30/W"
+      ],
+      "countyName": "St. Mary's County",
+      "countyUrl": "https://panelcensus.com/solar/maryland/st-mary-s-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Washington County",
+        "250",
+        "0.39%",
+        "90.8 MW",
+        "$3.83/W"
+      ],
+      "countyName": "Washington County",
+      "countyUrl": "https://panelcensus.com/solar/maryland/washington-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Wicomico County",
+        "201",
+        "0.46%",
+        "33.0 MW",
+        "$3.85/W"
+      ],
+      "countyName": "Wicomico County",
+      "countyUrl": "https://panelcensus.com/solar/maryland/wicomico-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Calvert County",
+        "166",
+        "0.46%",
+        "2.3 MW",
+        "$3.57/W"
+      ],
+      "countyName": "Calvert County",
+      "countyUrl": "https://panelcensus.com/solar/maryland/calvert-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Queen Anne's County",
+        "117",
+        "0.54%",
+        "33.6 MW",
+        "$3.68/W"
+      ],
+      "countyName": "Queen Anne's County",
+      "countyUrl": "https://panelcensus.com/solar/maryland/queen-anne-s-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Worcester County",
+        "92",
+        "0.16%",
+        "23.6 MW",
+        "$3.85/W"
+      ],
+      "countyName": "Worcester County",
+      "countyUrl": "https://panelcensus.com/solar/maryland/worcester-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Kent County",
+        "74",
+        "0.72%",
+        "15.0 MW",
+        "$3.61/W"
+      ],
+      "countyName": "Kent County",
+      "countyUrl": "https://panelcensus.com/solar/maryland/kent-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Caroline County",
+        "49",
+        "0.36%",
+        "3.2 MW",
+        "—"
+      ],
+      "countyName": "Caroline County",
+      "countyUrl": "https://panelcensus.com/solar/maryland/caroline-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Talbot County",
+        "43",
+        "0.22%",
+        "5.3 MW",
+        "—"
+      ],
+      "countyName": "Talbot County",
+      "countyUrl": "https://panelcensus.com/solar/maryland/talbot-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Dorchester County",
+        "36",
+        "0.22%",
+        "41.2 MW",
+        "—"
+      ],
+      "countyName": "Dorchester County",
+      "countyUrl": "https://panelcensus.com/solar/maryland/dorchester-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Allegany County",
+        "26",
+        "0.08%",
+        "21.1 MW",
+        "—"
+      ],
+      "countyName": "Allegany County",
+      "countyUrl": "https://panelcensus.com/solar/maryland/allegany-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Somerset County",
+        "23",
+        "0.21%",
+        "200.7 MW",
+        "—"
+      ],
+      "countyName": "Somerset County",
+      "countyUrl": "https://panelcensus.com/solar/maryland/somerset-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Garrett County",
+        "16",
+        "0.09%",
+        "21.3 MW",
+        "—"
+      ],
+      "countyName": "Garrett County",
+      "countyUrl": "https://panelcensus.com/solar/maryland/garrett-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    }
+  ]
+}

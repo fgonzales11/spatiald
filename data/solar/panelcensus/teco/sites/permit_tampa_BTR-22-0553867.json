@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0553867",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0553867",
+  "listingPageNumber": 13,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "6 kW",
+    "Jul 8, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:04.095Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0479, -82.4307",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0478713&mlon=-82.4307054#map=17/28.0478713/-82.4307054",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0553867",
+  "siteName": "2607 E Liberty St (ACA)",
+  "sizeDisplay": "6 kW",
+  "latitude": 28.0478713,
+  "longitude": -82.4307054,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 6,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

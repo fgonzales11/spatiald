@@ -1,0 +1,44 @@
+{
+  "siteId": "uspvdb_405342",
+  "sourceUrl": "https://panelcensus.com/sites/uspvdb_405342",
+  "listingPageNumber": 1,
+  "listingCells": [
+    "Mulberry, FL\nPolk County",
+    "Utility-scale",
+    "72,700 kW",
+    "Jan 1, 2023",
+    "FL Solar 10, LLC",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:19.796Z",
+  "siteName": "Alafia Solar",
+  "locationDescription": "Mulberry · Polk County · Florida · Utility-scale",
+  "sizeDisplay": "72,700 kW",
+  "capacityBasis": "60,000 kW AC",
+  "locationDisplay": "Location: 27.7170, -82.0354",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.717014&mlon=-82.035416#map=17/27.717014/-82.035416",
+  "recordId": "uspvdb_405342",
+  "parties": [
+    {
+      "role": "Owner",
+      "name": "Tampa Electric Co [100%]"
+    },
+    {
+      "role": "Developer",
+      "name": "FL Solar 10, LLC"
+    },
+    {
+      "role": "Plant operator",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 72700,
+  "latitude": 27.717014,
+  "longitude": -82.035416,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Plant operator"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

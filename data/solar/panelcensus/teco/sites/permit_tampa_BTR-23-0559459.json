@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559459",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559459",
+  "listingPageNumber": 5,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "10.4 kW",
+    "Oct 21, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:37:15.231Z",
+  "siteName": "10762 Pictorial Park Dr (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "10.4 kW",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.1625, -82.2772",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1625488&mlon=-82.2771661#map=17/28.1625488/-82.2771661",
+  "recordId": "permit_tampa_BTR-23-0559459",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 10.4,
+  "latitude": 28.1625488,
+  "longitude": -82.2771661,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0548246",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0548246",
+  "listingPageNumber": 18,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 27, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:01:14.726Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1490, -82.3816",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.148955&mlon=-82.3816497#map=17/28.148955/-82.3816497",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0548246",
+  "siteName": "19136 Meadow Pine Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.148955,
+  "longitude": -82.3816497,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

@@ -1,0 +1,132 @@
+{
+  "state": {
+    "code": "CT",
+    "name": "Connecticut",
+    "slug": "connecticut"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/connecticut",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:32.867Z",
+  "renderedHtmlSha256": "ea9de232bdd02e432d45735db88b5473683b13650f4dbec50fc806ac89a920f7",
+  "heading": "Solar installations in Connecticut",
+  "documentTitle": "Solar in Connecticut — 63,723 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "63,723",
+  "stateCapacityDisplay": null,
+  "underReported": false,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Connecticut",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "New Haven County",
+        "192",
+        "—",
+        "49.4 MW",
+        "—"
+      ],
+      "countyName": "New Haven County",
+      "countyUrl": "https://panelcensus.com/solar/connecticut/new-haven-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Fairfield County",
+        "179",
+        "—",
+        "15.8 MW",
+        "$2.81/W"
+      ],
+      "countyName": "Fairfield County",
+      "countyUrl": "https://panelcensus.com/solar/connecticut/fairfield-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hartford County",
+        "68",
+        "—",
+        "170.1 MW",
+        "$2.36/W"
+      ],
+      "countyName": "Hartford County",
+      "countyUrl": "https://panelcensus.com/solar/connecticut/hartford-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "New London County",
+        "27",
+        "—",
+        "81.9 MW",
+        "—"
+      ],
+      "countyName": "New London County",
+      "countyUrl": "https://panelcensus.com/solar/connecticut/new-london-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Litchfield County",
+        "17",
+        "—",
+        "27.5 MW",
+        "—"
+      ],
+      "countyName": "Litchfield County",
+      "countyUrl": "https://panelcensus.com/solar/connecticut/litchfield-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Windham County",
+        "17",
+        "—",
+        "102.8 MW",
+        "—"
+      ],
+      "countyName": "Windham County",
+      "countyUrl": "https://panelcensus.com/solar/connecticut/windham-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Tolland County",
+        "13",
+        "—",
+        "21.0 MW",
+        "—"
+      ],
+      "countyName": "Tolland County",
+      "countyUrl": "https://panelcensus.com/solar/connecticut/tolland-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Middlesex County",
+        "12",
+        "—",
+        "10.3 MW",
+        "—"
+      ],
+      "countyName": "Middlesex County",
+      "countyUrl": "https://panelcensus.com/solar/connecticut/middlesex-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    }
+  ]
+}

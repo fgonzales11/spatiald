@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0545690",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0545690",
+  "listingPageNumber": 20,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Feb 8, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:03:21.413Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.1285, -82.3405",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.1284852&mlon=-82.3404803#map=17/28.1284852/-82.3404803",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0545690",
+  "siteName": "17742 Esprit Dr (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.1284852,
+  "longitude": -82.3404803,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

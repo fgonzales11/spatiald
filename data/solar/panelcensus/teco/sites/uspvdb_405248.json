@@ -1,0 +1,43 @@
+{
+  "siteId": "uspvdb_405248",
+  "sourceUrl": "https://panelcensus.com/sites/uspvdb_405248",
+  "listingPageNumber": 22,
+  "listingCells": [
+    "Winter Haven, FL\nPolk County",
+    "Utility-scale",
+    "1,800 kW",
+    "Jan 1, 2016",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:04:35.905Z",
+  "capacityBasis": "1,400 kW AC",
+  "locationDescription": "Winter Haven · Polk County · Florida · Utility-scale",
+  "locationDisplay": "Location: 27.9862, -81.6907",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.986195&mlon=-81.690742#map=17/27.986195/-81.690742",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Plant operator"
+    }
+  ],
+  "recordId": "uspvdb_405248",
+  "siteName": "Legoland Solar",
+  "sizeDisplay": "1,800 kW",
+  "latitude": 27.986195,
+  "longitude": -81.690742,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 1800,
+  "tecoRoles": [
+    "Owner",
+    "Plant operator"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

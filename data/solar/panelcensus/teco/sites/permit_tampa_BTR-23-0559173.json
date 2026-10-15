@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-23-0559173",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0559173",
+  "listingPageNumber": 6,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Oct 17, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:51:07.874Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9681, -82.4851",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9681136&mlon=-82.4851019#map=17/27.9681136/-82.4851019",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-23-0559173",
+  "siteName": "2518 W Aileen St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9681136,
+  "longitude": -82.4851019,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

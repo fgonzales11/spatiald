@@ -1,0 +1,652 @@
+{
+  "state": {
+    "code": "AR",
+    "name": "Arkansas",
+    "slug": "arkansas"
+  },
+  "sourceUrl": "https://panelcensus.com/solar/arkansas",
+  "httpStatus": 200,
+  "scrapedAt": "2026-10-12T01:07:31.724Z",
+  "renderedHtmlSha256": "b54a5ca18c96a4537e2e6d756efb701708074d8ce9cca93d9fed8e2c9089c295",
+  "heading": "Solar installations in Arkansas",
+  "documentTitle": "Solar in Arkansas — 2,427 installations & installers",
+  "datasetUpdated": "October 2026",
+  "stateInstallationsDisplay": "2,427",
+  "stateCapacityDisplay": null,
+  "underReported": true,
+  "countyTablePresent": true,
+  "countyTableHeading": "Solar by county in Arkansas",
+  "countyHeaders": [
+    "County",
+    "Installs",
+    "% homes",
+    "Capacity",
+    "Median $/W"
+  ],
+  "countyRows": [
+    {
+      "cells": [
+        "Pulaski County",
+        "2,050",
+        "1.1%",
+        "113.1 MW",
+        "—"
+      ],
+      "countyName": "Pulaski County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/pulaski-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Saline County",
+        "114",
+        "0.22%",
+        "9.2 MW",
+        "—"
+      ],
+      "countyName": "Saline County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/saline-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Washington County",
+        "34",
+        "0.03%",
+        "18.5 MW",
+        "—"
+      ],
+      "countyName": "Washington County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/washington-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Garland County",
+        "27",
+        "0.05%",
+        "1.6 MW",
+        "—"
+      ],
+      "countyName": "Garland County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/garland-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Polk County",
+        "13",
+        "0.14%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Polk County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/polk-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Benton County",
+        "11",
+        "0.01%",
+        "69 kW",
+        "—"
+      ],
+      "countyName": "Benton County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/benton-county",
+      "limitedData": false,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Carroll Countylimited",
+        "9",
+        "0.07%",
+        "2.5 MW",
+        "—"
+      ],
+      "countyName": "Carroll County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/carroll-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Jackson Countylimited",
+        "8",
+        "0.11%",
+        "15.2 MW",
+        "—"
+      ],
+      "countyName": "Jackson County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/jackson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "White Countylimited",
+        "6",
+        "0.02%",
+        "8.3 MW",
+        "—"
+      ],
+      "countyName": "White County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/white-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lincoln Countylimited",
+        "5",
+        "0.11%",
+        "7.4 MW",
+        "—"
+      ],
+      "countyName": "Lincoln County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/lincoln-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Ashley Countylimited",
+        "4",
+        "0.04%",
+        "2.8 MW",
+        "—"
+      ],
+      "countyName": "Ashley County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/ashley-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Boone Countylimited",
+        "4",
+        "0.02%",
+        "29 kW",
+        "—"
+      ],
+      "countyName": "Boone County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/boone-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Chicot Countylimited",
+        "4",
+        "0.08%",
+        "4 kW",
+        "—"
+      ],
+      "countyName": "Chicot County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/chicot-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Crawford Countylimited",
+        "4",
+        "0.02%",
+        "40 kW",
+        "—"
+      ],
+      "countyName": "Crawford County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/crawford-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Franklin Countylimited",
+        "4",
+        "0.05%",
+        "7.7 MW",
+        "—"
+      ],
+      "countyName": "Franklin County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/franklin-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Howard Countylimited",
+        "4",
+        "0.07%",
+        "5.3 MW",
+        "—"
+      ],
+      "countyName": "Howard County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/howard-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Logan Countylimited",
+        "4",
+        "0.04%",
+        "7.1 MW",
+        "—"
+      ],
+      "countyName": "Logan County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/logan-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Mississippi Countylimited",
+        "4",
+        "0.02%",
+        "3.0 MW",
+        "—"
+      ],
+      "countyName": "Mississippi County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/mississippi-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Newton Countylimited",
+        "4",
+        "0.10%",
+        "20 kW",
+        "—"
+      ],
+      "countyName": "Newton County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/newton-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Searcy Countylimited",
+        "4",
+        "0.09%",
+        "7 kW",
+        "—"
+      ],
+      "countyName": "Searcy County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/searcy-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Sebastian Countylimited",
+        "4",
+        "0.01%",
+        "40 kW",
+        "—"
+      ],
+      "countyName": "Sebastian County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/sebastian-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Baxter Countylimited",
+        "3",
+        "0.01%",
+        "10 kW",
+        "—"
+      ],
+      "countyName": "Baxter County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/baxter-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clark Countylimited",
+        "3",
+        "0.03%",
+        "8.6 MW",
+        "—"
+      ],
+      "countyName": "Clark County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/clark-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Faulkner Countylimited",
+        "3",
+        "0.01%",
+        "25 kW",
+        "—"
+      ],
+      "countyName": "Faulkner County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/faulkner-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Fulton Countylimited",
+        "3",
+        "0.05%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Fulton County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/fulton-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Grant Countylimited",
+        "3",
+        "0.04%",
+        "11 kW",
+        "—"
+      ],
+      "countyName": "Grant County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/grant-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Madison Countylimited",
+        "3",
+        "0.04%",
+        "1.3 MW",
+        "—"
+      ],
+      "countyName": "Madison County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/madison-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Ouachita Countylimited",
+        "3",
+        "0.03%",
+        "19.1 MW",
+        "—"
+      ],
+      "countyName": "Ouachita County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/ouachita-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "St. Francis Countylimited",
+        "3",
+        "0.03%",
+        "2.6 MW",
+        "—"
+      ],
+      "countyName": "St. Francis County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/st-francis-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Van Buren Countylimited",
+        "3",
+        "0.03%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Van Buren County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/van-buren-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Woodruff Countylimited",
+        "3",
+        "0.09%",
+        "17 kW",
+        "—"
+      ],
+      "countyName": "Woodruff County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/woodruff-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Calhoun Countylimited",
+        "2",
+        "0.08%",
+        "31.0 MW",
+        "—"
+      ],
+      "countyName": "Calhoun County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/calhoun-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Craighead Countylimited",
+        "2",
+        "0.00%",
+        "14.7 MW",
+        "—"
+      ],
+      "countyName": "Craighead County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/craighead-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Crittenden Countylimited",
+        "2",
+        "0.01%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Crittenden County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/crittenden-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Independence Countylimited",
+        "2",
+        "0.01%",
+        "33 kW",
+        "—"
+      ],
+      "countyName": "Independence County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/independence-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Johnson Countylimited",
+        "2",
+        "0.02%",
+        "9.3 MW",
+        "—"
+      ],
+      "countyName": "Johnson County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/johnson-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pike Countylimited",
+        "2",
+        "0.04%",
+        "30 kW",
+        "—"
+      ],
+      "countyName": "Pike County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/pike-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Union Countylimited",
+        "2",
+        "0.01%",
+        "1.8 MW",
+        "—"
+      ],
+      "countyName": "Union County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/union-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Arkansas Countylimited",
+        "1",
+        "0.01%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Arkansas County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/arkansas-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Clay Countylimited",
+        "1",
+        "0.01%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Clay County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/clay-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Cleburne Countylimited",
+        "1",
+        "0.01%",
+        "2 kW",
+        "—"
+      ],
+      "countyName": "Cleburne County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/cleburne-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Greene Countylimited",
+        "1",
+        "0.01%",
+        "1.9 MW",
+        "—"
+      ],
+      "countyName": "Greene County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/greene-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Hempstead Countylimited",
+        "1",
+        "0.01%",
+        "13 kW",
+        "—"
+      ],
+      "countyName": "Hempstead County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/hempstead-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Lee Countylimited",
+        "1",
+        "0.03%",
+        "0 kW",
+        "—"
+      ],
+      "countyName": "Lee County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/lee-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Miller Countylimited",
+        "1",
+        "0.01%",
+        "1.4 MW",
+        "—"
+      ],
+      "countyName": "Miller County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/miller-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Pope Countylimited",
+        "1",
+        "0.00%",
+        "7 kW",
+        "—"
+      ],
+      "countyName": "Pope County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/pope-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Stone Countylimited",
+        "1",
+        "0.01%",
+        "5 kW",
+        "—"
+      ],
+      "countyName": "Stone County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/stone-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    },
+    {
+      "cells": [
+        "Yell Countylimited",
+        "1",
+        "0.01%",
+        "11 kW",
+        "—"
+      ],
+      "countyName": "Yell County",
+      "countyUrl": "https://panelcensus.com/solar/arkansas/yell-county",
+      "limitedData": true,
+      "hiddenAtScrape": false
+    }
+  ]
+}

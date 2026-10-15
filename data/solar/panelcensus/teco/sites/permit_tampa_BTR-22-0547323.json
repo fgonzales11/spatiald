@@ -1,0 +1,42 @@
+{
+  "siteId": "permit_tampa_BTR-22-0547323",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0547323",
+  "listingPageNumber": 19,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Mar 9, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:02:11.075Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9904, -82.4879",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9904415&mlon=-82.4879206#map=17/27.9904415/-82.4879206",
+  "parties": [
+    {
+      "name": "HR OF Sarasota LLC",
+      "role": "Owner"
+    },
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0547323",
+  "siteName": "2728 W Violet St (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9904415,
+  "longitude": -82.4879206,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

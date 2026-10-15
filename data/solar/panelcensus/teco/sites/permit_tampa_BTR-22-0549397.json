@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0549397",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0549397",
+  "listingPageNumber": 17,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Apr 16, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T02:00:15.045Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9780, -82.4701",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9779805&mlon=-82.4701246#map=17/27.9779805/-82.4701246",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0549397",
+  "siteName": "820 W Indiana Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 27.9779805,
+  "longitude": -82.4701246,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}

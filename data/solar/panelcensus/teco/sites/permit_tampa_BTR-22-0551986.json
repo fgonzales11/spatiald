@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0551986",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0551986",
+  "listingPageNumber": 14,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "6.6 kW",
+    "Jun 6, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:58:34.621Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 27.9851, -82.4304",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=27.9851217&mlon=-82.4304299#map=17/27.9851217/-82.4304299",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0551986",
+  "siteName": "2618 E Chelsea St (ACA)",
+  "sizeDisplay": "6.6 kW",
+  "latitude": 27.9851217,
+  "longitude": -82.4304299,
+  "coordinateSource": "site map link",
+  "systemSizeKw": 6.6,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

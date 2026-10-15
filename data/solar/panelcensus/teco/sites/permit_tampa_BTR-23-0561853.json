@@ -1,0 +1,36 @@
+{
+  "siteId": "permit_tampa_BTR-23-0561853",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-23-0561853",
+  "listingPageNumber": 2,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "6.8 kW",
+    "Dec 15, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": 200,
+  "retrievedAt": "2026-10-12T01:26:33.591Z",
+  "siteName": "9313 N 18th St (ACA)",
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "sizeDisplay": "6.8 kW",
+  "capacityBasis": null,
+  "locationDisplay": "Location: 28.0336, -82.4391",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0336414&mlon=-82.4391082#map=17/28.0336414/-82.4391082",
+  "recordId": "permit_tampa_BTR-23-0561853",
+  "parties": [
+    {
+      "role": "Utility",
+      "name": "Tampa Electric Co"
+    }
+  ],
+  "systemSizeKw": 6.8,
+  "latitude": 28.0336414,
+  "longitude": -82.4391082,
+  "coordinateSource": "site map link",
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "size and coordinates reported"
+}

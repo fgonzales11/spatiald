@@ -1,0 +1,38 @@
+{
+  "siteId": "permit_tampa_BTR-22-0553357",
+  "sourceUrl": "https://panelcensus.com/sites/permit_tampa_BTR-22-0553357",
+  "listingPageNumber": 13,
+  "listingCells": [
+    "Tampa, FL\nHillsborough County",
+    "Residential",
+    "—",
+    "Jun 29, 2022",
+    "—",
+    "View →"
+  ],
+  "httpStatus": null,
+  "pageVerified": true,
+  "readMethod": "in-app browser",
+  "retrievedAt": "2026-10-12T01:57:20.472Z",
+  "capacityBasis": null,
+  "locationDescription": "Tampa · Hillsborough County · Florida · Residential",
+  "locationDisplay": "Location: 28.0292, -82.4668",
+  "mapUrl": "https://www.openstreetmap.org/?mlat=28.0291529&mlon=-82.466847#map=17/28.0291529/-82.466847",
+  "parties": [
+    {
+      "name": "Tampa Electric Co",
+      "role": "Utility"
+    }
+  ],
+  "recordId": "permit_tampa_BTR-22-0553357",
+  "siteName": "8714 N Hamner Ave (ACA)",
+  "sizeDisplay": "—",
+  "latitude": 28.0291529,
+  "longitude": -82.466847,
+  "coordinateSource": "site map link",
+  "systemSizeKw": null,
+  "tecoRoles": [
+    "Utility"
+  ],
+  "dataStatus": "system size not reported"
+}
