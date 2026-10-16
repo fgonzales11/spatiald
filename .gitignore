@@ -1,0 +1,4 @@
+.venv/
+.analysis-data/
+*.pyc
+.DS_Store
